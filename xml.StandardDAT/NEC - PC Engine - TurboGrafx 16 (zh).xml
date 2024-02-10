@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile>
+	<header><name>NEC - PC Engine - TurboGrafx 16 (zh)</name><version>20240100</version></header>
+	<game name="1943改（简）少年不知愁 20210501 - 698A65D8">
+		<rom name="1943改（简）少年不知愁 20210501.pce" size="524288" crc="698A65D8" md5="EDEB87D0EB5883B8C88F2F77F2D9594E"/>
+	</game>
+	<game name="天外魔境：自来也（简）Advance 20231001 v1.0 - BB8AE081">
+		<rom name="天外魔境：自来也（简）Advance 20231001 v1.0.rar" size="151965190" crc="BB8AE081" md5="C8D8D6F9135C12BD3F691B9199A2AD31"/>
+	</game>
+	<game name="天外魔境：风云歌舞伎传（简）Advance 20231216 v1.0 - 32522716">
+		<rom name="天外魔境：风云歌舞伎传（简）Advance 20231216 v1.0.rar" size="452975545" crc="32522716" md5="800678594B9F4C88C4A689A0D30C24E7"/>
+	</game>
+	<game name="恶魔城X血之轮回（简）Advance 20231203 v1.0 - 06C352BA">
+		<rom name="恶魔城X血之轮回（简）Advance 20231203 v1.0.rar" size="344333595" crc="06C352BA" md5="3F9CEDDCBD7D807CB387A25742AF17BB"/>
+	</game>
+</datafile>

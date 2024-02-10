@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile>
+	<header><name>Nintendo - GameCube (zh)</name><version>20240100</version></header>
+	<game name="刺猬夏特（简）DXer 20231104 v1.0.0 补丁 - 2CC584B9">
+		<rom name="刺猬夏特（简）DXer 20231104 v1.0.0 补丁.exe" size="10800489" crc="2CC584B9" md5="CD86412EBB694CC583282B24E438E083"/>
+	</game>
+	<game name="塞尔达传说：四支剑（简）猫星 20150811 - E76723FF">
+		<rom name="塞尔达传说：四支剑（简）猫星 20150811.iso" size="1459978240" crc="E76723FF" md5="5100E9B0A7DD587BD9593565674A8865"/>
+	</game>
+	<game name="塞尔达传说：四支剑（简）猫星 20150811 补丁 GCRebuilder - 580044AD">
+		<rom name="塞尔达传说：四支剑（简）猫星 20150811 补丁 GCRebuilder.rar" size="14058816" crc="580044AD" md5="B31522CD65202066819B96BDB4D5B534"/>
+	</game>
+	<game name="塞尔达传说：风之杖（简）HyperIris 20080121 汉化补丁 - 036213C5">
+		<rom name="塞尔达传说：风之杖（简）HyperIris 20080121 汉化补丁.rar" size="1402163" crc="036213C5" md5="D70BFE34D8459DFC05A12DF80DB9CF8D"/>
+	</game>
+	<game name="塞尔达传说：风之杖（简）HyperIris 20100124 密码补丁 - D3702876">
+		<rom name="塞尔达传说：风之杖（简）HyperIris 20100124 密码补丁.rar" size="29715" crc="D3702876" md5="087582D729611D481EA54537CB8B757B"/>
+	</game>
+	<game name="塞尔达传说：风之杖（简）HyperIris 红米 TOUTHEIF 20200105 楷体宽屏 - B4FB75FF">
+		<rom name="塞尔达传说：风之杖（简）HyperIris 红米 TOUTHEIF 20200105 楷体宽屏.gcm" size="1459978240" crc="B4FB75FF" md5="0F42A257F1320B6DE1B4E1D05F243AAF"/>
+	</game>
+	<game name="塞尔达传说：黄昏公主（简）wjm_456 20190919 第二版 - 19352FE8">
+		<rom name="塞尔达传说：黄昏公主（简）wjm_456 20190919 第二版.iso" size="1459978240" crc="19352FE8" md5="C044FD8BD12D9372921FB6645C343766"/>
+	</game>
+	<game name="塞尔达传说：黄昏公主（简）红米 TOUTHEIF 20200906 楷体宽屏 - 3E3E4640">
+		<rom name="塞尔达传说：黄昏公主（简）红米 TOUTHEIF 20200906 楷体宽屏.ciso" size="1459978240" crc="3E3E4640" md5="24FB15B7D1A029C77DF64CB8A7103CA2"/>
+	</game>
+	<game name="塞尔达传说：黄昏公主（简）小ping凡 20240107 官中移植 4x3 - 65F61974">
+		<rom name="塞尔达传说：黄昏公主（简）小ping凡 20240107 官中移植 4x3.iso" size="1053661184" crc="65F61974" md5="BD25C0E5F3A9FB6D43200B4893A50BDC"/>
+	</game>
+	<game name="塞尔达传说：黄昏公主（简）小ping凡 20240107 官中移植 16x9 - DA6DEC5C">
+		<rom name="塞尔达传说：黄昏公主（简）小ping凡 20240107 官中移植 16x9.iso" size="1040099328" crc="DA6DEC5C" md5="ED0A8D2362A20C62553C5011C09EC7D7"/>
+	</game>
+	<game name="塞尔达传说：黄昏公主（简）小ping凡 20240107 官中移植欧版法语补丁 for61FE14DA - CF3FE5BE">
+		<rom name="塞尔达传说：黄昏公主（简）小ping凡 20240107 官中移植欧版法语补丁 for61FE14DA.zip.rar" size="131439397" crc="CF3FE5BE" md5="A4670BDD8AE14B94D2A230FC87C01111"/>
+	</game>
+	<game name="塞尔达传说：黄昏公主（简）小ping凡 20240107 官中移植高清纹理资源 - BE45A0C5">
+		<rom name="塞尔达传说：黄昏公主（简）小ping凡 20240107 官中移植高清纹理资源.zip.rar" size="3276591115" crc="BE45A0C5" md5="9229EDF57CAFC180687919E28B51317A"/>
+	</game>
+	<game name="宝可梦XD暗之旋风黑暗洛奇亚（简）圈叉 20230101 v1.0.0 补丁 for46387BE4 - 7ED76F49">
+		<rom name="宝可梦XD暗之旋风黑暗洛奇亚（简）圈叉 20230101 v1.0.0 补丁 for46387BE4.xdelta" size="7482570" crc="7ED76F49" md5="2E306B372DD345F98616848D5A6A3903"/>
+	</game>
+	<game name="宝可梦XD暗之旋风黑暗洛奇亚（简）圈叉 20230101 v1.0.0 补丁 for230D0593 - 3ED5C368">
+		<rom name="宝可梦XD暗之旋风黑暗洛奇亚（简）圈叉 20230101 v1.0.0 补丁 for230D0593.xdelta" size="7132721" crc="3ED5C368" md5="62CE915365B9BC250293F8F77229F325"/>
+	</game>
+	<game name="宝可梦XD暗之旋风黑暗洛奇亚（简）圈叉 20230701 v1.0.1 补丁 for230D0593 - AE0A5398">
+		<rom name="宝可梦XD暗之旋风黑暗洛奇亚（简）圈叉 20230701 v1.0.1 补丁 for230D0593.xdelta" size="7132786" crc="AE0A5398" md5="A93EB07C7FC3F3C3A0788A8DA0D9CB02"/>
+	</game>
+	<game name="宝可梦XD暗之旋风黑暗洛奇亚（简）圈叉 20230701 v1.0.1 补丁 for46387BE4 - D452D327">
+		<rom name="宝可梦XD暗之旋风黑暗洛奇亚（简）圈叉 20230701 v1.0.1 补丁 for46387BE4.xdelta" size="7482780" crc="D452D327" md5="BD6C1E6A300FA5BE32D165330F0D63C4"/>
+	</game>
+	<game name="宝可梦圆形竞技场（简）圈叉 20221231 v1.2.0 补丁 for3A421D80 - CC431E31">
+		<rom name="宝可梦圆形竞技场（简）圈叉 20221231 v1.2.0 补丁 for3A421D80.xdelta" size="8863432" crc="CC431E31" md5="30711297C910286EBB1CC0BD9FDE5E16"/>
+	</game>
+	<game name="宝可梦圆形竞技场（简）圈叉 20230701 v1.2.1 补丁 for3A421D80 - 2C3417F5">
+		<rom name="宝可梦圆形竞技场（简）圈叉 20230701 v1.2.1 补丁 for3A421D80.xdelta" size="8863472" crc="2C3417F5" md5="66E9BB7AA13D24D1F04687DC479DA294"/>
+	</game>
+	<game name="密特罗德究极（简）HyperIris Chrono 20101004 补丁 forE3DAEA72 - B6708C57">
+		<rom name="密特罗德究极（简）HyperIris Chrono 20101004 补丁 forE3DAEA72.rar" size="1227431" crc="B6708C57" md5="1AA2A974A5846D8F94DD91365A0D7B3D"/>
+	</game>
+	<game name="斑鸠（简繁）oz01 geeses 20090522 - 2440078D">
+		<rom name="斑鸠（简繁）oz01 geeses 20090522.iso" size="200907104" crc="2440078D" md5="9C587A5E4695B51647301E81B5A38691"/>
+	</game>
+	<game name="火焰之纹章：苍炎之轨迹（简）火花天龙剑 3DM 20111010 v1.2 - 965CCBF6">
+		<rom name="火焰之纹章：苍炎之轨迹（简）火花天龙剑 3DM 20111010 v1.2.gcm" size="1459978240" crc="965CCBF6" md5="4AEB6CF2185138E2B4E47B97800FFC99"/>
+	</game>
+	<game name="生化危机0（简）xjsxjs197 20170117 v1.1 Disk1 - 22FD0E95">
+		<rom name="生化危机0（简）xjsxjs197 20170117 v1.1 Disk1.iso" size="1459978240" crc="22FD0E95" md5="64534558B45FB3351693E73360FF4E9B"/>
+	</game>
+	<game name="生化危机0（简）xjsxjs197 20170117 v1.1 Disk2 - BFBCF2C0">
+		<rom name="生化危机0（简）xjsxjs197 20170117 v1.1 Disk2.iso" size="1459978240" crc="BFBCF2C0" md5="747100F6D40ED9F2B2C4215369AD8132"/>
+	</game>
+	<game name="生化危机1（简）xjsxjs197 20200128 v2.0 Disk1 - 85867F0D">
+		<rom name="生化危机1（简）xjsxjs197 20200128 v2.0 Disk1.iso" size="1459978240" crc="85867F0D" md5="DF1043FBF6A3282C4C808E57EA02CFE0"/>
+	</game>
+	<game name="生化危机1（简）xjsxjs197 20200128 v2.0 Disk2 - 729FC12C">
+		<rom name="生化危机1（简）xjsxjs197 20200128 v2.0 Disk2.iso" size="1459978240" crc="729FC12C" md5="35612812AACFE85EA369EE689409277B"/>
+	</game>
+	<game name="生化危机2（简）xjsxjs197 20170512 - 8B1BD29F">
+		<rom name="生化危机2（简）xjsxjs197 20170512.iso" size="1459978240" crc="8B1BD29F" md5="C26B856368FF837CD200C20036A96847"/>
+	</game>
+	<game name="生化危机3（简）xjsxjs197 20180506 v2.0 - A969471A">
+		<rom name="生化危机3（简）xjsxjs197 20180506 v2.0.iso" size="1459978240" crc="A969471A" md5="73841BE9C1020138E944B2CDEF549F88"/>
+	</game>
+	<game name="生化危机：维罗妮卡（简）xjsxjs197 20160312 Disk1 - 814AC013">
+		<rom name="生化危机：维罗妮卡（简）xjsxjs197 20160312 Disk1.iso" size="1459978240" crc="814AC013" md5="6172E442A9CB45CE0CD58BC76BD30FC1"/>
+	</game>
+	<game name="生化危机：维罗妮卡（简）xjsxjs197 20160312 Disk2 - 77D1F4AD">
+		<rom name="生化危机：维罗妮卡（简）xjsxjs197 20160312 Disk2.iso" size="1459978240" crc="77D1F4AD" md5="4BB7A808F91A9EF1725276B172792B08"/>
+	</game>
+	<game name="索尼克大冒险2战斗（简）DXer 20230415 v1.2.1 补丁 - 2C3AFE29">
+		<rom name="索尼克大冒险2战斗（简）DXer 20230415 v1.2.1 补丁.exe" size="21425158" crc="2C3AFE29" md5="FE14DC427BE6CBA48E32B7BF732C274C"/>
+	</game>
+	<game name="索尼克大冒险DX（简）DXer 20230415 v1.1.1 补丁 - 91B80152">
+		<rom name="索尼克大冒险DX（简）DXer 20230415 v1.1.1 补丁.exe" size="101816916" crc="91B80152" md5="C4F8072DB2D2D230B1A1EEF4BF34BD54"/>
+	</game>
+	<game name="索尼克英雄（简）DXer 20230721 v1.1.0 补丁 - 707A9EB2">
+		<rom name="索尼克英雄（简）DXer 20230721 v1.1.0 补丁.exe" size="26537831" crc="707A9EB2" md5="F3E34E25CD9FDF569263AF05B06D4A80"/>
+	</game>
+	<game name="红侠乔伊：火热乱斗（简）xjsxjs197 20170504 v1.0 - 52B0B323">
+		<rom name="红侠乔伊：火热乱斗（简）xjsxjs197 20170504 v1.0.gcm" size="1459978240" crc="52B0B323" md5="F53B4B1DB6A524CCBB577494AB6405F2"/>
+	</game>
+	<game name="纸片马里奥：千年之门（简）小企鹅108 镜花水月 20130814 - 97B0385E">
+		<rom name="纸片马里奥：千年之门（简）小企鹅108 镜花水月 20130814.iso" size="1459978240" crc="97B0385E" md5="1835503F4496918A789F2AA1653A19BE"/>
+	</game>
+	<game name="超级马力欧阳光（简）ffhome 20220411 v2.2 - 99EFCF20">
+		<rom name="超级马力欧阳光（简）ffhome 20220411 v2.2.iso" size="1186187264" crc="99EFCF20" md5="7FDBAC1D843796F367CD57BF52BD22C5"/>
+	</game>
+</datafile>
