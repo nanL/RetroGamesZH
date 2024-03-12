@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20240200</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20240300</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -640,6 +640,12 @@
 	<game name="呷哺呷哺星球（简）罗伊SD 地狱樱 80% 测试 - 86EDC127">
 		<rom name="呷哺呷哺星球（简）罗伊SD 地狱樱 80% 测试.nds" size="34767400" crc="86EDC127" md5="67BCA1085410CE9B5B09F3FBA08589FF"/>
 	</game>
+	<game name="咚奇刚：丛林攀越者（简）fciq 20240208 - 0D67D61F">
+		<rom name="咚奇刚：丛林攀越者（简）fciq 20240208.nds" size="67108864" crc="0D67D61F" md5="F682EB838CBCBE748B549114A0B6CFF1"/>
+	</game>
+	<game name="咚奇刚：丛林攀越者（简）fciq 20240208 改头支持金手指 - 79C538D1">
+		<rom name="咚奇刚：丛林攀越者（简）fciq 20240208 改头支持金手指.nds" size="67108864" crc="79C538D1" md5="D6D4F1EC971B3E50D2CC7A07FBA0D5B1"/>
+	</game>
 	<game name="喷射脉冲（简）PGCG v1.02 - 7FFCDC16">
 		<rom name="喷射脉冲（简）PGCG v1.02.nds" size="134217728" crc="7FFCDC16" md5="0FB0BA408387EB3E0D8A593A18577FD9"/>
 	</game>
@@ -1104,6 +1110,9 @@
 	</game>
 	<game name="异色代码：双重记忆（简）Xzonn 20240204 v1.0.1 - EA266D8B">
 		<rom name="异色代码：双重记忆（简）Xzonn 20240204 v1.0.1.nds" size="67108864" crc="EA266D8B" md5="4F6AA45EA2ABCC9713216871B034EEDF"/>
+	</game>
+	<game name="异色代码：双重记忆（简）Xzonn 20240210 v1.0.2 - 77F91A95">
+		<rom name="异色代码：双重记忆（简）Xzonn 20240210 v1.0.2.nds" size="67108864" crc="77F91A95" md5="73A4382B3587033A520AA3B8CB2644F8"/>
 	</game>
 	<game name="弧光之源（简）巴士 - 8729117A">
 		<rom name="弧光之源（简）巴士.nds" size="117496736" crc="8729117A" md5="0F0170630D2ED4BF9C57FCEE40BF13BF"/>
@@ -1618,11 +1627,17 @@
 	<game name="洛克人ZX降临（简）FLYEYES - 5888F869">
 		<rom name="洛克人ZX降临（简）FLYEYES.nds" size="64039848" crc="5888F869" md5="68E303BC90DB036181F4B08D86983BF1"/>
 	</game>
-	<game name="洛克人ZX降临（简）李田所 20240210 - 6CB7A11F">
-		<rom name="洛克人ZX降临（简）李田所 20240210.nds" size="67108864" crc="6CB7A11F" md5="76EE7F5D9E76D802F5A7133231112823"/>
+	<game name="洛克人ZX降临（简）李田所 20240210 v1.0 - 6CB7A11F">
+		<rom name="洛克人ZX降临（简）李田所 20240210 v1.0.nds" size="67108864" crc="6CB7A11F" md5="76EE7F5D9E76D802F5A7133231112823"/>
 	</game>
-	<game name="洛克人ZX降临（简）李田所 20240210 Rev1 - 9A28EAB9">
-		<rom name="洛克人ZX降临（简）李田所 20240210 Rev1.nds" size="67108864" crc="9A28EAB9" md5="5E2CB067D01FFD00D6F0B75B249232CB"/>
+	<game name="洛克人ZX降临（简）李田所 20240210 v1.0 Rev1 - 9A28EAB9">
+		<rom name="洛克人ZX降临（简）李田所 20240210 v1.0 Rev1.nds" size="67108864" crc="9A28EAB9" md5="5E2CB067D01FFD00D6F0B75B249232CB"/>
+	</game>
+	<game name="洛克人ZX降临（简）李田所 20240302 v1.14 Rev1 - 51F19A2F">
+		<rom name="洛克人ZX降临（简）李田所 20240302 v1.14 Rev1.nds" size="67108864" crc="51F19A2F" md5="7517DED305D8BA7843A3BD71DEEB5AF6"/>
+	</game>
+	<game name="洛克人ZX降临（简）李田所 20240302 v1.14 - 46DE6E7D">
+		<rom name="洛克人ZX降临（简）李田所 20240302 v1.14.nds" size="67108864" crc="46DE6E7D" md5="F49CA5B3ED85D3E58FBA590D1D382E00"/>
 	</game>
 	<game name="流星洛克人3红色鬼牌（简）对战大会 对战汉化 - 7C5F0433">
 		<rom name="流星洛克人3红色鬼牌（简）对战大会 对战汉化.nds" size="26646076" crc="7C5F0433" md5="793BCCA04D5912C94102055E054EBB5F"/>

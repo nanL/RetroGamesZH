@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Color (zh)</name><version>20240200</version></header>
+	<header><name>Nintendo - Game Boy Color (zh)</name><version>20240300</version></header>
 	<game name="007：黑日危机（繁） - D33D0CDD">
 		<rom name="007：黑日危机（繁）.gbc" size="2097152" crc="D33D0CDD" md5="AAE37F7E9869A07C777077FF4043367E"/>
 	</game>
@@ -118,11 +118,20 @@
 	<game name="勇者斗恶龙8（繁）新特奇 - 3A35118C">
 		<rom name="勇者斗恶龙8（繁）新特奇.gbc" size="1048576" crc="3A35118C" md5="9AD95C8C6D60CABA788EABBAA7F50B80"/>
 	</game>
-	<game name="勇者斗恶龙怪兽篇2玛鲁塔的不可思议钥匙：鲁卡的旅程（繁） - BD651350">
-		<rom name="勇者斗恶龙怪兽篇2玛鲁塔的不可思议钥匙：鲁卡的旅程（繁）.gbc" size="4194304" crc="BD651350" md5="08EF7476900091CBB28012FE0894240F"/>
+	<game name="勇者斗恶龙怪兽篇2鲁卡的旅程（繁） - BD651350">
+		<rom name="勇者斗恶龙怪兽篇2鲁卡的旅程（繁）.gbc" size="4194304" crc="BD651350" md5="08EF7476900091CBB28012FE0894240F"/>
 	</game>
-	<game name="勇者斗恶龙怪兽篇2玛鲁塔的不可思议钥匙：鲁卡的旅程（简） - 074945F6">
-		<rom name="勇者斗恶龙怪兽篇2玛鲁塔的不可思议钥匙：鲁卡的旅程（简）.gbc" size="4194304" crc="074945F6" md5="85AE71BC7A1D61CE99EF9F1A5B86AA5D"/>
+	<game name="勇者斗恶龙怪兽篇2鲁卡的旅程（简） - 074945F6">
+		<rom name="勇者斗恶龙怪兽篇2鲁卡的旅程（简）.gbc" size="4194304" crc="074945F6" md5="85AE71BC7A1D61CE99EF9F1A5B86AA5D"/>
+	</game>
+	<game name="勇者斗恶龙怪兽篇2鲁卡的旅程（简）hqqqqtv 20240209 v0.36 - 808D5161">
+		<rom name="勇者斗恶龙怪兽篇2鲁卡的旅程（简）hqqqqtv 20240209 v0.36.gbc" size="4194304" crc="808D5161" md5="296309846E6C8E2D204C84476B2F0EFC"/>
+	</game>
+	<game name="勇者斗恶龙怪兽篇2鲁卡的旅程（繁）hqqqqtv 20240209 v0.06 - B538D643">
+		<rom name="勇者斗恶龙怪兽篇2鲁卡的旅程（繁）hqqqqtv 20240209 v0.06.gbc" size="4194304" crc="B538D643" md5="352F491141F4091212C7E77E81EA416C"/>
+	</game>
+	<game name="勇者斗恶龙怪兽篇2鲁卡的旅程（简）hqqqqtv 20240224 v0.49 - 7AD41453">
+		<rom name="勇者斗恶龙怪兽篇2鲁卡的旅程（简）hqqqqtv 20240224 v0.49.gbc" size="4194304" crc="7AD41453" md5="E095AD97E24432A2324B3FBDF886907F"/>
 	</game>
 	<game name="勇者斗恶龙怪兽篇：特瑞仙境（简） - 8F6AF7B4">
 		<rom name="勇者斗恶龙怪兽篇：特瑞仙境（简）.gbc" size="2097152" crc="8F6AF7B4" md5="7C186DB00BD147829D55B624333D0186"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20240200</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20240300</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -99,6 +99,12 @@
 	</game>
 	<game name="世界传说：换装迷宫2（简）李采叶叶 风轻 20230526 v2 中文语音 - 680CC3B3">
 		<rom name="世界传说：换装迷宫2（简）李采叶叶 风轻 20230526 v2 中文语音.gba" size="18904140" crc="680CC3B3" md5="3F019C71E522BE177CD88BF91BB1F508"/>
+	</game>
+	<game name="世界传说：换装迷宫2（简）神仙姐姐 20240311 v1.6E 中配强化 - BC8D1288">
+		<rom name="世界传说：换装迷宫2（简）神仙姐姐 20240311 v1.6E 中配强化.gba" size="11278464" crc="BC8D1288" md5="10C997A22B7BB52CD1E10BA683F8C07F"/>
+	</game>
+	<game name="世界传说：换装迷宫2（简）神仙姐姐 20240311 v1.6E 日配强化 - 54345AF9">
+		<rom name="世界传说：换装迷宫2（简）神仙姐姐 20240311 v1.6E 日配强化.gba" size="5191791" crc="54345AF9" md5="2E6BB3E3AFB1335F06EB60E03C9CBC3D"/>
 	</game>
 	<game name="乐高星球大战 影视游戏（简）空气 - 15CE797E">
 		<rom name="乐高星球大战 影视游戏（简）空气.gba" size="16777216" crc="15CE797E" md5="D82F8F0C55DC3F97BF5F5EFD9BB5875E"/>
@@ -274,6 +280,9 @@
 	<game name="咕噜咕噜转转棒（简）CGP - CC0F1BDD">
 		<rom name="咕噜咕噜转转棒（简）CGP.gba" size="4194304" crc="CC0F1BDD" md5="5D1CB638C15D750B8E78A2E65C9F5DC1"/>
 	</game>
+	<game name="咚奇刚：摇摆之王（简）FLYEYES - 292C2E97">
+		<rom name="咚奇刚：摇摆之王（简）FLYEYES.gba" size="8388608" crc="292C2E97" md5="9CD22589F1C4F9AD35104C67D980E972"/>
+	</game>
 	<game name="哈利波特 消失的密室（简）施珂昱 - E1B0C7B0">
 		<rom name="哈利波特 消失的密室（简）施珂昱.gba" size="8388608" crc="E1B0C7B0" md5="EC051C2298A2BB399C62CF39E8F4AE01"/>
 	</game>
@@ -375,9 +384,6 @@
 	</game>
 	<game name="大盗伍佑卫门 新世代出动（简繁）星组 - 14F6B391">
 		<rom name="大盗伍佑卫门 新世代出动（简繁）星组.gba" size="4203256" crc="14F6B391" md5="FCC7D54EEBC89523D970EDCDF0DC887D"/>
-	</game>
-	<game name="大金刚 摇摆之王（简）FLYEYES - 292C2E97">
-		<rom name="大金刚 摇摆之王（简）FLYEYES.gba" size="8388608" crc="292C2E97" md5="9CD22589F1C4F9AD35104C67D980E972"/>
 	</game>
 	<game name="天外魔境：青之天外（简）CHYT 测试 - 16DEC983">
 		<rom name="天外魔境：青之天外（简）CHYT 测试.gba" size="16777216" crc="16DEC983" md5="C15157A06F380288D44EFF7B89BF94E9"/>
@@ -481,11 +487,11 @@
 	<game name="宝可梦：火红（简）无名 v1.0 - 5CF1A2D5">
 		<rom name="宝可梦：火红（简）无名 v1.0.gba" size="33554432" crc="5CF1A2D5" md5="99A53F76D4860DFB5BDEFC98D4E1084F"/>
 	</game>
-	<game name="宝可梦：火红（简）小电 20230409 基于剑盾官译 整合DP补丁 - 495C6745">
-		<rom name="宝可梦：火红（简）小电 20230409 基于剑盾官译 整合DP补丁.gba" size="16777216" crc="495C6745" md5="4E024ACDB7D95DF8DAEE233491CD6E94"/>
+	<game name="宝可梦：火红（简）小电 20230409 官译 整合DP补丁 - 495C6745">
+		<rom name="宝可梦：火红（简）小电 20230409 官译 整合DP补丁.gba" size="16777216" crc="495C6745" md5="4E024ACDB7D95DF8DAEE233491CD6E94"/>
 	</game>
-	<game name="宝可梦：火红（简）小电 20230409 基于剑盾官译 - 9287B1A6">
-		<rom name="宝可梦：火红（简）小电 20230409 基于剑盾官译.gba" size="16777216" crc="9287B1A6" md5="7000F88CA64AC0147949A070FC11F1A8"/>
+	<game name="宝可梦：火红（简）小电 20230409 官译 - 9287B1A6">
+		<rom name="宝可梦：火红（简）小电 20230409 官译.gba" size="16777216" crc="9287B1A6" md5="7000F88CA64AC0147949A070FC11F1A8"/>
 	</game>
 	<game name="宝可梦：红宝石（简）模拟天下 - CBB48D26">
 		<rom name="宝可梦：红宝石（简）模拟天下.gba" size="8388608" crc="CBB48D26" md5="8A748A955C926EF9574A086DB3A4E5C7"/>
@@ -525,6 +531,9 @@
 	</game>
 	<game name="宝可梦：绿宝石（简）漫游 TGB 口袋群星SP 20120502 典藏版 - 99538D0F">
 		<rom name="宝可梦：绿宝石（简）漫游 TGB 口袋群星SP 20120502 典藏版.gba" size="33554432" crc="99538D0F" md5="C9E97EBBF3DC183ED3AF7A015F54D8E3"/>
+	</game>
+	<game name="宝可梦：绿宝石（简）小电 20240229 官译 - CFD10EF1">
+		<rom name="宝可梦：绿宝石（简）小电 20240229 官译.gba" size="16777216" crc="CFD10EF1" md5="02D7C513BCA6B994E59F973325883A70"/>
 	</game>
 	<game name="宝可梦：蓝宝石（简繁）ELITE 口袋妖怪网 v386 时钟修正 - 49690CDF">
 		<rom name="宝可梦：蓝宝石（简繁）ELITE 口袋妖怪网 v386 时钟修正.gba" size="8518208" crc="49690CDF" md5="0BF8F1C9DF7FE053AC9FB51DB79246D9"/>
@@ -1665,6 +1674,9 @@
 	</game>
 	<game name="风之少年 梦之帝国（简）TGB - FBE6DC08">
 		<rom name="风之少年 梦之帝国（简）TGB.gba" size="4194304" crc="FBE6DC08" md5="EB097E6A9DB9091770ED4D13017CF31C"/>
+	</game>
+	<game name="饲养物语2我的独角仙（简）流星 20240219 v1 - 96BAA190">
+		<rom name="饲养物语2我的独角仙（简）流星 20240219 v1.gba" size="8388608" crc="96BAA190" md5="8B19F6315F48D43885691BE3ECFBF6B6"/>
 	</game>
 	<game name="饲养物语2我的锹形虫（简）流星 20240210 v1 - 750448A3">
 		<rom name="饲养物语2我的锹形虫（简）流星 20240210 v1.gba" size="8388608" crc="750448A3" md5="D928389F38250F9A3A014C1ADB188494"/>

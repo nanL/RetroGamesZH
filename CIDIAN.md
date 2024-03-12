@@ -1114,7 +1114,7 @@ Batman Begins|蝙蝠侠诞生
 Batman Beyond - Return of the Joker|
 Batman Forever|
 Batman III|
-Batman Returns|
+Batman Returns|蝙蝠侠归来
 Batman of the Future - Return of the Joker|
 Batsu & Terry - Makyou no Tetsujin Race|
 Battle & Get! - Pokemon Typing DS|战斗&收服!宝可梦打字机DS
@@ -2517,8 +2517,8 @@ DENDYcompoII|
 DEcapAttack|
 DJ Boy|
 DJ Star|DJ之星
-DK - Jungle Climber|森喜刚-丛林攀爬者
-DK - King of Swing|大金刚 摇摆之王
+DK - Jungle Climber|咚奇刚：丛林攀越者
+DK - King of Swing|咚奇刚：摇摆之王
 DS Bimoji Training|DS美文字训练
 DS Bungaku Zenshuu|DS文学全集
 DS Chueogui Donghwa - Touch RO Puzzle|独奏解谜-童话王国
@@ -2793,6 +2793,7 @@ Demon Driver - Time to Burn Rubber!|魔鬼赛车手!
 Demon Sword|恶魔之剑
 Demon's Blazon - Makaimura Monshou Hen|
 Demon's Crest|
+Demons of Asteborg|阿斯特堡的恶魔
 Den'z Traffic Panic|
 Dengeki - Big Bang!|
 Dengeki Gakuen RPG - Cross of Venus|电击学园 RPG-十字架上的美少女
@@ -2878,7 +2879,7 @@ Diddl Puzzle - Echter Puzzlespass fuer Unterwegs|拼图
 Diddl in the Cheesecakeland - Diddl en Diddland|
 Diddy Kong Pilot|
 Diddy Kong Racing|
-Diddy Kong Racing DS|森喜刚赛车 DS
+Diddy Kong Racing DS|迪迪金刚赛车DS
 Die Hard|
 Diego's Build and Rescue|徒步旅行救援队
 Diercke - Das Geographie-Quiz|地理测验
@@ -3277,8 +3278,8 @@ Dragon Quest Monsters - Joker|勇者斗恶龙怪兽篇：Joker
 Dragon Quest Monsters - Joker 2|勇者斗恶龙怪兽篇：Joker2
 Dragon Quest Monsters - Joker 2 - Professional|勇者斗恶龙怪兽篇：Joker2
 Dragon Quest Monsters - Terry no Wonderland|勇者斗恶龙怪兽篇：特瑞仙境
-Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken|勇者斗恶龙怪兽篇2玛鲁塔的不可思议钥匙：伊尔的冒险
-Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi|勇者斗恶龙怪兽篇2玛鲁塔的不可思议钥匙：鲁卡的旅程
+Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken|勇者斗恶龙怪兽篇2伊尔的冒险
+Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi|勇者斗恶龙怪兽篇2鲁卡的旅程
 Dragon Quest V - Hand of the Heavenly Bride|勇者斗恶龙5天空的新娘
 Dragon Quest V - Tenkuu no Hanayome|勇者斗恶龙5天空的新娘
 Dragon Quest VI - Maboroshi no Daichi|勇者斗恶龙6幻之大地
@@ -5638,7 +5639,7 @@ Insecticide|杀虫剂
 Insector X|小人子射击
 Inspector Gadget|
 Inspector Gadget - Advance Mission|神探佳杰特-高级任务
-Inspector Gadget - Operation Madkactus|
+Inspector Gadget - Operation Madkactus|神探加杰特：马卡库斯行动
 Inspector Gadget Racing|嘎杰特赛车
 Instruments of Chaos Starring Young Indiana Jones|
 Intellivision Lives!|八十年代经典游戏集

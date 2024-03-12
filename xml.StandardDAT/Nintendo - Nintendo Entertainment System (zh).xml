@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20240200</version></header>
+	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20240300</version></header>
 	<game name="1942（简）MS - A36F13D0">
 		<rom name="1942（简）MS.nes" size="40976" crc="A36F13D0" md5="0B3CEADB1A155807E7C7AA37FD9904F7"/>
 	</game>
@@ -3612,6 +3612,12 @@
 	</game>
 	<game name="蝙蝠侠（简）汉化你妹 - 4B2DE665">
 		<rom name="蝙蝠侠（简）汉化你妹.nes" size="393232" crc="4B2DE665" md5="2068B2E5A7A9EC1E85D1F20E4786A9AF"/>
+	</game>
+	<game name="蝙蝠侠归来（简）逆游の五彩鱼 20240307 原版标题 - 60FC715E">
+		<rom name="蝙蝠侠归来（简）逆游の五彩鱼 20240307 原版标题.nes" size="786448" crc="60FC715E" md5="9B2DAB81376FD6BB7C7DAA21DE9933B3"/>
+	</game>
+	<game name="蝙蝠侠归来（简）逆游の五彩鱼 20240307 - A6F6C25D">
+		<rom name="蝙蝠侠归来（简）逆游の五彩鱼 20240307.nes" size="786448" crc="A6F6C25D" md5="D9DAF863F7B21173472F48F746C2680C"/>
 	</game>
 	<game name="街头格斗小子（简）天空联盟 - 4190108D">
 		<rom name="街头格斗小子（简）天空联盟.nes" size="24592" crc="4190108D" md5="4BC4EDF3DBBDB4301EB92084378968E6"/>

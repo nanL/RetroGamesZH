@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20240100</version></header>
+	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20240300</version></header>
 	<game name="NHK大河剧 - 太平记（简）cslrxyz - 6E781C6C">
 		<rom name="NHK大河剧 - 太平记（简）cslrxyz.gen" size="1048576" crc="6E781C6C" md5="41D6D2116F52F0988C4023BE81F2D731"/>
 	</game>
@@ -699,6 +699,9 @@
 	</game>
 	<game name="阿斯特兄弟（简）Neofid STEAM提取修复 - FC12C174">
 		<rom name="阿斯特兄弟（简）Neofid STEAM提取修复.gen" size="15466496" crc="FC12C174" md5="D32557486F6B7F2EAE8D78C135827847"/>
+	</game>
+	<game name="阿斯特堡的恶魔（简）官中 20240205 v3 - 9A6BD0B6">
+		<rom name="阿斯特堡的恶魔（简）官中 20240205 v3.gen" size="15466496" crc="9A6BD0B6" md5="C77559919FB556009D637A53C563F930"/>
 	</game>
 	<game name="雀侦物语（简）梦组 - 1002C02F">
 		<rom name="雀侦物语（简）梦组.gen" size="1048576" crc="1002C02F" md5="6E511B6EE013B67FE8CF07819D29CC00"/>
