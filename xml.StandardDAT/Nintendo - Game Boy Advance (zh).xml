@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20240300</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20240400</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -100,11 +100,11 @@
 	<game name="世界传说：换装迷宫2（简）李采叶叶 风轻 20230526 v2 中文语音 - 680CC3B3">
 		<rom name="世界传说：换装迷宫2（简）李采叶叶 风轻 20230526 v2 中文语音.gba" size="18904140" crc="680CC3B3" md5="3F019C71E522BE177CD88BF91BB1F508"/>
 	</game>
-	<game name="世界传说：换装迷宫2（简）神仙姐姐 20240311 v1.6E 中配强化 - BC8D1288">
-		<rom name="世界传说：换装迷宫2（简）神仙姐姐 20240311 v1.6E 中配强化.gba" size="11278464" crc="BC8D1288" md5="10C997A22B7BB52CD1E10BA683F8C07F"/>
+	<game name="世界传说：换装迷宫2（简）神仙姐姐 20240311 达奥斯极限挑战1.6E中配 - BC8D1288">
+		<rom name="世界传说：换装迷宫2（简）神仙姐姐 20240311 达奥斯极限挑战1.6E中配.gba" size="11278464" crc="BC8D1288" md5="10C997A22B7BB52CD1E10BA683F8C07F"/>
 	</game>
-	<game name="世界传说：换装迷宫2（简）神仙姐姐 20240311 v1.6E 日配强化 - 54345AF9">
-		<rom name="世界传说：换装迷宫2（简）神仙姐姐 20240311 v1.6E 日配强化.gba" size="5191791" crc="54345AF9" md5="2E6BB3E3AFB1335F06EB60E03C9CBC3D"/>
+	<game name="世界传说：换装迷宫2（简）神仙姐姐 20240311 达奥斯极限挑战1.6E日配 - 54345AF9">
+		<rom name="世界传说：换装迷宫2（简）神仙姐姐 20240311 达奥斯极限挑战1.6E日配.gba" size="5191791" crc="54345AF9" md5="2E6BB3E3AFB1335F06EB60E03C9CBC3D"/>
 	</game>
 	<game name="乐高星球大战 影视游戏（简）空气 - 15CE797E">
 		<rom name="乐高星球大战 影视游戏（简）空气.gba" size="16777216" crc="15CE797E" md5="D82F8F0C55DC3F97BF5F5EFD9BB5875E"/>
@@ -1083,6 +1083,9 @@
 	</game>
 	<game name="火纹改：封印之剑Re英雄王的传说（简）牛头人 v2.9.4 - CD44B051">
 		<rom name="火纹改：封印之剑Re英雄王的传说（简）牛头人 v2.9.4.gba" size="33554432" crc="CD44B051" md5="59028312E0B35F2082EE5C339FBB5496"/>
+	</game>
+	<game name="火纹改：暗黑龙与光之剑（简）与寂寞相伴的逍遥x6 20240324 重制 - FC55AC00">
+		<rom name="火纹改：暗黑龙与光之剑（简）与寂寞相伴的逍遥x6 20240324 重制.gba" size="20365552" crc="FC55AC00" md5="61C924A07FC7E45772B0B8C85CA16975"/>
 	</game>
 	<game name="火纹改：暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6 - 8665D03B">
 		<rom name="火纹改：暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6.gba" size="21255896" crc="8665D03B" md5="BB257B352455EAD051A80B1EAFDD6E21"/>

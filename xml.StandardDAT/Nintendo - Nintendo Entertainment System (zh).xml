@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20240300</version></header>
+	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20240400</version></header>
 	<game name="1942（简）MS - A36F13D0">
 		<rom name="1942（简）MS.nes" size="40976" crc="A36F13D0" md5="0B3CEADB1A155807E7C7AA37FD9904F7"/>
 	</game>
@@ -513,9 +513,6 @@
 	</game>
 	<game name="兔子邦妮 疯狂城堡（简）高伟 - 6B1D867D">
 		<rom name="兔子邦妮 疯狂城堡（简）高伟.nes" size="262160" crc="6B1D867D" md5="7069536586BF75B73011942BB268CFC1"/>
-	</game>
-	<game name="兔宝宝大冒险（简）MS 腓特烈 修正第三关循环问题 - E7CFE813">
-		<rom name="兔宝宝大冒险（简）MS 腓特烈 修正第三关循环问题.nes" size="262160" crc="E7CFE813" md5="2CDC29CB20096CCD38827E777128F5D7"/>
 	</game>
 	<game name="八只眼（简）高伟 v0.9 - E162EBEF">
 		<rom name="八只眼（简）高伟 v0.9.nes" size="262160" crc="E162EBEF" md5="817CC019BD3A4487E9117735E4C00A31"/>
@@ -1636,6 +1633,9 @@
 	<game name="宾尼兔大冒险（简）逆游の五彩魚 - FBF2BB98">
 		<rom name="宾尼兔大冒险（简）逆游の五彩魚.nes" size="344080" crc="FBF2BB98" md5="5CCF013AFCF5CBA21E668552B4E84575"/>
 	</game>
+	<game name="宾尼兔大冒险（简）MS 腓特烈 修正第三关循环问题 - E7CFE813">
+		<rom name="宾尼兔大冒险（简）MS 腓特烈 修正第三关循环问题.nes" size="262160" crc="E7CFE813" md5="2CDC29CB20096CCD38827E777128F5D7"/>
+	</game>
 	<game name="宾尼兔大冒险（简）汉化你妹 20230501 - 575BDDEB">
 		<rom name="宾尼兔大冒险（简）汉化你妹 20230501.nes" size="393232" crc="575BDDEB" md5="754D5E1DCCA9BEC755F00F6AE446B9C5"/>
 	</game>
@@ -1977,6 +1977,9 @@
 	</game>
 	<game name="快乐鼠（简）雷精灵 姜维第二 20191024 v1.1 - 159BC653">
 		<rom name="快乐鼠（简）雷精灵 姜维第二 20191024 v1.1.nes" size="524304" crc="159BC653" md5="F2B0B6E11C8C500F91EE003DCDA9D3F4"/>
+	</game>
+	<game name="快乐鼠（简）雷精灵 - B9554534">
+		<rom name="快乐鼠（简）雷精灵.nes" size="524304" crc="B9554534" md5="D2F730BD3D7496E8002EC06E7CC9B4E3"/>
 	</game>
 	<game name="快打传说（繁）GOUDER - E7E52F44">
 		<rom name="快打传说（繁）GOUDER.nes" size="393232" crc="E7E52F44" md5="D55DF1AC4442A0488EE0CFD7911F340A"/>
@@ -3226,9 +3229,6 @@
 	<game name="猫捉老鼠（简）高伟 - 41954379">
 		<rom name="猫捉老鼠（简）高伟.nes" size="24592" crc="41954379" md5="5CD27A98703DDB26604EA831E47AD1A4"/>
 	</game>
-	<game name="猫鼠大战1（简）雷精灵 - B9554534">
-		<rom name="猫鼠大战1（简）雷精灵.nes" size="524304" crc="B9554534" md5="D2F730BD3D7496E8002EC06E7CC9B4E3"/>
-	</game>
 	<game name="王中霸学习卡（简）荣丰 - 0C462351">
 		<rom name="王中霸学习卡（简）荣丰.nes" size="524304" crc="0C462351" md5="2A4434C6B2BD9B3BB3D8ACAEB43906B3"/>
 	</game>
@@ -4477,14 +4477,20 @@
 	<game name="龙珠Z3烈战人造人（简）外星 - 8A5726C1">
 		<rom name="龙珠Z3烈战人造人（简）外星.nes" size="786448" crc="8A5726C1" md5="96EF4C3C3CD69AF37E289EC8A9C5D0FA"/>
 	</game>
-	<game name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 海美译名 - 2877E495">
-		<rom name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 海美译名.nes" size="786448" crc="2877E495" md5="FC75383E3BA5ED32588D95A605869015"/>
+	<game name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 20191225 海南译名 - 2877E495">
+		<rom name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 20191225 海南译名.nes" size="786448" crc="2877E495" md5="FC75383E3BA5ED32588D95A605869015"/>
 	</game>
-	<game name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 香港译名 - 4F765BB5">
-		<rom name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 香港译名.nes" size="786448" crc="4F765BB5" md5="66232C09526153CC555DAFF199142968"/>
+	<game name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 20191225 香港译名 - 4F765BB5">
+		<rom name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 20191225 香港译名.nes" size="786448" crc="4F765BB5" md5="66232C09526153CC555DAFF199142968"/>
 	</game>
 	<game name="龙珠Z3烈战人造人（简）外星 willzyjno1 - 6817B611">
 		<rom name="龙珠Z3烈战人造人（简）外星 willzyjno1.nes" size="786448" crc="6817B611" md5="4AAC517587EF0BBD714A6AD12B85D359"/>
+	</game>
+	<game name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 20240315 香港译名 - 39CD4782">
+		<rom name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 20240315 香港译名.nes" size="786448" crc="39CD4782" md5="2BCE289AADC4A874338263F86E72847F"/>
+	</game>
+	<game name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 20240315 海南译名 - 1081DF9D">
+		<rom name="龙珠Z3烈战人造人（繁）外星 LIRDREPUS 20240315 海南译名.nes" size="786448" crc="1081DF9D" md5="249B240E73F37B766E702BC5A406FB78"/>
 	</game>
 	<game name="龙珠Z外传：赛亚人灭绝计划（简）外星 惊风 - 05C2D499">
 		<rom name="龙珠Z外传：赛亚人灭绝计划（简）外星 惊风.nes" size="786448" crc="05C2D499" md5="9D4C33B1255D4CF8EE574E458C96DB46"/>

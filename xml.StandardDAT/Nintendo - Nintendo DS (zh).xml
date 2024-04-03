@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20240300</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20240400</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -1047,6 +1047,9 @@
 	</game>
 	<game name="寻找！KERORO军曹 找茬大作战！（简）集中营 图片汉化 - 2BC2EA1A">
 		<rom name="寻找！KERORO军曹 找茬大作战！（简）集中营 图片汉化.nds" size="67108864" crc="2BC2EA1A" md5="096C40486247B2C80B9836A9E6389B5C"/>
+	</game>
+	<game name="封印之地（简）巴士 20090101 国产官中 - E463F1FC">
+		<rom name="封印之地（简）巴士 20090101 国产官中.nds" size="15681952" crc="E463F1FC" md5="011F5BFCCFD1B5DDD939772451C57432"/>
 	</game>
 	<game name="小魔女之路（简）兔友 - E9B96A05">
 		<rom name="小魔女之路（简）兔友.nds" size="66836804" crc="E9B96A05" md5="3DA39476110E01F7FA6D676AADB304D5"/>

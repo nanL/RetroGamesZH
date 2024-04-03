@@ -14522,7 +14522,8 @@ Ys II - Ancient Ys Vanished - The Final Chapter|
 Ys II DS|伊苏2DS
 Ys III|伊苏3
 Ys III - Wanderers from Ys|伊苏3
-Ys IV - Mask of the Sun|
+Ys IV - Mask of the Sun|伊苏4太阳的假面
+Ys IV - The Dawn of Ys|伊苏4伊苏的黎明
 Ys Strategy|伊苏战略版
 Ys V - Expert|
 Ys V - Ushinawareta Suna no Miyako Kefin|

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20240100</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20240400</version></header>
 	<game name="GO!GO!恶魔少年（繁）模拟中文网 v1.01 - 8CD0822E">
 		<rom name="GO!GO!恶魔少年（繁）模拟中文网 v1.01.sfc" size="1310720" crc="8CD0822E" md5="99378BB306088C9F228449C57669193F"/>
 	</game>
@@ -25,8 +25,8 @@
 	<game name="伊苏3（简）YJSTURBOC v0.99 - F24C47BE">
 		<rom name="伊苏3（简）YJSTURBOC v0.99.sfc" size="1048576" crc="F24C47BE" md5="E7A32C2B69A764F402EE86B853EC04BF"/>
 	</game>
-	<game name="伊苏4（简）ACG v1.0 - 56703AD2">
-		<rom name="伊苏4（简）ACG v1.0.sfc" size="2097152" crc="56703AD2" md5="7CFBAD6317ECDEF60D39ED63E5A892B5"/>
+	<game name="伊苏4太阳的假面（简）ACG v1.0 - 56703AD2">
+		<rom name="伊苏4太阳的假面（简）ACG v1.0.sfc" size="2097152" crc="56703AD2" md5="7CFBAD6317ECDEF60D39ED63E5A892B5"/>
 	</game>
 	<game name="冠军桌球（简）死神DIY 少量汉化 - 9139B9F7">
 		<rom name="冠军桌球（简）死神DIY 少量汉化.sfc" size="1048576" crc="9139B9F7" md5="60CB39708138F2F6ABDBD2D292C32471"/>

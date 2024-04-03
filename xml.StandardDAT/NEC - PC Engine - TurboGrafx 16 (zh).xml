@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>NEC - PC Engine - TurboGrafx 16 (zh)</name><version>20240100</version></header>
+	<header><name>NEC - PC Engine - TurboGrafx 16 (zh)</name><version>20240400</version></header>
 	<game name="1943改（简）少年不知愁 20210501 - 698A65D8">
 		<rom name="1943改（简）少年不知愁 20210501.pce" size="524288" crc="698A65D8" md5="EDEB87D0EB5883B8C88F2F77F2D9594E"/>
+	</game>
+	<game name="伊苏4伊苏的黎明（简）Advance 20240322 v1.0 国语配音 - 8E586FE8">
+		<rom name="伊苏4伊苏的黎明（简）Advance 20240322 v1.0 国语配音.rar" size="526345427" crc="8E586FE8" md5="CA932579201F50372F4935BE56D9CA20"/>
+	</game>
+	<game name="伊苏4伊苏的黎明（简）Advance 20240322 v1.0 - 5B323721">
+		<rom name="伊苏4伊苏的黎明（简）Advance 20240322 v1.0.rar" size="530637821" crc="5B323721" md5="1C55EFB68C4322E3230A527C38F4B437"/>
 	</game>
 	<game name="天外魔境：自来也（简）Advance 20231001 v1.0 - BB8AE081">
 		<rom name="天外魔境：自来也（简）Advance 20231001 v1.0.rar" size="151965190" crc="BB8AE081" md5="C8D8D6F9135C12BD3F691B9199A2AD31"/>
