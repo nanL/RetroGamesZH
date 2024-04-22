@@ -875,13 +875,13 @@ Auto Zone|
 Auto-Upturn|
 Autoescuela Trainer|驾驶训练
 Avalon Code|创世法典
-Avatar - Der Herr der Elemente - Die Erde Brennt|降世神通-燃烧的大地
-Avatar - The Last Airbender|降世神通
-Avatar - The Last Airbender - Into the Inferno|降世神通-最后的气宗-地狱之战
-Avatar - The Last Airbender - The Burning Earth|降世神通-最后气宗之燃烧的大地
-Avatar - The Legend of Aang|降世神通
-Avatar - The Legend of Aang - Into the Inferno|降世神通-前往地狱之战的传说
-Avatar - The Legend of Aang - The Burning Earth|降世神通-最后气宗之燃烧的大地
+Avatar - Der Herr der Elemente - Die Erde Brennt|降世神通：燃烧的大地
+Avatar - The Last Airbender|降世神通：最后的气宗
+Avatar - The Last Airbender - Into the Inferno|降世神通：最后的气宗：地狱之战
+Avatar - The Last Airbender - The Burning Earth|降世神通：最后的气宗：燃烧地球
+Avatar - The Legend of Aang|降世神通：最后的气宗
+Avatar - The Legend of Aang - Into the Inferno|降世神通：最后的气宗：地狱之战
+Avatar - The Legend of Aang - The Burning Earth|降世神通：最后的气宗：燃烧地球
 Aventures de Buzz l'Eclair, Les|
 Aventures de Jackie Chan, Les - La Legende de la Main Noire|成龙冒险-黑手党传说
 Aventures de May, Les - L'Etrange Disparition|五月的冒险-消失
@@ -5798,7 +5798,7 @@ Jambo! Safari - Animal Rescue|丛林之旅-动物救援
 James 'Buster' Douglas Knockout Boxing|
 James Bond 007 - The Duel|
 James Bond Jr|
-James Cameron's Avatar - The Game|詹姆斯卡梅隆-阿凡达
+James Cameron's Avatar - The Game|詹姆斯卡梅隆阿凡达
 James Patterson Women's Murder Club - Games of Passion|女子谋杀俱乐部-游戏激情
 James Pond - Codename Robocod|詹姆斯庞德-代号Robocod
 James Pond - Underwater Agent|詹姆斯·庞德：水下特工
@@ -7598,7 +7598,7 @@ Matsuda Tadanori Onsen Kyouju Kanshuu - Zenkoku Dokodemo Onsen Techou|松田忠�
 Matsukata Hiroki no Super Trolling|
 Matsumoto Tooru no Kabushiki Hisshou Gaku|
 Matsumoto Tooru no Kabushiki Hisshou Gaku - Part II|
-Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero!|
+Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero!|松村邦洋传
 Maui Mallard in Cold Shadow|
 Mauri Mursu's Hangover|
 Maus DS|老鼠 DS
@@ -7822,7 +7822,7 @@ Metal Flame - Psy Buster|金属装甲
 Metal Force|
 Metal Gear|合金装备
 Metal Gear - Ghost Babel|合金装备：幽灵通天塔
-Metal Gear Solid|合金装备索利德
+Metal Gear Solid|合金装备：幽灵通天塔
 Metal Jack|
 Metal Marines|
 Metal Max|重装机兵
@@ -8750,7 +8750,7 @@ Net de Get - Minigame @ 100|
 Nettou! Powerful Koushien|热斗!实况野球甲子园
 Network Boukenki Bugsite - Alpha Version|
 Network Boukenki Bugsite - Beta Version|
-Neugier - Umi to Kaze no Kodou|
+Neugier - Umi to Kaze no Kodou|大地勇士：海与风的鼓动
 Neutopia|
 Neutopia II|
 Neves|七巧板

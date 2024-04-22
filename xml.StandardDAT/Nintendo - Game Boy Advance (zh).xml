@@ -256,6 +256,9 @@
 	<game name="召唤之夜：铸剑物语：起源之石（繁）啪嗒啪嗒 铸剑物语吧 v1.1 - 6A5B099A">
 		<rom name="召唤之夜：铸剑物语：起源之石（繁）啪嗒啪嗒 铸剑物语吧 v1.1.gba" size="33554432" crc="6A5B099A" md5="6E2DDEEFE495273C097B7B5C23D58D4A"/>
 	</game>
+	<game name="召唤之夜：铸剑物语：起源之石（繁）Hambakaga 20240415 战斗卡顿修正 - 03103EA0">
+		<rom name="召唤之夜：铸剑物语：起源之石（繁）Hambakaga 20240415 战斗卡顿修正.gba" size="33554432" crc="03103EA0" md5="844737CF48370E83A407B259A92D84FE"/>
+	</game>
 	<game name="合金射击者（简）AMONWANG - 04A6D44B">
 		<rom name="合金射击者（简）AMONWANG.gba" size="8388608" crc="04A6D44B" md5="649EDDFD38FA2730D2604213DBAEE5D1"/>
 	</game>
@@ -591,6 +594,9 @@
 	</game>
 	<game name="影音中心（简）神游 - EC8EB115">
 		<rom name="影音中心（简）神游.gba" size="16777216" crc="EC8EB115" md5="6EF9674E95AE4D230C44183AA3B7B4CF"/>
+	</game>
+	<game name="彼岸花（简）1d4444 20240401 v0.1 - 689B0482">
+		<rom name="彼岸花（简）1d4444 20240401 v0.1.gba" size="8388608" crc="689B0482" md5="A0854E6757C62A50525AFF5E7EFCBCCD"/>
 	</game>
 	<game name="心跳回忆 Demo（简）星组 v1.5 改版演示 - 11881A86">
 		<rom name="心跳回忆 Demo（简）星组 v1.5 改版演示.gba" size="864752" crc="11881A86" md5="EB0B4D7B0C96FB7648E57471C3A75BCF"/>
@@ -979,6 +985,9 @@
 	<game name="游戏王! 怪兽决斗8 破灭的大邪神（简）天使 水晶 - 046502CD">
 		<rom name="游戏王! 怪兽决斗8 破灭的大邪神（简）天使 水晶.gba" size="16777216" crc="046502CD" md5="3BD91098D787C9A0E0F7EE1F3E1D27BB"/>
 	</game>
+	<game name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240415 v1.0 - 34BF2509">
+		<rom name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240415 v1.0.gba" size="16872464" crc="34BF2509" md5="F4DB045CF183C28C37F4450177722341"/>
+	</game>
 	<game name="游戏王! 怪兽决斗EX 2（繁）九柳 测试 - 2A0F130C">
 		<rom name="游戏王! 怪兽决斗EX 2（繁）九柳 测试.gba" size="16777216" crc="2A0F130C" md5="C0154BCC7CEF25534E974F2297F92850"/>
 	</game>
@@ -1002,6 +1011,9 @@
 	</game>
 	<game name="游戏王7-决斗都市传说（简）Advance 20231007 v1.1 - D4B0B990">
 		<rom name="游戏王7-决斗都市传说（简）Advance 20231007 v1.1.gba" size="16777216" crc="D4B0B990" md5="CFB392464694D8992365C50B3D2FC9E2"/>
+	</game>
+	<game name="游戏王7-决斗都市传说（简）Advance 20240414 v1.2 - C048DA17">
+		<rom name="游戏王7-决斗都市传说（简）Advance 20240414 v1.2.gba" size="16777216" crc="C048DA17" md5="EC33C7BF4019D2E7FA99FF15F6DE24C5"/>
 	</game>
 	<game name="游戏王：决战怪兽 Ex 2006（简）天使 20060307 - B4EFEF2F">
 		<rom name="游戏王：决战怪兽 Ex 2006（简）天使 20060307.gba" size="33554432" crc="B4EFEF2F" md5="25AE074E73DAE7C70BEAD22B03445BCE"/>
@@ -1062,69 +1074,6 @@
 	</game>
 	<game name="火纹战记：封印之剑（简）神游 未发售 - 8CEBEF1E">
 		<rom name="火纹战记：封印之剑（简）神游 未发售.gba" size="16777216" crc="8CEBEF1E" md5="CD5C952CCF9A78915CBEFEC0FECF241D"/>
-	</game>
-	<game name="火纹改：后宫战纪（简）艾丝特 20200104 v009 - DE942803">
-		<rom name="火纹改：后宫战纪（简）艾丝特 20200104 v009.gba" size="31979420" crc="DE942803" md5="6E7438B85A0BBFCD6BEB61E7F045E296"/>
-	</game>
-	<game name="火纹改：回声GBA（简）HyperGammaSpaces 素昼 jiny9675 20230414 3DS复刻GBA汉化 - 1B0303E7">
-		<rom name="火纹改：回声GBA（简）HyperGammaSpaces 素昼 jiny9675 20230414 3DS复刻GBA汉化.gba" size="22697628" crc="1B0303E7" md5="E7D6A6357DC6061060D46A051A7C5AB2"/>
-	</game>
-	<game name="火纹改：回声GBA（简）HyperGammaSpaces 罗伊SD 20230415 3DS复刻GBA汉化 - 87E21C6D">
-		<rom name="火纹改：回声GBA（简）HyperGammaSpaces 罗伊SD 20230415 3DS复刻GBA汉化.gba" size="22505760" crc="87E21C6D" md5="7DE311452D83DD62C406390AC20593B8"/>
-	</game>
-	<game name="火纹改：圣光之战（简）狼组 火花天龙剑 - 5F175837">
-		<rom name="火纹改：圣光之战（简）狼组 火花天龙剑.gba" size="21311956" crc="5F175837" md5="2A0827A34643F02E37F52C6D4390F3C2"/>
-	</game>
-	<game name="火纹改：圣邪意志（简）狼组 火花天龙剑 v1.4 127.25 - 9CBB923E">
-		<rom name="火纹改：圣邪意志（简）狼组 火花天龙剑 v1.4 127.25.gba" size="16777216" crc="9CBB923E" md5="58928A2B5348B805762164464C5C1855"/>
-	</game>
-	<game name="火纹改：多拉基亚776复刻（简） - BD7BF06A">
-		<rom name="火纹改：多拉基亚776复刻（简）.gba" size="32748744" crc="BD7BF06A" md5="DDBB8FF02A43ABE74202F1246D2D0A60"/>
-	</game>
-	<game name="火纹改：封印之剑Re英雄王的传说（简）牛头人 v2.9.4 - CD44B051">
-		<rom name="火纹改：封印之剑Re英雄王的传说（简）牛头人 v2.9.4.gba" size="33554432" crc="CD44B051" md5="59028312E0B35F2082EE5C339FBB5496"/>
-	</game>
-	<game name="火纹改：暗黑龙与光之剑（简）与寂寞相伴的逍遥x6 20240324 重制 - FC55AC00">
-		<rom name="火纹改：暗黑龙与光之剑（简）与寂寞相伴的逍遥x6 20240324 重制.gba" size="20365552" crc="FC55AC00" md5="61C924A07FC7E45772B0B8C85CA16975"/>
-	</game>
-	<game name="火纹改：暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6 - 8665D03B">
-		<rom name="火纹改：暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6.gba" size="21255896" crc="8665D03B" md5="BB257B352455EAD051A80B1EAFDD6E21"/>
-	</game>
-	<game name="火纹改：暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6 成长0 - 5EE8B531">
-		<rom name="火纹改：暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6 成长0.gba" size="21255896" crc="5EE8B531" md5="48977089448787B09CFA9A2B703333A6"/>
-	</game>
-	<game name="火纹改：最后的承诺（简）Blazer ZeroSlience 20221207 v1.6 - 0643181E">
-		<rom name="火纹改：最后的承诺（简）Blazer ZeroSlience 20221207 v1.6.gba" size="33523172" crc="0643181E" md5="18BE021A67E0E1CA4C3DECD60848189A"/>
-	</game>
-	<game name="火纹改：最后的皇室（简）ArcaneEli 瓦莱娜23号 20230201 T2S v1.1.1 - 7295D975">
-		<rom name="火纹改：最后的皇室（简）ArcaneEli 瓦莱娜23号 20230201 T2S v1.1.1.gba" size="33542780" crc="7295D975" md5="FB2B5648216181694A51A6852087808B"/>
-	</game>
-	<game name="火纹改：沉重的王冠（简） - 3089E40A">
-		<rom name="火纹改：沉重的王冠（简）.gba" size="24029140" crc="3089E40A" md5="5869BAD492F4DAA0CF53B30712C821EF"/>
-	</game>
-	<game name="火纹改：烈火之剑if（简）20140217 - F5D2CC38">
-		<rom name="火纹改：烈火之剑if（简）20140217.gba" size="33554432" crc="F5D2CC38" md5="0C1DFD078A563322D876FEFC6B32ABE9"/>
-	</game>
-	<game name="火纹改：祈悠之月WH（简）小响天 - A6F6788A">
-		<rom name="火纹改：祈悠之月WH（简）小响天.gba" size="33554432" crc="A6F6788A" md5="3CF1C9F37B0E8BB9497E2603DC52A42A"/>
-	</game>
-	<game name="火纹改：苍炎晓女：晓女正式版苍炎勇者（简）牛头人 v5.9.4 - 3FE8CA97">
-		<rom name="火纹改：苍炎晓女：晓女正式版苍炎勇者（简）牛头人 v5.9.4.gba" size="33544716" crc="3FE8CA97" md5="79ED0957A1984C2016CDC34402B11AAA"/>
-	</game>
-	<game name="火纹改：铠甲的呼唤（简）Pandan Ai 20230212 - EABA2C27">
-		<rom name="火纹改：铠甲的呼唤（简）Pandan Ai 20230212.gba" size="21853736" crc="EABA2C27" md5="ACA2EE57910569134B054C3F4C5A63A8"/>
-	</game>
-	<game name="火纹改：镇魂曲（简）SacredBlaze 小丑の梦 20230808 - 358769FD">
-		<rom name="火纹改：镇魂曲（简）SacredBlaze 小丑の梦 20230808.gba" size="21578432" crc="358769FD" md5="1A01350CF6DA094E92A5FB21BC0D337A"/>
-	</game>
-	<game name="火纹改：隐秘之龙（简）与寂寞相伴的逍遥X6 20230803 - 4E5F5688">
-		<rom name="火纹改：隐秘之龙（简）与寂寞相伴的逍遥X6 20230803.gba" size="20310964" crc="4E5F5688" md5="03FA56B0FADC01C5DDA15A3A7031831A"/>
-	</game>
-	<game name="火纹改：黑暗无双（简）YYGYQKHH - 7E7EF874">
-		<rom name="火纹改：黑暗无双（简）YYGYQKHH.gba" size="17008656" crc="7E7EF874" md5="67B22F6938B42AB5E839EE60B627A14F"/>
-	</game>
-	<game name="火纹改：黑暗轮回者（简）悲桑酱 006 最终版 - 4188CF4B">
-		<rom name="火纹改：黑暗轮回者（简）悲桑酱 006 最终版.gba" size="32267124" crc="4188CF4B" md5="E6F4B2655645F9058D844B77658D5F54"/>
 	</game>
 	<game name="点点潮流 几何世代（简）深藏竹楼 v0.8 - 425834A0">
 		<rom name="点点潮流 几何世代（简）深藏竹楼 v0.8.gba" size="16777216" crc="425834A0" md5="B6A4A11E2A8A6291107323564C6C6F0B"/>
@@ -1606,6 +1555,9 @@
 	<game name="重装骑士：闪光英雄的诞生（简） - 9FF2CE70">
 		<rom name="重装骑士：闪光英雄的诞生（简）.gba" size="33554432" crc="9FF2CE70" md5="AE7CF8EF48B1729D6B878D49070BB777"/>
 	</game>
+	<game name="金属机器人G-锹型虫版（简）Advance 20240414 - D37A5615">
+		<rom name="金属机器人G-锹型虫版（简）Advance 20240414.gba" size="8388608" crc="D37A5615" md5="5A6BAA01F48674E5CA4C47CEC8A40A50"/>
+	</game>
 	<game name="金童卡修！友情的电击 梦幻标签锦标赛（简）Advance DMG v1.0 - 0B274476">
 		<rom name="金童卡修！友情的电击 梦幻标签锦标赛（简）Advance DMG v1.0.gba" size="16777216" crc="0B274476" md5="DAC05E81544EB618392B1EF7647DFFA2"/>
 	</game>
@@ -1650,6 +1602,9 @@
 	</game>
 	<game name="陆行鸟大陆（简）v0.1 测试 - 78C5FDAB">
 		<rom name="陆行鸟大陆（简）v0.1 测试.gba" size="8388608" crc="78C5FDAB" md5="5F1487A02E6BBAC6CB7EEF5702B20EEB"/>
+	</game>
+	<game name="降世神通：最后的气宗（简）Advance 20240410 - 5727C7FC">
+		<rom name="降世神通：最后的气宗（简）Advance 20240410.gba" size="8388608" crc="5727C7FC" md5="FB6B6990BB43CF0C4B0F120DC8E93DA3"/>
 	</game>
 	<game name="随身对局 役满Advance（简）盗版 李飞鱼 浪漫狗 - A636D8A0">
 		<rom name="随身对局 役满Advance（简）盗版 李飞鱼 浪漫狗.gba" size="8388608" crc="A636D8A0" md5="937A4D8B87B65F24A6F3FC981D87190F"/>

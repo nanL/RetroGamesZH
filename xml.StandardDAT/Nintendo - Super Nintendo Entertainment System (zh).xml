@@ -7,6 +7,9 @@
 	<game name="GO!GO!恶魔少年（简）模拟中文网 v1.01 - F28EBB84">
 		<rom name="GO!GO!恶魔少年（简）模拟中文网 v1.01.sfc" size="1310720" crc="F28EBB84" md5="0A100BA822F95388DD20F40DF57AF5F8"/>
 	</game>
+	<game name="松村邦洋传（简）1d4444 20240416 v0.8 - 95B5E7FD">
+		<rom name="松村邦洋传（简）1d4444 20240416 v0.8.sfc" size="3145728" crc="95B5E7FD" md5="2A0DA34B412F2CCAC76A289A897A7319"/>
+	</game>
 	<game name="三国志 英杰传（简）WGF MXJ7546 v0.51 - 0FE0B6B4">
 		<rom name="三国志 英杰传（简）WGF MXJ7546 v0.51.sfc" size="3145728" crc="0FE0B6B4" md5="3143C12FDFA489318570A49843825D20"/>
 	</game>
@@ -91,6 +94,9 @@
 	<game name="地底魔神（简）天空 测试 - C2349780">
 		<rom name="地底魔神（简）天空 测试.sfc" size="1048576" crc="C2349780" md5="115A520AECE9B9E3B67B436F4E8B77C8"/>
 	</game>
+	<game name="地底魔神（简）小鬼混 20240403 - 4F56724F">
+		<rom name="地底魔神（简）小鬼混 20240403.sfc" size="1048576" crc="4F56724F" md5="0A86ADD0BE6BCE1F3510E6C054DD1DDE"/>
+	</game>
 	<game name="塞尔达传说：众神的三角力量（繁）DARK_LINK 部分汉化 - 404EC2D5">
 		<rom name="塞尔达传说：众神的三角力量（繁）DARK_LINK 部分汉化.sfc" size="1572864" crc="404EC2D5" md5="D7CEA089297618F6E44CEDC5861A0D5C"/>
 	</game>
@@ -105,6 +111,9 @@
 	</game>
 	<game name="塞尔达传说：众神的三角力量（简）hlken MSU1汉字花屏修正 - C1D16A61">
 		<rom name="塞尔达传说：众神的三角力量（简）hlken MSU1汉字花屏修正.sfc" size="2097152" crc="C1D16A61" md5="2925CD94FFF8DA4489DC698BEB87CEC3"/>
+	</game>
+	<game name="大地勇士：海与风的鼓动（简）阿刃 20240403 - DC4D666E">
+		<rom name="大地勇士：海与风的鼓动（简）阿刃 20240403.smc" size="1245184" crc="DC4D666E" md5="88418E79ACDA58D3790E61458A558808"/>
 	</game>
 	<game name="大老二（繁） - F33C710D">
 		<rom name="大老二（繁）.sfc" size="2162688" crc="F33C710D" md5="FFEDE6468D207310C3A6CD5E2698AB68"/>

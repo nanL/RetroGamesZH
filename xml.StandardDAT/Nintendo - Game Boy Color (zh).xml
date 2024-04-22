@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Color (zh)</name><version>20240300</version></header>
+	<header><name>Nintendo - Game Boy Color (zh)</name><version>20240400</version></header>
 	<game name="007：黑日危机（繁） - D33D0CDD">
 		<rom name="007：黑日危机（繁）.gbc" size="2097152" crc="D33D0CDD" md5="AAE37F7E9869A07C777077FF4043367E"/>
 	</game>
@@ -139,6 +139,9 @@
 	<game name="勇者斗恶龙怪兽篇：特瑞仙境（简）不卡版 - DCFA3468">
 		<rom name="勇者斗恶龙怪兽篇：特瑞仙境（简）不卡版.gbc" size="2097152" crc="DCFA3468" md5="98C7773DA53D3FFF46A8727EDF01C2A5"/>
 	</game>
+	<game name="勇者斗恶龙怪兽篇：特瑞仙境（简）hqqqqtv 20240401 v0.3 - 81D74DB5">
+		<rom name="勇者斗恶龙怪兽篇：特瑞仙境（简）hqqqqtv 20240401 v0.3.gbc" size="2097152" crc="81D74DB5" md5="57BDCE3C7AFE705FB90F9AC6C5A07E38"/>
+	</game>
 	<game name="十面埋伏 风云篇（繁）天才小子 - 7CDF4636">
 		<rom name="十面埋伏 风云篇（繁）天才小子.gbc" size="1048576" crc="7CDF4636" md5="8BA6E2E2DCCA74208866DBF1BC4359CB"/>
 	</game>
@@ -175,11 +178,14 @@
 	<game name="合金装备2（繁）新特奇 - 91ECCF13">
 		<rom name="合金装备2（繁）新特奇.gbc" size="4194304" crc="91ECCF13" md5="F4722B46C20A872A5060D23681FF9024"/>
 	</game>
-	<game name="合金装备索利德（简）MONKEYS - 98861FDC">
-		<rom name="合金装备索利德（简）MONKEYS.gbc" size="2097152" crc="98861FDC" md5="195AD6C0EE8DE1BCF1CC20EC61758BF0"/>
+	<game name="合金装备：幽灵通天塔（简）MONKEYS - 98861FDC">
+		<rom name="合金装备：幽灵通天塔（简）MONKEYS.gbc" size="2097152" crc="98861FDC" md5="195AD6C0EE8DE1BCF1CC20EC61758BF0"/>
 	</game>
-	<game name="合金装备索利德（简） - FD989C13">
-		<rom name="合金装备索利德（简）.gbc" size="2097152" crc="FD989C13" md5="2B6A1C3B69DFC6876F7A610078F5E7CB"/>
+	<game name="合金装备：幽灵通天塔（简） - FD989C13">
+		<rom name="合金装备：幽灵通天塔（简）.gbc" size="2097152" crc="FD989C13" md5="2B6A1C3B69DFC6876F7A610078F5E7CB"/>
+	</game>
+	<game name="合金装备：幽灵通天塔（简）Stephen 20240416 v1.0 - 277367F4">
+		<rom name="合金装备：幽灵通天塔（简）Stephen 20240416 v1.0.gbc" size="4194304" crc="277367F4" md5="C9FFF9CD6D01FA5CFCCC3E8CA2A97B0E"/>
 	</game>
 	<game name="名侦探柯南：寺院杀人事件（简） - 6235E2B8">
 		<rom name="名侦探柯南：寺院杀人事件（简）.gbc" size="2097152" crc="6235E2B8" md5="C601629D03556169136BEEE2AB99178A"/>
