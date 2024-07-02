@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20240300</version></header>
+	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20240700</version></header>
 	<game name="NHK大河剧 - 太平记（简）cslrxyz - 6E781C6C">
 		<rom name="NHK大河剧 - 太平记（简）cslrxyz.gen" size="1048576" crc="6E781C6C" md5="41D6D2116F52F0988C4023BE81F2D731"/>
 	</game>
 	<game name="NHK大河剧 - 太平记（繁）cslrxyz - 19864175">
 		<rom name="NHK大河剧 - 太平记（繁）cslrxyz.gen" size="1048576" crc="19864175" md5="CFA35B8EC3B122FCEDBB36FB7E1E5ED3"/>
+	</game>
+	<game name="一门英烈：杨家将（繁）三协资讯 - 6604A79E">
+		<rom name="一门英烈：杨家将（繁）三协资讯.gen" size="2097152" crc="6604A79E" md5="B29476FAA932165D616A2822E92DEC8F"/>
 	</game>
 	<game name="三国志2（繁）TCT - BF7CEBE7">
 		<rom name="三国志2（繁）TCT.gen" size="1048576" crc="BF7CEBE7" md5="2346346A6E24EF0599A1585C6824C2DD"/>
@@ -37,8 +40,11 @@
 	<game name="不朽的巫师（简）SGGG 20230411 CN2 - 45DEEB66">
 		<rom name="不朽的巫师（简）SGGG 20230411 CN2.gen" size="2097152" crc="45DEEB66" md5="85784050C9BBA4029F4278E612D6260A"/>
 	</game>
-	<game name="世界职棒争霸战 - 金冠军兄弟象（繁）全崴资讯 - 72DD884F">
-		<rom name="世界职棒争霸战 - 金冠军兄弟象（繁）全崴资讯.gen" size="2097152" crc="72DD884F" md5="4ABB0405B270695261494720A2AF0783"/>
+	<game name="世界职棒争霸战 - 金冠军兄弟象（繁）全崴 - 72DD884F">
+		<rom name="世界职棒争霸战 - 金冠军兄弟象（繁）全崴.gen" size="2097152" crc="72DD884F" md5="4ABB0405B270695261494720A2AF0783"/>
+	</game>
+	<game name="中国象棋（简）January - 475215A0">
+		<rom name="中国象棋（简）January.gen" size="524288" crc="475215A0" md5="EAE446341FFC7E825C2D7C79222FEDC1"/>
 	</game>
 	<game name="二战特种兵（简）Dragon - 9E97C9B2">
 		<rom name="二战特种兵（简）Dragon.gen" size="2097152" crc="9E97C9B2" md5="3E045C0ED81005D3BA12A1C457188A0B"/>
@@ -97,6 +103,12 @@
 	<game name="光明十字军（简）小鬼混 - 7C78C435">
 		<rom name="光明十字军（简）小鬼混.gen" size="2097152" crc="7C78C435" md5="9AB0B537BADDBE0C544DEE516E078026"/>
 	</game>
+	<game name="光辉传说（简）云飞 20240608 v1.0 - 73459203">
+		<rom name="光辉传说（简）云飞 20240608 v1.0.gen" size="1050784" crc="73459203" md5="CD5BAD5BBAA4C64F1344F6D2884635A4"/>
+	</game>
+	<game name="光辉传说（简）飞云 v1.0 - 56827579">
+		<rom name="光辉传说（简）飞云 v1.0.gen" size="1050784" crc="56827579" md5="2F6B2E0414D33EE96F0E084E5D16BE39"/>
+	</game>
 	<game name="冒险小子（繁）三协资讯 - D4403913">
 		<rom name="冒险小子（繁）三协资讯.gen" size="524288" crc="D4403913" md5="C277B15C9A7A3050E4B0BBCB796E27CC"/>
 	</game>
@@ -112,8 +124,8 @@
 	<game name="十六张麻将2（繁）松诠资讯 - EB88026D">
 		<rom name="十六张麻将2（繁）松诠资讯.gen" size="1048576" crc="EB88026D" md5="BDC7A61FB73A84BBCA634EC2F4D47EB4"/>
 	</game>
-	<game name="台湾大亨（繁）全崴资讯 - BAF20F81">
-		<rom name="台湾大亨（繁）全崴资讯.gen" size="1048576" crc="BAF20F81" md5="3D655FF935E30FA12A18FDA9DD6FA695"/>
+	<game name="台湾大亨（繁）全崴 - BAF20F81">
+		<rom name="台湾大亨（繁）全崴.gen" size="1048576" crc="BAF20F81" md5="3D655FF935E30FA12A18FDA9DD6FA695"/>
 	</game>
 	<game name="吃豆人2新冒险（简）Axi 文本对话汉化 - 5CD3F3ED">
 		<rom name="吃豆人2新冒险（简）Axi 文本对话汉化.gen" size="2621440" crc="5CD3F3ED" md5="4911D86FCD57B1BD347916951D08AC48"/>
@@ -130,8 +142,11 @@
 	<game name="吞食天地3（繁）SKOB - B23C4166">
 		<rom name="吞食天地3（繁）SKOB.gen" size="2097152" crc="B23C4166" md5="0FD2EB3DDDCED1D42C371220AA5B0359"/>
 	</game>
-	<game name="吞食天地3 - 三国外传（繁）三协资讯 - 6F98247D">
-		<rom name="吞食天地3 - 三国外传（繁）三协资讯.gen" size="2097152" crc="6F98247D" md5="14F05928D9539E6EAF31A7A0A64866D1"/>
+	<game name="吞食天地3（简） - 733E9120">
+		<rom name="吞食天地3（简）.smd" size="2097664" crc="733E9120" md5="B123BB1422F409B2F8C9A537D96EBBDA"/>
+	</game>
+	<game name="吞食天地3三国外传（繁）三协资讯 - 6F98247D">
+		<rom name="吞食天地3三国外传（繁）三协资讯.gen" size="2097152" crc="6F98247D" md5="14F05928D9539E6EAF31A7A0A64866D1"/>
 	</game>
 	<game name="圣战风云（简）永盛 147201688 - A5C04710">
 		<rom name="圣战风云（简）永盛 147201688.gen" size="1048576" crc="A5C04710" md5="5ED82FB2960525F820C512955B0D9642"/>
@@ -358,11 +373,8 @@
 	<game name="悟空外传（简） - 6683BD03">
 		<rom name="悟空外传（简）.gen" size="2097152" crc="6683BD03" md5="D8D651198D8486A5BA717D7D36A56077"/>
 	</game>
-	<game name="战棊（繁）松诠资讯 - 9D3DDE48">
-		<rom name="战棊（繁）松诠资讯.gen" size="1048576" crc="9D3DDE48" md5="EB93D57A82006DBFC865A2C51CE343F3"/>
-	</game>
-	<game name="战棋中国象棋（简）January - 475215A0">
-		<rom name="战棋中国象棋（简）January.gen" size="524288" crc="475215A0" md5="EAE446341FFC7E825C2D7C79222FEDC1"/>
+	<game name="战棋中国象棋（繁）松诠资讯 - 9D3DDE48">
+		<rom name="战棋中国象棋（繁）松诠资讯.gen" size="1048576" crc="9D3DDE48" md5="EB93D57A82006DBFC865A2C51CE343F3"/>
 	</game>
 	<game name="扑克女王俱乐部（繁）圣谦 - AE28D9EB">
 		<rom name="扑克女王俱乐部（繁）圣谦.gen" size="1048576" crc="AE28D9EB" md5="FB2F67D2F981A1802AE408E6A704B460"/>
@@ -373,8 +385,8 @@
 	<game name="托尔传说：光之继承者（繁）天使 - EBC50AFC">
 		<rom name="托尔传说：光之继承者（繁）天使.gen" size="3145728" crc="EBC50AFC" md5="DA3DAEE64DD72F749ED651493A564BDF"/>
 	</game>
-	<game name="捉鬼大师（繁）盛碁 - 76C62A8B">
-		<rom name="捉鬼大师（繁）盛碁.gen" size="524288" crc="76C62A8B" md5="4CFA0256C3DEB52A75C20E10B44574C6"/>
+	<game name="抓鬼大师（繁）盛碁 - 76C62A8B">
+		<rom name="抓鬼大师（繁）盛碁.gen" size="524288" crc="76C62A8B" md5="4CFA0256C3DEB52A75C20E10B44574C6"/>
 	</game>
 	<game name="数字射击（简）小鬼混 - 7A0876A0">
 		<rom name="数字射击（简）小鬼混.gen" size="1048576" crc="7A0876A0" md5="6B6588D43A8A462BF2A9D28558816B40"/>
@@ -382,14 +394,14 @@
 	<game name="斗技王（简）永盛 - 53EA0F67">
 		<rom name="斗技王（简）永盛.gen" size="1048576" crc="53EA0F67" md5="1449CFD44F8BE2842727712A2EF92CD7"/>
 	</game>
-	<game name="斩 - 夜叉圆舞曲（简）cslrxyz - F892837E">
-		<rom name="斩 - 夜叉圆舞曲（简）cslrxyz.gen" size="524288" crc="F892837E" md5="B13F4837905623978C268C03728ED755"/>
+	<game name="斩：夜叉圆舞曲（简）cslrxyz - F892837E">
+		<rom name="斩：夜叉圆舞曲（简）cslrxyz.gen" size="524288" crc="F892837E" md5="B13F4837905623978C268C03728ED755"/>
 	</game>
-	<game name="新乞丐王子（繁）全崴资讯 - DD2F38B5">
-		<rom name="新乞丐王子（繁）全崴资讯.gen" size="4194304" crc="DD2F38B5" md5="528E171264EBFD90E53FD9667D1C61D1"/>
+	<game name="新乞丐王子（繁）全崴 - DD2F38B5">
+		<rom name="新乞丐王子（繁）全崴.gen" size="4194304" crc="DD2F38B5" md5="528E171264EBFD90E53FD9667D1C61D1"/>
 	</game>
-	<game name="新乞丐王子（繁）全崴资讯 小鬼混 修正版 - E1A55A41">
-		<rom name="新乞丐王子（繁）全崴资讯 小鬼混 修正版.gen" size="4194304" crc="E1A55A41" md5="CDA1C5FA4CD72C9188A228B11150440B"/>
+	<game name="新乞丐王子（繁）全崴 修正版 - E1A55A41">
+		<rom name="新乞丐王子（繁）全崴 修正版.gen" size="4194304" crc="E1A55A41" md5="CDA1C5FA4CD72C9188A228B11150440B"/>
 	</game>
 	<game name="新乞丐王子（简）永盛 - D41D7CB0">
 		<rom name="新乞丐王子（简）永盛.gen" size="4194304" crc="D41D7CB0" md5="A91863BF0089B1B01B425BBBE2F08004"/>
@@ -426,9 +438,6 @@
 	</game>
 	<game name="星际枪骑兵（简）SGGG 20210402 v0.7 - C9740045">
 		<rom name="星际枪骑兵（简）SGGG 20210402 v0.7.gen" size="2097152" crc="C9740045" md5="5C4DC552207787710F389D7D869B65CA"/>
-	</game>
-	<game name="杨家将 - 一门英烈（繁）三协资讯 - 6604A79E">
-		<rom name="杨家将 - 一门英烈（繁）三协资讯.gen" size="2097152" crc="6604A79E" md5="B29476FAA932165D616A2822E92DEC8F"/>
 	</game>
 	<game name="格斗王（简）未知 - 174DEFE6">
 		<rom name="格斗王（简）未知.gen" size="2097152" crc="174DEFE6" md5="5BDF0B1C03805200FFBC24E7941820EB"/>
@@ -502,6 +511,12 @@
 	<game name="欢乐淘气鼠（繁）川普 - DECDF740">
 		<rom name="欢乐淘气鼠（繁）川普.gen" size="524288" crc="DECDF740" md5="E0993ECF100AE0DFEE28DA9BC922B98F"/>
 	</game>
+	<game name="武者雅士达（简）云飞 20240608 - 63BE662B">
+		<rom name="武者雅士达（简）云飞 20240608.gen" size="524288" crc="63BE662B" md5="0A33405C24F88BC985B0D2A8557A7099"/>
+	</game>
+	<game name="武者雅士达（简）1d4444 20240610 v1.0 - 43C9D13E">
+		<rom name="武者雅士达（简）1d4444 20240610 v1.0.gen" size="524288" crc="43C9D13E" md5="EFC6F1747A11B574A715DCF019DBF8FD"/>
+	</game>
 	<game name="水浒 - 风云传（繁）Never Ending Soft Team - 3E9E010C">
 		<rom name="水浒 - 风云传（繁）Never Ending Soft Team.gen" size="2097152" crc="3E9E010C" md5="171D1381A9650572F9F13627976F397A"/>
 	</game>
@@ -556,11 +571,11 @@
 	<game name="热血高校躲避球部 - 足球篇（简）热血的鱼缸 - E035661F">
 		<rom name="热血高校躲避球部 - 足球篇（简）热血的鱼缸.gen" size="1392768" crc="E035661F" md5="7F205801D2150826C87F72B6254D0EE7"/>
 	</game>
-	<game name="爆笑三国（简）全崴资讯 147201688 - DF107B54">
-		<rom name="爆笑三国（简）全崴资讯 147201688.gen" size="1048576" crc="DF107B54" md5="3A128FFCB58D1E9C5A931EEB2802AD2F"/>
+	<game name="爆笑三国（简）全崴 - DF107B54">
+		<rom name="爆笑三国（简）全崴.gen" size="1048576" crc="DF107B54" md5="3A128FFCB58D1E9C5A931EEB2802AD2F"/>
 	</game>
-	<game name="爆笑三国（繁）全崴资讯 - 496EB1D1">
-		<rom name="爆笑三国（繁）全崴资讯.gen" size="1048576" crc="496EB1D1" md5="3E06FF4B7344EE11DC9CD15F307BE6E3"/>
+	<game name="爆笑三国（繁）全崴 - 496EB1D1">
+		<rom name="爆笑三国（繁）全崴.gen" size="1048576" crc="496EB1D1" md5="3E06FF4B7344EE11DC9CD15F307BE6E3"/>
 	</game>
 	<game name="特殊部队357（简）永盛 147201688 - 8C61F7C4">
 		<rom name="特殊部队357（简）永盛 147201688.gen" size="1048576" crc="8C61F7C4" md5="BD3F0B8835C13B01631924D4F39A49BC"/>
@@ -673,6 +688,12 @@
 	<game name="超级大富豪（繁）未知 - 0CACD325">
 		<rom name="超级大富豪（繁）未知.gen" size="2097152" crc="0CACD325" md5="3104B365B79ACD0AB28E6F3A64E7DD58"/>
 	</game>
+	<game name="超级幻想地带（简）1d4444 20240511 v0.9 - 9A7DC94D">
+		<rom name="超级幻想地带（简）1d4444 20240511 v0.9.gen" size="1048576" crc="9A7DC94D" md5="B6B5D017C81ADE3AA07E55086845FAE2"/>
+	</game>
+	<game name="超级幻想地带（简）1d4444 20240531 v1.0 剧情 - 29852878">
+		<rom name="超级幻想地带（简）1d4444 20240531 v1.0 剧情.gen" size="1048576" crc="29852878" md5="0CDC4B58D0FD279687F92157510F123D"/>
+	</game>
 	<game name="超级忍2（简）cslrxyz - 8D8FB732">
 		<rom name="超级忍2（简）cslrxyz.gen" size="1048576" crc="8D8FB732" md5="7FE3C16EF50BB8803D3973BDA1BD8840"/>
 	</game>
@@ -694,11 +715,17 @@
 	<game name="野蛇（繁）小鬼混 简菜单 - C3B7785C">
 		<rom name="野蛇（繁）小鬼混 简菜单.gen" size="524288" crc="C3B7785C" md5="2C15E65BBDF847BE386655DC654C66AC"/>
 	</game>
-	<game name="阿Q连环泡（繁）全崴资讯 - 2C6CBD77">
-		<rom name="阿Q连环泡（繁）全崴资讯.gen" size="1048576" crc="2C6CBD77" md5="3CC6DF243E714097F1599CF618F94D0B"/>
+	<game name="阿Q连环泡（繁）全崴 - 2C6CBD77">
+		<rom name="阿Q连环泡（繁）全崴.gen" size="1048576" crc="2C6CBD77" md5="3CC6DF243E714097F1599CF618F94D0B"/>
 	</game>
-	<game name="阿斯特兄弟（简）Neofid STEAM提取修复 - FC12C174">
-		<rom name="阿斯特兄弟（简）Neofid STEAM提取修复.gen" size="15466496" crc="FC12C174" md5="D32557486F6B7F2EAE8D78C135827847"/>
+	<game name="阿斯特堡兄弟（简）lanyer 官中修正标头 - FC12C174">
+		<rom name="阿斯特堡兄弟（简）lanyer 官中修正标头.gen" size="15466496" crc="FC12C174" md5="D32557486F6B7F2EAE8D78C135827847"/>
+	</game>
+	<game name="阿斯特堡兄弟（简）官中 - F6700999">
+		<rom name="阿斯特堡兄弟（简）官中.gen" size="15466496" crc="F6700999" md5="BA83B3D85B28B0CED030B62BC288FE3B"/>
+	</game>
+	<game name="阿斯特堡兄弟（简）官中 - 0833390C">
+		<rom name="阿斯特堡兄弟（简）官中.gen" size="15466496" crc="0833390C" md5="985D5E1255F5E65799A36A6A9063C9F8"/>
 	</game>
 	<game name="阿斯特堡的恶魔（简）官中 20240205 v3 - 9A6BD0B6">
 		<rom name="阿斯特堡的恶魔（简）官中 20240205 v3.gen" size="15466496" crc="9A6BD0B6" md5="C77559919FB556009D637A53C563F930"/>
@@ -715,17 +742,17 @@
 	<game name="风中奇缘（简）SGGG 20210513 v0.2 - E9E05359">
 		<rom name="风中奇缘（简）SGGG 20210513 v0.2.gen" size="5242880" crc="E9E05359" md5="F05BEE874A74F864BAD14C08ECFE3742"/>
 	</game>
-	<game name="魂斗罗 - 铁血兵团（简）梦组 - 8EEE5895">
-		<rom name="魂斗罗 - 铁血兵团（简）梦组.gen" size="2097152" crc="8EEE5895" md5="5E31D4A00D896105198B5AF9822C00A5"/>
+	<game name="魂斗罗：铁血兵团（简）梦组 - 8EEE5895">
+		<rom name="魂斗罗：铁血兵团（简）梦组.gen" size="2097152" crc="8EEE5895" md5="5E31D4A00D896105198B5AF9822C00A5"/>
 	</game>
-	<game name="魂斗罗 - 铁血兵团（繁）梦组 - 8CCD66E6">
-		<rom name="魂斗罗 - 铁血兵团（繁）梦组.gen" size="2097152" crc="8CCD66E6" md5="6A14BB16AD69D3504E662A00C21C0A90"/>
+	<game name="魂斗罗：铁血兵团（繁）梦组 - 8CCD66E6">
+		<rom name="魂斗罗：铁血兵团（繁）梦组.gen" size="2097152" crc="8CCD66E6" md5="6A14BB16AD69D3504E662A00C21C0A90"/>
 	</game>
 	<game name="魔导物语（简）小鬼混 - 89F78523">
 		<rom name="魔导物语（简）小鬼混.gen" size="2097152" crc="89F78523" md5="B6B9C5866DAA2F65AE86C2A6B7A24356"/>
 	</game>
-	<game name="麻雀恶魔塔（繁）全崴资讯 - 12E35994">
-		<rom name="麻雀恶魔塔（繁）全崴资讯.gen" size="1048576" crc="12E35994" md5="B6CE4E32558F71766B662CB741CD4570"/>
+	<game name="麻雀恶魔塔（繁）全崴 - 12E35994">
+		<rom name="麻雀恶魔塔（繁）全崴.gen" size="1048576" crc="12E35994" md5="B6CE4E32558F71766B662CB741CD4570"/>
 	</game>
 	<game name="龙（繁）松玲 - 1B86E623">
 		<rom name="龙（繁）松玲.gen" size="262144" crc="1B86E623" md5="DBFA3AC3C752D83B73540C177CED0CAB"/>

@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20240400</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20240700</version></header>
 	<game name="GO!GO!恶魔少年（繁）模拟中文网 v1.01 - 8CD0822E">
 		<rom name="GO!GO!恶魔少年（繁）模拟中文网 v1.01.sfc" size="1310720" crc="8CD0822E" md5="99378BB306088C9F228449C57669193F"/>
 	</game>
 	<game name="GO!GO!恶魔少年（简）模拟中文网 v1.01 - F28EBB84">
 		<rom name="GO!GO!恶魔少年（简）模拟中文网 v1.01.sfc" size="1310720" crc="F28EBB84" md5="0A100BA822F95388DD20F40DF57AF5F8"/>
 	</game>
-	<game name="松村邦洋传（简）1d4444 20240416 v0.8 - 95B5E7FD">
-		<rom name="松村邦洋传（简）1d4444 20240416 v0.8.sfc" size="3145728" crc="95B5E7FD" md5="2A0DA34B412F2CCAC76A289A897A7319"/>
-	</game>
 	<game name="三国志 英杰传（简）WGF MXJ7546 v0.51 - 0FE0B6B4">
 		<rom name="三国志 英杰传（简）WGF MXJ7546 v0.51.sfc" size="3145728" crc="0FE0B6B4" md5="3143C12FDFA489318570A49843825D20"/>
 	</game>
 	<game name="三国志3（繁）KOEI 官中 - 30D3A7F4">
 		<rom name="三国志3（繁）KOEI 官中.sfc" size="1572864" crc="30D3A7F4" md5="05D483000FB14DBEA39B63A575E976FD"/>
+	</game>
+	<game name="不可思议的迷宫2风来的西林（简）FENGHAIM14 v0.1 - 2B571644">
+		<rom name="不可思议的迷宫2风来的西林（简）FENGHAIM14 v0.1.sfc" size="4194304" crc="2B571644" md5="51DEA7B913527321FBCA5DB5EB9757CD"/>
+	</game>
+	<game name="不可思议的迷宫2风来的西林（简）CHRONO 少量汉化 - 9A19C0FA">
+		<rom name="不可思议的迷宫2风来的西林（简）CHRONO 少量汉化.sfc" size="4194304" crc="9A19C0FA" md5="C0B9F2D0129CBB08939EB8A9E76AF4A0"/>
+	</game>
+	<game name="不可思议的迷宫2风来的西林（简）WERTHER等 天幻 v1.00 - B8D26134">
+		<rom name="不可思议的迷宫2风来的西林（简）WERTHER等 天幻 v1.00.sfc" size="4194304" crc="B8D26134" md5="F0076EE5D7D25E8E54C26B3AC8E80546"/>
+	</game>
+	<game name="不可思议的迷宫2风来的西林（繁）WERTHER 天幻 MANKEE610 v1.00 - A5CEF1E5">
+		<rom name="不可思议的迷宫2风来的西林（繁）WERTHER 天幻 MANKEE610 v1.00.sfc" size="4194304" crc="A5CEF1E5" md5="6A050BE0F33FA200898509576B6F1711"/>
 	</game>
 	<game name="任天堂文库：起始之森（简）hlken NP 机翻 - EDE72474">
 		<rom name="任天堂文库：起始之森（简）hlken NP 机翻.sfc" size="4194304" crc="EDE72474" md5="20C601A87BF5F6EFA097121F62C16C85"/>
@@ -61,6 +70,9 @@
 	<game name="勇者斗恶龙6幻之大地（繁）勇者 v0.92 英菜单 - AD6C9224">
 		<rom name="勇者斗恶龙6幻之大地（繁）勇者 v0.92 英菜单.sfc" size="4194304" crc="AD6C9224" md5="4AF96E15D41B81710BAB1386B64E9880"/>
 	</game>
+	<game name="勇者斗恶龙6幻之大地（简）勇者 全剧情 日菜单 - E6D86829">
+		<rom name="勇者斗恶龙6幻之大地（简）勇者 全剧情 日菜单.smc" size="4194816" crc="E6D86829" md5="2BC904FC119917D39874FE299F162D0B"/>
+	</game>
 	<game name="勇者斗恶龙6幻之大地（繁）勇者 全剧情 日菜单 - CE9DC14F">
 		<rom name="勇者斗恶龙6幻之大地（繁）勇者 全剧情 日菜单.sfc" size="4194304" crc="CE9DC14F" md5="167136667297C02947354618D88C4CAD"/>
 	</game>
@@ -70,8 +82,8 @@
 	<game name="勇者斗恶龙6幻之大地（简）勇者 全剧情 日菜单 fixCRC - 84FEB3D4">
 		<rom name="勇者斗恶龙6幻之大地（简）勇者 全剧情 日菜单 fixCRC.sfc" size="4194304" crc="84FEB3D4" md5="25C2D0939564BEE6CEE14BD84443FB63"/>
 	</game>
-	<game name="北斗神拳7（简）狂细胞 部分汉化 - 4F1685AD">
-		<rom name="北斗神拳7（简）狂细胞 部分汉化.sfc" size="2621440" crc="4F1685AD" md5="195A840822EE88DBA1A7F5DFE0B7E592"/>
+	<game name="北斗神拳7（简）madcell 部分汉化 - 4F1685AD">
+		<rom name="北斗神拳7（简）madcell 部分汉化.sfc" size="2621440" crc="4F1685AD" md5="195A840822EE88DBA1A7F5DFE0B7E592"/>
 	</game>
 	<game name="十六张麻将-星座女郎篇（繁）不明 - 561BBD96">
 		<rom name="十六张麻将-星座女郎篇（繁）不明.sfc" size="524288" crc="561BBD96" md5="2A5B7B6DDD3B0516CABCC5645F452140"/>
@@ -81,9 +93,6 @@
 	</game>
 	<game name="吞食天地：三国群雄传（简）CSLRXYZ v1.01 - A3C60293">
 		<rom name="吞食天地：三国群雄传（简）CSLRXYZ v1.01.sfc" size="1572864" crc="A3C60293" md5="426C10D64BF6F959741804F582D167EA"/>
-	</game>
-	<game name="哆啦A梦4 大雄和月之王国（简）HXR-DC 少量汉化 - C190F0E3">
-		<rom name="哆啦A梦4 大雄和月之王国（简）HXR-DC 少量汉化.sfc" size="1572864" crc="C190F0E3" md5="0605FC35FF8CCEB8BF5E199732BB6005"/>
 	</game>
 	<game name="圣剑传说3（繁）天幻 PTT v1.0 - 86C49FCD">
 		<rom name="圣剑传说3（繁）天幻 PTT v1.0.sfc" size="4194304" crc="86C49FCD" md5="000D81B61A730568F9EC5A19EB64E40F"/>
@@ -111,6 +120,12 @@
 	</game>
 	<game name="塞尔达传说：众神的三角力量（简）hlken MSU1汉字花屏修正 - C1D16A61">
 		<rom name="塞尔达传说：众神的三角力量（简）hlken MSU1汉字花屏修正.sfc" size="2097152" crc="C1D16A61" md5="2925CD94FFF8DA4489DC698BEB87CEC3"/>
+	</game>
+	<game name="复活邪神3-体验版（简）WERTHER等 天幻 v1.01 - C9A66742">
+		<rom name="复活邪神3-体验版（简）WERTHER等 天幻 v1.01.sfc" size="4194304" crc="C9A66742" md5="E1483EBA6B9ED6DB51A0A013A98F021B"/>
+	</game>
+	<game name="复活邪神3-体验版（繁）WERTHER等 天幻 v1.01 - C8D13BDB">
+		<rom name="复活邪神3-体验版（繁）WERTHER等 天幻 v1.01.sfc" size="4194304" crc="C8D13BDB" md5="A1085B6BC053E163055DE7720210AB77"/>
 	</game>
 	<game name="大地勇士：海与风的鼓动（简）阿刃 20240403 - DC4D666E">
 		<rom name="大地勇士：海与风的鼓动（简）阿刃 20240403.smc" size="1245184" crc="DC4D666E" md5="88418E79ACDA58D3790E61458A558808"/>
@@ -154,11 +169,14 @@
 	<game name="如梦似幻（繁）RickyL1213 v2.0 片头乱码 - DD404FBA">
 		<rom name="如梦似幻（繁）RickyL1213 v2.0 片头乱码.sfc" size="1572864" crc="DD404FBA" md5="ACB6941C7E5E82FB7396884B66E36456"/>
 	</game>
-	<game name="小讨厌（简） - B694ED94">
-		<rom name="小讨厌（简）.sfc" size="1048576" crc="B694ED94" md5="E23F0A35D4AFE14BABB65578E4075B12"/>
+	<game name="小叮当4（简）HXR-DC 少量汉化 - C190F0E3">
+		<rom name="小叮当4（简）HXR-DC 少量汉化.sfc" size="1572864" crc="C190F0E3" md5="0605FC35FF8CCEB8BF5E199732BB6005"/>
 	</game>
-	<game name="小讨厌 梦幻仙境（简）Advance v1.1 - 5462B57C">
-		<rom name="小讨厌 梦幻仙境（简）Advance v1.1.sfc" size="1048576" crc="5462B57C" md5="41F940DB96371526CFDD357A0127D749"/>
+	<game name="小讨厌：梦幻仙境（简）Advance v1.1 - 5462B57C">
+		<rom name="小讨厌：梦幻仙境（简）Advance v1.1.sfc" size="1048576" crc="5462B57C" md5="41F940DB96371526CFDD357A0127D749"/>
+	</game>
+	<game name="小讨厌：梦幻仙境（简） - B694ED94">
+		<rom name="小讨厌：梦幻仙境（简）.sfc" size="1048576" crc="B694ED94" md5="E23F0A35D4AFE14BABB65578E4075B12"/>
 	</game>
 	<game name="巴巴罗萨（简）CSLRXYZ 剧情汉化 - 21CE1EC9">
 		<rom name="巴巴罗萨（简）CSLRXYZ 剧情汉化.sfc" size="1048576" crc="21CE1EC9" md5="B76A586194BA766FE2EF45ABB3A79373"/>
@@ -166,8 +184,8 @@
 	<game name="忍者神龟：时空神龟（简）DMG v1.0 - D7189DEB">
 		<rom name="忍者神龟：时空神龟（简）DMG v1.0.sfc" size="1310720" crc="D7189DEB" md5="66F668472DA177F2A89FB8C3F9E818A5"/>
 	</game>
-	<game name="快打旋风（简）狂细胞 v1.0 - B09AA1BA">
-		<rom name="快打旋风（简）狂细胞 v1.0.sfc" size="1310720" crc="B09AA1BA" md5="C02A087D2F4B6197CC653A9760740C65"/>
+	<game name="快打旋风（简）madcell v1.0 - B09AA1BA">
+		<rom name="快打旋风（简）madcell v1.0.sfc" size="1310720" crc="B09AA1BA" md5="C02A087D2F4B6197CC653A9760740C65"/>
 	</game>
 	<game name="快打旋风3（简）Advance - 53352015">
 		<rom name="快打旋风3（简）Advance.sfc" size="4194304" crc="53352015" md5="28B80A25BF2F8D82590F1AE2CE88BD9C"/>
@@ -205,8 +223,8 @@
 	<game name="新·热血硬派：国夫们的挽歌（繁）WayForward 官繁 fixCRC - 11355475">
 		<rom name="新·热血硬派：国夫们的挽歌（繁）WayForward 官繁 fixCRC.sfc" size="4194304" crc="11355475" md5="A0B6C231CF4E73E59BEE5A236BEA5A9F"/>
 	</game>
-	<game name="旅梦人：盗不走的宝石（简） - 02E56351">
-		<rom name="旅梦人：盗不走的宝石（简）.sfc" size="4194304" crc="02E56351" md5="068501A3984F182CA6DF60959AE3A41C"/>
+	<game name="旅梦人（改）ChronoCross蓝本 - 02E56351">
+		<rom name="旅梦人（改）ChronoCross蓝本.sfc" size="4194304" crc="02E56351" md5="068501A3984F182CA6DF60959AE3A41C"/>
 	</game>
 	<game name="无人岛物语（简）天空 部分汉化 - 2448C44F">
 		<rom name="无人岛物语（简）天空 部分汉化.sfc" size="2097152" crc="2448C44F" md5="34422D8C6FC011F2021E9944353263CD"/>
@@ -238,8 +256,11 @@
 	<game name="最终幻想6（简）勇者 v1.1 日菜单 - 324FE6C5">
 		<rom name="最终幻想6（简）勇者 v1.1 日菜单.sfc" size="3670016" crc="324FE6C5" md5="B26CCEE340A5A36B49AF70BB63309579"/>
 	</game>
-	<game name="梦幻模拟战（简）狂细胞 DEHEPO 20101105 - 63EACA14">
-		<rom name="梦幻模拟战（简）狂细胞 DEHEPO 20101105.sfc" size="3145728" crc="63EACA14" md5="D0DCDF3371D01E11283D8F2FE13445B2"/>
+	<game name="松村邦洋传（简）1d4444 20240416 v0.8 - 95B5E7FD">
+		<rom name="松村邦洋传（简）1d4444 20240416 v0.8.sfc" size="3145728" crc="95B5E7FD" md5="2A0DA34B412F2CCAC76A289A897A7319"/>
+	</game>
+	<game name="梦幻模拟战（简）madcell DEHEPO 20101105 - 63EACA14">
+		<rom name="梦幻模拟战（简）madcell DEHEPO 20101105.sfc" size="3145728" crc="63EACA14" md5="D0DCDF3371D01E11283D8F2FE13445B2"/>
 	</game>
 	<game name="梦幻模拟战（简）痕 雪剑冰刀 v1.31 - BA4567CA">
 		<rom name="梦幻模拟战（简）痕 雪剑冰刀 v1.31.sfc" size="4194304" crc="BA4567CA" md5="D2140083C3A37A1C07A7131B8397482D"/>
@@ -253,20 +274,14 @@
 	<game name="横山光辉三国志（简）混沌星辰 v1.2 - F73F7DB6">
 		<rom name="横山光辉三国志（简）混沌星辰 v1.2.sfc" size="1048576" crc="F73F7DB6" md5="6D6D106E16C0E297BE9EC225447971C7"/>
 	</game>
-	<game name="浪漫沙加3（简）WERTHER等 天幻 v1.01 - C9A66742">
-		<rom name="浪漫沙加3（简）WERTHER等 天幻 v1.01.sfc" size="4194304" crc="C9A66742" md5="E1483EBA6B9ED6DB51A0A013A98F021B"/>
+	<game name="灌篮高手SD激斗升级（简）风干的包子 fixCRC - 3497AC77">
+		<rom name="灌篮高手SD激斗升级（简）风干的包子 fixCRC.sfc" size="4194304" crc="3497AC77" md5="C8BD327689723177C4B6866CB9476682"/>
 	</game>
-	<game name="浪漫沙加3（繁）WERTHER等 天幻 v1.01 - C8D13BDB">
-		<rom name="浪漫沙加3（繁）WERTHER等 天幻 v1.01.sfc" size="4194304" crc="C8D13BDB" md5="A1085B6BC053E163055DE7720210AB77"/>
+	<game name="灌篮高手SD激斗升级（简）风干的包子 - 8AEBF128">
+		<rom name="灌篮高手SD激斗升级（简）风干的包子.sfc" size="4194304" crc="8AEBF128" md5="6FC1C373A0CBB279A2A8ED93328E14DE"/>
 	</game>
-	<game name="灌篮高手 SD版激斗升级（简）风干的包子 - 8AEBF128">
-		<rom name="灌篮高手 SD版激斗升级（简）风干的包子.sfc" size="4194304" crc="8AEBF128" md5="6FC1C373A0CBB279A2A8ED93328E14DE"/>
-	</game>
-	<game name="灌篮高手 SD版激斗升级!!（简）风干的包子 fixCRC - 3497AC77">
-		<rom name="灌篮高手 SD版激斗升级!!（简）风干的包子 fixCRC.sfc" size="4194304" crc="3497AC77" md5="C8BD327689723177C4B6866CB9476682"/>
-	</game>
-	<game name="灌篮高手2（简）勇者 v0.3 - 46CC9F4B">
-		<rom name="灌篮高手2（简）勇者 v0.3.sfc" size="3145728" crc="46CC9F4B" md5="7618FF4E5C229AECDFC7D2C1BFBA4A16"/>
+	<game name="灌蓝高手2（简）勇者 v0.3 - 46CC9F4B">
+		<rom name="灌蓝高手2（简）勇者 v0.3.sfc" size="3145728" crc="46CC9F4B" md5="7618FF4E5C229AECDFC7D2C1BFBA4A16"/>
 	</game>
 	<game name="火焰之纹章：圣战之系谱（繁）火花 v1.1 - 8ED60773">
 		<rom name="火焰之纹章：圣战之系谱（繁）火花 v1.1.sfc" size="4194304" crc="8ED60773" md5="612C2C3B8639E531CA8B0577924B02E2"/>
@@ -291,6 +306,9 @@
 	</game>
 	<game name="火焰之纹章：多拉基亚776（简）火花 狼组 - 19662100">
 		<rom name="火焰之纹章：多拉基亚776（简）火花 狼组.sfc" size="4194304" crc="19662100" md5="CD8A499A6810FDBDBF44C1B0C9F9F1F4"/>
+	</game>
+	<game name="火焰之纹章：多拉基亚776（简）火花 狼组 - C8565FCF">
+		<rom name="火焰之纹章：多拉基亚776（简）火花 狼组.smc" size="4194816" crc="C8565FCF" md5="FCBA33D0EB7E0F5950C9526EFD99A542"/>
 	</game>
 	<game name="火焰之纹章：多拉基亚776（简）火花 狼组 - F3F349C2">
 		<rom name="火焰之纹章：多拉基亚776（简）火花 狼组.sfc" size="4194304" crc="F3F349C2" md5="3261BD437DD6A2CB48146D64610E6C63"/>
@@ -328,8 +346,8 @@
 	<game name="皇家骑士团（简）无花泥 v0.04A - 743955B8">
 		<rom name="皇家骑士团（简）无花泥 v0.04A.sfc" size="1572864" crc="743955B8" md5="717735395482941666A88229916E6DC0"/>
 	</game>
-	<game name="皇家骑士团2（繁）鲁拉 v2 测试 - 7DC73988">
-		<rom name="皇家骑士团2（繁）鲁拉 v2 测试.sfc" size="4194304" crc="7DC73988" md5="2B72B052D2173C60AA811600B2327B52"/>
+	<game name="皇家骑士团21.0版（繁）鲁拉 v2 测试 - 7DC73988">
+		<rom name="皇家骑士团21.0版（繁）鲁拉 v2 测试.sfc" size="4194304" crc="7DC73988" md5="2B72B052D2173C60AA811600B2327B52"/>
 	</game>
 	<game name="盖亚幻想纪（繁）MAGICMIRROR v1.0 - D70D6669">
 		<rom name="盖亚幻想纪（繁）MAGICMIRROR v1.0.sfc" size="4194304" crc="D70D6669" md5="7ECCD292D902A3E1BEA715F1320EF8C3"/>
@@ -382,8 +400,8 @@
 	<game name="绀碧之舰队（简）CSLRXYZ - D737B921">
 		<rom name="绀碧之舰队（简）CSLRXYZ.sfc" size="1572864" crc="D737B921" md5="F133D7E8BFEDB69519F0538A528221B5"/>
 	</game>
-	<game name="美少女摔跤手列传（简）v0.51 - 97BC293A">
-		<rom name="美少女摔跤手列传（简）v0.51.sfc" size="4194304" crc="97BC293A" md5="B7B6424C059C2A3D613B17E6A7BA547B"/>
+	<game name="美少女摔角列传（简）v0.51 - 97BC293A">
+		<rom name="美少女摔角列传（简）v0.51.sfc" size="4194304" crc="97BC293A" md5="B7B6424C059C2A3D613B17E6A7BA547B"/>
 	</game>
 	<game name="街头快打3（简）Advance 2019 - 9EBEB2E2">
 		<rom name="街头快打3（简）Advance 2019.sfc" size="4194304" crc="9EBEB2E2" md5="FC6C726C9514DFF5EBA4C0B41C5B9A3A"/>
@@ -400,8 +418,26 @@
 	<game name="超时空之轮（简）GOLDEGG 测试 - 3ED4F8F0">
 		<rom name="超时空之轮（简）GOLDEGG 测试.sfc" size="4194304" crc="3ED4F8F0" md5="792A6F9F7E2D4CA0EF783FE302EA320C"/>
 	</game>
+	<game name="超级密特罗德（简）CHRONO v0.8 - F883843E">
+		<rom name="超级密特罗德（简）CHRONO v0.8.smc" size="3145728" crc="F883843E" md5="B6EABC2C6DF62A3D0F2BC2C1EF223324"/>
+	</game>
 	<game name="超级密特罗德（简）CHRONO v0.8 - AFF6E8FE">
 		<rom name="超级密特罗德（简）CHRONO v0.8.sfc" size="3145728" crc="AFF6E8FE" md5="0A4754529F2273484FAE45859EC9D6EB"/>
+	</game>
+	<game name="超级密特罗德（改）Airy3 - 0A6D90EE">
+		<rom name="超级密特罗德（改）Airy3.sfc" size="3211264" crc="0A6D90EE" md5="BCE01C9DBC1BE915B3ABDD3AF63C341A"/>
+	</game>
+	<game name="超级密特罗德（改）Subversion 1.2 - 8EED8C7A">
+		<rom name="超级密特罗德（改）Subversion 1.2.sfc" size="4194304" crc="8EED8C7A" md5="4EEDB485D1916DBEB9103FFF11E67D74"/>
+	</game>
+	<game name="超级密特罗德（改）VITALITY 2020 - D16DAA47">
+		<rom name="超级密特罗德（改）VITALITY 2020.sfc" size="3932160" crc="D16DAA47" md5="6092A3EA09347E1800E330EA27EFBEF2"/>
+	</game>
+	<game name="超级密特罗德（改）Y-Faster 2 Fast 1.1 - 2EBB5EC0">
+		<rom name="超级密特罗德（改）Y-Faster 2 Fast 1.1.sfc" size="3145728" crc="2EBB5EC0" md5="5D7D3037FB142C735883A26CB264B5FA"/>
+	</game>
+	<game name="超级密特罗德（改）zFactor 1.3 - CEA89814">
+		<rom name="超级密特罗德（改）zFactor 1.3.sfc" size="3309568" crc="CEA89814" md5="79F6B26300303872CC1DE9D5B7E0A1EE"/>
 	</game>
 	<game name="超级机器人大战EX（简）WGF - 58E2F753">
 		<rom name="超级机器人大战EX（简）WGF.sfc" size="2097152" crc="58E2F753" md5="D44507BCFBBC906A72B3B4BB85E79501"/>
@@ -415,8 +451,8 @@
 	<game name="超级机器人大战外传：魔装机神：元素领主（简）WGF - 769B1D29">
 		<rom name="超级机器人大战外传：魔装机神：元素领主（简）WGF.sfc" size="4194304" crc="769B1D29" md5="B921DF2065ABE9E00C6CB41796D262C4"/>
 	</game>
-	<game name="超级街头霸王2（简）狂细胞 人名汉化 - C400CF5A">
-		<rom name="超级街头霸王2（简）狂细胞 人名汉化.sfc" size="4194304" crc="C400CF5A" md5="3B62165E1FFFE75A0A5B73848E16453B"/>
+	<game name="超级街头霸王2-新的挑战者（简）madcell 人名汉化 - C400CF5A">
+		<rom name="超级街头霸王2-新的挑战者（简）madcell 人名汉化.sfc" size="4194304" crc="C400CF5A" md5="3B62165E1FFFE75A0A5B73848E16453B"/>
 	</game>
 	<game name="超级马力欧RPG（简）hlken 20230228 v1.0 - 62DA4CCA">
 		<rom name="超级马力欧RPG（简）hlken 20230228 v1.0.sfc" size="5242880" crc="62DA4CCA" md5="F886233D8FD593C54C72CC43C9A55737"/>
@@ -429,6 +465,9 @@
 	</game>
 	<game name="超级马力欧合集（简）王潇亮 少量汉化 - 66F72305">
 		<rom name="超级马力欧合集（简）王潇亮 少量汉化.sfc" size="3145728" crc="66F72305" md5="903809983479DC75297EA38253ED78C5"/>
+	</game>
+	<game name="迦楼逻王（简）阿刃 20240519 - 10D9AA57">
+		<rom name="迦楼逻王（简）阿刃 20240519.smc" size="1048576" crc="10D9AA57" md5="6D0FB92D7C54FDEB264374721DC0D2FA"/>
 	</game>
 	<game name="重装机兵2（简）狼组 v0.6 - 71514067">
 		<rom name="重装机兵2（简）狼组 v0.6.sfc" size="2097152" crc="71514067" md5="8E1262E498355AD566DA836937FD82D6"/>
@@ -520,23 +559,11 @@
 	<game name="隐逝的黑暗（简）HP1980 第一章汉化 - 133D823E">
 		<rom name="隐逝的黑暗（简）HP1980 第一章汉化.sfc" size="3145728" crc="133D823E" md5="BE0CFAC578D39BB37C658949F521CDEE"/>
 	</game>
-	<game name="风来的西林（简）FENGHAIM14 v0.1 - 2B571644">
-		<rom name="风来的西林（简）FENGHAIM14 v0.1.sfc" size="4194304" crc="2B571644" md5="51DEA7B913527321FBCA5DB5EB9757CD"/>
-	</game>
-	<game name="风来的西林（简）CHRONO 少量汉化 - 9A19C0FA">
-		<rom name="风来的西林（简）CHRONO 少量汉化.sfc" size="4194304" crc="9A19C0FA" md5="C0B9F2D0129CBB08939EB8A9E76AF4A0"/>
-	</game>
-	<game name="风来的西林（简）WERTHER等 天幻 v1.00 - B8D26134">
-		<rom name="风来的西林（简）WERTHER等 天幻 v1.00.sfc" size="4194304" crc="B8D26134" md5="F0076EE5D7D25E8E54C26B3AC8E80546"/>
-	</game>
-	<game name="风来的西林（繁）WERTHER 天幻 MANKEE610 v1.00 - A5CEF1E5">
-		<rom name="风来的西林（繁）WERTHER 天幻 MANKEE610 v1.00.sfc" size="4194304" crc="A5CEF1E5" md5="6A050BE0F33FA200898509576B6F1711"/>
-	</game>
-	<game name="鬼神童子 烈斗雷传（简）勇者 v0.9 - 084226C1">
-		<rom name="鬼神童子 烈斗雷传（简）勇者 v0.9.sfc" size="2097152" crc="084226C1" md5="75DEB0E39D661F6CF65FBB6BA9D0E54F"/>
-	</game>
 	<game name="鬼神童子-烈斗雷传（繁）勇者 v0.9 - EF0FCB69">
 		<rom name="鬼神童子-烈斗雷传（繁）勇者 v0.9.sfc" size="2097152" crc="EF0FCB69" md5="DC6BC5BE75669C3C803689586C6491EE"/>
+	</game>
+	<game name="鬼神童子-烈斗雷传（简）勇者 v0.9 - 084226C1">
+		<rom name="鬼神童子-烈斗雷传（简）勇者 v0.9.sfc" size="2097152" crc="084226C1" md5="75DEB0E39D661F6CF65FBB6BA9D0E54F"/>
 	</game>
 	<game name="魔神转生2（繁）MONKEYKING v1.4 - 0FDEC71D">
 		<rom name="魔神转生2（繁）MONKEYKING v1.4.sfc" size="4194304" crc="0FDEC71D" md5="EA2E6EC47A36C0990C9D9D0C2E9FDDC0"/>

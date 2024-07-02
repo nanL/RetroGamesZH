@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20240400</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20240700</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -100,11 +100,17 @@
 	<game name="世界传说：换装迷宫2（简）李采叶叶 风轻 20230526 v2 中文语音 - 680CC3B3">
 		<rom name="世界传说：换装迷宫2（简）李采叶叶 风轻 20230526 v2 中文语音.gba" size="18904140" crc="680CC3B3" md5="3F019C71E522BE177CD88BF91BB1F508"/>
 	</game>
-	<game name="世界传说：换装迷宫2（简）神仙姐姐 20240311 达奥斯极限挑战1.6E中配 - BC8D1288">
-		<rom name="世界传说：换装迷宫2（简）神仙姐姐 20240311 达奥斯极限挑战1.6E中配.gba" size="11278464" crc="BC8D1288" md5="10C997A22B7BB52CD1E10BA683F8C07F"/>
+	<game name="世界传说：换装迷宫2（改）神仙姐姐 20240311 达奥斯极限挑战1.6E中配 - BC8D1288">
+		<rom name="世界传说：换装迷宫2（改）神仙姐姐 20240311 达奥斯极限挑战1.6E中配.gba" size="11278464" crc="BC8D1288" md5="10C997A22B7BB52CD1E10BA683F8C07F"/>
 	</game>
-	<game name="世界传说：换装迷宫2（简）神仙姐姐 20240311 达奥斯极限挑战1.6E日配 - 54345AF9">
-		<rom name="世界传说：换装迷宫2（简）神仙姐姐 20240311 达奥斯极限挑战1.6E日配.gba" size="5191791" crc="54345AF9" md5="2E6BB3E3AFB1335F06EB60E03C9CBC3D"/>
+	<game name="世界传说：换装迷宫2（改）神仙姐姐 20240311 达奥斯极限挑战1.6E日配 - 54345AF9">
+		<rom name="世界传说：换装迷宫2（改）神仙姐姐 20240311 达奥斯极限挑战1.6E日配.gba" size="5191791" crc="54345AF9" md5="2E6BB3E3AFB1335F06EB60E03C9CBC3D"/>
+	</game>
+	<game name="世界足球（简）Swelin 6lay Guys Punkemnx - F89B26EA">
+		<rom name="世界足球（简）Swelin 6lay Guys Punkemnx.gba" size="8388608" crc="F89B26EA" md5="B2DA1086172D7D1D4C53DD0EEEA9D208"/>
+	</game>
+	<game name="世界足球（简）Swelin 6lay Guys Punkemnx fciq 20230523 河南方言解说 - 6DA461F9">
+		<rom name="世界足球（简）Swelin 6lay Guys Punkemnx fciq 20230523 河南方言解说.gba" size="8388608" crc="6DA461F9" md5="F534248840ED6FDE5981AB2E07C0F362"/>
 	</game>
 	<game name="乐高星球大战 影视游戏（简）空气 - 15CE797E">
 		<rom name="乐高星球大战 影视游戏（简）空气.gba" size="16777216" crc="15CE797E" md5="D82F8F0C55DC3F97BF5F5EFD9BB5875E"/>
@@ -193,6 +199,9 @@
 	<game name="勇者斗恶龙外传：特鲁内克大冒险2A不可思议的迷宫（简）星组 - C5BC025F">
 		<rom name="勇者斗恶龙外传：特鲁内克大冒险2A不可思议的迷宫（简）星组.gba" size="8388608" crc="C5BC025F" md5="733C871EDD8FBA0F7E0B818C2C3B4502"/>
 	</game>
+	<game name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 v2.1 - 0A48B6F4">
+		<rom name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 v2.1.gba" size="16777216" crc="0A48B6F4" md5="8FB6A47831248BCFC0A2967A39058210"/>
+	</game>
 	<game name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 v2.3 - 29029D50">
 		<rom name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 v2.3.gba" size="16777216" crc="29029D50" md5="28349C9C5D5004A17648B283FC0E97B6"/>
 	</game>
@@ -256,8 +265,11 @@
 	<game name="召唤之夜：铸剑物语：起源之石（繁）啪嗒啪嗒 铸剑物语吧 v1.1 - 6A5B099A">
 		<rom name="召唤之夜：铸剑物语：起源之石（繁）啪嗒啪嗒 铸剑物语吧 v1.1.gba" size="33554432" crc="6A5B099A" md5="6E2DDEEFE495273C097B7B5C23D58D4A"/>
 	</game>
-	<game name="召唤之夜：铸剑物语：起源之石（繁）Hambakaga 20240415 战斗卡顿修正 - 03103EA0">
-		<rom name="召唤之夜：铸剑物语：起源之石（繁）Hambakaga 20240415 战斗卡顿修正.gba" size="33554432" crc="03103EA0" md5="844737CF48370E83A407B259A92D84FE"/>
+	<game name="召唤之夜：铸剑物语：起源之石（繁）Hambakaga 20240415 卡顿修正 - 03103EA0">
+		<rom name="召唤之夜：铸剑物语：起源之石（繁）Hambakaga 20240415 卡顿修正.gba" size="33554432" crc="03103EA0" md5="844737CF48370E83A407B259A92D84FE"/>
+	</game>
+	<game name="召唤之夜：铸剑物语：起源之石（简）樱花乌冬面 20240509 - 533FCC62">
+		<rom name="召唤之夜：铸剑物语：起源之石（简）樱花乌冬面 20240509.gba" size="33554432" crc="533FCC62" md5="50E3C409C8B6557DEDD2BCFFFD2338BE"/>
 	</game>
 	<game name="合金射击者（简）AMONWANG - 04A6D44B">
 		<rom name="合金射击者（简）AMONWANG.gba" size="8388608" crc="04A6D44B" md5="649EDDFD38FA2730D2604213DBAEE5D1"/>
@@ -286,14 +298,17 @@
 	<game name="咚奇刚：摇摆之王（简）FLYEYES - 292C2E97">
 		<rom name="咚奇刚：摇摆之王（简）FLYEYES.gba" size="8388608" crc="292C2E97" md5="9CD22589F1C4F9AD35104C67D980E972"/>
 	</game>
-	<game name="哈利波特 消失的密室（简）施珂昱 - E1B0C7B0">
-		<rom name="哈利波特 消失的密室（简）施珂昱.gba" size="8388608" crc="E1B0C7B0" md5="EC051C2298A2BB399C62CF39E8F4AE01"/>
-	</game>
-	<game name="哈利波特 阿兹卡班的逃犯（简）施珂昱 - 7A953AAD">
-		<rom name="哈利波特 阿兹卡班的逃犯（简）施珂昱.gba" size="16777216" crc="7A953AAD" md5="EBD9516DE070BFBC2FC044F1E47C74F5"/>
-	</game>
 	<game name="哈利波特4（简）YJRESTORED - 892347D4">
 		<rom name="哈利波特4（简）YJRESTORED.gba" size="33554432" crc="892347D4" md5="C7BE3CFD5827EC4621B0175C01775E4C"/>
+	</game>
+	<game name="哈利波特与阿兹卡班的逃犯（简）施珂昱 - 7A953AAD">
+		<rom name="哈利波特与阿兹卡班的逃犯（简）施珂昱.gba" size="16777216" crc="7A953AAD" md5="EBD9516DE070BFBC2FC044F1E47C74F5"/>
+	</game>
+	<game name="哈利波特与魔法石（简）shikeyu 20240610 v0.1 - C97C762A">
+		<rom name="哈利波特与魔法石（简）shikeyu 20240610 v0.1.gba" size="8388608" crc="C97C762A" md5="B0AC1BE606AB3ECE391ABA2705532C89"/>
+	</game>
+	<game name="哈利波特消失的密室（简）施珂昱 - E1B0C7B0">
+		<rom name="哈利波特消失的密室（简）施珂昱.gba" size="8388608" crc="E1B0C7B0" md5="EC051C2298A2BB399C62CF39E8F4AE01"/>
 	</game>
 	<game name="哈姆太郎4 七彩虹大行进（简）天幻 - 5774A96E">
 		<rom name="哈姆太郎4 七彩虹大行进（简）天幻.gba" size="8486912" crc="5774A96E" md5="FE92656E6F5F7B86443199FD83AB1ABD"/>
@@ -322,6 +337,9 @@
 	<game name="圣石小子：光与暗的大决战（简）Advance v0.4 - DB3CC958">
 		<rom name="圣石小子：光与暗的大决战（简）Advance v0.4.gba" size="8388608" crc="DB3CC958" md5="9ACC6008266CD35A51F782E912FFB118"/>
 	</game>
+	<game name="圣石小子：光与暗的大决战（简）Advance v0.3 - 0282862E">
+		<rom name="圣石小子：光与暗的大决战（简）Advance v0.3.gba" size="8388608" crc="0282862E" md5="10BC5EE375D0F38B6053FECFDD8C2523"/>
+	</game>
 	<game name="圣石小子：光与暗的大决战2（简）Advance 20230917 v0.3 - B69D90B5">
 		<rom name="圣石小子：光与暗的大决战2（简）Advance 20230917 v0.3.gba" size="16777216" crc="B69D90B5" md5="81547C4F8DBED1C01079AD41E70FF46D"/>
 	</game>
@@ -331,14 +349,29 @@
 	<game name="圣诞夜惊魂-南瓜王（简）CROSSZTC 像素宋体 - 41122207">
 		<rom name="圣诞夜惊魂-南瓜王（简）CROSSZTC 像素宋体.gba" size="8388608" crc="41122207" md5="22C75593E66B4784744518C17603D70A"/>
 	</game>
+	<game name="圣诞游戏贺卡拼图（简）混沌星辰 - BAF37602">
+		<rom name="圣诞游戏贺卡拼图（简）混沌星辰.gba" size="1023864" crc="BAF37602" md5="680A6DFD31D68D70753EB4C9203489E9"/>
+	</game>
+	<game name="地球冒险12（简）hotcofe79 20240509 汉化2代 - A6A5FBA9">
+		<rom name="地球冒险12（简）hotcofe79 20240509 汉化2代.gba" size="16777216" crc="A6A5FBA9" md5="12EAE0814A4A54DA156474DB9ABB458D"/>
+	</game>
+	<game name="地球冒险12（简）hotcofe79 20240513 汉化2代 - 7BC3D722">
+		<rom name="地球冒险12（简）hotcofe79 20240513 汉化2代.gba" size="16777216" crc="7BC3D722" md5="01B248CCEE28ED96657E366CE86164B0"/>
+	</game>
+	<game name="地球冒险12（简）hotcofe79 20240519 汉化2代 - A0211C3B">
+		<rom name="地球冒险12（简）hotcofe79 20240519 汉化2代.gba" size="16777216" crc="A0211C3B" md5="073054313E34A23DD656BB3B795A902F"/>
+	</game>
+	<game name="地球冒险12（简）hotcofe79 20240527 汉化2代 - DE8A1A98">
+		<rom name="地球冒险12（简）hotcofe79 20240527 汉化2代.gba" size="16777216" crc="DE8A1A98" md5="AE9FDE453EB4166DD7D8EC9BD0A46937"/>
+	</game>
 	<game name="地球冒险3（简）漫游 空气 v1.0 - 21FDF96C">
 		<rom name="地球冒险3（简）漫游 空气 v1.0.gba" size="33554432" crc="21FDF96C" md5="480C0866FF500609DB2A37897CDA7BB8"/>
 	</game>
-	<game name="地球冒险3（简）漫游 空气 少年不知愁 20210421 v1.1 图片汉化修正 最终战乱码修正 - E2447179">
-		<rom name="地球冒险3（简）漫游 空气 少年不知愁 20210421 v1.1 图片汉化修正 最终战乱码修正.gba" size="33554432" crc="E2447179" md5="A5EF28F6280F96728D5BF7E24915F975"/>
+	<game name="地球冒险3（简）漫游 空气 少年不知愁 20210421 v1.1 - E2447179">
+		<rom name="地球冒险3（简）漫游 空气 少年不知愁 20210421 v1.1.gba" size="33554432" crc="E2447179" md5="A5EF28F6280F96728D5BF7E24915F975"/>
 	</game>
-	<game name="地球冒险3（简）v1.1 图片汉化修正 - 98390502">
-		<rom name="地球冒险3（简）v1.1 图片汉化修正.gba" size="33554432" crc="98390502" md5="A1AF591EA426D5392067205529D396E5"/>
+	<game name="地球冒险3（简）漫游 空气 v1.1 图片汉化修正 - 98390502">
+		<rom name="地球冒险3（简）漫游 空气 v1.1 图片汉化修正.gba" size="33554432" crc="98390502" md5="A1AF591EA426D5392067205529D396E5"/>
 	</game>
 	<game name="地球冒险3（简）漫游 空气 少年不知愁 20231029 补完版 - A1E9070D">
 		<rom name="地球冒险3（简）漫游 空气 少年不知愁 20231029 补完版.gba" size="33554432" crc="A1E9070D" md5="CF0D04EFF866CF64C63198A51DD2A172"/>
@@ -433,6 +466,573 @@
 	<game name="守护英雄（简繁）啪嗒啪嗒 鸟文 v1.0 - 556DD1CC">
 		<rom name="守护英雄（简繁）啪嗒啪嗒 鸟文 v1.0.gba" size="8388608" crc="556DD1CC" md5="845A2113404BCEA1AB6727A01D16A91E"/>
 	</game>
+	<game name="宝可梦（改）无名 v1.0 - 5CF1A2D5">
+		<rom name="宝可梦（改）无名 v1.0.gba" size="33554432" crc="5CF1A2D5" md5="99A53F76D4860DFB5BDEFC98D4E1084F"/>
+	</game>
+	<game name="宝可梦（改）Fate圣杯战争(战神4.0版) - 0DCF1F9A">
+		<rom name="宝可梦（改）Fate圣杯战争(战神4.0版).gba" size="16777216" crc="0DCF1F9A" md5="9E499F6FC7298D68E8FBDA073EA7CF2D"/>
+	</game>
+	<game name="宝可梦（改）Green Despair - E5ADEFD5">
+		<rom name="宝可梦（改）Green Despair.gba" size="33554432" crc="E5ADEFD5" md5="908D69D488540CB3DB549FE89609B43D"/>
+	</game>
+	<game name="宝可梦（改）Let´s Go Eevee 6.0（简）v6.0 - 1522C6DB">
+		<rom name="宝可梦（改）Let´s Go Eevee 6.0（简）v6.0.gba" size="33554432" crc="1522C6DB" md5="ECA433260C7AD3A311A1F9F102C6C77B"/>
+	</game>
+	<game name="宝可梦（改）Let´s Go Pikachu 6.0 （简）KevinPokeFan - 15CA2021">
+		<rom name="宝可梦（改）Let´s Go Pikachu 6.0 （简）KevinPokeFan.gba" size="33554432" crc="15CA2021" md5="C19B87DEB42CA34EAE5DB049BCFED4E4"/>
+	</game>
+	<game name="宝可梦（改）Nameless (v4.12)(旧版翻译迁移+机翻by墟芜)(魔法) - 3DF21D3B">
+		<rom name="宝可梦（改）Nameless (v4.12)(旧版翻译迁移+机翻by墟芜)(魔法).gba" size="33554432" crc="3DF21D3B" md5="F3111B883A4C016E31ACF3FC71B4997E"/>
+	</game>
+	<game name="宝可梦（改）ROWE汉化V11-NPC对话 - A877937E">
+		<rom name="宝可梦（改）ROWE汉化V11-NPC对话.gba" size="33554432" crc="A877937E" md5="D4535759FA40BE3ADEE4FA84C31D124C"/>
+	</game>
+	<game name="宝可梦（改）rogue1.3.2A汉化V14-汉化修复及技能文本汉化 - F78EC8B0">
+		<rom name="宝可梦（改）rogue1.3.2A汉化V14-汉化修复及技能文本汉化.gba" size="33554432" crc="F78EC8B0" md5="A86BD3D95A25227111A7CD29AFA2B5D1"/>
+	</game>
+	<game name="宝可梦（改）Pokeverse 1.4 PS SPLIT - 13ADD438">
+		<rom name="宝可梦（改）Pokeverse 1.4 PS SPLIT.gba" size="33554432" crc="13ADD438" md5="168E2322E35E48745C724A587DD4CF9A"/>
+	</game>
+	<game name="宝可梦（改）SLIVER 2004 GAMEFREAK（简） - 6AAFBBB7">
+		<rom name="宝可梦（改）SLIVER 2004 GAMEFREAK（简）.gba" size="33554432" crc="6AAFBBB7" md5="FC44F7F11941C3B75C6D402AE947A56F"/>
+	</game>
+	<game name="宝可梦（改）SW SH Beta8（简） - 9CD1E5E6">
+		<rom name="宝可梦（改）SW SH Beta8（简）.gba" size="33554432" crc="9CD1E5E6" md5="9ACC0CEDAEB80256B003D5E419631B81"/>
+	</game>
+	<game name="宝可梦（改）Top Ending V0.5 - 19567539">
+		<rom name="宝可梦（改）Top Ending V0.5.gba" size="33554432" crc="19567539" md5="C70C75F892BADCC5557CAEE59D516B60"/>
+	</game>
+	<game name="宝可梦（改）light red - F38E44CF">
+		<rom name="宝可梦（改）light red.gba" size="16777216" crc="F38E44CF" md5="7E52DC9584A72593B1163AC5517D7E2B"/>
+	</game>
+	<game name="宝可梦（改）starlv10 - CE8C222C">
+		<rom name="宝可梦（改）starlv10.gba" size="16777216" crc="CE8C222C" md5="286F8865D8C1F6F702FDB37FE8F76B22"/>
+	</game>
+	<game name="宝可梦（改）thunder6358的火红改版 - F99E743E">
+		<rom name="宝可梦（改）thunder6358的火红改版.gba" size="33554432" crc="F99E743E" md5="CB85E802AD78074D634E6252CEA0BFFE"/>
+	</game>
+	<game name="宝可梦（改）之lz坑爹的同学beta0.6 - 53C3141E">
+		<rom name="宝可梦（改）之lz坑爹的同学beta0.6.gba" size="16777216" crc="53C3141E" md5="5A3067DF6122345039B56B6C9B1C4E8D"/>
+	</game>
+	<game name="宝可梦（改）之茜罗娜传记 - 6474A53D">
+		<rom name="宝可梦（改）之茜罗娜传记.gba" size="16777216" crc="6474A53D" md5="C23D8D4F24CE5D5AEAD77FF6B7166406"/>
+	</game>
+	<game name="宝可梦（改）传说绿宝石1.5.4.8.5 - 00936351">
+		<rom name="宝可梦（改）传说绿宝石1.5.4.8.5.gba" size="33554432" crc="00936351" md5="EE43EFFF062814FBC80B1FB242945A52"/>
+	</game>
+	<game name="宝可梦（改）光之石—喜羊羊版 - 0361FD48">
+		<rom name="宝可梦（改）光之石—喜羊羊版.gba" size="16777216" crc="0361FD48" md5="D0A35C3E559BD6871C22F4F31D5232A2"/>
+	</game>
+	<game name="宝可梦（改）冠军荣耀 - 662E9E34">
+		<rom name="宝可梦（改）冠军荣耀.gba" size="33554432" crc="662E9E34" md5="0EC4252AF9BE365E79A34EE646C022D4"/>
+	</game>
+	<game name="宝可梦（改）冰の冒险 - 2BEA3FB1">
+		<rom name="宝可梦（改）冰の冒险.gba" size="33554432" crc="2BEA3FB1" md5="AD98F39C5461046421037CD62E301E38"/>
+	</game>
+	<game name="宝可梦（改）冰龙的愤怒 - CBEBC7B2">
+		<rom name="宝可梦（改）冰龙的愤怒.gba" size="33554432" crc="CBEBC7B2" md5="B76631EBEBA376357A35BCFCE07E7448"/>
+	</game>
+	<game name="宝可梦（改）决心（简）决心 v1.0 - EE6C82F7">
+		<rom name="宝可梦（改）决心（简）决心 v1.0.gba" size="33554432" crc="EE6C82F7" md5="25251592093FC83C1DB2EA366EBDCD83"/>
+	</game>
+	<game name="宝可梦（改）凶残红V0.3 - 602A74F6">
+		<rom name="宝可梦（改）凶残红V0.3.gba" size="16777216" crc="602A74F6" md5="CFE06B135B307305BEB48018DCB84E85"/>
+	</game>
+	<game name="宝可梦（改）勇者传说 beta 0.4 - E19F778E">
+		<rom name="宝可梦（改）勇者传说 beta 0.4.gba" size="33554432" crc="E19F778E" md5="FA39D31F061E9F2017E8F64BC0687330"/>
+	</game>
+	<game name="宝可梦（改）紫光 - CA6DD568">
+		<rom name="宝可梦（改）紫光.gba" size="33554432" crc="CA6DD568" md5="C0FB239A98EE5D67B85531A8FF6CE222"/>
+	</game>
+	<game name="宝可梦（改）东方人形剧1.812汉化版(魔法) - 921F824D">
+		<rom name="宝可梦（改）东方人形剧1.812汉化版(魔法).gba" size="33554432" crc="921F824D" md5="065D9E9A06960C54CC771C5FCEDE3026"/>
+	</game>
+	<game name="宝可梦（改）商店有大师球升级糖果等 - 06F6C010">
+		<rom name="宝可梦（改）商店有大师球升级糖果等.gba" size="33554432" crc="06F6C010" md5="7CCE3836F0F945818C56A9DF40076E96"/>
+	</game>
+	<game name="宝可梦（改）枷锁beta 0.3.1 - B2DEAE7A">
+		<rom name="宝可梦（改）枷锁beta 0.3.1.gba" size="33554432" crc="B2DEAE7A" md5="06273592A5D29D043601E99C4E20716A"/>
+	</game>
+	<game name="宝可梦（改）水晶之塵 - 46745FE2">
+		<rom name="宝可梦（改）水晶之塵.gba" size="16777216" crc="46745FE2" md5="38C29A43C6F47AD085270598FD612631"/>
+	</game>
+	<game name="宝可梦（改）牧场物语(魔法) - A9E54D86">
+		<rom name="宝可梦（改）牧场物语(魔法).gba" size="16777216" crc="A9E54D86" md5="FF463A6738EE17FBE7ADC017FF9368F4"/>
+	</game>
+	<game name="宝可梦（改）登峰造极(魔法) - C6E92265">
+		<rom name="宝可梦（改）登峰造极(魔法).gba" size="33554432" crc="C6E92265" md5="02EC398477ED250A0EBE290E205F6F74"/>
+	</game>
+	<game name="宝可梦（改）神奧編年史1.0 - EEB58F1B">
+		<rom name="宝可梦（改）神奧編年史1.0.gba" size="33554432" crc="EEB58F1B" md5="2531CE8D227F2C80E852C5B9F7C9A5BC"/>
+	</game>
+	<game name="宝可梦（改）神秘大宅(魔法) - 0441F08C">
+		<rom name="宝可梦（改）神秘大宅(魔法).gba" size="33554432" crc="0441F08C" md5="0D80EF82A1F97FAAB6BE015FA9331B50"/>
+	</game>
+	<game name="宝可梦（改）红宝石背包物品不减版BY卞卞 - D70BEC12">
+		<rom name="宝可梦（改）红宝石背包物品不减版BY卞卞.gba" size="8542624" crc="D70BEC12" md5="F825D50BDCAC4542F0E8C6EC3CD18BEB"/>
+	</game>
+	<game name="宝可梦（改）蜉蝣Ephemerald v1.2(魔法) - 9EFC2C5C">
+		<rom name="宝可梦（改）蜉蝣Ephemerald v1.2(魔法).gba" size="33554432" crc="9EFC2C5C" md5="D219D2F66CD7EEDD9A289CAFA659E044"/>
+	</game>
+	<game name="宝可梦（改）青苔(作弊) - 46C13481">
+		<rom name="宝可梦（改）青苔(作弊).gba" size="33554432" crc="46C13481" md5="4268CD6A81E413B9D21CFC20F9E8CF12"/>
+	</game>
+	<game name="宝可梦（改）黑暗战舰修复版(魔法) - FC57815E">
+		<rom name="宝可梦（改）黑暗战舰修复版(魔法).gba" size="33554432" crc="FC57815E" md5="3BDD52C4757F9DFFE982F1BADF9C6FB6"/>
+	</game>
+	<game name="宝可梦（改）口袋暴龙最终版5(魔法) - 6182573E">
+		<rom name="宝可梦（改）口袋暴龙最终版5(魔法).gba" size="33554432" crc="6182573E" md5="46BB67BD1530937E30B4943C5ED68C4E"/>
+	</game>
+	<game name="宝可梦（改）口赛大战 - B9CE1D91">
+		<rom name="宝可梦（改）口赛大战.gba" size="16777216" crc="B9CE1D91" md5="767F9929465EB5339C1E7FBC3B816DCA"/>
+	</game>
+	<game name="宝可梦（改）叶绿386电玩完美版 - D89649EC">
+		<rom name="宝可梦（改）叶绿386电玩完美版.gba" size="16777216" crc="D89649EC" md5="F2B78897637E4D78A4D95A1B4FBEC9B5"/>
+	</game>
+	<game name="宝可梦（改）命运3生命守护者（简） - E34E2699">
+		<rom name="宝可梦（改）命运3生命守护者（简）.gba" size="33553704" crc="E34E2699" md5="42E70DDD9F825A750A664BF2E61A438C"/>
+	</game>
+	<game name="宝可梦（改）命运之轮_beta1.2 - B6BFEDFB">
+		<rom name="宝可梦（改）命运之轮_beta1.2.gba" size="33554533" crc="B6BFEDFB" md5="27534A1C78398562F9F167393326D86D"/>
+	</game>
+	<game name="宝可梦（改）命（简） - F13DE4F2">
+		<rom name="宝可梦（改）命（简）.gba" size="33554432" crc="F13DE4F2" md5="E5688FC7E65714B70ECB43918D5901BF"/>
+	</game>
+	<game name="宝可梦（改）噩の幻V.1.0 - CDD491A6">
+		<rom name="宝可梦（改）噩の幻V.1.0.gba" size="16797696" crc="CDD491A6" md5="9C314B4729E5F263E1646606D8156BDB"/>
+	</game>
+	<game name="宝可梦（改）噩梦の前夕 - 26B6B211">
+		<rom name="宝可梦（改）噩梦の前夕.gba" size="14716464" crc="26B6B211" md5="631A527E155C98912CF3469DA46779F1"/>
+	</game>
+	<game name="宝可梦（改）噩梦の延续真409版v5.8c - BA011720">
+		<rom name="宝可梦（改）噩梦の延续真409版v5.8c.gba" size="33554432" crc="BA011720" md5="E9506AD670667A90164FABECA3A0A5DF"/>
+	</game>
+	<game name="宝可梦（改）噩梦の插曲V5.7B - 67C9C363">
+		<rom name="宝可梦（改）噩梦の插曲V5.7B.gba" size="16777216" crc="67C9C363" md5="A88904EA01FC7AB8D38CA5B07D48F619"/>
+	</game>
+	<game name="宝可梦（改）圣光白 - B2846FF7">
+		<rom name="宝可梦（改）圣光白.gba" size="26214400" crc="B2846FF7" md5="E0A14D9A2FD3C644E780E793D88FB0EB"/>
+	</game>
+	<game name="宝可梦（改）圣光绿宝石—暗古神坛传说(更新) - 5C497707">
+		<rom name="宝可梦（改）圣光绿宝石—暗古神坛传说(更新).gba" size="33554432" crc="5C497707" md5="91068876B240CB3BB5C849A7145BB2E8"/>
+	</game>
+	<game name="宝可梦（改）圣灰（简）圣灰吧 最终版 - 19B26D75">
+		<rom name="宝可梦（改）圣灰（简）圣灰吧 最终版.gba" size="16777216" crc="19B26D75" md5="C9EF4307D26FF87F08604E4838813E41"/>
+	</game>
+	<game name="宝可梦（改）坑爹改版第二弹-吾辈的坑爹贴吧beta0.1 - 2D3EBCC6">
+		<rom name="宝可梦（改）坑爹改版第二弹-吾辈的坑爹贴吧beta0.1.gba" size="16777216" crc="2D3EBCC6" md5="F8001542C427157BBBC1757925B7416B"/>
+	</game>
+	<game name="宝可梦（改）增强绿宝石 v9502 汉化版(07.12) - 9BD748B8">
+		<rom name="宝可梦（改）增强绿宝石 v9502 汉化版(07.12).gba" size="33554432" crc="9BD748B8" md5="B5463A1CD8332DD95764688CC8783437"/>
+	</game>
+	<game name="宝可梦（改）夜之祭灵歌_beta1.2 - DF990F9D">
+		<rom name="宝可梦（改）夜之祭灵歌_beta1.2.gba" size="33554432" crc="DF990F9D" md5="A2F471C034A8985DB4BE085CE7196C56"/>
+	</game>
+	<game name="宝可梦（改）大乱斗完整版 - FA8641B9">
+		<rom name="宝可梦（改）大乱斗完整版.gba" size="33554432" crc="FA8641B9" md5="85F1167BE4EB41744B184FC2B9343E80"/>
+	</game>
+	<game name="宝可梦（改）天の召唤 - 09155668">
+		<rom name="宝可梦（改）天の召唤.gba" size="33554432" crc="09155668" md5="866EAAEE5A737A23E9F292D372C7B3F5"/>
+	</game>
+	<game name="宝可梦（改）天龙的堕落 无限的混乱最终版 - 1289D5A3">
+		<rom name="宝可梦（改）天龙的堕落 无限的混乱最终版.gba" size="16517568" crc="1289D5A3" md5="3F8CACBA95154E8FF37DE76C93AF267D"/>
+	</game>
+	<game name="宝可梦（改）天龙的堕落 重置美化版 - A35D0D3C">
+		<rom name="宝可梦（改）天龙的堕落 重置美化版.gba" size="33554432" crc="A35D0D3C" md5="8C0BF9EE6793A4B916BEAA82E04EA29F"/>
+	</game>
+	<game name="宝可梦（改）太多属性v1.6基础汉化版 - 7223FDC1">
+		<rom name="宝可梦（改）太多属性v1.6基础汉化版.gba" size="33554432" crc="7223FDC1" md5="73620CAC7F1AD38F8CD4D60FC2239C0E"/>
+	</game>
+	<game name="宝可梦（改）失落的三国 - 2C3BDC25">
+		<rom name="宝可梦（改）失落的三国.gba" size="33554432" crc="2C3BDC25" md5="29776D934F9E889713BB3C7AF9EE8818"/>
+	</game>
+	<game name="宝可梦（改）守护神座v0.1(1) - 4D961BCC">
+		<rom name="宝可梦（改）守护神座v0.1(1).gba" size="33554432" crc="4D961BCC" md5="18334F42F63B04484883FCFC72495BC7"/>
+	</game>
+	<game name="宝可梦（改）宝可岛 2「新领域」 - 90C00591">
+		<rom name="宝可梦（改）宝可岛 2「新领域」.gba" size="33554432" crc="90C00591" md5="A6E2485ABD7AF78CFD49BB7D42489398"/>
+	</game>
+	<game name="宝可梦（改）宝可岛.Ep1「黑暗崛起」 - A64ED314">
+		<rom name="宝可梦（改）宝可岛.Ep1「黑暗崛起」.gba" size="33554432" crc="A64ED314" md5="8CEDB44211B439F3F7B698DE63D29F46"/>
+	</game>
+	<game name="宝可梦（改）增强绿宝石10.009 全汉化by兔砸博士 - 844879DD">
+		<rom name="宝可梦（改）增强绿宝石10.009 全汉化by兔砸博士.gba" size="33554432" crc="844879DD" md5="1B474F63AADEB49411F97E7CC40C49E3"/>
+	</game>
+	<game name="宝可梦（改）永恒秩序beta 0.0.1 - 1B56E5DC">
+		<rom name="宝可梦（改）永恒秩序beta 0.0.1.gba" size="33554432" crc="1B56E5DC" md5="42E42CEAC59626F1F480FDFFBB0A179F"/>
+	</game>
+	<game name="宝可梦（改）RE-VERSE_Demo(魔法)(机翻) - 1A21D75B">
+		<rom name="宝可梦（改）RE-VERSE_Demo(魔法)(机翻).gba" size="33554432" crc="1A21D75B" md5="C6646FF3BD66B49040E852BFEF21E60B"/>
+	</game>
+	<game name="宝可梦（改）旧白(魔法) - 24FB6E81">
+		<rom name="宝可梦（改）旧白(魔法).gba" size="33554432" crc="24FB6E81" md5="4E91911C3C079299502D966BD6ABF7C0"/>
+	</game>
+	<game name="宝可梦（改）火红VR任务 - A9D776B8">
+		<rom name="宝可梦（改）火红VR任务.gba" size="33554432" crc="A9D776B8" md5="0B229B8FC65D46A9241567A7CE9CEE70"/>
+	</game>
+	<game name="宝可梦（改）皇冠(Beta 1 v9) - 机翻版 by墟芜 - CD2E5D18">
+		<rom name="宝可梦（改）皇冠(Beta 1 v9) - 机翻版 by墟芜.gba" size="33554432" crc="CD2E5D18" md5="EA885CAFD3C8D2981ED4B9EE4AF486EF"/>
+	</game>
+	<game name="宝可梦（改）小智豐緣冒險開拓區篇Pokemon Ash H2K Battle Frontier 2(魔法) - 3560DA0D">
+		<rom name="宝可梦（改）小智豐緣冒險開拓區篇Pokemon Ash H2K Battle Frontier 2(魔法).gba" size="33554432" crc="3560DA0D" md5="6E1E5A2796B241B695F9B37F7E2EFF13"/>
+	</game>
+	<game name="宝可梦（改）幕欲之光 - FED8515F">
+		<rom name="宝可梦（改）幕欲之光.gba" size="33554432" crc="FED8515F" md5="CCDE220346CDAD213F0490C66A8D3398"/>
+	</game>
+	<game name="宝可梦（改）幻影之翼v5.0(技能dp化） - 92C00C88">
+		<rom name="宝可梦（改）幻影之翼v5.0(技能dp化）.gba" size="33554432" crc="92C00C88" md5="F2EFEF81AB11D6186B599B8B89854392"/>
+	</game>
+	<game name="宝可梦（改）幻影之翼v5.0 - E7E55B37">
+		<rom name="宝可梦（改）幻影之翼v5.0.gba" size="33554432" crc="E7E55B37" md5="1B733B33F9FE225DD78FA04DFF2377D2"/>
+	</game>
+	<game name="宝可梦（改）心魂之羽·纪念 - 625580D8">
+		<rom name="宝可梦（改）心魂之羽·纪念.gba" size="33554432" crc="625580D8" md5="E0553E705A83AD75A3FC3A7508979C21"/>
+	</game>
+	<game name="宝可梦（改）忆梦之巅灭世章1.0 - 8D0DA82B">
+		<rom name="宝可梦（改）忆梦之巅灭世章1.0.gba" size="33554432" crc="8D0DA82B" md5="581A869ACA94C413C2D2FF08B8FD78BE"/>
+	</game>
+	<game name="宝可梦（改）怪蜀黍传说、 - E76010E1">
+		<rom name="宝可梦（改）怪蜀黍传说、.gba" size="16777216" crc="E76010E1" md5="9B2293618B2764F695AA478836F954B2"/>
+	</game>
+	<game name="宝可梦（改）数码宝贝冒险 - 3AA579DD">
+		<rom name="宝可梦（改）数码宝贝冒险.gba" size="33554432" crc="3AA579DD" md5="3B89D0F94A648D7B6231D708CB18C0D0"/>
+	</game>
+	<game name="宝可梦（改）无敌版 - 0CEA3B4C">
+		<rom name="宝可梦（改）无敌版.gba" size="16777216" crc="0CEA3B4C" md5="4DF332E15EE4C59FFAAE82377FE95857"/>
+	</game>
+	<game name="宝可梦（改）时空的战歌 - E92B49C3">
+		<rom name="宝可梦（改）时空的战歌.gba" size="33554432" crc="E92B49C3" md5="261E192A2AE78A97620AD6334D76324C"/>
+	</game>
+	<game name="宝可梦（改）暗之冰花 - 95329B0D">
+		<rom name="宝可梦（改）暗之冰花.gba" size="16777216" crc="95329B0D" md5="0912B00BC660D394D2B74BDF2317CAE8"/>
+	</game>
+	<game name="宝可梦（改）神奇宝贝111 暗黑 - E9EB96D8">
+		<rom name="宝可梦（改）神奇宝贝111 暗黑.gba" size="33554433" crc="E9EB96D8" md5="0FF7EE58B23E9E15202861019BF03EEE"/>
+	</game>
+	<game name="宝可梦（改）最强进化v3.0宙斯觉醒（简）641273587 - FACB262F">
+		<rom name="宝可梦（改）最强进化v3.0宙斯觉醒（简）641273587.gba" size="33554432" crc="FACB262F" md5="B3F07C7447B74A3EECA99926C5F7056F"/>
+	</game>
+	<game name="宝可梦（改）极光石 V-2.5A-2013.12.08 - 22702CA6">
+		<rom name="宝可梦（改）极光石 V-2.5A-2013.12.08.gba" size="33554432" crc="22702CA6" md5="402D7E3B32409308BAE3D277658AFB31"/>
+	</game>
+	<game name="宝可梦（改）极光石（简） - 650A234C">
+		<rom name="宝可梦（改）极光石（简）.gba" size="33554432" crc="650A234C" md5="D125DA12BB3B2890E8920F41BED5BD64"/>
+	</game>
+	<game name="宝可梦（改）极限之王0.2 - B413EEF3">
+		<rom name="宝可梦（改）极限之王0.2.gba" size="16777216" crc="B413EEF3" md5="973E0857441BA863CAF17C463888A6FF"/>
+	</game>
+	<game name="宝可梦（改）梦之光点（简） - A8CA960A">
+		<rom name="宝可梦（改）梦之光点（简）.gba" size="33554432" crc="A8CA960A" md5="2FE66BBCF7439B30C04DCE333EC5A71E"/>
+	</game>
+	<game name="宝可梦（改）比克提尼之愤怒番外篇 坑爹版 - 95DEC47D">
+		<rom name="宝可梦（改）比克提尼之愤怒番外篇 坑爹版.gba" size="33554432" crc="95DEC47D" md5="854F5D8986A3D19D30A1C1A22D8BC6AE"/>
+	</game>
+	<game name="宝可梦（改）水银 - 47DD5B78">
+		<rom name="宝可梦（改）水银.gba" size="33554432" crc="47DD5B78" md5="02216F005A4FAC27602A406D214A8AC3"/>
+	</game>
+	<game name="宝可梦（改）水银Demo0.4（四道馆）(魔法藥水) - C3B755DB">
+		<rom name="宝可梦（改）水银Demo0.4（四道馆）(魔法藥水).gba" size="33554432" crc="C3B755DB" md5="7EA55A61774DA799725CD9E735BF648A"/>
+	</game>
+	<game name="宝可梦（改）永恒之沫 - 4AFD4224">
+		<rom name="宝可梦（改）永恒之沫.gba" size="16777216" crc="4AFD4224" md5="072D367363569CE70E894CD40F0DFCAC"/>
+	</game>
+	<game name="宝可梦（改）永恒之沫v2.0 - 467BA668">
+		<rom name="宝可梦（改）永恒之沫v2.0.gba" size="33554432" crc="467BA668" md5="1A1B94733E53D672E59AE9E841031609"/>
+	</game>
+	<game name="宝可梦（改）永恒之沫v3.0完结修复 - 997D6ECF">
+		<rom name="宝可梦（改）永恒之沫v3.0完结修复.gba" size="33554432" crc="997D6ECF" md5="556701C729784E4E84A3ACE5711A0058"/>
+	</game>
+	<game name="宝可梦（改）永恒之焱zero【BLUE】 - D4FE6CE5">
+		<rom name="宝可梦（改）永恒之焱zero【BLUE】.gba" size="33554432" crc="D4FE6CE5" md5="5145614A43B81B1AD702337CB3BEDCE0"/>
+	</game>
+	<game name="宝可梦（改）永恒之焱zero【RED】 - 105FCAEE">
+		<rom name="宝可梦（改）永恒之焱zero【RED】.gba" size="33554432" crc="105FCAEE" md5="7143C7035EB9FE4D5B99ED9ABDFD22E7"/>
+	</game>
+	<game name="宝可梦（改）永恒之焱zero【α】 - EC1F1680">
+		<rom name="宝可梦（改）永恒之焱zero【α】.gba" size="33554432" crc="EC1F1680" md5="D6B4D1A140DBCCF1E4E2C60F686E3507"/>
+	</game>
+	<game name="宝可梦（改）永恒之焱zero【β】 - 387F2971">
+		<rom name="宝可梦（改）永恒之焱zero【β】.gba" size="33554432" crc="387F2971" md5="3191144556376A5AECD0AD822FC189F1"/>
+	</game>
+	<game name="宝可梦（改）永恒之焱zero【μ】 - 92EC82A0">
+		<rom name="宝可梦（改）永恒之焱zero【μ】.gba" size="33554432" crc="92EC82A0" md5="C6BA4D11730935396F3845796A50BAC6"/>
+	</game>
+	<game name="宝可梦（改）永恒之焱·绯红·MAX - 67122A5B">
+		<rom name="宝可梦（改）永恒之焱·绯红·MAX.gba" size="33554432" crc="67122A5B" md5="EE7DBC4AD93C2BB099B8879E5F581DBF"/>
+	</game>
+	<game name="宝可梦（改）永恒之焱·苍蓝·MAX - 5588417F">
+		<rom name="宝可梦（改）永恒之焱·苍蓝·MAX.gba" size="33554432" crc="5588417F" md5="3DC38AFD61CEDD1C83167DF4612FED03"/>
+	</game>
+	<game name="宝可梦（改）永恒的光明-重制Beta1正式版 - 28A05939">
+		<rom name="宝可梦（改）永恒的光明-重制Beta1正式版.gba" size="33554432" crc="28A05939" md5="E3DD0EF01CB64609E2B2A0C4D7EC5D7D"/>
+	</game>
+	<game name="宝可梦（改）沁心之乐 - BFB96702">
+		<rom name="宝可梦（改）沁心之乐.gba" size="33554432" crc="BFB96702" md5="9A3D78FB8633B89BB7B170464000F3FB"/>
+	</game>
+	<game name="宝可梦（改）洛克王国手游完成怀旧版 - B299DA5A">
+		<rom name="宝可梦（改）洛克王国手游完成怀旧版.gba" size="33554432" crc="B299DA5A" md5="22628A4B8AD1DF6FA6F1DCFCA0863512"/>
+	</game>
+	<game name="宝可梦（改）海王牙の暴走 - 4F7769F4">
+		<rom name="宝可梦（改）海王牙の暴走.gba" size="16777216" crc="4F7769F4" md5="96265A4EC704D11E9C851429A2E566EE"/>
+	</game>
+	<game name="宝可梦（改）液晶 - BBF94D90">
+		<rom name="宝可梦（改）液晶.gba" size="33554432" crc="BBF94D90" md5="C360BC66AF9A80432A2221612C703B78"/>
+	</game>
+	<game name="宝可梦（改）液晶 - 6A761D9F">
+		<rom name="宝可梦（改）液晶.gba" size="16777216" crc="6A761D9F" md5="E2CF937901114DF0928EA29443525986"/>
+	</game>
+	<game name="宝可梦（改）深红v1.5 - F4200EC5">
+		<rom name="宝可梦（改）深红v1.5.gba" size="16777216" crc="F4200EC5" md5="7EFB9BD2A95A2A7D54563A2DEE97A810"/>
+	</game>
+	<game name="宝可梦（改）混沌传说 - C6C0AE81">
+		<rom name="宝可梦（改）混沌传说.gba" size="33554432" crc="C6C0AE81" md5="654B9053ED63A780A0B87931C09366E9"/>
+	</game>
+	<game name="宝可梦（改）漆黑的魅影 5.0EX 无尽混沌 BW - A289E3C9">
+		<rom name="宝可梦（改）漆黑的魅影 5.0EX 无尽混沌 BW.gba" size="33554188" crc="A289E3C9" md5="968E7136562DE75E28E45349618EA402"/>
+	</game>
+	<game name="宝可梦（改）漆黑的魅影 5.0EX 无尽混沌 DP - 074271CC">
+		<rom name="宝可梦（改）漆黑的魅影 5.0EX 无尽混沌 DP.gba" size="33554188" crc="074271CC" md5="F836D2FE3B5D5C7F6ADF5571A32EDD03"/>
+	</game>
+	<game name="宝可梦（改）漆黑的魅影 v5.0 无限可能 BW - C5A10069">
+		<rom name="宝可梦（改）漆黑的魅影 v5.0 无限可能 BW.gba" size="33554188" crc="C5A10069" md5="32B025BF56CF0A76815EEB596470EF90"/>
+	</game>
+	<game name="宝可梦（改）漆黑的魅影 v5.0 无限可能 DP - 1641D3CF">
+		<rom name="宝可梦（改）漆黑的魅影 v5.0 无限可能 DP.gba" size="33554188" crc="1641D3CF" md5="21FE7EA3CECB6ECBA7D1E06E23ECE2B4"/>
+	</game>
+	<game name="宝可梦（改）漆黑的魅影BW（简）Chaotix Ebonyphantom 5.0EX+BW 合众黑白 - 0325C9E6">
+		<rom name="宝可梦（改）漆黑的魅影BW（简）Chaotix Ebonyphantom 5.0EX+BW 合众黑白.gba" size="33554188" crc="0325C9E6" md5="0D9B129F7DD76895F79BB47AD7DEC2FE"/>
+	</game>
+	<game name="宝可梦（改）漆黑的魅影DP（简）Chaotix Ebonyphantom 5.0EX+DP 神奥钻石珍珠 - 25337675">
+		<rom name="宝可梦（改）漆黑的魅影DP（简）Chaotix Ebonyphantom 5.0EX+DP 神奥钻石珍珠.gba" size="33554188" crc="25337675" md5="CB2940215F4DAFB1BEF133C3AF379F44"/>
+	</game>
+	<game name="宝可梦（改）漆黑的魅影v4.5EX BW-1.9 - 80995ACC">
+		<rom name="宝可梦（改）漆黑的魅影v4.5EX BW-1.9.gba" size="33554188" crc="80995ACC" md5="DAE8427F90801294EB8FD8A887EF47D0"/>
+	</game>
+	<game name="宝可梦（改）漆黑的魅影v4.5EX DP-1.9 - 4D1D8BCB">
+		<rom name="宝可梦（改）漆黑的魅影v4.5EX DP-1.9.gba" size="33554188" crc="4D1D8BCB" md5="4FB868AB51FFBFA43FE341F5400F0575"/>
+	</game>
+	<game name="宝可梦（改）激进红3.1半汉化(傷藥魔法) - 71965012">
+		<rom name="宝可梦（改）激进红3.1半汉化(傷藥魔法).gba" size="33554432" crc="71965012" md5="27A87E505A55440094D9198DC7848E85"/>
+	</game>
+	<game name="宝可梦（改）火红2012美化版v1.5 - 89B96C44">
+		<rom name="宝可梦（改）火红2012美化版v1.5.gba" size="16777216" crc="89B96C44" md5="C869189C92E380C8E2F20F2DE48B49CF"/>
+	</game>
+	<game name="宝可梦（改）火红超梦反击 - 1F74215F">
+		<rom name="宝可梦（改）火红超梦反击.gba" size="16777216" crc="1F74215F" md5="2AF09346BE96587FC8BD2913F4CC38CD"/>
+	</game>
+	<game name="宝可梦（改）焱の冒险 - E45DE3FC">
+		<rom name="宝可梦（改）焱の冒险.gba" size="29360128" crc="E45DE3FC" md5="098A1E9745DC892AAE265F2206B607A6"/>
+	</game>
+	<game name="宝可梦（改）电玩口袋叶绿386-肥大改 - BF488CDB">
+		<rom name="宝可梦（改）电玩口袋叶绿386-肥大改.gba" size="16777216" crc="BF488CDB" md5="26F511BCA6DE6071E9A03E717852FF12"/>
+	</game>
+	<game name="宝可梦（改）电玩口袋蓝冰最终章（Extreme序章） - 60F0D13C">
+		<rom name="宝可梦（改）电玩口袋蓝冰最终章（Extreme序章）.gba" size="16777216" crc="60F0D13C" md5="B025358A018411DC4A3F66C2E3B3AC97"/>
+	</game>
+	<game name="宝可梦（改）白金光BUG修复V1.1DPv0.4 - F13449AD">
+		<rom name="宝可梦（改）白金光BUG修复V1.1DPv0.4.gba" size="33554432" crc="F13449AD" md5="B19DC5845A38438C4E3DAE083FB65DBC"/>
+	</game>
+	<game name="宝可梦（改）白金光BUG修复V1.1昼夜 - A12BA71C">
+		<rom name="宝可梦（改）白金光BUG修复V1.1昼夜.gba" size="33554432" crc="A12BA71C" md5="714495B442068F75CDC204FF78CDDA0D"/>
+	</game>
+	<game name="宝可梦（改）白金光BUG修复V1.1 - C3B5A289">
+		<rom name="宝可梦（改）白金光BUG修复V1.1.gba" size="33554432" crc="C3B5A289" md5="7CF8550CE66FED05AB6F42DC795B43AE"/>
+	</game>
+	<game name="宝可梦（改）真正绿宝石萌版！32M汉化版 - C8A94440">
+		<rom name="宝可梦（改）真正绿宝石萌版！32M汉化版.gba" size="33554396" crc="C8A94440" md5="1A85D08266F50683A5139D2286E2C169"/>
+	</game>
+	<game name="宝可梦（改）破灭之光1.2 - CBDCE3FE">
+		<rom name="宝可梦（改）破灭之光1.2.gba" size="33554432" crc="CBDCE3FE" md5="4796DEAD6CAA9550FCF11686D6C1A5D1"/>
+	</game>
+	<game name="宝可梦（改）破碎の鬼影 - 3D56CD49">
+		<rom name="宝可梦（改）破碎の鬼影.gba" size="16517568" crc="3D56CD49" md5="AFE866C1DCB220DD60EB635AEA0CAAA3"/>
+	</game>
+	<game name="宝可梦（改）神奇宝贝赤红改1.0修复版 - F8C36EE9">
+		<rom name="宝可梦（改）神奇宝贝赤红改1.0修复版.gba" size="33554432" crc="F8C36EE9" md5="88C746023ABED9EADE33438EDF92449C"/>
+	</game>
+	<game name="宝可梦（改）神柱战争 - 0BE82E67">
+		<rom name="宝可梦（改）神柱战争.gba" size="33554432" crc="0BE82E67" md5="9192FD8DFB3EBEE103635B9E61D2ED48"/>
+	</game>
+	<game name="宝可梦（改）究极绿宝石V5 - 1398A7E3">
+		<rom name="宝可梦（改）究极绿宝石V5.gba" size="33554432" crc="1398A7E3" md5="D26B0A9EE489A13E5CB51464FE4C0DB9"/>
+	</game>
+	<game name="宝可梦（改）究极绿宝石V5内置作弊 - FACF8C6B">
+		<rom name="宝可梦（改）究极绿宝石V5内置作弊.gba" size="33554432" crc="FACF8C6B" md5="1869144E4ECEB3E9AD9583B5618BD07A"/>
+	</game>
+	<game name="宝可梦（改）究极绿宝石V5 - AA721066">
+		<rom name="宝可梦（改）究极绿宝石V5.gba" size="33554432" crc="AA721066" md5="B97094B4BDF95B9F25C28389B7114CD1"/>
+	</game>
+	<game name="宝可梦（改）空之花神汉化版（标准版） - 0B08D862">
+		<rom name="宝可梦（改）空之花神汉化版（标准版）.gba" size="33554188" crc="0B08D862" md5="E2AF399A35A6B908681A3004A4E7FD51"/>
+	</game>
+	<game name="宝可梦（改）空之花神（简）JUTALY v2.2 补完汉化完结版 8.23 - 3B3A72B1">
+		<rom name="宝可梦（改）空之花神（简）JUTALY v2.2 补完汉化完结版 8.23.gba" size="33554432" crc="3B3A72B1" md5="6E70B0381FD625BC6E733D1679AA82FF"/>
+	</game>
+	<game name="宝可梦（改）穿越时空试验版 - 324C88EE">
+		<rom name="宝可梦（改）穿越时空试验版.gba" size="16777216" crc="324C88EE" md5="CAB68DFA663D6F7FD18E5E2FCE529107"/>
+	</game>
+	<game name="宝可梦（改）第二章 （暗黑の破坏基地） - 409E5266">
+		<rom name="宝可梦（改）第二章 （暗黑の破坏基地）.gba" size="16777216" crc="409E5266" md5="C5EE1BAC6212716FFE32A94ADFBAF829"/>
+	</game>
+	<game name="宝可梦（改）精灵嚯红 - F98F7CC8">
+		<rom name="宝可梦（改）精灵嚯红.gba" size="16777216" crc="F98F7CC8" md5="6F8F80CC990AF5D2ACCA0250E1FF8980"/>
+	</game>
+	<game name="宝可梦（改）百万能量魔法 - 7FE51826">
+		<rom name="宝可梦（改）百万能量魔法.gba" size="33554432" crc="7FE51826" md5="DDE19DA99EF2479B344A860712CABCD8"/>
+	</game>
+	<game name="宝可梦（改）百万能量 - F2BAB77C">
+		<rom name="宝可梦（改）百万能量.gba" size="33554432" crc="F2BAB77C" md5="4EFDD083CF73866AD85E7240B3304243"/>
+	</game>
+	<game name="宝可梦（改）火红扩展3.3.9beta魔法 - FC3EBBC6">
+		<rom name="宝可梦（改）火红扩展3.3.9beta魔法.gba" size="33554432" crc="FC3EBBC6" md5="3D768C9B908CE9D868DD19942BC22DE8"/>
+	</game>
+	<game name="宝可梦（改）精灵寄宝石 - D032F23A">
+		<rom name="宝可梦（改）精灵寄宝石.gba" size="33554432" crc="D032F23A" md5="262BC0280FED00F7676533758CFDF40D"/>
+	</game>
+	<game name="宝可梦（改）精灵没宝石 - 1D792C72">
+		<rom name="宝可梦（改）精灵没宝石.gba" size="33554432" crc="1D792C72" md5="B711F7C153FA137C54579E439FCCD5D0"/>
+	</game>
+	<game name="宝可梦（改）紫水晶 - EC236B02">
+		<rom name="宝可梦（改）紫水晶.gba" size="16777216" crc="EC236B02" md5="6AEDDB0BE079E240073BD9B82DC87606"/>
+	</game>
+	<game name="宝可梦（改）红宝石无限版 - C7C7E324">
+		<rom name="宝可梦（改）红宝石无限版.gba" size="8465280" crc="C7C7E324" md5="4AE8E94A3CF07D3F3F8BF83F5E1E520F"/>
+	</game>
+	<game name="宝可梦（改）红宝石绿色许愿版 - C56E60B2">
+		<rom name="宝可梦（改）红宝石绿色许愿版.gba" size="8543374" crc="C56E60B2" md5="55A45D99D77823324DBADDC924F49FBC"/>
+	</game>
+	<game name="宝可梦（改）红玫瑰 - B7D78956">
+		<rom name="宝可梦（改）红玫瑰.gba" size="8388608" crc="B7D78956" md5="6A9EAA8CFFB077AD1295962212388F82"/>
+	</game>
+	<game name="宝可梦（改）绝望绿之轮回 Green Despair·Transmigration - 033F31BC">
+		<rom name="宝可梦（改）绝望绿之轮回 Green Despair·Transmigration.gba" size="268448164" crc="033F31BC" md5="1B7E8CDAEFECB63D06CCCE4D682C580C"/>
+	</game>
+	<game name="宝可梦（改）绿宝石386正式版 - AF652BD5">
+		<rom name="宝可梦（改）绿宝石386正式版.gba" size="16777216" crc="AF652BD5" md5="B285063F61D99C04D76724D3518C52AC"/>
+	</game>
+	<game name="宝可梦（改）绿宝石493 - AD79F2FB">
+		<rom name="宝可梦（改）绿宝石493.gba" size="16777216" crc="AD79F2FB" md5="ABF2C149EBBED6909CD04274CB3D1164"/>
+	</game>
+	<game name="宝可梦（改）绿宝石493火焰之魂 - 243084F9">
+		<rom name="宝可梦（改）绿宝石493火焰之魂.gba" size="16777216" crc="243084F9" md5="7283FD3D826D74FDEEA09298632A0940"/>
+	</game>
+	<game name="宝可梦（改）绿宝石649 - 273CA22B">
+		<rom name="宝可梦（改）绿宝石649.gba" size="16777216" crc="273CA22B" md5="114AFA083D8D2CC3221DF7A78833DBEF"/>
+	</game>
+	<game name="宝可梦（改）焱の冒险之超越幻与梦 - 8806A8D1">
+		<rom name="宝可梦（改）焱の冒险之超越幻与梦.gba" size="16777216" crc="8806A8D1" md5="AEAC7A9237F72F1671EFC347006FCD67"/>
+	</game>
+	<game name="宝可梦（改）绿宝石卢卡里欧8 - 90EDE51D">
+		<rom name="宝可梦（改）绿宝石卢卡里欧8.gba" size="16788768" crc="90EDE51D" md5="D03931CEFAA1EC88ABC10781DBAE8E00"/>
+	</game>
+	<game name="宝可梦（改）Ryuhouji 子不吃窝边屮 绿宝石增强 7.22 from v9.502 - 4400F03A">
+		<rom name="宝可梦（改）Ryuhouji 子不吃窝边屮 绿宝石增强 7.22 from v9.502.gba" size="33554432" crc="4400F03A" md5="58E9720ECEB7B0809068F02AE736F880"/>
+	</game>
+	<game name="宝可梦（改）绿魂 - AFDA10FC">
+		<rom name="宝可梦（改）绿魂.gba" size="16777216" crc="AFDA10FC" md5="67B225434D5FBB391A120E09B96C3FAD"/>
+	</game>
+	<game name="宝可梦（改）罪恶世界特别版 - 7F845AC2">
+		<rom name="宝可梦（改）罪恶世界特别版.gba" size="33554432" crc="7F845AC2" md5="B4FAAC982D33E444C85BD6FC5870D3D1"/>
+	</game>
+	<game name="宝可梦（改）罪恶的世界3.4 - 04C19A61">
+		<rom name="宝可梦（改）罪恶的世界3.4.gba" size="33554432" crc="04C19A61" md5="31706C64250D31372ACD9DBB73F82155"/>
+	</game>
+	<game name="宝可梦（改）美化重制绿宝石beat0.1 - 065B76A6">
+		<rom name="宝可梦（改）美化重制绿宝石beat0.1.gba" size="33549274" crc="065B76A6" md5="ED9B04632B065F73D33206DFD18218ED"/>
+	</game>
+	<game name="宝可梦（改）胜利之火（简）STRANGE_KID - 24652D5B">
+		<rom name="宝可梦（改）胜利之火（简）STRANGE_KID.gba" size="33554432" crc="24652D5B" md5="E0FD6156055AB0E5BF841B88E629BE3C"/>
+	</game>
+	<game name="宝可梦（改）蓝冰MX - DE99BE14">
+		<rom name="宝可梦（改）蓝冰MX.gba" size="33554432" crc="DE99BE14" md5="86928C9DA564304D05CAB123B96DAC6B"/>
+	</game>
+	<game name="宝可梦（改）蓝冰MX - 7E51A6EF">
+		<rom name="宝可梦（改）蓝冰MX.gba" size="33554432" crc="7E51A6EF" md5="B6239DDBCACAE0127614EF51D38B64AD"/>
+	</game>
+	<game name="宝可梦（改）蓝宝石 (改) Pocket Monsters - Sapphire 变异时代2 - 94994010">
+		<rom name="宝可梦（改）蓝宝石 (改) Pocket Monsters - Sapphire 变异时代2.gba" size="35651584" crc="94994010" md5="D8BAA1D423B472A6155017C96E447919"/>
+	</game>
+	<game name="宝可梦（改）蓝色妖姬 - EF411221">
+		<rom name="宝可梦（改）蓝色妖姬.gba" size="8388608" crc="EF411221" md5="A78AE2B5E5DBA66F09685785384448B3"/>
+	</game>
+	<game name="宝可梦（改）虫之预感1.0 - DBE7B7AA">
+		<rom name="宝可梦（改）虫之预感1.0.gba" size="33554432" crc="DBE7B7AA" md5="82F1496606281BAC8233A8951EBD8600"/>
+	</game>
+	<game name="宝可梦（改）蛇纹木（简）STRANGE_KID 20160608 - AF8B658D">
+		<rom name="宝可梦（改）蛇纹木（简）STRANGE_KID 20160608.gba" size="19930384" crc="AF8B658D" md5="14059FE99470A7FADA6A900104544885"/>
+	</game>
+	<game name="宝可梦（改）超级绿宝石8.0 - 4D45BC2F">
+		<rom name="宝可梦（改）超级绿宝石8.0.gba" size="33554432" crc="4D45BC2F" md5="7B2B942F085EDB12037246641B3E78F7"/>
+	</game>
+	<game name="宝可梦（改）超能风暴 - 73DCC61E">
+		<rom name="宝可梦（改）超能风暴.gba" size="33555456" crc="73DCC61E" md5="2E062186E5ECB02A056DFAFA2E59334B"/>
+	</game>
+	<game name="宝可梦（改）迷之绿宝石1.0beta - D2B11B8C">
+		<rom name="宝可梦（改）迷之绿宝石1.0beta.gba" size="33554432" crc="D2B11B8C" md5="C28114749B3E5592C20FE2A83A6E4A12"/>
+	</game>
+	<game name="宝可梦（改）邪钻 - 14615FC9">
+		<rom name="宝可梦（改）邪钻.gba" size="33554432" crc="14615FC9" md5="1D47034A7B3170FA01C404216B87BC41"/>
+	</game>
+	<game name="宝可梦（改）釉色STRANGE_KID - D8CEA98D">
+		<rom name="宝可梦（改）釉色STRANGE_KID.gba" size="33554432" crc="D8CEA98D" md5="9B0FC5D723881D32DA39A82FD2CE1EDD"/>
+	</game>
+	<game name="宝可梦（改）金 - 28B56DFF">
+		<rom name="宝可梦（改）金.gba" size="16777216" crc="28B56DFF" md5="6D5860B661DC8CF9E1BE3A10007EF9E0"/>
+	</game>
+	<game name="宝可梦（改）兮忆 银色传说 - FC3932AB">
+		<rom name="宝可梦（改）兮忆 银色传说.gba" size="33554432" crc="FC3932AB" md5="11EF3840E5A91C90AE8859A54245E2D7"/>
+	</game>
+	<game name="宝可梦（改）风飞的落叶0.1 - D87336AA">
+		<rom name="宝可梦（改）风飞的落叶0.1.gba" size="16777216" crc="D87336AA" md5="2E7C8F5AB8DECF45E41253089E637B43"/>
+	</game>
+	<game name="宝可梦（改）马年纪念 - 7E484728">
+		<rom name="宝可梦（改）马年纪念.gba" size="33554432" crc="7E484728" md5="D1F5B013CABAAA286A0109C5A3935FCE"/>
+	</game>
+	<game name="宝可梦（改）黑暗升起1 - 5B9B009E">
+		<rom name="宝可梦（改）黑暗升起1.gba" size="33554432" crc="5B9B009E" md5="291139E85099F218257B49CCEE4B0BB7"/>
+	</game>
+	<game name="宝可梦（改）黑暗升起2 - D2BBA6E7">
+		<rom name="宝可梦（改）黑暗升起2.gba" size="33554432" crc="D2BBA6E7" md5="DEAF510B36A3E5726BBEDE12C9F2862B"/>
+	</game>
+	<game name="宝可梦（改）黑白2 - CF7492AC">
+		<rom name="宝可梦（改）黑白2.gba" size="33554432" crc="CF7492AC" md5="0D917814D87C536810D427FDC4CC4573"/>
+	</game>
+	<game name="宝可梦（改）黑蓝电光0.5beta - E54637E5">
+		<rom name="宝可梦（改）黑蓝电光0.5beta.gba" size="33554432" crc="E54637E5" md5="50A587C42B05DDFD48FEC5B650E8B82C"/>
+	</game>
+	<game name="宝可梦（改）龙之石3汉化 - 3FFEA78F">
+		<rom name="宝可梦（改）龙之石3汉化.gba" size="33554432" crc="3FFEA78F" md5="A20B5912C46492998782C45962362942"/>
+	</game>
+	<game name="宝可梦（改）龙炎之心4.0美化 - 15CAAD81">
+		<rom name="宝可梦（改）龙炎之心4.0美化.gba" size="16777216" crc="15CAAD81" md5="8413B2AB83AAB0B897A6194276AC12F0"/>
+	</game>
+	<game name="宝可梦（改）东方人形剧1.53 - 44D6B3C2">
+		<rom name="宝可梦（改）东方人形剧1.53.gba" size="16777216" crc="44D6B3C2" md5="B752151B07971A3567A7B7A1AB15B07A"/>
+	</game>
+	<game name="宝可梦（改）FR鹿v177 - 333C8064">
+		<rom name="宝可梦（改）FR鹿v177.gba" size="16777216" crc="333C8064" md5="5C9F05EE186CCDCAE2B830F49422F9AB"/>
+	</game>
+	<game name="宝可梦（改）玉如意 - BF4C8559">
+		<rom name="宝可梦（改）玉如意.gba" size="16777216" crc="BF4C8559" md5="D07F5564F0CAB5E7C711899FD0940F94"/>
+	</game>
+	<game name="宝可梦（改）精灵学院新生代 - 4EBD8944">
+		<rom name="宝可梦（改）精灵学院新生代.gba" size="16777216" crc="4EBD8944" md5="D9D2386FFD2A52F753C67E2F19DBCD09"/>
+	</game>
+	<game name="宝可梦（改）金刚石 - 0183C03F">
+		<rom name="宝可梦（改）金刚石.gba" size="16777216" crc="0183C03F" md5="6AE43F2DB565D4D198133B9347D2156B"/>
+	</game>
+	<game name="宝可梦（改）小电 火红朱紫 v1.01 - 011F5A8F">
+		<rom name="宝可梦（改）小电 火红朱紫 v1.01.gba" size="33554432" crc="011F5A8F" md5="BE7FF678A19E3BA71EF907D19266ECB3"/>
+	</game>
+	<game name="宝可梦（改）小电 火红朱紫 v1.02 - 7C3374C8">
+		<rom name="宝可梦（改）小电 火红朱紫 v1.02.gba" size="33554432" crc="7C3374C8" md5="5F3EADDCBA3CBA028D8C54AFAC8792FC"/>
+	</game>
+	<game name="宝可梦（改）小电 2023官译386魔改 - 25704BCF">
+		<rom name="宝可梦（改）小电 2023官译386魔改.gba" size="16777216" crc="25704BCF" md5="6F929118E7D4091123594A0B7A343F45"/>
+	</game>
+	<game name="宝可梦（改）骑拉帝纳的逆袭2.0汉化 - C1711A41">
+		<rom name="宝可梦（改）骑拉帝纳的逆袭2.0汉化.gba" size="5606361" crc="C1711A41" md5="F528E74FE95761A48D5F1E54FF31C6C3"/>
+	</game>
 	<game name="宝可梦不可思议迷宫：赤之救助队（简）盗版 昆仑神 - DE601B6D">
 		<rom name="宝可梦不可思议迷宫：赤之救助队（简）盗版 昆仑神.gba" size="33554432" crc="DE601B6D" md5="6FDE02DD782B01909E1004D8045C0C76"/>
 	</game>
@@ -472,6 +1072,9 @@
 	<game name="宝可梦：叶绿（繁） - 7DA1FEFC">
 		<rom name="宝可梦：叶绿（繁）.gba" size="16777216" crc="7DA1FEFC" md5="48A28D0E2FC3A02EC82F904FE9956D08"/>
 	</game>
+	<game name="宝可梦：水晶（简）CKN DMG 口袋群星SP 20201214 v1.1 GBC - DDEF165B">
+		<rom name="宝可梦：水晶（简）CKN DMG 口袋群星SP 20201214 v1.1 GBC.gba" size="2173172" crc="DDEF165B" md5="C42CC46A68289B068EBC4EAD25FAC2E8"/>
+	</game>
 	<game name="宝可梦：火红（简）盗版 - D70DA3FE">
 		<rom name="宝可梦：火红（简）盗版.gba" size="16777216" crc="D70DA3FE" md5="AB3B71DD383BAFA48470F80B3ADCF20F"/>
 	</game>
@@ -487,14 +1090,17 @@
 	<game name="宝可梦：火红（简）SATOCHU v2.1 - 955EB8C0">
 		<rom name="宝可梦：火红（简）SATOCHU v2.1.gba" size="33554432" crc="955EB8C0" md5="1A9DB02B1C7E644FA7D07A0EAE25B90C"/>
 	</game>
-	<game name="宝可梦：火红（简）无名 v1.0 - 5CF1A2D5">
-		<rom name="宝可梦：火红（简）无名 v1.0.gba" size="33554432" crc="5CF1A2D5" md5="99A53F76D4860DFB5BDEFC98D4E1084F"/>
+	<game name="宝可梦：火红（简）小电 20230409 原版官译 整合DP补丁 - 495C6745">
+		<rom name="宝可梦：火红（简）小电 20230409 原版官译 整合DP补丁.gba" size="16777216" crc="495C6745" md5="4E024ACDB7D95DF8DAEE233491CD6E94"/>
 	</game>
-	<game name="宝可梦：火红（简）小电 20230409 官译 整合DP补丁 - 495C6745">
-		<rom name="宝可梦：火红（简）小电 20230409 官译 整合DP补丁.gba" size="16777216" crc="495C6745" md5="4E024ACDB7D95DF8DAEE233491CD6E94"/>
+	<game name="宝可梦：火红（简）小电 20230409 原版官译 - 9287B1A6">
+		<rom name="宝可梦：火红（简）小电 20230409 原版官译.gba" size="16777216" crc="9287B1A6" md5="7000F88CA64AC0147949A070FC11F1A8"/>
 	</game>
-	<game name="宝可梦：火红（简）小电 20230409 官译 - 9287B1A6">
-		<rom name="宝可梦：火红（简）小电 20230409 官译.gba" size="16777216" crc="9287B1A6" md5="7000F88CA64AC0147949A070FC11F1A8"/>
+	<game name="宝可梦：火红（简）小电 20230724 原版官译 - 1E8C2622">
+		<rom name="宝可梦：火红（简）小电 20230724 原版官译.gba" size="16777216" crc="1E8C2622" md5="4D002E5906A0A4E37D9D1F3DFCFFADDE"/>
+	</game>
+	<game name="宝可梦：红宝石（简）口袋妖怪网 v386 时钟修正 - A8D0E350">
+		<rom name="宝可梦：红宝石（简）口袋妖怪网 v386 时钟修正.gba" size="8465280" crc="A8D0E350" md5="5D35140FE83E6A339F4F73590E4A0980"/>
 	</game>
 	<game name="宝可梦：红宝石（简）模拟天下 - CBB48D26">
 		<rom name="宝可梦：红宝石（简）模拟天下.gba" size="8388608" crc="CBB48D26" md5="8A748A955C926EF9574A086DB3A4E5C7"/>
@@ -535,8 +1141,8 @@
 	<game name="宝可梦：绿宝石（简）漫游 TGB 口袋群星SP 20120502 典藏版 - 99538D0F">
 		<rom name="宝可梦：绿宝石（简）漫游 TGB 口袋群星SP 20120502 典藏版.gba" size="33554432" crc="99538D0F" md5="C9E97EBBF3DC183ED3AF7A015F54D8E3"/>
 	</game>
-	<game name="宝可梦：绿宝石（简）小电 20240229 官译 - CFD10EF1">
-		<rom name="宝可梦：绿宝石（简）小电 20240229 官译.gba" size="16777216" crc="CFD10EF1" md5="02D7C513BCA6B994E59F973325883A70"/>
+	<game name="宝可梦：绿宝石（简）小电 20240229 原版官译 - CFD10EF1">
+		<rom name="宝可梦：绿宝石（简）小电 20240229 原版官译.gba" size="16777216" crc="CFD10EF1" md5="02D7C513BCA6B994E59F973325883A70"/>
 	</game>
 	<game name="宝可梦：蓝宝石（简繁）ELITE 口袋妖怪网 v386 时钟修正 - 49690CDF">
 		<rom name="宝可梦：蓝宝石（简繁）ELITE 口袋妖怪网 v386 时钟修正.gba" size="8518208" crc="49690CDF" md5="0BF8F1C9DF7FE053AC9FB51DB79246D9"/>
@@ -559,17 +1165,56 @@
 	<game name="寂静岭（简）个人 - C10F47F2">
 		<rom name="寂静岭（简）个人.gba" size="8455568" crc="C10F47F2" md5="55D9B178F72C027CFC4A48FAB73188C3"/>
 	</game>
+	<game name="密特罗德（改）Adam Please 1.01 - 38CDF3AD">
+		<rom name="密特罗德（改）Adam Please 1.01.gba" size="8388608" crc="38CDF3AD" md5="D401E498D11F7CBAD39AFBA8A7883CE5"/>
+	</game>
+	<game name="密特罗德（改）DebugCN - 57B22263">
+		<rom name="密特罗德（改）DebugCN.gba" size="8388608" crc="57B22263" md5="E75BBF11B956FBF9260CCA5CF374B31F"/>
+	</game>
+	<game name="密特罗德（改）DebugEN - 55C8CED8">
+		<rom name="密特罗德（改）DebugEN.gba" size="8388608" crc="55C8CED8" md5="0992FD53FA47F8792B3D093BFF4B1E01"/>
+	</game>
+	<game name="密特罗德（改）LR无敌 - 64585B92">
+		<rom name="密特罗德（改）LR无敌.gba" size="8388608" crc="64585B92" md5="2D85D56D15D43F09FEAC311B2A2FFD85"/>
+	</game>
+	<game name="密特罗德（改）Special Edition 4.2 - FAE78EAC">
+		<rom name="密特罗德（改）Special Edition 4.2.gba" size="8388608" crc="FAE78EAC" md5="0B8C93B399FB9C5DA7CA31DAE8AF650D"/>
+	</game>
+	<game name="密特罗德（改）BOSS - 11B431B7">
+		<rom name="密特罗德（改）BOSS.gba" size="8388608" crc="11B431B7" md5="9E955108591F18C5EA1F1CD65F7E5448"/>
+	</game>
+	<game name="密特罗德（改）Boss Rush Mode 1.0 - 92DE066B">
+		<rom name="密特罗德（改）Boss Rush Mode 1.0.gba" size="8388608" crc="92DE066B" md5="EEF8A85BFF94AEA3AD5041BF0948A18D"/>
+	</game>
+	<game name="密特罗德（改）Desolation 1.1.2 - 42D2EAF9">
+		<rom name="密特罗德（改）Desolation 1.1.2.gba" size="33554432" crc="42D2EAF9" md5="1A9034291774584A3997C5A04E8B95D7"/>
+	</game>
+	<game name="密特罗德（改）LR无敌 - FF6D4D9C">
+		<rom name="密特罗德（改）LR无敌.gba" size="8388608" crc="FF6D4D9C" md5="92C8684D2122951B802DEB5648ACE9D7"/>
+	</game>
+	<game name="密特罗德（改）Juicy Mission 1.0.3 - B2E8446B">
+		<rom name="密特罗德（改）Juicy Mission 1.0.3.gba" size="33554432" crc="B2E8446B" md5="6128822121ED25340C73178F0DAE7F6B"/>
+	</game>
+	<game name="密特罗德（改）Scrolls Six 1.1 - 13FB9A5E">
+		<rom name="密特罗德（改）Scrolls Six 1.1.gba" size="16777216" crc="13FB9A5E" md5="2C6ECF4B98B12E2B6AD99F86983FABC6"/>
+	</game>
+	<game name="密特罗德（改）Spooky Mission 1.2.1 - 4283EF5F">
+		<rom name="密特罗德（改）Spooky Mission 1.2.1.gba" size="16777216" crc="4283EF5F" md5="2EDF59CF8DA908577063977F6B4AE33F"/>
+	</game>
+	<game name="密特罗德（改）Super Metroid GBA 4.0 - 0511C66D">
+		<rom name="密特罗德（改）Super Metroid GBA 4.0.gba" size="33554432" crc="0511C66D" md5="0C0450CF5556DDAC9DE85F04CBEE4C00"/>
+	</game>
 	<game name="密特罗德：融合（简）CHRONO v1.01 - 6E0FAB27">
 		<rom name="密特罗德：融合（简）CHRONO v1.01.gba" size="8388608" crc="6E0FAB27" md5="2E54DE14DA22E4B2B7FD0345CE386433"/>
 	</game>
 	<game name="密特罗德：融合（简）神游 - 042E5B07">
 		<rom name="密特罗德：融合（简）神游.gba" size="8388608" crc="042E5B07" md5="0DC8A17AF87706F54DB5B78F02C5AD12"/>
 	</game>
-	<game name="密特罗德：零点任务（简）天使 狂细胞 - E30FF2CC">
-		<rom name="密特罗德：零点任务（简）天使 狂细胞.gba" size="8388608" crc="E30FF2CC" md5="2B06A33BFDBAE331E5E101C8A7F681A1"/>
+	<game name="密特罗德：零点任务（简）天使 madcell 20040211 - E30FF2CC">
+		<rom name="密特罗德：零点任务（简）天使 madcell 20040211.gba" size="8388608" crc="E30FF2CC" md5="2B06A33BFDBAE331E5E101C8A7F681A1"/>
 	</game>
-	<game name="密特罗德：零点任务（简）CHRONO - 0970387C">
-		<rom name="密特罗德：零点任务（简）CHRONO.gba" size="8388608" crc="0970387C" md5="A9335010FDA9F03320FAE11644EC7A81"/>
+	<game name="密特罗德：零点任务（简）CHRONO 20040522 v1.01 - 0970387C">
+		<rom name="密特罗德：零点任务（简）CHRONO 20040522 v1.01.gba" size="8388608" crc="0970387C" md5="A9335010FDA9F03320FAE11644EC7A81"/>
 	</game>
 	<game name="密特罗德：零点任务（简）神游 - E951865C">
 		<rom name="密特罗德：零点任务（简）神游.gba" size="8388608" crc="E951865C" md5="7C1AC3A3B9F0948BBCC6D5B2AFAC860C"/>
@@ -598,8 +1243,14 @@
 	<game name="彼岸花（简）1d4444 20240401 v0.1 - 689B0482">
 		<rom name="彼岸花（简）1d4444 20240401 v0.1.gba" size="8388608" crc="689B0482" md5="A0854E6757C62A50525AFF5E7EFCBCCD"/>
 	</game>
-	<game name="心跳回忆 Demo（简）星组 v1.5 改版演示 - 11881A86">
-		<rom name="心跳回忆 Demo（简）星组 v1.5 改版演示.gba" size="864752" crc="11881A86" md5="EB0B4D7B0C96FB7648E57471C3A75BCF"/>
+	<game name="彼岸花（简）1d4444 20240411 v0.4 - 54C95CFF">
+		<rom name="彼岸花（简）1d4444 20240411 v0.4.gba" size="8388608" crc="54C95CFF" md5="4C043B6D150AEBFBC8B013DE67573114"/>
+	</game>
+	<game name="彼岸花（简）1d4444 20240514 v0.6 - C1E350CE">
+		<rom name="彼岸花（简）1d4444 20240514 v0.6.gba" size="8388608" crc="C1E350CE" md5="5EFBE41750FE94E8036B7FB32A29B1CB"/>
+	</game>
+	<game name="心跳回忆 Demo（改）星组 v1.5 改版演示 - 11881A86">
+		<rom name="心跳回忆 Demo（改）星组 v1.5 改版演示.gba" size="864752" crc="11881A86" md5="EB0B4D7B0C96FB7648E57471C3A75BCF"/>
 	</game>
 	<game name="心跳烹饪系列2 美味厨房 绝妙便当（简）恒星月 测试 - E2C3760B">
 		<rom name="心跳烹饪系列2 美味厨房 绝妙便当（简）恒星月 测试.gba" size="8388608" crc="E2C3760B" md5="0F7BCD50EDE45FAA1C9C1F2EE22EE15A"/>
@@ -613,8 +1264,14 @@
 	<game name="忍者神龟2（简）盗版 YY小龙虾 - F4641711">
 		<rom name="忍者神龟2（简）盗版 YY小龙虾.gba" size="33554432" crc="F4641711" md5="28CEBF1C1138771D3C55BEEBF589FC52"/>
 	</game>
-	<game name="快打旋风One（简）天使 狂细胞 - E5AAB7F7">
-		<rom name="快打旋风One（简）天使 狂细胞.gba" size="4224224" crc="E5AAB7F7" md5="A6BC46740EF75C752C271BF4B534083E"/>
+	<game name="忘却的旋律（简）1d4444 20240518 v0.8 DeepL机翻 - 7B8B601B">
+		<rom name="忘却的旋律（简）1d4444 20240518 v0.8 DeepL机翻.gba" size="8388608" crc="7B8B601B" md5="BB5244AD392C91F7EF4EF6732C9BDC1E"/>
+	</game>
+	<game name="忘却的旋律（简）1d4444 20240518 v0.8 有道机翻 - 4C867789">
+		<rom name="忘却的旋律（简）1d4444 20240518 v0.8 有道机翻.gba" size="8388608" crc="4C867789" md5="3F183AC97B437A124FA9E2DC4F63E4FC"/>
+	</game>
+	<game name="快打旋风One（简）天使 madcell - E5AAB7F7">
+		<rom name="快打旋风One（简）天使 madcell.gba" size="4224224" crc="E5AAB7F7" md5="A6BC46740EF75C752C271BF4B534083E"/>
 	</game>
 	<game name="快打旋风One（繁）天使 - E6DD3BAB">
 		<rom name="快打旋风One（繁）天使.gba" size="4194304" crc="E6DD3BAB" md5="0423D317EB3D574615161FD41A4DDF57"/>
@@ -631,8 +1288,8 @@
 	<game name="怪物守护者（简）PGCG - 7C4515A2">
 		<rom name="怪物守护者（简）PGCG.gba" size="8388608" crc="7C4515A2" md5="0C3257EC0AB470888A216A33DA59AFB3"/>
 	</game>
-	<game name="恶魔城改：三饶传奇（简）邱健华 - 1CD4CAF4">
-		<rom name="恶魔城改：三饶传奇（简）邱健华.gba" size="8388608" crc="1CD4CAF4" md5="908298530FBA44BB9CC97B96FE1EC360"/>
+	<game name="恶魔城改：三饶传奇（改）邱健华 三饶传奇 - 1CD4CAF4">
+		<rom name="恶魔城改：三饶传奇（改）邱健华 三饶传奇.gba" size="8388608" crc="1CD4CAF4" md5="908298530FBA44BB9CC97B96FE1EC360"/>
 	</game>
 	<game name="恶魔城：晓月圆舞曲（繁）九柳 - 26CBC195">
 		<rom name="恶魔城：晓月圆舞曲（繁）九柳.gba" size="8388608" crc="26CBC195" md5="926144CE8371847EE6DEE99B79A53525"/>
@@ -651,9 +1308,6 @@
 	</game>
 	<game name="恶魔城：白夜协奏曲（简）音质修复 - 1257972A">
 		<rom name="恶魔城：白夜协奏曲（简）音质修复.gba" size="11956176" crc="1257972A" md5="473F4DA2CC39693314BD77B14297F290"/>
-	</game>
-	<game name="成龙冒险-黑手党传说（简） - 13247954">
-		<rom name="成龙冒险-黑手党传说（简）.gba" size="4194304" crc="13247954" md5="863BB2F057959EC7B21AA0174C817FA9"/>
 	</game>
 	<game name="我们的太阳：太阳动作RPG（繁）TGB - 43DA2360">
 		<rom name="我们的太阳：太阳动作RPG（繁）TGB.gba" size="16777216" crc="43DA2360" md5="8292DAF03D3C6A5BA58C8BAFF78BAE6E"/>
@@ -715,17 +1369,17 @@
 	<game name="指环王 王者归来（简）Advance v0.4B 小字体 - 413C4EF6">
 		<rom name="指环王 王者归来（简）Advance v0.4B 小字体.gba" size="17825792" crc="413C4EF6" md5="32F5EE67A236636B12F89CDE273F2296"/>
 	</game>
-	<game name="挑战联珠（简）混沌星辰 - 31CF5C5C">
-		<rom name="挑战联珠（简）混沌星辰.gba" size="1057100" crc="31CF5C5C" md5="2CD97590F88ED6BC81AF7A16E6BC0304"/>
+	<game name="挑战联珠（改）混沌星辰 - 31CF5C5C">
+		<rom name="挑战联珠（改）混沌星辰.gba" size="1057100" crc="31CF5C5C" md5="2CD97590F88ED6BC81AF7A16E6BC0304"/>
 	</game>
-	<game name="推箱子（简） - E3BDFFDC">
-		<rom name="推箱子（简）.gba" size="3320364" crc="E3BDFFDC" md5="EB32A7F49E949EA266C271743B718D75"/>
+	<game name="推箱子（改） - E3BDFFDC">
+		<rom name="推箱子（改）.gba" size="3320364" crc="E3BDFFDC" md5="EB32A7F49E949EA266C271743B718D75"/>
 	</game>
 	<game name="携带电兽2力量（简）盗版 PUSZTA - 8F4C3F33">
 		<rom name="携带电兽2力量（简）盗版 PUSZTA.gba" size="8388608" crc="8F4C3F33" md5="8072BEE2986A3516B4008D02D1FAAA6B"/>
 	</game>
-	<game name="携带电兽2速度（简）盗版 施珂昱 - 5AC01C3D">
-		<rom name="携带电兽2速度（简）盗版 施珂昱.gba" size="8388608" crc="5AC01C3D" md5="1C31D03028052F140DDF6ACB7DA5E9A9"/>
+	<game name="携带电兽2速度（简）施珂昱 - 5AC01C3D">
+		<rom name="携带电兽2速度（简）施珂昱.gba" size="8388608" crc="5AC01C3D" md5="1C31D03028052F140DDF6ACB7DA5E9A9"/>
 	</game>
 	<game name="摇摆森喜刚（简）神游 未发售 - 517FB18D">
 		<rom name="摇摆森喜刚（简）神游 未发售.gba" size="8388608" crc="517FB18D" md5="064DB81169E3CB761C5702260039AE28"/>
@@ -748,11 +1402,11 @@
 	<game name="斯塔非的传说2（简）神游 未发售 - E8E756CA">
 		<rom name="斯塔非的传说2（简）神游 未发售.gba" size="16777216" crc="E8E756CA" md5="8DC9EB3C6A76FE563BDD7B7D10F2B72C"/>
 	</game>
+	<game name="斯科基病毒：蜂巢（简）河豚幻想 20240629 - 2FCCD1EF">
+		<rom name="斯科基病毒：蜂巢（简）河豚幻想 20240629.gba" size="16777216" crc="2FCCD1EF" md5="CF67322F5D5CDCCD8EE1F29F00B337A6"/>
+	</game>
 	<game name="新约圣剑传说（简）NECRO 天使 狼组 勇者 - 04B8220C">
 		<rom name="新约圣剑传说（简）NECRO 天使 狼组 勇者.gba" size="16777216" crc="04B8220C" md5="510E54F22787984E33F61502712A9BC6"/>
-	</game>
-	<game name="日汉英电子词典（简）v1.8 - E2C758E1">
-		<rom name="日汉英电子词典（简）v1.8.gba" size="3391596" crc="E2C758E1" md5="EC60650AB5860E396B8AC2B8E05F0845"/>
 	</game>
 	<game name="星之卡比：梦之泉物语（简）CGP - F1E1DAC9">
 		<rom name="星之卡比：梦之泉物语（简）CGP.gba" size="8716032" crc="F1E1DAC9" md5="BFA1DF89976FD25211A1883DB809E13A"/>
@@ -817,6 +1471,12 @@
 	<game name="最终幻想战略版 Advance（简）熊组 Tring 20231226 v0.2.1 美版 - CC2BB02B">
 		<rom name="最终幻想战略版 Advance（简）熊组 Tring 20231226 v0.2.1 美版.gba" size="11642632" crc="CC2BB02B" md5="C3104A7BE00E4ADA783F528D211B128A"/>
 	</game>
+	<game name="最终幻想战略版 Advance（简）熊组 啪嗒啪嗒 v1.1 - F22938AF">
+		<rom name="最终幻想战略版 Advance（简）熊组 啪嗒啪嗒 v1.1.gba" size="16777216" crc="F22938AF" md5="B9D99082F92D62E7283F1C2361E09A23"/>
+	</game>
+	<game name="最终幻想战略版 Advance（简）熊组 yggdra Tring v0.2.5 Demo - 8FC9A974">
+		<rom name="最终幻想战略版 Advance（简）熊组 yggdra Tring v0.2.5 Demo.gba" size="11604020" crc="8FC9A974" md5="94ADF8B5A385DBB9324071F92B08DAA7"/>
+	</game>
 	<game name="机兽新世纪2（简）菜单少量汉化 - 6B001E50">
 		<rom name="机兽新世纪2（简）菜单少量汉化.gba" size="8388608" crc="6B001E50" md5="425938D45122FEA6EA741A43E73CDFD5"/>
 	</game>
@@ -871,8 +1531,8 @@
 	<game name="欢乐足球（简）HYOPO - A16F5D12">
 		<rom name="欢乐足球（简）HYOPO.gba" size="8388608" crc="A16F5D12" md5="A29C690FC8F8907862F50B9355B4FB18"/>
 	</game>
-	<game name="欢乐足球（简）axelfang 2010中超 - 0244F2EF">
-		<rom name="欢乐足球（简）axelfang 2010中超.gba" size="8388608" crc="0244F2EF" md5="34C38E379FEE04992FFD79C314F14F41"/>
+	<game name="欢乐足球（改）axelfang 2010中超 - 0244F2EF">
+		<rom name="欢乐足球（改）axelfang 2010中超.gba" size="8388608" crc="0244F2EF" md5="34C38E379FEE04992FFD79C314F14F41"/>
 	</game>
 	<game name="欢乐足球（简）月神侠 球员名汉化2010中超整合 - 63493160">
 		<rom name="欢乐足球（简）月神侠 球员名汉化2010中超整合.gba" size="8388608" crc="63493160" md5="0E2D01057F6E6B2FDA646C657E2EF858"/>
@@ -988,6 +1648,9 @@
 	<game name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240415 v1.0 - 34BF2509">
 		<rom name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240415 v1.0.gba" size="16872464" crc="34BF2509" md5="F4DB045CF183C28C37F4450177722341"/>
 	</game>
+	<game name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240512 v1.1 - 5D97058E">
+		<rom name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240512 v1.1.gba" size="16872464" crc="5D97058E" md5="3C23700EA1277F37C4BEB906C4C1A8FF"/>
+	</game>
 	<game name="游戏王! 怪兽决斗EX 2（繁）九柳 测试 - 2A0F130C">
 		<rom name="游戏王! 怪兽决斗EX 2（繁）九柳 测试.gba" size="16777216" crc="2A0F130C" md5="C0154BCC7CEF25534E974F2297F92850"/>
 	</game>
@@ -1026,6 +1689,96 @@
 	</game>
 	<game name="火影忍者 木叶战记（简）熊组 v1.3 - 7D2201D1">
 		<rom name="火影忍者 木叶战记（简）熊组 v1.3.gba" size="6291456" crc="7D2201D1" md5="CD7FB9A4B60D01CF63E2406FFE18B07C"/>
+	</game>
+	<game name="火焰之纹章（改）后宫战纪（简）艾丝特 20200104 v009 - DE942803">
+		<rom name="火焰之纹章（改）后宫战纪（简）艾丝特 20200104 v009.gba" size="31979420" crc="DE942803" md5="6E7438B85A0BBFCD6BEB61E7F045E296"/>
+	</game>
+	<game name="火焰之纹章（改）回声GBA（简）HyperGammaSpaces 素昼 jiny9675 20230414 3DS复刻GBA汉化 - 1B0303E7">
+		<rom name="火焰之纹章（改）回声GBA（简）HyperGammaSpaces 素昼 jiny9675 20230414 3DS复刻GBA汉化.gba" size="22697628" crc="1B0303E7" md5="E7D6A6357DC6061060D46A051A7C5AB2"/>
+	</game>
+	<game name="火焰之纹章（改）回声GBA（简）HyperGammaSpaces 罗伊SD 20230415 3DS复刻GBA汉化 - 87E21C6D">
+		<rom name="火焰之纹章（改）回声GBA（简）HyperGammaSpaces 罗伊SD 20230415 3DS复刻GBA汉化.gba" size="22505760" crc="87E21C6D" md5="7DE311452D83DD62C406390AC20593B8"/>
+	</game>
+	<game name="火焰之纹章（改）圣光之战（简）狼组 火花天龙剑 - 5F175837">
+		<rom name="火焰之纹章（改）圣光之战（简）狼组 火花天龙剑.gba" size="21311956" crc="5F175837" md5="2A0827A34643F02E37F52C6D4390F3C2"/>
+	</game>
+	<game name="火焰之纹章（改）圣邪意志（简）狼组 火花天龙剑 v1.4 127.25 - 9CBB923E">
+		<rom name="火焰之纹章（改）圣邪意志（简）狼组 火花天龙剑 v1.4 127.25.gba" size="16777216" crc="9CBB923E" md5="58928A2B5348B805762164464C5C1855"/>
+	</game>
+	<game name="火焰之纹章（改）多拉基亚776复刻（简） - BD7BF06A">
+		<rom name="火焰之纹章（改）多拉基亚776复刻（简）.gba" size="32748744" crc="BD7BF06A" md5="DDBB8FF02A43ABE74202F1246D2D0A60"/>
+	</game>
+	<game name="火焰之纹章（改）封印之剑Re英雄王的传说（简）牛头人 v2.9.4 - CD44B051">
+		<rom name="火焰之纹章（改）封印之剑Re英雄王的传说（简）牛头人 v2.9.4.gba" size="33554432" crc="CD44B051" md5="59028312E0B35F2082EE5C339FBB5496"/>
+	</game>
+	<game name="火焰之纹章（改）战鼓2.725（0成长） - 0F7D3FB4">
+		<rom name="火焰之纹章（改）战鼓2.725（0成长）.gba" size="32570824" crc="0F7D3FB4" md5="72A07E20EA7AE252AD130AA7007608C4"/>
+	</game>
+	<game name="火焰之纹章（改）战鼓2.725（低成长） - B4F92408">
+		<rom name="火焰之纹章（改）战鼓2.725（低成长）.gba" size="32592628" crc="B4F92408" md5="6A47B47A7D12229ADDC04BC9031C139B"/>
+	</game>
+	<game name="火焰之纹章（改）战鼓2.725（正常成长） - 4B9BEBDE">
+		<rom name="火焰之纹章（改）战鼓2.725（正常成长）.gba" size="32594928" crc="4B9BEBDE" md5="C93BD17FEBD30F54932A346DEDCEFD28"/>
+	</game>
+	<game name="火焰之纹章（改）战鼓2.725（高成长） - 8A964271">
+		<rom name="火焰之纹章（改）战鼓2.725（高成长）.gba" size="32605076" crc="8A964271" md5="4540149D439804635FE617395231B023"/>
+	</game>
+	<game name="火焰之纹章（改）暗黑龙与光之剑（简）与寂寞相伴的逍遥x6 20240324 重制 - FC55AC00">
+		<rom name="火焰之纹章（改）暗黑龙与光之剑（简）与寂寞相伴的逍遥x6 20240324 重制.gba" size="20365552" crc="FC55AC00" md5="61C924A07FC7E45772B0B8C85CA16975"/>
+	</game>
+	<game name="火焰之纹章（改）暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6 成长0 - 5EE8B531">
+		<rom name="火焰之纹章（改）暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6 成长0.gba" size="21255896" crc="5EE8B531" md5="48977089448787B09CFA9A2B703333A6"/>
+	</game>
+	<game name="火焰之纹章（改）暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6 - 8665D03B">
+		<rom name="火焰之纹章（改）暗黑龙重生（简）Merpin 与寂寞相伴的逍遥X6 v1.6.gba" size="21255896" crc="8665D03B" md5="BB257B352455EAD051A80B1EAFDD6E21"/>
+	</game>
+	<game name="火焰之纹章（改）最后的承诺（简）Blazer ZeroSlience 20221207 v1.6 - 0643181E">
+		<rom name="火焰之纹章（改）最后的承诺（简）Blazer ZeroSlience 20221207 v1.6.gba" size="33523172" crc="0643181E" md5="18BE021A67E0E1CA4C3DECD60848189A"/>
+	</game>
+	<game name="火焰之纹章（改）最后的皇室（简）ArcaneEli 瓦莱娜23号 20230201 T2S v1.1.1 - 7295D975">
+		<rom name="火焰之纹章（改）最后的皇室（简）ArcaneEli 瓦莱娜23号 20230201 T2S v1.1.1.gba" size="33542780" crc="7295D975" md5="FB2B5648216181694A51A6852087808B"/>
+	</game>
+	<game name="火焰之纹章（改）沉重的王冠（简） - 3089E40A">
+		<rom name="火焰之纹章（改）沉重的王冠（简）.gba" size="24029140" crc="3089E40A" md5="5869BAD492F4DAA0CF53B30712C821EF"/>
+	</game>
+	<game name="火焰之纹章（改）烈火之剑if（简）20140217 - F5D2CC38">
+		<rom name="火焰之纹章（改）烈火之剑if（简）20140217.gba" size="33554432" crc="F5D2CC38" md5="0C1DFD078A563322D876FEFC6B32ABE9"/>
+	</game>
+	<game name="火焰之纹章（改）祈悠之月WH（简）小响天 - A6F6788A">
+		<rom name="火焰之纹章（改）祈悠之月WH（简）小响天.gba" size="33554432" crc="A6F6788A" md5="3CF1C9F37B0E8BB9497E2603DC52A42A"/>
+	</game>
+	<game name="火焰之纹章（改）苍炎晓女：晓女正式版苍炎勇者（简）牛头人 v5.9.4 - 3FE8CA97">
+		<rom name="火焰之纹章（改）苍炎晓女：晓女正式版苍炎勇者（简）牛头人 v5.9.4.gba" size="33544716" crc="3FE8CA97" md5="79ED0957A1984C2016CDC34402B11AAA"/>
+	</game>
+	<game name="火焰之纹章（改）虚空之魂重制版1.2 - 36782CFB">
+		<rom name="火焰之纹章（改）虚空之魂重制版1.2.gba" size="33132656" crc="36782CFB" md5="F9E4F85AB350DD0D17454AB2C3CA8CED"/>
+	</game>
+	<game name="火焰之纹章（改）铠甲的呼唤（简）Pandan Ai 20230212 - EABA2C27">
+		<rom name="火焰之纹章（改）铠甲的呼唤（简）Pandan Ai 20230212.gba" size="21853736" crc="EABA2C27" md5="ACA2EE57910569134B054C3F4C5A63A8"/>
+	</game>
+	<game name="火焰之纹章（改）镇魂曲（简）SacredBlaze 小丑の梦 20230808 - 358769FD">
+		<rom name="火焰之纹章（改）镇魂曲（简）SacredBlaze 小丑の梦 20230808.gba" size="21578432" crc="358769FD" md5="1A01350CF6DA094E92A5FB21BC0D337A"/>
+	</game>
+	<game name="火焰之纹章（改）隐秘之龙（简）与寂寞相伴的逍遥X6 20230803 - 4E5F5688">
+		<rom name="火焰之纹章（改）隐秘之龙（简）与寂寞相伴的逍遥X6 20230803.gba" size="20310964" crc="4E5F5688" md5="03FA56B0FADC01C5DDA15A3A7031831A"/>
+	</game>
+	<game name="火焰之纹章（改）黑暗之主2. - 55AB8D58 - 55AB8D58">
+		<rom name="火焰之纹章（改）黑暗之主2. - 55AB8D58.gba" size="24691468" crc="55AB8D58" md5="5AA75BE7C3446BDF8F4E2F27C9202478"/>
+	</game>
+	<game name="火焰之纹章（改）黑暗无双（简）YYGYQKHH - 7E7EF874">
+		<rom name="火焰之纹章（改）黑暗无双（简）YYGYQKHH.gba" size="17008656" crc="7E7EF874" md5="67B22F6938B42AB5E839EE60B627A14F"/>
+	</game>
+	<game name="火焰之纹章（改）黑暗轮回者（简）悲桑酱 006 最终版 - 4188CF4B">
+		<rom name="火焰之纹章（改）黑暗轮回者（简）悲桑酱 006 最终版.gba" size="32267124" crc="4188CF4B" md5="E6F4B2655645F9058D844B77658D5F54"/>
+	</game>
+	<game name="火焰之纹章（改）封印之剑Re英雄王传说 2.98 - 364BE0DD">
+		<rom name="火焰之纹章（改）封印之剑Re英雄王传说 2.98.gba" size="33554432" crc="364BE0DD" md5="24A0D2B732F002E65C99CC3865A9652F"/>
+	</game>
+	<game name="火焰之纹章（改）回声 v1.1 - A98828EE">
+		<rom name="火焰之纹章（改）回声 v1.1.gba" size="22048676" crc="A98828EE" md5="72044E50E49F85E73B6F6A967E41F696"/>
+	</game>
+	<game name="火焰之纹章（改）cheddar29 金币与血 - 32EAA921">
+		<rom name="火焰之纹章（改）cheddar29 金币与血.gba" size="21153284" crc="32EAA921" md5="9A5A1F25D2548A4622AD8268B3BF4A59"/>
 	</game>
 	<game name="火焰之纹章：圣魔之光石（简）火花 狼组 - AAF44313">
 		<rom name="火焰之纹章：圣魔之光石（简）火花 狼组.gba" size="16777216" crc="AAF44313" md5="2F7662C2E97A957B1382FE1F29F3265C"/>
@@ -1120,8 +1873,8 @@
 	<game name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20231107 - 7AD2796B">
 		<rom name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20231107.gba" size="8388608" crc="7AD2796B" md5="D20FAAABDC59D6AD14BBC0F07BB922B8"/>
 	</game>
-	<game name="牧场物语：矿石镇的伙伴们（简）时间变慢 - 9CC9D134">
-		<rom name="牧场物语：矿石镇的伙伴们（简）时间变慢.gba" size="8388608" crc="9CC9D134" md5="26FC35E6D1A0C141DB4E89DAAC7C7963"/>
+	<game name="牧场物语：矿石镇的伙伴们（改）时间变慢 - 9CC9D134">
+		<rom name="牧场物语：矿石镇的伙伴们（改）时间变慢.gba" size="8388608" crc="9CC9D134" md5="26FC35E6D1A0C141DB4E89DAAC7C7963"/>
 	</game>
 	<game name="牧场物语：矿石镇的伙伴们女孩版（简）Middle333 2004 v0.6 - 96900F94">
 		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）Middle333 2004 v0.6.gba" size="16777216" crc="96900F94" md5="B09D50D45EC9975D0A860FB0B22633DD"/>
@@ -1183,11 +1936,11 @@
 	<game name="瓦力欧寻宝记（简）神游 - CF7585F1">
 		<rom name="瓦力欧寻宝记（简）神游.gba" size="8388608" crc="CF7585F1" md5="3D8FCFA27F2A659AB5F3AB0D70B9C99D"/>
 	</game>
-	<game name="电梯大战 旧 新（简）天使 狂细胞 - 8C5E2EE2">
-		<rom name="电梯大战 旧 新（简）天使 狂细胞.gba" size="8388608" crc="8C5E2EE2" md5="E4F074F03EB64D4F10DB695D7599DB58"/>
+	<game name="电梯大战：旧和新（简）天使 madcell - 8C5E2EE2">
+		<rom name="电梯大战：旧和新（简）天使 madcell.gba" size="8388608" crc="8C5E2EE2" md5="E4F074F03EB64D4F10DB695D7599DB58"/>
 	</game>
-	<game name="电梯大战 旧 新（繁）天使 - 52E992F3">
-		<rom name="电梯大战 旧 新（繁）天使.gba" size="8388608" crc="52E992F3" md5="D79725AD2E27599A13025D3597222AC4"/>
+	<game name="电梯大战：旧和新（繁）天使 - 52E992F3">
+		<rom name="电梯大战：旧和新（繁）天使.gba" size="8388608" crc="52E992F3" md5="D79725AD2E27599A13025D3597222AC4"/>
 	</game>
 	<game name="番茄酱王国大冒险（简）神游 未发售 - 5116A665">
 		<rom name="番茄酱王国大冒险（简）神游 未发售.gba" size="8388608" crc="5116A665" md5="70A33B660D40FAEB7B43766CEA189030"/>
@@ -1203,6 +1956,9 @@
 	</game>
 	<game name="皇家骑士团外传：劳德思的骑士（简）ZYMGUNDAM 阿一 - E4EF03C3">
 		<rom name="皇家骑士团外传：劳德思的骑士（简）ZYMGUNDAM 阿一.gba" size="8388608" crc="E4EF03C3" md5="BA43C2A6CFEC8EEF757CB9925E166E4B"/>
+	</game>
+	<game name="皇家骑士团外传：劳德思的骑士（简）银手大官人 测试 - 790AB2D4">
+		<rom name="皇家骑士团外传：劳德思的骑士（简）银手大官人 测试.gba" size="16777216" crc="790AB2D4" md5="7BA2C118E1EFBEEB086646333244ADC9"/>
 	</game>
 	<game name="皇家骑士团外传：劳德思的骑士（简）银手大官人 v1.1 - 42E17BA0">
 		<rom name="皇家骑士团外传：劳德思的骑士（简）银手大官人 v1.1.gba" size="16777216" crc="42E17BA0" md5="654BA79F22BF837E389B697994605548"/>
@@ -1224,6 +1980,9 @@
 	</game>
 	<game name="真女神转生（简）狼组 v1.42 - B40303D8">
 		<rom name="真女神转生（简）狼组 v1.42.gba" size="8388608" crc="B40303D8" md5="C7D22FE49548705DB7994B2BCE5D103A"/>
+	</game>
+	<game name="真女神转生（简）Advance 20240623 v1.0 - 49B36446">
+		<rom name="真女神转生（简）Advance 20240623 v1.0.gba" size="8388608" crc="49B36446" md5="33F040BFA1E09F48506A6BB5461B34C2"/>
 	</game>
 	<game name="真女神转生2（简）Advance 神组 20230825 v1.0 - DD4B1704">
 		<rom name="真女神转生2（简）Advance 神组 20230825 v1.0.gba" size="8388608" crc="DD4B1704" md5="D12B3B774117251EE89FA5FE3A1EDEF9"/>
@@ -1270,8 +2029,8 @@
 	<game name="简单说英文 初级篇2（繁）LIRDREPUS - C3000305">
 		<rom name="简单说英文 初级篇2（繁）LIRDREPUS.gba" size="8388608" crc="C3000305" md5="FB0B7A67906D9EBA4BF5F4F18FF80327"/>
 	</game>
-	<game name="索尼克Advance（简）狂细胞 - 1EDBB8ED">
-		<rom name="索尼克Advance（简）狂细胞.gba" size="8388608" crc="1EDBB8ED" md5="CA1F7D8B82F970ADA05637E463FCDE0A"/>
+	<game name="索尼克Advance（简）madcell - 1EDBB8ED">
+		<rom name="索尼克Advance（简）madcell.gba" size="8388608" crc="1EDBB8ED" md5="CA1F7D8B82F970ADA05637E463FCDE0A"/>
 	</game>
 	<game name="索尼克Advance 2（简）PGCG - 9901171F">
 		<rom name="索尼克Advance 2（简）PGCG.gba" size="16777216" crc="9901171F" md5="BAC566C5158FEF232AA0F873A2DCDDAB"/>
@@ -1299,6 +2058,30 @@
 	</game>
 	<game name="约束之地（繁）约束之地吧 v1.05 - 384DF288">
 		<rom name="约束之地（繁）约束之地吧 v1.05.gba" size="33554432" crc="384DF288" md5="0CB7A11393296717637DF2179A9B28E4"/>
+	</game>
+	<game name="约束之地（简）约束之地吧 v1.01 - CD02FAE2">
+		<rom name="约束之地（简）约束之地吧 v1.01.gba" size="33554432" crc="CD02FAE2" md5="00700D40530B712360A921534FF0B59B"/>
+	</game>
+	<game name="约束之地（简）约束之地吧 v1.02 - F147A746">
+		<rom name="约束之地（简）约束之地吧 v1.02.gba" size="33554432" crc="F147A746" md5="BD9BA2CD3A553A7471AF58FCC4E1005E"/>
+	</game>
+	<game name="约束之地（简）约束之地吧 v1.03 - 4214FCA6">
+		<rom name="约束之地（简）约束之地吧 v1.03.gba" size="33554432" crc="4214FCA6" md5="9D8BAAA83A50EBD0DF355C30514C8207"/>
+	</game>
+	<game name="约束之地（简）约束之地吧 v1.04 - 934F9373">
+		<rom name="约束之地（简）约束之地吧 v1.04.gba" size="33554432" crc="934F9373" md5="C9D2476EBA0FB0F41231CCAD6EFE5780"/>
+	</game>
+	<game name="约束之地（繁）约束之地吧 v1.01 - 2F3FF48C">
+		<rom name="约束之地（繁）约束之地吧 v1.01.gba" size="33554432" crc="2F3FF48C" md5="D551568312ABCE71931203C9329C9CDB"/>
+	</game>
+	<game name="约束之地（繁）约束之地吧 v1.02 - 97E02FF7">
+		<rom name="约束之地（繁）约束之地吧 v1.02.gba" size="33554432" crc="97E02FF7" md5="3ABA8B27A845C6D81D54FA9D339F8F77"/>
+	</game>
+	<game name="约束之地（繁）约束之地吧 v1.03 - 24B37417">
+		<rom name="约束之地（繁）约束之地吧 v1.03.gba" size="33554432" crc="24B37417" md5="24A40DDD983FC133CF0D8D6A3166C553"/>
+	</game>
+	<game name="约束之地（繁）约束之地吧 v1.04 - 8506A839">
+		<rom name="约束之地（繁）约束之地吧 v1.04.gba" size="33554432" crc="8506A839" md5="2C0CDE0986DBE0590A8DFD651FB4F2EB"/>
 	</game>
 	<game name="纯情房东俏房客A祝福之钟声（简）PGCG CGP - A857303A">
 		<rom name="纯情房东俏房客A祝福之钟声（简）PGCG CGP.gba" size="9177344" crc="A857303A" md5="0BA817745A3AF8811296A97EACC982DE"/>
@@ -1330,12 +2113,6 @@
 	<game name="耽美梦想 吟游默示录（简）CGP v1.02 - 79B3ADFA">
 		<rom name="耽美梦想 吟游默示录（简）CGP v1.02.gba" size="8388608" crc="79B3ADFA" md5="D7D92EAC275DE3163CABF815DCD448FA"/>
 	</game>
-	<game name="胜利11人 实况足球（简）Swelin 6lay Guys Punkemnx - F89B26EA">
-		<rom name="胜利11人 实况足球（简）Swelin 6lay Guys Punkemnx.gba" size="8388608" crc="F89B26EA" md5="B2DA1086172D7D1D4C53DD0EEEA9D208"/>
-	</game>
-	<game name="胜利11人 实况足球（简）Swelin 6lay Guys Punkemnx fciq 20230523 河南方言解说 - 6DA461F9">
-		<rom name="胜利11人 实况足球（简）Swelin 6lay Guys Punkemnx fciq 20230523 河南方言解说.gba" size="8388608" crc="6DA461F9" md5="F534248840ED6FDE5981AB2E07C0F362"/>
-	</game>
 	<game name="舞之刃 闪光（简）PGCG - 26E7A705">
 		<rom name="舞之刃 闪光（简）PGCG.gba" size="8400392" crc="26E7A705" md5="108714F08E6821D687E87E62361B0AB0"/>
 	</game>
@@ -1345,8 +2122,8 @@
 	<game name="节奏天国（简）漫游 - DF4ED80A">
 		<rom name="节奏天国（简）漫游.gba" size="16777216" crc="DF4ED80A" md5="FFF520BF4C37B8882B64C35E0F85CE0B"/>
 	</game>
-	<game name="花火大会Advance（简）TGB - 46FC3AC1">
-		<rom name="花火大会Advance（简）TGB.gba" size="8388608" crc="46FC3AC1" md5="BD03A3C5AB86B5B10F3B8972F6F2D5E6"/>
+	<game name="花火大会（简）TGB - 46FC3AC1">
+		<rom name="花火大会（简）TGB.gba" size="8388608" crc="46FC3AC1" md5="BD03A3C5AB86B5B10F3B8972F6F2D5E6"/>
 	</game>
 	<game name="荣誉勋章 渗透者（简）盗版 昆仑神 - 74FA3F7C">
 		<rom name="荣誉勋章 渗透者（简）盗版 昆仑神.gba" size="16777216" crc="74FA3F7C" md5="E9E519C31C4C1C730D26720A29767285"/>
@@ -1366,6 +2143,9 @@
 	<game name="螺旋破坏者 轰振钻子（简）天使 - BC471BDA">
 		<rom name="螺旋破坏者 轰振钻子（简）天使.gba" size="8388608" crc="BC471BDA" md5="FA01E08BCFDCA266BFE3C4DDFE27BFDA"/>
 	</game>
+	<game name="词典（改）v1.8 - E2C758E1">
+		<rom name="词典（改）v1.8.gba" size="3391596" crc="E2C758E1" md5="EC60650AB5860E396B8AC2B8E05F0845"/>
+	</game>
 	<game name="读书伴侣（简）神游 - 2EBB101F">
 		<rom name="读书伴侣（简）神游.gba" size="4194304" crc="2EBB101F" md5="8FC09E9E7F9F855CDF50DB643CDDC5D5"/>
 	</game>
@@ -1384,8 +2164,8 @@
 	<game name="超写真麻雀同窗会（繁）龙漫 - 9ABBF4AC">
 		<rom name="超写真麻雀同窗会（繁）龙漫.gba" size="8388608" crc="9ABBF4AC" md5="B9E3646B9F093B77210F9A3B5CC96BEB"/>
 	</game>
-	<game name="超级方块战士II（简）狂细胞 伤雪 PUNKEMNX - 88C4D436">
-		<rom name="超级方块战士II（简）狂细胞 伤雪 PUNKEMNX.gba" size="8388608" crc="88C4D436" md5="B639FF297AE35F05462927285E30A4E2"/>
+	<game name="超级方块战士II（简）madcell 伤雪 PUNKEMNX - 88C4D436">
+		<rom name="超级方块战士II（简）madcell 伤雪 PUNKEMNX.gba" size="8388608" crc="88C4D436" md5="B639FF297AE35F05462927285E30A4E2"/>
 	</game>
 	<game name="超级机器人大战 D（简）张老批 - C8B18C7E">
 		<rom name="超级机器人大战 D（简）张老批.gba" size="8388608" crc="C8B18C7E" md5="082CF287BF63E071A08FC6A7FE720E10"/>
@@ -1458,12 +2238,6 @@
 	</game>
 	<game name="超级马力欧2（简）神游 - 14A87B75">
 		<rom name="超级马力欧2（简）神游.gba" size="4194304" crc="14A87B75" md5="A2589A40C3F92A539969124CECC9B828"/>
-	</game>
-	<game name="超级马力欧4超级马力欧兄弟3（简） - 88DAB27F">
-		<rom name="超级马力欧4超级马力欧兄弟3（简）.gba" size="4194304" crc="88DAB27F" md5="605286B3AEDEFFBA70BF46B834B120B1"/>
-	</game>
-	<game name="超级马力欧A2超级马力欧世界（简） - 5206880A">
-		<rom name="超级马力欧A2超级马力欧世界（简）.gba" size="4194304" crc="5206880A" md5="2F660377581B7E48C06131F56C791B72"/>
 	</game>
 	<game name="超级马力欧Advance（简）熊组 - BCDB7875">
 		<rom name="超级马力欧Advance（简）熊组.gba" size="4194304" crc="BCDB7875" md5="0BC725E39522B0709AB30B340FB789C5"/>
@@ -1576,6 +2350,12 @@
 	<game name="钻地小子A 不可思议的细菌（简）PGCG - 29C0FF31">
 		<rom name="钻地小子A 不可思议的细菌（简）PGCG.gba" size="8388608" crc="29C0FF31" md5="FEC9A7F2638D170FBEC7757032AC9267"/>
 	</game>
+	<game name="铁拳小子（简）1d4444 20240513 v0.8 - E61F9CD0">
+		<rom name="铁拳小子（简）1d4444 20240513 v0.8.gba" size="16777216" crc="E61F9CD0" md5="0583DDEB8F45349F80C065D27B07732A"/>
+	</game>
+	<game name="铁拳小子（简）1d4444 20240520 v1.0 - 877DDB0E">
+		<rom name="铁拳小子（简）1d4444 20240520 v1.0.gba" size="16777216" crc="877DDB0E" md5="07D364849783C378B46C650B66F6305B"/>
+	</game>
 	<game name="铁臂阿童木 阿童木之心的秘密（简）心灵的冬天 v1.0 - C08048E8">
 		<rom name="铁臂阿童木 阿童木之心的秘密（简）心灵的冬天 v1.0.gba" size="8702208" crc="C08048E8" md5="94EDBCEE6AB50B8F2516F1E98378D9A1"/>
 	</game>
@@ -1593,6 +2373,9 @@
 	</game>
 	<game name="阴阳大战记：零式（简）Advance 20231118 v0.5 - C4B6C9A1">
 		<rom name="阴阳大战记：零式（简）Advance 20231118 v0.5.gba" size="16777216" crc="C4B6C9A1" md5="100F98152B8C941E1AD47D34D76D9C69"/>
+	</game>
+	<game name="阴阳大战记：零式（简）Advance 20240512 v0.6 - 44A7D1CF">
+		<rom name="阴阳大战记：零式（简）Advance 20240512 v0.6.gba" size="16777216" crc="44A7D1CF" md5="0B816F1BA4B29F32A85E71C5839861A2"/>
 	</game>
 	<game name="阿滋漫画大王Advance（简）PGCG - 2E0F89C9">
 		<rom name="阿滋漫画大王Advance（简）PGCG.gba" size="8388608" crc="2E0F89C9" md5="8E0F076E9229C52EBACFDA93D97D6C3B"/>
@@ -1618,8 +2401,8 @@
 	<game name="零式赛车：高潮（简）风小子 - C567447B">
 		<rom name="零式赛车：高潮（简）风小子.gba" size="16777216" crc="C567447B" md5="15CF18096BD0E80632B518EC854CC25A"/>
 	</game>
-	<game name="雷之精灵（简） - 908C5A67">
-		<rom name="雷之精灵（简）.gba" size="1690628" crc="908C5A67" md5="51F8581E6E55D684709952FC3CB7FA84"/>
+	<game name="雷之精灵（改） - 908C5A67">
+		<rom name="雷之精灵（改）.gba" size="1690628" crc="908C5A67" md5="51F8581E6E55D684709952FC3CB7FA84"/>
 	</game>
 	<game name="雷曼4（简）盗版 - D05C8414">
 		<rom name="雷曼4（简）盗版.gba" size="33554432" crc="D05C8414" md5="FCA55F7E8017EEB52F7075E29E2353CC"/>
@@ -1651,17 +2434,17 @@
 	<game name="马力欧与路易吉RPG（简）神游 未发售 - 5574B73E">
 		<rom name="马力欧与路易吉RPG（简）神游 未发售.gba" size="16777216" crc="5574B73E" md5="54AC1DEF7820BEED364A38EDB65E22F0"/>
 	</game>
+	<game name="马力欧卡丁车（简）漫游 - F3F99E31">
+		<rom name="马力欧卡丁车（简）漫游.gba" size="4194304" crc="F3F99E31" md5="EF3481F0085056019CFF5542FE43F72D"/>
+	</game>
+	<game name="马力欧卡丁车（简）CHRONO - A8DE3757">
+		<rom name="马力欧卡丁车（简）CHRONO.gba" size="4233872" crc="A8DE3757" md5="07FF3C5B1AA5E4776C8E3D389A546A67"/>
+	</game>
 	<game name="马力欧卡丁车 超级赛道（简）神游 未发售 - 36201D7C">
 		<rom name="马力欧卡丁车 超级赛道（简）神游 未发售.gba" size="8388608" crc="36201D7C" md5="54A1EA59C39FF418AF3B009CD1ECC6D6"/>
 	</game>
-	<game name="马力欧卡丁车Advance（简）TGB 测试 - AA90FEFC">
-		<rom name="马力欧卡丁车Advance（简）TGB 测试.gba" size="4194304" crc="AA90FEFC" md5="63E265E4DF701F778FE4BC43EDC1A2DE"/>
-	</game>
-	<game name="马力欧卡丁车超级巡回赛（简）漫游 - F3F99E31">
-		<rom name="马力欧卡丁车超级巡回赛（简）漫游.gba" size="4194304" crc="F3F99E31" md5="EF3481F0085056019CFF5542FE43F72D"/>
-	</game>
-	<game name="马力欧卡丁车超级巡回赛（简）CHRONO - A8DE3757">
-		<rom name="马力欧卡丁车超级巡回赛（简）CHRONO.gba" size="4233872" crc="A8DE3757" md5="07FF3C5B1AA5E4776C8E3D389A546A67"/>
+	<game name="马力欧卡丁车A（简）TGB 测试 - AA90FEFC">
+		<rom name="马力欧卡丁车A（简）TGB 测试.gba" size="4194304" crc="AA90FEFC" md5="63E265E4DF701F778FE4BC43EDC1A2DE"/>
 	</game>
 	<game name="骑龙少年：世界毁灭（简）流星 啊咯 波斯尼亚 ICO 20230730 v2.0 - 76CB9041">
 		<rom name="骑龙少年：世界毁灭（简）流星 啊咯 波斯尼亚 ICO 20230730 v2.0.gba" size="16777216" crc="76CB9041" md5="C1BF97AEA025F843DE792BB4C2016C44"/>
@@ -1686,6 +2469,12 @@
 	</game>
 	<game name="高级战争2黑洞升起（简）高级战争吧 v1.0 - F1E29A92">
 		<rom name="高级战争2黑洞升起（简）高级战争吧 v1.0.gba" size="8388608" crc="F1E29A92" md5="7B5F5F85B05BADE015002CC33A7E0CAB"/>
+	</game>
+	<game name="高级战争2黑洞升起（简）胜利条件图片汉化修正 - 41BBB345">
+		<rom name="高级战争2黑洞升起（简）胜利条件图片汉化修正.gba" size="8388608" crc="41BBB345" md5="3B687E02405A68BFC0C15CA4D2BE8A30"/>
+	</game>
+	<game name="高级战争2黑洞升起（改）全面改造3.0汉化 - 7ACC41CA">
+		<rom name="高级战争2黑洞升起（改）全面改造3.0汉化.gba" size="8389148" crc="7ACC41CA" md5="9D3408AEF12E18C047A41FC4CEC1EDC1"/>
 	</game>
 	<game name="高达SEED与你共赴战场（简）盗版 昆仑神 - 03712789">
 		<rom name="高达SEED与你共赴战场（简）盗版 昆仑神.gba" size="8388608" crc="03712789" md5="E29DD74A3495E470D522022BF4ED6870"/>
@@ -1717,8 +2506,8 @@
 	<game name="鬼眼狂刀 京（简）CGP - D1AE060D">
 		<rom name="鬼眼狂刀 京（简）CGP.gba" size="8903856" crc="D1AE060D" md5="C2120DF5B2864029EC50E021EBB01E79"/>
 	</game>
-	<game name="魂斗罗A异型战争EX（简）NECRO 胡里胡涂 勇者 - 769B7942">
-		<rom name="魂斗罗A异型战争EX（简）NECRO 胡里胡涂 勇者.gba" size="4194304" crc="769B7942" md5="0860A674599A5A07DF8E7BDC116EE088"/>
+	<game name="魂斗罗A异星战争EX（简）NECRO 胡里胡涂 勇者 - 769B7942">
+		<rom name="魂斗罗A异星战争EX（简）NECRO 胡里胡涂 勇者.gba" size="4194304" crc="769B7942" md5="0860A674599A5A07DF8E7BDC116EE088"/>
 	</game>
 	<game name="魔兵传奇：敲开天堂的门（简）风小子 - C707436E">
 		<rom name="魔兵传奇：敲开天堂的门（简）风小子.gba" size="16777216" crc="C707436E" md5="A78C8D91E8FC8D6AC93554B15D658439"/>
@@ -1752,6 +2541,9 @@
 	</game>
 	<game name="黄金太阳：开启的封印（简）CGP ELFFINAL 20060913 - C48E291F">
 		<rom name="黄金太阳：开启的封印（简）CGP ELFFINAL 20060913.gba" size="9256960" crc="C48E291F" md5="E74F1A5614FDD6C14F5CE646F1D70121"/>
+	</game>
+	<game name="黄金太阳：开启的封印（简）CGP 100% 剧情 71.25 - 2E420A94">
+		<rom name="黄金太阳：开启的封印（简）CGP 100% 剧情 71.25.gba" size="9335748" crc="2E420A94" md5="E5E81274F2DF9FE348F6C04BE3ADEC9D"/>
 	</game>
 	<game name="黄金太阳：开启的封印（简）IDK 润色美化版 - 7E619CE7">
 		<rom name="黄金太阳：开启的封印（简）IDK 润色美化版.gba" size="9256960" crc="7E619CE7" md5="05D7C57E9E854C055B0353906A5729C6"/>

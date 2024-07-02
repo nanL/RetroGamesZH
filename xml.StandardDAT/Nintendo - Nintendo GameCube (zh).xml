@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - GameCube (zh)</name><version>20240100</version></header>
+	<header><name>Nintendo - Nintendo GameCube (zh)</name><version>20240700</version></header>
 	<game name="刺猬夏特（简）DXer 20231104 v1.0.0 补丁 - 2CC584B9">
 		<rom name="刺猬夏特（简）DXer 20231104 v1.0.0 补丁.exe" size="10800489" crc="2CC584B9" md5="CD86412EBB694CC583282B24E438E083"/>
 	</game>
