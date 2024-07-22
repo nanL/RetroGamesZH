@@ -424,21 +424,6 @@
 	<game name="超级密特罗德（简）CHRONO v0.8 - AFF6E8FE">
 		<rom name="超级密特罗德（简）CHRONO v0.8.sfc" size="3145728" crc="AFF6E8FE" md5="0A4754529F2273484FAE45859EC9D6EB"/>
 	</game>
-	<game name="超级密特罗德（改）Airy3 - 0A6D90EE">
-		<rom name="超级密特罗德（改）Airy3.sfc" size="3211264" crc="0A6D90EE" md5="BCE01C9DBC1BE915B3ABDD3AF63C341A"/>
-	</game>
-	<game name="超级密特罗德（改）Subversion 1.2 - 8EED8C7A">
-		<rom name="超级密特罗德（改）Subversion 1.2.sfc" size="4194304" crc="8EED8C7A" md5="4EEDB485D1916DBEB9103FFF11E67D74"/>
-	</game>
-	<game name="超级密特罗德（改）VITALITY 2020 - D16DAA47">
-		<rom name="超级密特罗德（改）VITALITY 2020.sfc" size="3932160" crc="D16DAA47" md5="6092A3EA09347E1800E330EA27EFBEF2"/>
-	</game>
-	<game name="超级密特罗德（改）Y-Faster 2 Fast 1.1 - 2EBB5EC0">
-		<rom name="超级密特罗德（改）Y-Faster 2 Fast 1.1.sfc" size="3145728" crc="2EBB5EC0" md5="5D7D3037FB142C735883A26CB264B5FA"/>
-	</game>
-	<game name="超级密特罗德（改）zFactor 1.3 - CEA89814">
-		<rom name="超级密特罗德（改）zFactor 1.3.sfc" size="3309568" crc="CEA89814" md5="79F6B26300303872CC1DE9D5B7E0A1EE"/>
-	</game>
 	<game name="超级机器人大战EX（简）WGF - 58E2F753">
 		<rom name="超级机器人大战EX（简）WGF.sfc" size="2097152" crc="58E2F753" md5="D44507BCFBBC906A72B3B4BB85E79501"/>
 	</game>

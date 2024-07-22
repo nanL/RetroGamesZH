@@ -471,12 +471,12 @@ ATV Racing & Karate Joe|空手道Joe
 ATV Wild Ride|ATV狂野摩托车
 AV Hanafuda Club|AV 花札俱乐部
 AV Kyuukyoku Mahjong 2|AV 究极麻将 II
-AV Mahjong Club|AV麻雀俱乐部
+AV Mahjong Club|AV麻雀
 AV Mei Shao Nv Zhan Shi|A.V.美少女战士
 AV Mei Shaonu Zhanshi|
 AV Pachi-Slot|A.V.柏青哥
 AV Pachi-Slot - Big Chance|
-AV Poker|av扑克日版
+AV Poker|AV扑克
 AV Poker - World Gambler|
 AV Soccer|AV 足球
 AV Super Real Pachinko|A.V.超真实柏青哥
@@ -7890,7 +7890,7 @@ Impara con Pokemon - Avventura Tra i Tasti|
 Imperium|超钢战机
 Impossamole|浣熊超人美版
 Impossible Mission|谍中谍
-Impossible Mission II|不可能的任务 II
+Impossible Mission II|碟中谍 不可能的任务 II
 Improbability Fighter|
 In the Wake of Vampire|吸血鬼-黑暗魔王
 Inazuma Eleven|闪电十一人
@@ -9831,7 +9831,7 @@ Little League Baseball 2002|小型棒球联赛2002
 Little League World Series Baseball - Double Play|小联盟世界系列棒球
 Little League World Series Baseball 2008|小联盟世界锦标赛2008
 Little League World Series Baseball 2009|小联盟世界锦标赛 2009
-Little Magic|魔道士阴谋
+Little Magic|小小魔法师 魔道士阴谋
 Little Master - Nijiiro no Maseki|魔兽大战-虹色之魔石
 Little Medusa|
 Little Mermaid - Ariel no Umi no Takaramono|小美人鱼
@@ -11240,7 +11240,7 @@ Miss Princess - MisPri!|
 Miss Spider's Sunny Patch Friends - Harvest Time Hop and Fly|蜘蛛小姐：收获季节的热舞
 Missile Command|爱国者飞弹/导弹指挥官
 Missing Lands|
-Mission - Impossible|碟中谍
+Mission - Impossible|虎胆妙算 不可能完成的任务
 Mission Bravo|
 Mission Cobra|眼镜蛇任务
 Mission Impossible - Operation Surma|碟中谍-舍马行动
@@ -13599,17 +13599,18 @@ Poke Transporter|
 Pokedex 3D|
 Pokedex 3D Pro|
 Pokemon|宝可梦
-Pokemon - 10th Anniversary Distribution|口袋妖怪 发行10周年纪念版
-Pokemon - Aura Mew Distribution|口袋妖怪 黑暗梦幻
-Pokemon - Aurora Ticket Distribution|口袋妖怪 极光船票
+Pokemon - 10th Anniversary Distribution|宝可梦：10周年纪念
+Pokemon - Aura Mew Distribution|宝可梦：黑暗梦幻
+Pokemon - Aurora Ticket Distribution|宝可梦：极光船票
 Pokemon - Black Version|宝可梦：黑
 Pokemon - Black Version 2|宝可梦：黑2
-Pokemon - Blattgruene Edition|宝可梦：绿叶
+Pokemon - Blattgruene Edition|宝可梦：叶绿
+Pokemon - Blue Version|宝可梦：蓝
 Pokemon - Crystal Version|宝可梦：水晶
 Pokemon - Diamant-Edition|宝可梦：钻石
 Pokemon - Diamond Version|宝可梦：钻石
 Pokemon - Diamond Version + Pokemon - Pearl Version|宝可梦：钻石珍珠
-Pokemon - Doel Deoxys Distribution|口袋妖怪 代欧奇希斯
+Pokemon - Doel Deoxys Distribution|宝可梦：代欧奇希斯
 Pokemon - Edicion Blanca|宝可梦：黑
 Pokemon - Edicion Blanca 2|宝可梦：黑2
 Pokemon - Edicion Cristal|宝可梦：水晶
@@ -13620,80 +13621,84 @@ Pokemon - Edicion Negra 2|宝可梦：白2
 Pokemon - Edicion Oro|宝可梦：金
 Pokemon - Edicion Oro HeartGold|宝可梦：心金
 Pokemon - Edicion Perla|宝可梦：珍珠
-Pokemon - Edicion Plata|宝可梦金
+Pokemon - Edicion Plata|宝可梦：金
 Pokemon - Edicion Plata SoulSilver|宝可梦：银
 Pokemon - Edicion Platino|宝可梦：白金
 Pokemon - Edicion Rojo Fuego|宝可梦：火红
 Pokemon - Edicion Rubi|宝可梦：红宝石
-Pokemon - Edicion Verde Hoja|宝可梦：绿叶
+Pokemon - Edicion Verde Hoja|宝可梦：叶绿
 Pokemon - Edicion Zafiro|宝可梦：蓝宝石
 Pokemon - Emerald Version|宝可梦：绿宝石
 Pokemon - Feuerrote Edition|宝可梦：火红
 Pokemon - FireRed Version|宝可梦：火红
 Pokemon - Gold Version|宝可梦：金
-Pokemon - Goldene Edition|宝可梦金
-Pokemon - Goldene Edition HeartGold|宝可梦：金
+Pokemon - Gold and Silv|宝可梦：金银
+Pokemon - Goldene Edition|宝可梦：金
+Pokemon - Goldene Edition HeartGold|宝可梦：心金
+Pokemon - Green Version|宝可梦：绿
 Pokemon - HeartGold Version|宝可梦：心金
-Pokemon - Kristall-Edition|宝可梦水晶
+Pokemon - Kristall-Edition|宝可梦：水晶
 Pokemon - Leaf Green|宝可梦：叶绿
 Pokemon - LeafGreen Version|宝可梦：叶绿
-Pokemon - Liechi Berry Glitch Fix & Shiny Zigzagoon Distribution|口袋妖怪 枝荔果&直冲熊 bug修复版
+Pokemon - Liechi Berry Glitch Fix & Shiny Zigzagoon Distribution|宝可梦：枝荔果和直冲熊
 Pokemon - Mewtwo Strikes Back|宝可梦：超梦的逆袭
 Pokemon - Pearl Version|宝可梦：珍珠
 Pokemon - Perl-Edition|宝可梦：珍珠
 Pokemon - Platin-Edition|宝可梦：白金
 Pokemon - Platinum Version|宝可梦：白金
+Pokemon - Red Version|宝可梦：红
 Pokemon - Rubin-Edition|宝可梦：红宝石
 Pokemon - Ruby Version|宝可梦：红宝石
 Pokemon - Saphir-Edition|宝可梦：蓝宝石
 Pokemon - Sapphire Version|宝可梦：蓝宝石
-Pokemon - Sapphire Version - Gotta Catch 'em All!|
+Pokemon - Sapphire Version - Gotta Catch 'em All!|宝可梦：蓝宝石
 Pokemon - Schwarze Edition|宝可梦：白
-Pokemon - Schwarze Edition 2|
-Pokemon - Silberne Edition|宝可梦银
-Pokemon - Silberne Edition SoulSilver|宝可梦：银
+Pokemon - Schwarze Edition 2|宝可梦：白2
+Pokemon - Silberne Edition|宝可梦：魂银
+Pokemon - Silberne Edition SoulSilver|宝可梦：魂银
 Pokemon - Silver Version|宝可梦：银
-Pokemon - Slot 2 Distribution|口袋妖怪 Slot 2 Distribution
+Pokemon - Slot 2 Distribution|宝可梦：Slot2
 Pokemon - Smaragd-Edition|宝可梦：绿宝石
 Pokemon - SoulSilver Version|宝可梦：魂银
-Pokemon - Version Argent|宝可梦银
+Pokemon - Version Argent|宝可梦：魂银
 Pokemon - Version Argent SoulSilver|宝可梦：魂银
 Pokemon - Version Blanche|宝可梦：黑
-Pokemon - Version Blanche 2|
-Pokemon - Version Cristal|宝可梦水晶
+Pokemon - Version Blanche 2|宝可梦：黑2
+Pokemon - Version Cristal|宝可梦：水晶
 Pokemon - Version Diamant|宝可梦：钻石
 Pokemon - Version Emeraude|宝可梦：绿宝石
 Pokemon - Version Noire|宝可梦：白
-Pokemon - Version Noire 2|
-Pokemon - Version Or|宝可梦金
+Pokemon - Version Noire 2|宝可梦：白2
+Pokemon - Version Or|宝可梦：心金
 Pokemon - Version Or HeartGold|宝可梦：心金
 Pokemon - Version Perle|宝可梦：珍珠
 Pokemon - Version Platine|宝可梦：白金
 Pokemon - Version Rouge Feu|宝可梦：火红
 Pokemon - Version Rubis|宝可梦：红宝石
 Pokemon - Version Saphir|宝可梦：蓝宝石
-Pokemon - Version Vert Feuille|宝可梦：绿叶
-Pokemon - Versione Argento|宝可梦银
+Pokemon - Version Vert Feuille|宝可梦：叶绿
+Pokemon - Versione Argento|宝可梦：银
 Pokemon - Versione Argento SoulSilver|宝可梦：银
 Pokemon - Versione Bianca|宝可梦：黑
-Pokemon - Versione Bianca 2|
-Pokemon - Versione Cristallo|宝可梦水晶
+Pokemon - Versione Bianca 2|宝可梦：黑2
+Pokemon - Versione Cristallo|宝可梦：水晶
 Pokemon - Versione Diamante|宝可梦：钻石
 Pokemon - Versione Nera|宝可梦：白
-Pokemon - Versione Nera 2|
-Pokemon - Versione Oro|宝可梦金
-Pokemon - Versione Oro HeartGold|宝可梦：金
+Pokemon - Versione Nera 2|宝可梦：白2
+Pokemon - Versione Oro|宝可梦：心金
+Pokemon - Versione Oro HeartGold|宝可梦：心金
 Pokemon - Versione Perla|宝可梦：珍珠
 Pokemon - Versione Platino|宝可梦：白金
 Pokemon - Versione Rosso Fuoco|宝可梦：火红
 Pokemon - Versione Rubino|宝可梦：红宝石
 Pokemon - Versione Smeraldo|宝可梦：绿宝石
-Pokemon - Versione Verde Foglia|宝可梦：绿叶
+Pokemon - Versione Verde Foglia|宝可梦：叶绿
 Pokemon - Versione Zaffiro|宝可梦：蓝宝石
 Pokemon - Weisse Edition|宝可梦：黑
-Pokemon - Weisse Edition 2|
+Pokemon - Weisse Edition 2|宝可梦：黑2
 Pokemon - White Version|宝可梦：白
-Pokemon - White Version 2|
+Pokemon - White Version 2|宝可梦：白2
+Pokemon - Yellow Version|宝可梦：黄
 Pokemon - Yellow Version - Special Pikachu Edition|宝可梦：黄
 Pokemon Adventure|
 Pokemon Alpha Sapphire|宝可梦：阿尔法蓝宝石
@@ -13798,7 +13803,7 @@ Pokemon Vision Jade|
 Pokemon X|宝可梦X
 Pokemon XD - Yami no Kaze Dark Lugia|宝可梦XD暗之旋风黑暗洛奇亚
 Pokemon Y|宝可梦Y
-Pokemon Yellow|
+Pokemon Yellow|宝可梦：黄
 Pokemon de Panepon|宝可梦方块
 Poker|
 Poker Club 6 in 1|
@@ -14705,7 +14710,7 @@ Renjuku Kanji - Shougaku 5 Nensei|
 Renjuku Kanji - Shougaku 6 Nensei|
 Rent a Hero|出租英雄日
 Rental Bukiya de Omasse|
-Rentiangougou|任天狗狗
+Rentiangougou|任天狗狗体验版
 Renzhe Shen Gui 2|
 Res Arcana - Diana Ray - Uranai no Meikyuu|占卜迷宫
 Rescue - The Embassy Mission|人质大作战 - 大使馆抢救任务

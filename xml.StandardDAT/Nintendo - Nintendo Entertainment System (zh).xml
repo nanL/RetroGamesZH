@@ -37,17 +37,17 @@
 	<game name="AV美少女战士（简）标题汉化 - BCEB088B">
 		<rom name="AV美少女战士（简）标题汉化.nes" size="655376" crc="BCEB088B" md5="8FFDDEFD5499CF1C6B8E6CCB477D8A1A"/>
 	</game>
+	<game name="AV麻雀（简）星空 - ECC59F6C">
+		<rom name="AV麻雀（简）星空.nes" size="131088" crc="ECC59F6C" md5="4F78F4E4A6FD0B5E12470E3A7B110045"/>
+	</game>
+	<game name="AV麻雀（简）汉化你妹 v1.1 - 09A33139">
+		<rom name="AV麻雀（简）汉化你妹 v1.1.nes" size="262160" crc="09A33139" md5="7418BB5E216CA8E7383A17A364D7545C"/>
+	</game>
+	<game name="AV麻雀（简）汉化你妹 v1.0 - 663870DD">
+		<rom name="AV麻雀（简）汉化你妹 v1.0.nes" size="262160" crc="663870DD" md5="DC0E51333300CA5281BFA94986F82C1F"/>
+	</game>
 	<game name="AV麻雀俱乐部（简）圣谦 - AF52A775">
 		<rom name="AV麻雀俱乐部（简）圣谦.nes" size="98320" crc="AF52A775" md5="D7DD158B7B94FC61B9C0F19575AA13B1"/>
-	</game>
-	<game name="AV麻雀俱乐部（简）星空 - ECC59F6C">
-		<rom name="AV麻雀俱乐部（简）星空.nes" size="131088" crc="ECC59F6C" md5="4F78F4E4A6FD0B5E12470E3A7B110045"/>
-	</game>
-	<game name="AV麻雀俱乐部（简）汉化你妹 v1.1 - 09A33139">
-		<rom name="AV麻雀俱乐部（简）汉化你妹 v1.1.nes" size="262160" crc="09A33139" md5="7418BB5E216CA8E7383A17A364D7545C"/>
-	</game>
-	<game name="AV麻雀俱乐部（简）汉化你妹 v1.0 - 663870DD">
-		<rom name="AV麻雀俱乐部（简）汉化你妹 v1.0.nes" size="262160" crc="663870DD" md5="DC0E51333300CA5281BFA94986F82C1F"/>
 	</game>
 	<game name="B计划（简）高伟 - 79768B3B">
 		<rom name="B计划（简）高伟.nes" size="40976" crc="79768B3B" md5="4F4FEB5E74ECB374729263B853E29BC2"/>
@@ -1735,8 +1735,17 @@
 	<game name="小学语文达标乐园（简）小霸王 - 30755957">
 		<rom name="小学语文达标乐园（简）小霸王.nes" size="2097168" crc="30755957" md5="F7D48699FA2240F9A79D76C369D477C5"/>
 	</game>
-	<game name="小小魔法师（简）LSP 20230502 - B6F5DFC8">
-		<rom name="小小魔法师（简）LSP 20230502.nes" size="524304" crc="B6F5DFC8" md5="F6FBC40EDEBAA031387E408E77C4FA02"/>
+	<game name="小小魔法师 魔道士阴谋（简）外星 姜维第二 - EBAD56D9">
+		<rom name="小小魔法师 魔道士阴谋（简）外星 姜维第二.nes" size="524304" crc="EBAD56D9" md5="B2FA35C4A0ACC57923FF1EED3559D2AC"/>
+	</game>
+	<game name="小小魔法师 魔道士阴谋（简）外星 MS v2 - B0C1CD73">
+		<rom name="小小魔法师 魔道士阴谋（简）外星 MS v2.nes" size="524304" crc="B0C1CD73" md5="B61619DC65799415EB4E06ED4CCB68EC"/>
+	</game>
+	<game name="小小魔法师 魔道士阴谋（简）封印记忆 - C96E8134">
+		<rom name="小小魔法师 魔道士阴谋（简）封印记忆.nes" size="393232" crc="C96E8134" md5="6B5B2CCEEBADC4E65949017581E8BD92"/>
+	</game>
+	<game name="小小魔法师 魔道士阴谋（简）LSP 20230502 - B6F5DFC8">
+		<rom name="小小魔法师 魔道士阴谋（简）LSP 20230502.nes" size="524304" crc="B6F5DFC8" md5="F6FBC40EDEBAA031387E408E77C4FA02"/>
 	</game>
 	<game name="小状元教学卡A1.0（简）先达 A1.0 - 84CA093B">
 		<rom name="小状元教学卡A1.0（简）先达 A1.0.nes" size="131088" crc="84CA093B" md5="CBF3C85F2D61F4CB26F51F084BE83EE2"/>
@@ -2527,8 +2536,11 @@
 	<game name="最终幻想2（简）LSP 20230601 - 54321E6C">
 		<rom name="最终幻想2（简）LSP 20230601.nes" size="524304" crc="54321E6C" md5="AF607B60ED0930117F958F6659CA19A5"/>
 	</game>
-	<game name="最终幻想2（简）LSP 20230615 修正 - 7B7518DA">
-		<rom name="最终幻想2（简）LSP 20230615 修正.nes" size="524304" crc="7B7518DA" md5="25D84BE984BFFDBBCCF3719769594A7B"/>
+	<game name="最终幻想2（简）LSP 20230615 - 7B7518DA">
+		<rom name="最终幻想2（简）LSP 20230615.nes" size="524304" crc="7B7518DA" md5="25D84BE984BFFDBBCCF3719769594A7B"/>
+	</game>
+	<game name="最终幻想2（简）LSP 20240121 - D0EA0BAF">
+		<rom name="最终幻想2（简）LSP 20240121.nes" size="524304" crc="D0EA0BAF" md5="BF0D2B0AF88FE850EDE25CE70902B1F9"/>
 	</game>
 	<game name="最终幻想3（简）外星 修正存档 - CE12BF27">
 		<rom name="最终幻想3（简）外星 修正存档.nes" size="1048592" crc="CE12BF27" md5="870611608878DCF7EAC8EF579BBE2AEB"/>
@@ -2548,11 +2560,14 @@
 	<game name="最终幻想3（简）外星 晚风轻起 20221112 - E4A95C30">
 		<rom name="最终幻想3（简）外星 晚风轻起 20221112.nes" size="1048592" crc="E4A95C30" md5="6336E251FE922C940836708C249B5D5E"/>
 	</game>
-	<game name="最终幻想3（改）晚风轻起 20221112 v3.1.3 改版 - DCD4B9E4">
-		<rom name="最终幻想3（改）晚风轻起 20221112 v3.1.3 改版.nes" size="1048592" crc="DCD4B9E4" md5="90F9210A2A891C46BF8BCB4F5F86289D"/>
+	<game name="最终幻想3（改）晚风轻起 20221112 v3.1.3 - DCD4B9E4">
+		<rom name="最终幻想3（改）晚风轻起 20221112 v3.1.3.nes" size="1048592" crc="DCD4B9E4" md5="90F9210A2A891C46BF8BCB4F5F86289D"/>
 	</game>
 	<game name="最终幻想3（简）LSP 20231001 - 2D9ED703">
 		<rom name="最终幻想3（简）LSP 20231001.nes" size="1048592" crc="2D9ED703" md5="2EF4A1826742C86F9191F0967F8821EC"/>
+	</game>
+	<game name="最终幻想3（改）晚风轻起 20220404 v3.1.2 - 6D9A7B1E">
+		<rom name="最终幻想3（改）晚风轻起 20220404 v3.1.2.nes" size="1048592" crc="6D9A7B1E" md5="F4BE90E300DBDEAF31BE28649DE96E39"/>
 	</game>
 	<game name="最终幻想4（简）南晶 - BB1781D2">
 		<rom name="最终幻想4（简）南晶.nes" size="1048592" crc="BB1781D2" md5="5E020CDBF8F6DB271DA8130A372CB446"/>
@@ -3349,9 +3364,6 @@
 	<game name="破釜沉舟（简）外星 解密版 - 756714DD">
 		<rom name="破釜沉舟（简）外星 解密版.nes" size="524304" crc="756714DD" md5="C169CB10B4CDA0447CCC9E4F14AC3A31"/>
 	</game>
-	<game name="碟中谍（简）LSP - F930B169">
-		<rom name="碟中谍（简）LSP.nes" size="524304" crc="F930B169" md5="430622EF72E3ECF2B0084ACDC68DB592"/>
-	</game>
 	<game name="碰碰车（简）MS v1.0 - 2EB48337">
 		<rom name="碰碰车（简）MS v1.0.nes" size="65552" crc="2EB48337" md5="CCB29F882B1E8BCC5FE34AB60DE1C74F"/>
 	</game>
@@ -3618,6 +3630,9 @@
 	</game>
 	<game name="蕾拉（简）高伟 - 41BDA03E">
 		<rom name="蕾拉（简）高伟.nes" size="131088" crc="41BDA03E" md5="2AFAD7AA8B93A0B3F6AB1BFAC7B19488"/>
+	</game>
+	<game name="虎胆妙算 不可能完成的任务（简）LSP 20220408 - F930B169">
+		<rom name="虎胆妙算 不可能完成的任务（简）LSP 20220408.nes" size="524304" crc="F930B169" md5="430622EF72E3ECF2B0084ACDC68DB592"/>
 	</game>
 	<game name="虎门硝烟（繁）酷哥 - FEF3CD45">
 		<rom name="虎门硝烟（繁）酷哥.nes" size="524304" crc="FEF3CD45" md5="E9FDBE1EA4A650626DA0AAC70EFB7C31"/>
@@ -4093,8 +4108,8 @@
 	<game name="铁甲威龙（简）NINESWORDS v1.1 - 177D2753">
 		<rom name="铁甲威龙（简）NINESWORDS v1.1.nes" size="262160" crc="177D2753" md5="ADA12E959C73D44B3E1B3159F89972BC"/>
 	</game>
-	<game name="铁甲威龙（简）LSP - A568590B">
-		<rom name="铁甲威龙（简）LSP.nes" size="393232" crc="A568590B" md5="61231FBD95A1EF7C67EB96DD6F94B92A"/>
+	<game name="铁甲威龙（简）LSP 20230101 - A568590B">
+		<rom name="铁甲威龙（简）LSP 20230101.nes" size="393232" crc="A568590B" md5="61231FBD95A1EF7C67EB96DD6F94B92A"/>
 	</game>
 	<game name="铁血战士（简）MS - A644A1CD">
 		<rom name="铁血战士（简）MS.nes" size="262160" crc="A644A1CD" md5="104908C61F643C7B3E77C1D4C80446F7"/>
@@ -4144,8 +4159,8 @@
 	<game name="雪人兄弟（简）MS - 9CD09CCB">
 		<rom name="雪人兄弟（简）MS.nes" size="262160" crc="9CD09CCB" md5="37A1E6E9E9C9AF2F33EAD477138E3BE0"/>
 	</game>
-	<game name="雪人兄弟（简）LSP - 1A0EAA47">
-		<rom name="雪人兄弟（简）LSP.nes" size="393232" crc="1A0EAA47" md5="D559B5E40EF26996E9C27755D5D949F5"/>
+	<game name="雪人兄弟（简）LSP 20220201 - 1A0EAA47">
+		<rom name="雪人兄弟（简）LSP 20220201.nes" size="393232" crc="1A0EAA47" md5="D559B5E40EF26996E9C27755D5D949F5"/>
 	</game>
 	<game name="雪人兄弟（简）高伟 v0.9 - 01E96ADA">
 		<rom name="雪人兄弟（简）高伟 v0.9.nes" size="262160" crc="01E96ADA" md5="D5C3A4904A1E0470094770FC8D0035BC"/>
@@ -4395,15 +4410,6 @@
 	</game>
 	<game name="魔道劫（简）南晶 - FF10E363">
 		<rom name="魔道劫（简）南晶.nes" size="1048592" crc="FF10E363" md5="D1C83E9DCA15FB3FC26CFBB1DEE22882"/>
-	</game>
-	<game name="魔道士阴谋（简）外星 姜维第二 - EBAD56D9">
-		<rom name="魔道士阴谋（简）外星 姜维第二.nes" size="524304" crc="EBAD56D9" md5="B2FA35C4A0ACC57923FF1EED3559D2AC"/>
-	</game>
-	<game name="魔道士阴谋（简）外星 MS v2 - B0C1CD73">
-		<rom name="魔道士阴谋（简）外星 MS v2.nes" size="524304" crc="B0C1CD73" md5="B61619DC65799415EB4E06ED4CCB68EC"/>
-	</game>
-	<game name="魔道士阴谋（简）封印记忆 - C96E8134">
-		<rom name="魔道士阴谋（简）封印记忆.nes" size="393232" crc="C96E8134" md5="6B5B2CCEEBADC4E65949017581E8BD92"/>
 	</game>
 	<game name="魔道士阴谋（简）外星 - E68B67DB">
 		<rom name="魔道士阴谋（简）外星.nes" size="524304" crc="E68B67DB" md5="8B0F92EEC83004484C532AECDEA3DE9A"/>
