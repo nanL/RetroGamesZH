@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo GameCube (zh)</name><version>20240700</version></header>
+	<header><name>Nintendo - Nintendo GameCube (zh)</name><version>20241000</version></header>
 	<game name="刺猬夏特（简）DXer 20231104 v1.0.0 补丁 - 2CC584B9">
 		<rom name="刺猬夏特（简）DXer 20231104 v1.0.0 补丁.exe" size="10800489" crc="2CC584B9" md5="CD86412EBB694CC583282B24E438E083"/>
 	</game>
@@ -105,5 +105,8 @@
 	</game>
 	<game name="超级马力欧阳光（简）ffhome 20220411 v2.2 - 99EFCF20">
 		<rom name="超级马力欧阳光（简）ffhome 20220411 v2.2.iso" size="1186187264" crc="99EFCF20" md5="7FDBAC1D843796F367CD57BF52BD22C5"/>
+	</game>
+	<game name="路易吉洋馆（简）全息玫瑰凋零 20240802 v6 - 8B33D88A">
+		<rom name="路易吉洋馆（简）全息玫瑰凋零 20240802 v6.iso" size="123658240" crc="8B33D88A" md5="CD914220D0E19587C2F7F42106575EA4"/>
 	</game>
 </datafile>

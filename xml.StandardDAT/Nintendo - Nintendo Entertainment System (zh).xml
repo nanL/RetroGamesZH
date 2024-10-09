@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20240700</version></header>
+	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20241000</version></header>
 	<game name="1942（简）MS - A36F13D0">
 		<rom name="1942（简）MS.nes" size="40976" crc="A36F13D0" md5="0B3CEADB1A155807E7C7AA37FD9904F7"/>
 	</game>
@@ -468,12 +468,6 @@
 	</game>
 	<game name="仙界精灵（简）南晶 - D1650D78">
 		<rom name="仙界精灵（简）南晶.nes" size="2097168" crc="D1650D78" md5="3D00F660D7A2A354BCFC81B49C7CA9CD"/>
-	</game>
-	<game name="任天堂战争（简）快乐的龙 - 27140DE9">
-		<rom name="任天堂战争（简）快乐的龙.nes" size="262160" crc="27140DE9" md5="B775D9727EC6772375CA8D52445FE268"/>
-	</game>
-	<game name="任天堂战争（简）九班 - B6FA2E48">
-		<rom name="任天堂战争（简）九班.nes" size="262160" crc="B6FA2E48" md5="33813A6D988D74B06F7D20457276362B"/>
 	</game>
 	<game name="企鹅先生 冒险之旅（简）MS - 4EB6CC22">
 		<rom name="企鹅先生 冒险之旅（简）MS.nes" size="24592" crc="4EB6CC22" md5="6921A0D6901068EDD3D1A0AF32527063"/>
@@ -2542,6 +2536,12 @@
 	<game name="最终幻想2（简）LSP 20240121 - D0EA0BAF">
 		<rom name="最终幻想2（简）LSP 20240121.nes" size="524304" crc="D0EA0BAF" md5="BF0D2B0AF88FE850EDE25CE70902B1F9"/>
 	</game>
+	<game name="最终幻想2（简）LSP 20240719 修复版 - 61C18F85">
+		<rom name="最终幻想2（简）LSP 20240719 修复版.nes" size="524304" crc="61C18F85" md5="606DAC6CD69CDAF3E19F1CA5C0971040"/>
+	</game>
+	<game name="最终幻想2（简）LSP 20240607 纯净版 - D8281459">
+		<rom name="最终幻想2（简）LSP 20240607 纯净版.nes" size="524304" crc="D8281459" md5="681D7EC5CE29A53DF6A6A06ADFF00D40"/>
+	</game>
 	<game name="最终幻想3（简）外星 修正存档 - CE12BF27">
 		<rom name="最终幻想3（简）外星 修正存档.nes" size="1048592" crc="CE12BF27" md5="870611608878DCF7EAC8EF579BBE2AEB"/>
 	</game>
@@ -3490,6 +3490,15 @@
 	<game name="绝代双娇（简）南晶 - 9F4CE731">
 		<rom name="绝代双娇（简）南晶.nes" size="524304" crc="9F4CE731" md5="D408BD1A723FF542C6A9A349F4190EAD"/>
 	</game>
+	<game name="绝影战士（简）逆游の五彩魚 v1 - 3747F350">
+		<rom name="绝影战士（简）逆游の五彩魚 v1.nes" size="270352" crc="3747F350" md5="A4D8BC3F18580EEF8D386F89EF7106D9"/>
+	</game>
+	<game name="绝影战士（改）逆游の五彩鱼 20240923 双武器 - B025F51E">
+		<rom name="绝影战士（改）逆游の五彩鱼 20240923 双武器.nes" size="393232" crc="B025F51E" md5="5F3C92EB8328E4A5C436412FD63A6011"/>
+	</game>
+	<game name="绝影战士（简）逆游の五彩鱼 20240923 - 0D694F67">
+		<rom name="绝影战士（简）逆游の五彩鱼 20240923.nes" size="393232" crc="0D694F67" md5="8240902E610729B115ACCDE9C2951509"/>
+	</game>
 	<game name="绿色兵团（简）SW - 7E3A5FE0">
 		<rom name="绿色兵团（简）SW.nes" size="131088" crc="7E3A5FE0" md5="08AB18D3958773C206EA31B806B286C6"/>
 	</game>
@@ -3550,17 +3559,20 @@
 	<game name="脱狱（简）星空 - 9E2E3B70">
 		<rom name="脱狱（简）星空.nes" size="262160" crc="9E2E3B70" md5="47D74165C3789847C20C2882E0E40E3F"/>
 	</game>
-	<game name="花式九球（简）MM之神 陈大玉 v1.1 - 46F43826">
-		<rom name="花式九球（简）MM之神 陈大玉 v1.1.nes" size="131088" crc="46F43826" md5="51DA94F15DAC7BEF9163DEAF7DB56B60"/>
+	<game name="花式撞球（简）MM之神 陈大玉 v1.1 - 46F43826">
+		<rom name="花式撞球（简）MM之神 陈大玉 v1.1.nes" size="131088" crc="46F43826" md5="51DA94F15DAC7BEF9163DEAF7DB56B60"/>
 	</game>
-	<game name="花式九球（简）星空 v1 - 522CC33B">
-		<rom name="花式九球（简）星空 v1.nes" size="131088" crc="522CC33B" md5="7285C195477B40F6BB2682682E317A62"/>
+	<game name="花式撞球（简）星空 v1 - 522CC33B">
+		<rom name="花式撞球（简）星空 v1.nes" size="131088" crc="522CC33B" md5="7285C195477B40F6BB2682682E317A62"/>
 	</game>
-	<game name="花式九球（简）星空 v2 - 183E43FF">
-		<rom name="花式九球（简）星空 v2.nes" size="188432" crc="183E43FF" md5="56E070670B318A96CD3A7060FDAA9C31"/>
+	<game name="花式撞球（简）星空 v2 - 183E43FF">
+		<rom name="花式撞球（简）星空 v2.nes" size="188432" crc="183E43FF" md5="56E070670B318A96CD3A7060FDAA9C31"/>
 	</game>
-	<game name="花式九球（简）星空 庞先生 - E34DA569">
-		<rom name="花式九球（简）星空 庞先生.nes" size="188432" crc="E34DA569" md5="7C7E9FDE2F1A29D4D36E7F0CC1811E32"/>
+	<game name="花式撞球（简）星空 庞先生 - E34DA569">
+		<rom name="花式撞球（简）星空 庞先生.nes" size="188432" crc="E34DA569" md5="7C7E9FDE2F1A29D4D36E7F0CC1811E32"/>
+	</game>
+	<game name="花式撞球（简）asiwish 20230611 v1.0 标题教学汉化 - 2558C25F">
+		<rom name="花式撞球（简）asiwish 20230611 v1.0 标题教学汉化.nes" size="163856" crc="2558C25F" md5="D3A79FDE65ECE47C7FFBF0CBAAF072E5"/>
 	</game>
 	<game name="苍狼与白鹿-成吉思汗（简）外星 - 6A497FC8">
 		<rom name="苍狼与白鹿-成吉思汗（简）外星.nes" size="524304" crc="6A497FC8" md5="DA79E11FD4FE57E032A89B1442CC4362"/>
@@ -3753,9 +3765,6 @@
 	</game>
 	<game name="赤影战士（简）ASIWISH - 1D281DEC">
 		<rom name="赤影战士（简）ASIWISH.nes" size="262160" crc="1D281DEC" md5="7A86DFD3DD52D1F9381CBCA16F10DD91"/>
-	</game>
-	<game name="赤影战士（简）逆游の五彩魚 v1 - 3747F350">
-		<rom name="赤影战士（简）逆游の五彩魚 v1.nes" size="270352" crc="3747F350" md5="A4D8BC3F18580EEF8D386F89EF7106D9"/>
 	</game>
 	<game name="赤色要塞（简）雷精灵 v1.1 - 0ECA3358">
 		<rom name="赤色要塞（简）雷精灵 v1.1.nes" size="262160" crc="0ECA3358" md5="6EFEFD9C6278C431C438777B07871ED1"/>
@@ -4293,6 +4302,12 @@
 	</game>
 	<game name="高机动战斗2（简）高伟 - 0F6F74CE">
 		<rom name="高机动战斗2（简）高伟.nes" size="40976" crc="0F6F74CE" md5="A3157738B2959560E6698C6C8FCFBE45"/>
+	</game>
+	<game name="高级战争（简）快乐的龙 - 27140DE9">
+		<rom name="高级战争（简）快乐的龙.nes" size="262160" crc="27140DE9" md5="B775D9727EC6772375CA8D52445FE268"/>
+	</game>
+	<game name="高级战争（简）九班 - B6FA2E48">
+		<rom name="高级战争（简）九班.nes" size="262160" crc="B6FA2E48" md5="33813A6D988D74B06F7D20457276362B"/>
 	</game>
 	<game name="鬼太郎-妖怪大魔境（简）高伟 - F98A28A1">
 		<rom name="鬼太郎-妖怪大魔境（简）高伟.nes" size="65552" crc="F98A28A1" md5="7469CD3B929FE09BA1C56FD16DD7ACCA"/>

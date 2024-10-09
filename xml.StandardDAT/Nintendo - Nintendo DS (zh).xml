@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20240700</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20241000</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -250,14 +250,14 @@
 	<game name="为你而生（简）兔友 GUNNER MONOCHROM 帆 完整版 - DCED6033">
 		<rom name="为你而生（简）兔友 GUNNER MONOCHROM 帆 完整版.nds" size="133646948" crc="DCED6033" md5="97914C5B34C123EEDDB39299096A3506"/>
 	</game>
+	<game name="主题公园（简）YYJOY - 67326C93">
+		<rom name="主题公园（简）YYJOY.nds" size="33554432" crc="67326C93" md5="1BBEA897B398016600CF3248C7DFD019"/>
+	</game>
 	<game name="主题公园（简）YYJOY - EA4C0ED2">
 		<rom name="主题公园（简）YYJOY.nds" size="33554432" crc="EA4C0ED2" md5="A9ACAC8706772E29FDB4FD4A4A53ADBE"/>
 	</game>
 	<game name="主题公园（简）YYJOY - 8BBBD866">
 		<rom name="主题公园（简）YYJOY.nds" size="33554432" crc="8BBBD866" md5="7EBE4E3B80D6C024B48DCA3A68C16080"/>
-	</game>
-	<game name="主题公园DS（简）YYJOY - 67326C93">
-		<rom name="主题公园DS（简）YYJOY.nds" size="33554432" crc="67326C93" md5="1BBEA897B398016600CF3248C7DFD019"/>
 	</game>
 	<game name="乌龙派出所（简）SOULTRIP 测试 - C23CC13D">
 		<rom name="乌龙派出所（简）SOULTRIP 测试.nds" size="41788160" crc="C23CC13D" md5="85FB71C2FD0926A9502EF8D01786E9AC"/>
@@ -297,15 +297,6 @@
 	</game>
 	<game name="任天堂 DS 浏览器（简）PPP 测试 - 3E0B58C3">
 		<rom name="任天堂 DS 浏览器（简）PPP 测试.nds" size="8388608" crc="3E0B58C3" md5="6B52F06D3B772261A5F90DE412190998"/>
-	</game>
-	<game name="任天堂战争DS（简）高级战争吧 v1.1 - 4B770391">
-		<rom name="任天堂战争DS（简）高级战争吧 v1.1.nds" size="28648608" crc="4B770391" md5="0A234860A9B3A4588A3B88BCEA5B7A27"/>
-	</game>
-	<game name="任天堂战争DS（简）高级战争吧 v1.0 - 2B5FE245">
-		<rom name="任天堂战争DS（简）高级战争吧 v1.0.nds" size="28648608" crc="2B5FE245" md5="7897B55BFBEA8F5267FE5BE1A0C4C3D7"/>
-	</game>
-	<game name="任天堂战争DS（简）高级战争吧 - 774F7705">
-		<rom name="任天堂战争DS（简）高级战争吧.nds" size="28648608" crc="774F7705" md5="A8A0A36FE350B58181C40C956676FEB7"/>
 	</game>
 	<game name="任天狗狗体验版（简）神游 - 683471DD">
 		<rom name="任天狗狗体验版（简）神游.ids" size="33554432" crc="683471DD" md5="600075756EDD5AAF53BAB4235E0B923A"/>
@@ -715,17 +706,23 @@
 	<game name="塞尔达传说：大地的汽笛（繁）РLUTO v1.1 - 21DA6922">
 		<rom name="塞尔达传说：大地的汽笛（繁）РLUTO v1.1.nds" size="134217728" crc="21DA6922" md5="0A34E4A4F1DCB04635A8CD6BD9B56CEE"/>
 	</game>
+	<game name="塞尔达传说：大地的汽笛（简）ACG - E72958C4">
+		<rom name="塞尔达传说：大地的汽笛（简）ACG.nds" size="86258364" crc="E72958C4" md5="8B54440EAB82BBA942644D8EF0AE1251"/>
+	</game>
+	<game name="塞尔达传说：大地的汽笛（简）兔友 十字键移动 - AF8E52C7">
+		<rom name="塞尔达传说：大地的汽笛（简）兔友 十字键移动.nds" size="94164156" crc="AF8E52C7" md5="B52806FADCCE8A36BDA0F59364E0FBC9"/>
+	</game>
 	<game name="塞尔达传说：幻影沙漏（简）巴士 - 1ACF7AEA">
 		<rom name="塞尔达传说：幻影沙漏（简）巴士.nds" size="67108864" crc="1ACF7AEA" md5="ED4D0A716623C5B974712E1CCE47063D"/>
 	</game>
 	<game name="塞尔达传说：幻影沙漏（繁）巴士 - 9B9E0280">
 		<rom name="塞尔达传说：幻影沙漏（繁）巴士.nds" size="67108864" crc="9B9E0280" md5="FEAA5EAB5D83CE9A52FD674F0CD5F3DE"/>
 	</game>
-	<game name="塞尔达传说：幻影沙漏（简）巴士 十字键版 - FC6CCB36">
-		<rom name="塞尔达传说：幻影沙漏（简）巴士 十字键版.nds" size="67108864" crc="FC6CCB36" md5="8EB432AB0C03FC233A599E0435AAFF6F"/>
+	<game name="塞尔达传说：幻影沙漏（简）巴士 - 285C809A">
+		<rom name="塞尔达传说：幻影沙漏（简）巴士.nds" size="67108864" crc="285C809A" md5="36DDB28C6B5F441113C08D2A65F79E39"/>
 	</game>
-	<game name="塞尔达传说：灵魂轨迹（简）ACG - E72958C4">
-		<rom name="塞尔达传说：灵魂轨迹（简）ACG.nds" size="86258364" crc="E72958C4" md5="8B54440EAB82BBA942644D8EF0AE1251"/>
+	<game name="塞尔达传说：幻影沙漏（简）巴士 十字键移动 - FC6CCB36">
+		<rom name="塞尔达传说：幻影沙漏（简）巴士 十字键移动.nds" size="67108864" crc="FC6CCB36" md5="8EB432AB0C03FC233A599E0435AAFF6F"/>
 	</game>
 	<game name="大剑 银眼的魔女（简）CNGBA - E822BCCC">
 		<rom name="大剑 银眼的魔女（简）CNGBA.nds" size="87020040" crc="E822BCCC" md5="D0F641BC7B5A393F33CF0D299B6946ED"/>
@@ -1270,6 +1267,15 @@
 	<game name="恶魔城：苍月十字架（简）NW旅团 - 980A8F2D">
 		<rom name="恶魔城：苍月十字架（简）NW旅团.nds" size="67108864" crc="980A8F2D" md5="318B833B9CFC07ECFA504335B5384ECB"/>
 	</game>
+	<game name="恶魔城：苍月十字架（简）罗洁爱儿 icewolf01 20240828 免触破冰 - 46744E4D">
+		<rom name="恶魔城：苍月十字架（简）罗洁爱儿 icewolf01 20240828 免触破冰.nds" size="67108864" crc="46744E4D" md5="59AED584CC6F5BD2F9C7E6BDBD7DD333"/>
+	</game>
+	<game name="恶魔城：苍月十字架（简）罗洁爱儿 icewolf01 20240828 触控破冰 - A8AB4959">
+		<rom name="恶魔城：苍月十字架（简）罗洁爱儿 icewolf01 20240828 触控破冰.nds" size="67108864" crc="A8AB4959" md5="457F8EE60A060677F72B2214CD5B4469"/>
+	</game>
+	<game name="恶魔城：苍月十字架（简）罗洁爱儿 icewolf01 20230919 触控全免 - 5065C518">
+		<rom name="恶魔城：苍月十字架（简）罗洁爱儿 icewolf01 20230919 触控全免.nds" size="67108864" crc="5065C518" md5="7387BB50D64AF4E6E332D082FE931DBE"/>
+	</game>
 	<game name="恶魔城：被夺的封印（简）巴士 v3.0 - 124D3C49">
 		<rom name="恶魔城：被夺的封印（简）巴士 v3.0.nds" size="50437424" crc="124D3C49" md5="7C9DC7C22755388EAEF8732877D45F38"/>
 	</game>
@@ -1294,8 +1300,8 @@
 	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY - 45BDE91E">
 		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY.nds" size="67108864" crc="45BDE91E" md5="714A5284A78F70970CAE2D373E9B0DFF"/>
 	</game>
-	<game name="恶魔城：迷宫的画廊 废墟的肖像（繁）罪人之塔 YYJOY 黄金眼 - C40E5A07">
-		<rom name="恶魔城：迷宫的画廊 废墟的肖像（繁）罪人之塔 YYJOY 黄金眼.nds" size="47159520" crc="C40E5A07" md5="FC23AD36E82573B16FAB18155C618EC3"/>
+	<game name="恶魔城：迷宫的画廊 废墟的肖像（繁）黄金眼 - C40E5A07">
+		<rom name="恶魔城：迷宫的画廊 废墟的肖像（繁）黄金眼.nds" size="47159520" crc="C40E5A07" md5="FC23AD36E82573B16FAB18155C618EC3"/>
 	</game>
 	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY - A42B6515">
 		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY.nds" size="67108864" crc="A42B6515" md5="675B1FA0C185D675076DA2967897D508"/>
@@ -1303,8 +1309,11 @@
 	<game name="恶魔城：迷宫的画廊 废墟的肖像（繁）黄金眼 - C2DC480B">
 		<rom name="恶魔城：迷宫的画廊 废墟的肖像（繁）黄金眼.nds" size="47159520" crc="C2DC480B" md5="A07BB56FAB97A8D6C1BDA7F0BB73D83F"/>
 	</game>
-	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY 罗伊SD 不死机 - 68D3CDDB">
-		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY 罗伊SD 不死机.nds" size="47159520" crc="68D3CDDB" md5="2FC44B76F375FE36110CBEC67A462A88"/>
+	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY 罗伊SD 死机修正 - 68D3CDDB">
+		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY 罗伊SD 死机修正.nds" size="47159520" crc="68D3CDDB" md5="2FC44B76F375FE36110CBEC67A462A88"/>
+	</game>
+	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）YYJOY GGWY 20240829 文本修正 - 9D7CD61B">
+		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）YYJOY GGWY 20240829 文本修正.nds" size="67108864" crc="9D7CD61B" md5="4C24E05A84EF004485AB5D187A81E9A1"/>
 	</game>
 	<game name="恶魔幸存者2（简）ACG v2 - 43A728FB">
 		<rom name="恶魔幸存者2（简）ACG v2.nds" size="128180656" crc="43A728FB" md5="92F1268C7A34D6AA33610C0413DFA223"/>
@@ -1377,6 +1386,12 @@
 	</game>
 	<game name="数独游戏10000问（简）的士 - 7D43CA4B">
 		<rom name="数独游戏10000问（简）的士.nds" size="13756456" crc="7D43CA4B" md5="ED8F0E98019B94A723AC4A46276B5C5B"/>
+	</game>
+	<game name="数码宝贝传说：失落的进化（简）繁乐西 G翻陆修 - 4ED194E0">
+		<rom name="数码宝贝传说：失落的进化（简）繁乐西 G翻陆修.nds" size="61806652" crc="4ED194E0" md5="A79A56DE59A891F74322B75E9635D901"/>
+	</game>
+	<game name="数码宝贝传说：失落的进化（简）繁乐西 20250905 G翻九修 - AF434146">
+		<rom name="数码宝贝传说：失落的进化（简）繁乐西 20250905 G翻九修.nds" size="61231164" crc="AF434146" md5="45698E302CFA9EA12F1A2077F0B109C5"/>
 	</game>
 	<game name="数码宝贝传说：日光（简）巴士 小黑屋 ACG v1.2 最终版 - 42060F7F">
 		<rom name="数码宝贝传说：日光（简）巴士 小黑屋 ACG v1.2 最终版.nds" size="60515520" crc="42060F7F" md5="2F953395B43CAE2E384821C4F14A4E1C"/>
@@ -1690,38 +1705,59 @@
 	<game name="洛克人ZX降临（简）李田所 20240302 v1.14 - 46DE6E7D">
 		<rom name="洛克人ZX降临（简）李田所 20240302 v1.14.nds" size="67108864" crc="46DE6E7D" md5="F49CA5B3ED85D3E58FBA590D1D382E00"/>
 	</game>
-	<game name="流星洛克人3红色鬼牌（简）对战大会 对战汉化 - 7C5F0433">
-		<rom name="流星洛克人3红色鬼牌（简）对战大会 对战汉化.nds" size="26646076" crc="7C5F0433" md5="793BCCA04D5912C94102055E054EBB5F"/>
-	</game>
-	<game name="流星洛克人3红色鬼牌（简）电波人研究中心 20230601 - C829084B">
-		<rom name="流星洛克人3红色鬼牌（简）电波人研究中心 20230601.nds" size="27254632" crc="C829084B" md5="CF1341F1F9440A75D0046A696E806111"/>
-	</game>
-	<game name="流星洛克人3红色鬼牌（简）电波人研究中心 20230601 基于Rev1补丁 - CDA21721">
-		<rom name="流星洛克人3红色鬼牌（简）电波人研究中心 20230601 基于Rev1补丁.nds" size="27254632" crc="CDA21721" md5="C2C692281FBA14429BFEE6482085C764"/>
-	</game>
-	<game name="流星洛克人3红色鬼牌（简）电波人研究中心 20230601 对战汉化版补丁 - 22B4E83C">
-		<rom name="流星洛克人3红色鬼牌（简）电波人研究中心 20230601 对战汉化版补丁.nds" size="27254632" crc="22B4E83C" md5="2B5FF8BF7E4FBB2938FE173F2CFCCFC6"/>
-	</game>
-	<game name="流星洛克人3黑色王牌（简）对战大会 对战汉化 - BB0F8D3F">
-		<rom name="流星洛克人3黑色王牌（简）对战大会 对战汉化.nds" size="26638396" crc="BB0F8D3F" md5="BB4BB6BD34DEA15F41F884D816222B89"/>
-	</game>
-	<game name="流星洛克人3黑色王牌（简）电波人研究中心 20230601 - A8948876">
-		<rom name="流星洛克人3黑色王牌（简）电波人研究中心 20230601.nds" size="27249968" crc="A8948876" md5="390A332279E7F4C180E143BE2E973823"/>
-	</game>
-	<game name="流星洛克人3黑色王牌（简）电波人研究中心 20230601 基于Rev1补丁 - 5D0BB652">
-		<rom name="流星洛克人3黑色王牌（简）电波人研究中心 20230601 基于Rev1补丁.nds" size="27249968" crc="5D0BB652" md5="54FA99E4EAC56F075CF1B123517549F1"/>
-	</game>
-	<game name="流星洛克人3黑色王牌（简）电波人研究中心 20230601 对战汉化版补丁 - C1B05B6E">
-		<rom name="流星洛克人3黑色王牌（简）电波人研究中心 20230601 对战汉化版补丁.nds" size="27249968" crc="C1B05B6E" md5="571C3F71688B8FD2204FD9D6DA30142D"/>
-	</game>
 	<game name="流星洛克人：天马（简）电波人研究中心 20231111 - D3A2205F">
 		<rom name="流星洛克人：天马（简）电波人研究中心 20231111.nds" size="33593524" crc="D3A2205F" md5="59C329FAE26DE7ADA339F0FBE632A85B"/>
+	</game>
+	<game name="流星洛克人：天马（简）电波人研究中心 20241007 - 1B2DA05A">
+		<rom name="流星洛克人：天马（简）电波人研究中心 20241007.nds" size="33603352" crc="1B2DA05A" md5="7B307F96AA27E75FEACD0CF7A8B9292B"/>
+	</game>
+	<game name="流星洛克人：狂战士x忍者（简）电波人研究中心 20241007 - 98876BB9">
+		<rom name="流星洛克人：狂战士x忍者（简）电波人研究中心 20241007.nds" size="25166856" crc="98876BB9" md5="4B23B38D6EBD87A77881647206BCD54F"/>
+	</game>
+	<game name="流星洛克人：狂战士x恐龙（简）电波人研究中心 20241007 - E7A39301">
+		<rom name="流星洛克人：狂战士x恐龙（简）电波人研究中心 20241007.nds" size="25166920" crc="E7A39301" md5="A3F144800FCD4B4B3429E4FB53A9BFCF"/>
+	</game>
+	<game name="流星洛克人：红色鬼牌（简）对战大会 对战汉化 - 7C5F0433">
+		<rom name="流星洛克人：红色鬼牌（简）对战大会 对战汉化.nds" size="26646076" crc="7C5F0433" md5="793BCCA04D5912C94102055E054EBB5F"/>
+	</game>
+	<game name="流星洛克人：红色鬼牌（简）电波人研究中心 20230601 - C829084B">
+		<rom name="流星洛克人：红色鬼牌（简）电波人研究中心 20230601.nds" size="27254632" crc="C829084B" md5="CF1341F1F9440A75D0046A696E806111"/>
+	</game>
+	<game name="流星洛克人：红色鬼牌（简）电波人研究中心 20230601 基于Rev1补丁 - CDA21721">
+		<rom name="流星洛克人：红色鬼牌（简）电波人研究中心 20230601 基于Rev1补丁.nds" size="27254632" crc="CDA21721" md5="C2C692281FBA14429BFEE6482085C764"/>
+	</game>
+	<game name="流星洛克人：红色鬼牌（简）电波人研究中心 20230601 对战汉化版补丁 - 22B4E83C">
+		<rom name="流星洛克人：红色鬼牌（简）电波人研究中心 20230601 对战汉化版补丁.nds" size="27254632" crc="22B4E83C" md5="2B5FF8BF7E4FBB2938FE173F2CFCCFC6"/>
+	</game>
+	<game name="流星洛克人：红色鬼牌（简）电波人研究中心 20241007 - A343DDFF">
+		<rom name="流星洛克人：红色鬼牌（简）电波人研究中心 20241007.nds" size="27263340" crc="A343DDFF" md5="4A9CE1D981B2D4301E906943B016379C"/>
 	</game>
 	<game name="流星洛克人：雄狮（简）电波人研究中心 20231111 - C2EC3524">
 		<rom name="流星洛克人：雄狮（简）电波人研究中心 20231111.nds" size="33593520" crc="C2EC3524" md5="A0699E73A93796A8471AD6B4F8369D09"/>
 	</game>
+	<game name="流星洛克人：雄狮（简）电波人研究中心 20241007 - AF107D15">
+		<rom name="流星洛克人：雄狮（简）电波人研究中心 20241007.nds" size="33603348" crc="AF107D15" md5="93C8C0C2042A44196CBD72992F097AC1"/>
+	</game>
 	<game name="流星洛克人：青龙（简）电波人研究中心 20231111 - BE8722AE">
 		<rom name="流星洛克人：青龙（简）电波人研究中心 20231111.nds" size="33593520" crc="BE8722AE" md5="69810BBCD0B4F80526ED0689E378F1B7"/>
+	</game>
+	<game name="流星洛克人：青龙（简）电波人研究中心 20241007 - D3C67C98">
+		<rom name="流星洛克人：青龙（简）电波人研究中心 20241007.nds" size="33603348" crc="D3C67C98" md5="AA248434917657E1C116603E3347B2B1"/>
+	</game>
+	<game name="流星洛克人：黑色王牌（简）对战大会 对战汉化 - BB0F8D3F">
+		<rom name="流星洛克人：黑色王牌（简）对战大会 对战汉化.nds" size="26638396" crc="BB0F8D3F" md5="BB4BB6BD34DEA15F41F884D816222B89"/>
+	</game>
+	<game name="流星洛克人：黑色王牌（简）电波人研究中心 20230601 - A8948876">
+		<rom name="流星洛克人：黑色王牌（简）电波人研究中心 20230601.nds" size="27249968" crc="A8948876" md5="390A332279E7F4C180E143BE2E973823"/>
+	</game>
+	<game name="流星洛克人：黑色王牌（简）电波人研究中心 20230601 基于Rev1补丁 - 5D0BB652">
+		<rom name="流星洛克人：黑色王牌（简）电波人研究中心 20230601 基于Rev1补丁.nds" size="27249968" crc="5D0BB652" md5="54FA99E4EAC56F075CF1B123517549F1"/>
+	</game>
+	<game name="流星洛克人：黑色王牌（简）电波人研究中心 20230601 对战汉化版补丁 - C1B05B6E">
+		<rom name="流星洛克人：黑色王牌（简）电波人研究中心 20230601 对战汉化版补丁.nds" size="27249968" crc="C1B05B6E" md5="571C3F71688B8FD2204FD9D6DA30142D"/>
+	</game>
+	<game name="流星洛克人：黑色王牌（简）电波人研究中心 20241007 - B940F294">
+		<rom name="流星洛克人：黑色王牌（简）电波人研究中心 20241007.nds" size="27258676" crc="B940F294" md5="6B3D70B899F48186BCE5F2334EBCBC26"/>
 	</game>
 	<game name="海因兹 沃尔夫教授的重力大挑战（简）宇宙世纪的风 干饭 艾罗卡逊 - 0D9C98A5">
 		<rom name="海因兹 沃尔夫教授的重力大挑战（简）宇宙世纪的风 干饭 艾罗卡逊.nds" size="16777216" crc="0D9C98A5" md5="0A2CE576367459A3169779588855801C"/>
@@ -1941,6 +1977,12 @@
 	</game>
 	<game name="牧场物语：精灵驿站（简） - 01309311">
 		<rom name="牧场物语：精灵驿站（简）.nds" size="33209128" crc="01309311" md5="E165B72DF2D1E205336BCA75427B4B43"/>
+	</game>
+	<game name="牧场物语：精灵驿站（简）Advance 20240804 v1.0 - D0408A9E">
+		<rom name="牧场物语：精灵驿站（简）Advance 20240804 v1.0.nds" size="33554432" crc="D0408A9E" md5="416B5D030D17F41EF60AB69A11F8127A"/>
+	</game>
+	<game name="牧场物语：精灵驿站（简）Advance 20240811 v1.1 - ED901631">
+		<rom name="牧场物语：精灵驿站（简）Advance 20240811 v1.1.nds" size="33554432" crc="ED901631" md5="70BAE7AA118A721E541014B858AE5A74"/>
 	</game>
 	<game name="牧场物语：精灵驿站女孩版（简繁）PGCG NDSBBS 无名达人 伍兆金 物品汉化 - CC1B464D">
 		<rom name="牧场物语：精灵驿站女孩版（简繁）PGCG NDSBBS 无名达人 伍兆金 物品汉化.nds" size="35562416" crc="CC1B464D" md5="E26E92C3BBAD2005EDF88A223A96C9E3"/>
@@ -2323,6 +2365,9 @@
 	<game name="绘图方块DS（简）XEDFTXZ 不完全汉化版 - 2884E19D">
 		<rom name="绘图方块DS（简）XEDFTXZ 不完全汉化版.nds" size="29561888" crc="2884E19D" md5="01162CBC8191D208292F4F7FCCCE4E7A"/>
 	</game>
+	<game name="绘图方块解谜：战斗勇者王（简）fciq 20240817 - 2C593148">
+		<rom name="绘图方块解谜：战斗勇者王（简）fciq 20240817.nds" size="16777216" crc="2C593148" md5="F6CEAFD94E5034D26ED3874E64B74808"/>
+	</game>
 	<game name="绘心教室DS（简）绘心教室吧 简大 - 483A52A4">
 		<rom name="绘心教室DS（简）绘心教室吧 简大.nds" size="33554432" crc="483A52A4" md5="28F222E4FB181F9985CE6EFD4EBE27DC"/>
 	</game>
@@ -2568,6 +2613,9 @@
 	</game>
 	<game name="超执刀2（简）JOYFUL v1.0 文本汉化 - E064D540">
 		<rom name="超执刀2（简）JOYFUL v1.0 文本汉化.nds" size="56658204" crc="E064D540" md5="F5278C43484E4A624452F920E6888134"/>
+	</game>
+	<game name="超操纵机器MG（简）通用型柚子 20240726 v1.0 - 306CE51C">
+		<rom name="超操纵机器MG（简）通用型柚子 20240726 v1.0.nds" size="64614924" crc="306CE51C" md5="FB8FD40765284BAB6682181258EC7CC8"/>
 	</game>
 	<game name="超时空之轮（简）恶梦的死神 v4 - 5DE78CF2">
 		<rom name="超时空之轮（简）恶梦的死神 v4.nds" size="88449116" crc="5DE78CF2" md5="EA69DFF690888F6635E538416CC97BAD"/>
@@ -2847,6 +2895,15 @@
 	</game>
 	<game name="驯龙师：音魂（简）烈火暴龙 - 51179BC7">
 		<rom name="驯龙师：音魂（简）烈火暴龙.nds" size="54249753" crc="51179BC7" md5="36FD922720DEABEA3EC3DA47F4CE2820"/>
+	</game>
+	<game name="高级战争DS（简）高级战争吧 v1.1 - 4B770391">
+		<rom name="高级战争DS（简）高级战争吧 v1.1.nds" size="28648608" crc="4B770391" md5="0A234860A9B3A4588A3B88BCEA5B7A27"/>
+	</game>
+	<game name="高级战争DS（简）高级战争吧 v1.0 - 2B5FE245">
+		<rom name="高级战争DS（简）高级战争吧 v1.0.nds" size="28648608" crc="2B5FE245" md5="7897B55BFBEA8F5267FE5BE1A0C4C3D7"/>
+	</game>
+	<game name="高级战争DS（简）高级战争吧 - 774F7705">
+		<rom name="高级战争DS（简）高级战争吧.nds" size="28648608" crc="774F7705" md5="A8A0A36FE350B58181C40C956676FEB7"/>
 	</game>
 	<game name="高级战争：毁灭之日（简）空气 内测外泄 - 259BCA79">
 		<rom name="高级战争：毁灭之日（简）空气 内测外泄.nds" size="67108864" crc="259BCA79" md5="F6635C769361DC2EB001DDC066F7379E"/>

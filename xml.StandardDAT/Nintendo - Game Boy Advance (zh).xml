@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20240700</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20241000</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -16,11 +16,11 @@
 	<game name="GBC：金庸群侠传（简）美化修正 - 9523E283">
 		<rom name="GBC：金庸群侠传（简）美化修正.gba" size="2212672" crc="9523E283" md5="80C39A1049B8A2E2DA46FE97DBAEE38A"/>
 	</game>
-	<game name="GB高级战争1+2（简）高级战争吧 v1.01 - 5571194A">
-		<rom name="GB高级战争1+2（简）高级战争吧 v1.01.gba" size="16777216" crc="5571194A" md5="862D49679A82602F29B0FDD15561F45A"/>
+	<game name="GB战争1+2（简）高级战争吧 v1.01 - 5571194A">
+		<rom name="GB战争1+2（简）高级战争吧 v1.01.gba" size="16777216" crc="5571194A" md5="862D49679A82602F29B0FDD15561F45A"/>
 	</game>
-	<game name="GB高级战争1+2（简）高级战争吧 v1.02 完全汉化 - ADBB7261">
-		<rom name="GB高级战争1+2（简）高级战争吧 v1.02 完全汉化.gba" size="16777216" crc="ADBB7261" md5="BE7ECC0CB62DBC9E8D74E76358C5DF4C"/>
+	<game name="GB战争1+2（简）高级战争吧 v1.02 完全汉化 - ADBB7261">
+		<rom name="GB战争1+2（简）高级战争吧 v1.02 完全汉化.gba" size="16777216" crc="ADBB7261" md5="BE7ECC0CB62DBC9E8D74E76358C5DF4C"/>
 	</game>
 	<game name="GTA3职业概念赛车（简）神游 - 527628B2">
 		<rom name="GTA3职业概念赛车（简）神游.gba" size="8138944" crc="527628B2" md5="B35D2EE3DDD5808ADBEC37B9011BF975"/>
@@ -190,6 +190,12 @@
 	<game name="光明力量：暗黑龙的复活（简）光明与黑暗吧 v1.0 - 899B3796">
 		<rom name="光明力量：暗黑龙的复活（简）光明与黑暗吧 v1.0.gba" size="8978432" crc="899B3796" md5="0E4EBD6C429E36A16E47CB966FD1A776"/>
 	</game>
+	<game name="公主同盟（简）狼狼小酷 20100811 - 43FFA477">
+		<rom name="公主同盟（简）狼狼小酷 20100811.gba" size="33554432" crc="43FFA477" md5="BEE85308912FB95EA4314A87DD83D841"/>
+	</game>
+	<game name="公主同盟（简）流星落月 20240728 No56修正 - E4343CF4">
+		<rom name="公主同盟（简）流星落月 20240728 No56修正.gba" size="33554432" crc="E4343CF4" md5="4E62CE49027F7045111F44D1DA5736CF"/>
+	</game>
 	<game name="冰河世纪（简）没必要 - 094C5FEF">
 		<rom name="冰河世纪（简）没必要.gba" size="4194304" crc="094C5FEF" md5="5074D0EA3F1552A25B287BD8A1D17FCC"/>
 	</game>
@@ -232,14 +238,17 @@
 	<game name="双截龙Advance（繁）天使 - DAE40664">
 		<rom name="双截龙Advance（繁）天使.gba" size="4194304" crc="DAE40664" md5="1C07E2A8EBCA40EF230706B0F7B5D5B0"/>
 	</game>
-	<game name="口袋实况棒球5（繁）星组 - BF81CA12">
-		<rom name="口袋实况棒球5（繁）星组.gba" size="8388608" crc="BF81CA12" md5="34386D3325B06430C9F06D5030E62659"/>
-	</game>
 	<game name="口袋梦幻! 梦幻寻宝幸存挑战!（简）TGB - 1489592E">
 		<rom name="口袋梦幻! 梦幻寻宝幸存挑战!（简）TGB.gba" size="8388608" crc="1489592E" md5="219D817B820649F1EB3824C80DD08612"/>
 	</game>
 	<game name="口袋梦幻! 梦幻寻宝幸存挑战!（简）掌机王者 - C51EF8C1">
 		<rom name="口袋梦幻! 梦幻寻宝幸存挑战!（简）掌机王者.gba" size="8388608" crc="C51EF8C1" md5="EF4557BE2C61500B7E99825F15AC38B9"/>
+	</game>
+	<game name="口袋棒球3（简）流星 20240916 v1.0 - A5F6EA21">
+		<rom name="口袋棒球3（简）流星 20240916 v1.0.gba" size="9514272" crc="A5F6EA21" md5="90C4B91996398F7D1074EF57303E9BF6"/>
+	</game>
+	<game name="口袋棒球5（繁）星组 - BF81CA12">
+		<rom name="口袋棒球5（繁）星组.gba" size="8388608" crc="BF81CA12" md5="34386D3325B06430C9F06D5030E62659"/>
 	</game>
 	<game name="古墓奇兵：预言（简）施珂昱 - D4DE6480">
 		<rom name="古墓奇兵：预言（简）施珂昱.gba" size="8388608" crc="D4DE6480" md5="7B325ABA6108B64D6E6BF4025D1D31FF"/>
@@ -331,9 +340,6 @@
 	<game name="四狂神战记：沉默的遗迹（简）shikeyu Ninsonytendog ICO 流星 20230728 v3.3 - D712B69E">
 		<rom name="四狂神战记：沉默的遗迹（简）shikeyu Ninsonytendog ICO 流星 20230728 v3.3.gba" size="9514056" crc="D712B69E" md5="D988612A2A64FD891B1AAF681BAB58BB"/>
 	</game>
-	<game name="圣剑同盟（简）狼狼小酷 20100811 - 43FFA477">
-		<rom name="圣剑同盟（简）狼狼小酷 20100811.gba" size="33554432" crc="43FFA477" md5="BEE85308912FB95EA4314A87DD83D841"/>
-	</game>
 	<game name="圣石小子：光与暗的大决战（简）Advance v0.4 - DB3CC958">
 		<rom name="圣石小子：光与暗的大决战（简）Advance v0.4.gba" size="8388608" crc="DB3CC958" md5="9ACC6008266CD35A51F782E912FFB118"/>
 	</game>
@@ -381,6 +387,9 @@
 	</game>
 	<game name="塞尔达传说：众神的三角力量和四支剑（简）漫游 - C2B0FA0C">
 		<rom name="塞尔达传说：众神的三角力量和四支剑（简）漫游.gba" size="8388608" crc="C2B0FA0C" md5="43CE9CA7E3ADF5F9A5C7076E2F270DC3"/>
+	</game>
+	<game name="塞尔达传说：众神的三角力量和四支剑（简）漫游 去片头 - 2BD2B237">
+		<rom name="塞尔达传说：众神的三角力量和四支剑（简）漫游 去片头.gba" size="8388608" crc="2BD2B237" md5="4E2BFD432A984DF24E214D4B91B9E6CF"/>
 	</game>
 	<game name="塞尔达传说：缩小帽（简）天使 - BA222877">
 		<rom name="塞尔达传说：缩小帽（简）天使.gba" size="16777216" crc="BA222877" md5="B45289006A099968C0632269ADCDD8E0"/>
@@ -562,8 +571,8 @@
 	<game name="宝可梦：红宝石（简）模拟天下 - CBB48D26">
 		<rom name="宝可梦：红宝石（简）模拟天下.gba" size="8388608" crc="CBB48D26" md5="8A748A955C926EF9574A086DB3A4E5C7"/>
 	</game>
-	<game name="宝可梦：红宝石（繁）Unl METORE - 6C204618">
-		<rom name="宝可梦：红宝石（繁）Unl METORE.gba" size="8388608" crc="6C204618" md5="476111B717F9E23C26AAA9FFD955B794"/>
+	<game name="宝可梦：红宝石（繁）Unl Metore - 6C204618">
+		<rom name="宝可梦：红宝石（繁）Unl Metore.gba" size="8388608" crc="6C204618" md5="476111B717F9E23C26AAA9FFD955B794"/>
 	</game>
 	<game name="宝可梦：红宝石（简）口袋妖怪网 386 - B1BC56F6">
 		<rom name="宝可梦：红宝石（简）口袋妖怪网 386.gba" size="8465528" crc="B1BC56F6" md5="6AABA3066A533F411A4AAB03B9B25C2B"/>
@@ -582,6 +591,12 @@
 	</game>
 	<game name="宝可梦：红宝石（简）yy1111house 386 - 044A4A3F">
 		<rom name="宝可梦：红宝石（简）yy1111house 386.gba" size="4803215" crc="044A4A3F" md5="EF4FD736CAF8197211A90B471A317775"/>
+	</game>
+	<game name="宝可梦：红宝石（简）アルパカチーズ 20240915 E版 - 3F2EA26D">
+		<rom name="宝可梦：红宝石（简）アルパカチーズ 20240915 E版.gba" size="33554432" crc="3F2EA26D" md5="3A680135A31B3BA2752065E1EB56C375"/>
+	</game>
+	<game name="宝可梦：红宝石（简）アルパカチーズ 20240915 J版 - 096E5F2E">
+		<rom name="宝可梦：红宝石（简）アルパカチーズ 20240915 J版.gba" size="33554432" crc="096E5F2E" md5="6F66A94198B5D680FD1DA2337B79DBA4"/>
 	</game>
 	<game name="宝可梦：绿宝石（简）Unl AWAIXP - D23F6484">
 		<rom name="宝可梦：绿宝石（简）Unl AWAIXP.gba" size="16777216" crc="D23F6484" md5="2949F1B2878BD71FB48B980C91CF45D2"/>
@@ -631,8 +646,8 @@
 	<game name="宝可梦：蓝宝石（简）Unl ELITE 口袋妖怪网 386 时钟修正 - 49690CDF">
 		<rom name="宝可梦：蓝宝石（简）Unl ELITE 口袋妖怪网 386 时钟修正.gba" size="8518208" crc="49690CDF" md5="0BF8F1C9DF7FE053AC9FB51DB79246D9"/>
 	</game>
-	<game name="宝可梦：蓝宝石（繁）Unl METORE - 04D85B35">
-		<rom name="宝可梦：蓝宝石（繁）Unl METORE.gba" size="8388608" crc="04D85B35" md5="0B66D8592D1DCB8A846637BFE0C33E31"/>
+	<game name="宝可梦：蓝宝石（繁）Unl Metore - 04D85B35">
+		<rom name="宝可梦：蓝宝石（繁）Unl Metore.gba" size="8388608" crc="04D85B35" md5="0B66D8592D1DCB8A846637BFE0C33E31"/>
 	</game>
 	<game name="宝可梦：蓝宝石（繁）Unl BLADER v1.1 - F87BD0AE">
 		<rom name="宝可梦：蓝宝石（繁）Unl BLADER v1.1.gba" size="8388608" crc="F87BD0AE" md5="B4865D8ECACFF31DAB507EE4BFE5B5B3"/>
@@ -642,6 +657,15 @@
 	</game>
 	<game name="宝可梦：蓝宝石（繁）Unl BLADER v1.1 - 74887236">
 		<rom name="宝可梦：蓝宝石（繁）Unl BLADER v1.1.gba" size="8388608" crc="74887236" md5="D833EEF0F4A2591AF9BBB7B47B49BB28"/>
+	</game>
+	<game name="宝可梦：蓝宝石（简）アルパカチーズ 20240915 E版 - E598356B">
+		<rom name="宝可梦：蓝宝石（简）アルパカチーズ 20240915 E版.gba" size="33554432" crc="E598356B" md5="EF96FA8D0601DC7DB4E8113284DFBACC"/>
+	</game>
+	<game name="宝可梦：蓝宝石（简）アルパカチーズ 20240915 J版 - D52116CA">
+		<rom name="宝可梦：蓝宝石（简）アルパカチーズ 20240915 J版.gba" size="33554432" crc="D52116CA" md5="EB0ED1D50FEE16A3AF875C155CFBAEEB"/>
+	</game>
+	<game name="宝可梦：蓝宝石（简）アルパカチーズ 20240915 特供版 - 8102D6C3">
+		<rom name="宝可梦：蓝宝石（简）アルパカチーズ 20240915 特供版.gba" size="33554432" crc="8102D6C3" md5="4F91E1326FF2884321B573A07EBFED15"/>
 	</game>
 	<game name="寂静岭（简）云山 20200325 修正 - B73BD6FF">
 		<rom name="寂静岭（简）云山 20200325 修正.gba" size="8455568" crc="B73BD6FF" md5="8A43255091F7A3A64DA09498B0B3E5E4"/>
@@ -654,6 +678,9 @@
 	</game>
 	<game name="密特罗德：融合（简）神游 - 042E5B07">
 		<rom name="密特罗德：融合（简）神游.gba" size="8388608" crc="042E5B07" md5="0DC8A17AF87706F54DB5B78F02C5AD12"/>
+	</game>
+	<game name="密特罗德：融合（简）神游 移除iQue片头 - 30BD4211">
+		<rom name="密特罗德：融合（简）神游 移除iQue片头.gba" size="8388608" crc="30BD4211" md5="6A32ACC8204D69C8BFA51E1A408C8A01"/>
 	</game>
 	<game name="密特罗德：零点任务（简）天使 madcell 20040211 - E30FF2CC">
 		<rom name="密特罗德：零点任务（简）天使 madcell 20040211.gba" size="8388608" crc="E30FF2CC" md5="2B06A33BFDBAE331E5E101C8A7F681A1"/>
@@ -675,6 +702,9 @@
 	</game>
 	<game name="幻想传说（简）千岛 叶子 - A0047979">
 		<rom name="幻想传说（简）千岛 叶子.gba" size="8732672" crc="A0047979" md5="8B9AD287CE94DF588642CCFC206E9685"/>
+	</game>
+	<game name="幽灵陷阱（简）云山 20240727 - CD487C56">
+		<rom name="幽灵陷阱（简）云山 20240727.gba" size="9122848" crc="CD487C56" md5="FA15E508C3F1B217159F9F0A5AE7865B"/>
 	</game>
 	<game name="异次元敌人（简）XDKTY1005 风之花 - F31B20AF">
 		<rom name="异次元敌人（简）XDKTY1005 风之花.gba" size="8388608" crc="F31B20AF" md5="F3385473BB4FDD36A6B9D62A27344ED9"/>
@@ -736,14 +766,14 @@
 	<game name="怪物守护者（简）PGCG - 7C4515A2">
 		<rom name="怪物守护者（简）PGCG.gba" size="8388608" crc="7C4515A2" md5="0C3257EC0AB470888A216A33DA59AFB3"/>
 	</game>
-	<game name="恶魔城改：三饶传奇（改）邱健华 三饶传奇 - 1CD4CAF4">
-		<rom name="恶魔城改：三饶传奇（改）邱健华 三饶传奇.gba" size="8388608" crc="1CD4CAF4" md5="908298530FBA44BB9CC97B96FE1EC360"/>
-	</game>
 	<game name="恶魔城：晓月圆舞曲（繁）九柳 - 26CBC195">
 		<rom name="恶魔城：晓月圆舞曲（繁）九柳.gba" size="8388608" crc="26CBC195" md5="926144CE8371847EE6DEE99B79A53525"/>
 	</game>
 	<game name="恶魔城：晓月圆舞曲（简）九柳 - 22EFD2B9">
 		<rom name="恶魔城：晓月圆舞曲（简）九柳.gba" size="8388608" crc="22EFD2B9" md5="074FE0D97B76145E63B253A162CB13D8"/>
+	</game>
+	<game name="恶魔城：晓月圆舞曲（简）星夜之幻 20130813 小字优化 - D06D88A1">
+		<rom name="恶魔城：晓月圆舞曲（简）星夜之幻 20130813 小字优化.gba" size="8388608" crc="D06D88A1" md5="CD6EAAA444D9AEA1B88562C9AE72EECC"/>
 	</game>
 	<game name="恶魔城：月之轮回（简）施珂昱 - 5925D9C9">
 		<rom name="恶魔城：月之轮回（简）施珂昱.gba" size="8388608" crc="5925D9C9" md5="CF8411A62DC864F79CF39467080A81CE"/>
@@ -1111,9 +1141,6 @@
 	<game name="游戏王! 怪兽决斗EX 3（繁）ZXP - C53DA5A4">
 		<rom name="游戏王! 怪兽决斗EX 3（繁）ZXP.gba" size="16777216" crc="C53DA5A4" md5="4BD213D4A542C963C37C0712AB19FEF2"/>
 	</game>
-	<game name="游戏王! 怪兽决斗GX 决战王者（简）天使 - 3C7A3025">
-		<rom name="游戏王! 怪兽决斗GX 决战王者（简）天使.gba" size="33554432" crc="3C7A3025" md5="EFFAF0F106B9504B6323EAAEB355BEFE"/>
-	</game>
 	<game name="游戏王! 怪兽决斗国际版2（简）天使 - 1C1BF15A">
 		<rom name="游戏王! 怪兽决斗国际版2（简）天使.gba" size="16777216" crc="1C1BF15A" md5="3613E82C06E8A4F52EAACC602082BFB1"/>
 	</game>
@@ -1125,6 +1152,12 @@
 	</game>
 	<game name="游戏王7-决斗都市传说（简）Advance 20240414 v1.2 - C048DA17">
 		<rom name="游戏王7-决斗都市传说（简）Advance 20240414 v1.2.gba" size="16777216" crc="C048DA17" md5="EC33C7BF4019D2E7FA99FF15F6DE24C5"/>
+	</game>
+	<game name="游戏王GX目标是决斗王（简）天使 - 3C7A3025">
+		<rom name="游戏王GX目标是决斗王（简）天使.gba" size="33554432" crc="3C7A3025" md5="EFFAF0F106B9504B6323EAAEB355BEFE"/>
+	</game>
+	<game name="游戏王GX目标是决斗王（简）天使 Advance 20240905 v1.0 剧情汉化 - 7E0650BE">
+		<rom name="游戏王GX目标是决斗王（简）天使 Advance 20240905 v1.0 剧情汉化.gba" size="33554432" crc="7E0650BE" md5="399BE5383A2429A8B1ECDABB6F7C6102"/>
 	</game>
 	<game name="游戏王：决战怪兽 Ex 2006（简）天使 20060307 - B4EFEF2F">
 		<rom name="游戏王：决战怪兽 Ex 2006（简）天使 20060307.gba" size="33554432" crc="B4EFEF2F" md5="25AE074E73DAE7C70BEAD22B03445BCE"/>
@@ -1248,6 +1281,9 @@
 	</game>
 	<game name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240505 - B7B6D549">
 		<rom name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240505.gba" size="8388608" crc="B7B6D549" md5="87C9F90913A7FE6CD80D34E57743D48A"/>
+	</game>
+	<game name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240814 废矿3万 - 320BB434">
+		<rom name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240814 废矿3万.gba" size="8388608" crc="320BB434" md5="237777037E175E74A1EAC70EB21DDCB3"/>
 	</game>
 	<game name="牧场物语：矿石镇的伙伴们女孩版（简）Middle333 2004 v0.6 - 96900F94">
 		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）Middle333 2004 v0.6.gba" size="16777216" crc="96900F94" md5="B09D50D45EC9975D0A860FB0B22633DD"/>
@@ -1933,8 +1969,11 @@
 	<game name="黄金太阳：开启的封印（简）冷K 修正 - F35B202D">
 		<rom name="黄金太阳：开启的封印（简）冷K 修正.gba" size="9256960" crc="F35B202D" md5="A0ECD6BEE13CF93D30CB75BBB3FE7DBF"/>
 	</game>
-	<game name="龙战士（简）FLYEYES - 51BFA615">
-		<rom name="龙战士（简）FLYEYES.gba" size="4250264" crc="51BFA615" md5="E7CBE7FC57ABCB0F3BDF390529ABD8AE"/>
+	<game name="龙战士（简）FLYEYES 20091030 - 51BFA615">
+		<rom name="龙战士（简）FLYEYES 20091030.gba" size="4250264" crc="51BFA615" md5="E7CBE7FC57ABCB0F3BDF390529ABD8AE"/>
+	</game>
+	<game name="龙战士（简）Asaki 20081122 画面增强 - 934264A6">
+		<rom name="龙战士（简）Asaki 20081122 画面增强.gba" size="4250264" crc="934264A6" md5="99E227A2F8B24B570AFA35899C0A2707"/>
 	</game>
 	<game name="龙战士2（简）飞越无尽暗空 测试 - CA1A5CFB">
 		<rom name="龙战士2（简）飞越无尽暗空 测试.gba" size="4718584" crc="CA1A5CFB" md5="92B93C8D881BBAA292C419E79405F4BA"/>

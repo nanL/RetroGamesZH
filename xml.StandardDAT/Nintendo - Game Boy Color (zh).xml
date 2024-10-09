@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Color (zh)</name><version>20240700</version></header>
+	<header><name>Nintendo - Game Boy Color (zh)</name><version>20241000</version></header>
 	<game name="007：黑日危机（繁） - D33D0CDD">
 		<rom name="007：黑日危机（繁）.gbc" size="2097152" crc="D33D0CDD" md5="AAE37F7E9869A07C777077FF4043367E"/>
 	</game>
@@ -67,8 +67,11 @@
 	<game name="不可思议的迷宫：风来的西林GB2沙漠迷城（简）hqqqqtv v0.69 - 97FC23EE">
 		<rom name="不可思议的迷宫：风来的西林GB2沙漠迷城（简）hqqqqtv v0.69.gbc" size="4194304" crc="97FC23EE" md5="BA481BBA299EB753A84E83657CA48132"/>
 	</game>
-	<game name="不可思议的迷宫：风来的西林GB2沙漠迷城（简）GB2 0.65 - 4E4E1600">
-		<rom name="不可思议的迷宫：风来的西林GB2沙漠迷城（简）GB2 0.65.gbc" size="4194304" crc="4E4E1600" md5="23B2A1493F03B07C21F727D10EA2133C"/>
+	<game name="不可思议的迷宫：风来的西林GB2沙漠迷城（简）0.65 - 4E4E1600">
+		<rom name="不可思议的迷宫：风来的西林GB2沙漠迷城（简）0.65.gbc" size="4194304" crc="4E4E1600" md5="23B2A1493F03B07C21F727D10EA2133C"/>
+	</game>
+	<game name="不可思议的迷宫：风来的西林GB2沙漠迷城（简）hqqqqtv 20240922 v1.03c - B8C7A6B8">
+		<rom name="不可思议的迷宫：风来的西林GB2沙漠迷城（简）hqqqqtv 20240922 v1.03c.gbc" size="4194304" crc="B8C7A6B8" md5="8327FE94417154503545F4B1E6C36370"/>
 	</game>
 	<game name="世界足球2002（改）Unl yy小龙虾 - 96AF958F">
 		<rom name="世界足球2002（改）Unl yy小龙虾.gbc" size="2097152" crc="96AF958F" md5="C0A8FD1A882A500158CA407E1EBA1B20"/>
@@ -88,8 +91,8 @@
 	<game name="光明力量（繁）天才小子 - 3E6213A0">
 		<rom name="光明力量（繁）天才小子.gbc" size="1048576" crc="3E6213A0" md5="12828164E57FAC9D76D0EF30ACD1A061"/>
 	</game>
-	<game name="八龙珠（简）外星 星夜之幻 修正版 - D01323A6">
-		<rom name="八龙珠（简）外星 星夜之幻 修正版.gbc" size="1048576" crc="D01323A6" md5="0F4C6008A272763207DE5E14750CCAE9"/>
+	<game name="八龙珠（简）外星 星夜之幻 DumpFixed - D01323A6">
+		<rom name="八龙珠（简）外星 星夜之幻 DumpFixed.gbc" size="1048576" crc="D01323A6" md5="0F4C6008A272763207DE5E14750CCAE9"/>
 	</game>
 	<game name="冰原历险记2（繁） - B149F421">
 		<rom name="冰原历险记2（繁）.gbc" size="2097152" crc="B149F421" md5="419DFCAFD48EDD0C13624037E2BC81E9"/>
@@ -102,6 +105,9 @@
 	</game>
 	<game name="前进吧 列车（简）混沌星辰 - 9D3A098E">
 		<rom name="前进吧 列车（简）混沌星辰.gbc" size="4194304" crc="9D3A098E" md5="464CAF719FB18992ECAEEDD64C215836"/>
+	</game>
+	<game name="剑侠情缘（简）外星 星夜之幻 20240727 DumpFixed - 288A7A2F">
+		<rom name="剑侠情缘（简）外星 星夜之幻 20240727 DumpFixed.gbc" size="1048576" crc="288A7A2F" md5="936BD2B919D35E62CF37CF4154CC8D6E"/>
 	</game>
 	<game name="勇者斗恶龙1和2（繁） - 2A783280">
 		<rom name="勇者斗恶龙1和2（繁）.gbc" size="2097152" crc="2A783280" md5="746586B0A24C9FCCBD67497E8B42AB5D"/>
@@ -382,51 +388,6 @@
 	<game name="宝可梦：皮卡丘特别版（简） - F98DDC57">
 		<rom name="宝可梦：皮卡丘特别版（简）.gbc" size="1048576" crc="F98DDC57" md5="2E9A4C28C770AB13674271AFCBB8987B"/>
 	</game>
-	<game name="宝可梦：红（简）Tom_C 20230813 v1.0 接近美版 - 1612E23F">
-		<rom name="宝可梦：红（简）Tom_C 20230813 v1.0 接近美版.gbc" size="2097152" crc="1612E23F" md5="8D9C8F9CB2B2B1EBFC424A3E93DF6C27"/>
-	</game>
-	<game name="宝可梦：红（简）Tom_C 20230813 v1.0 接近日版 - A2A30728">
-		<rom name="宝可梦：红（简）Tom_C 20230813 v1.0 接近日版.gbc" size="2097152" crc="A2A30728" md5="884A0709509E9765F225CAF1315C9212"/>
-	</game>
-	<game name="宝可梦：红（简）Unl - B7D71D6A">
-		<rom name="宝可梦：红（简）Unl.gbc" size="1048576" crc="B7D71D6A" md5="6D97C2BFA58BAD4B99C1F2C44D2EC126"/>
-	</game>
-	<game name="宝可梦：红（简）Unl SSS888 经验值修正 - 132BA0A8">
-		<rom name="宝可梦：红（简）Unl SSS888 经验值修正.gbc" size="1048576" crc="132BA0A8" md5="9D832EF9220997E3075655EF1CF0D914"/>
-	</game>
-	<game name="宝可梦：红（简）Tom_C 20231001 v1.1 接近美版 - 6305FE56">
-		<rom name="宝可梦：红（简）Tom_C 20231001 v1.1 接近美版.gbc" size="2097152" crc="6305FE56" md5="8F68FAD70B50042988398D0AE11A30AE"/>
-	</game>
-	<game name="宝可梦：红（简）Tom_C 20231001 v1.1 接近日版 - 0D5B6FCC">
-		<rom name="宝可梦：红（简）Tom_C 20231001 v1.1 接近日版.gbc" size="2097152" crc="0D5B6FCC" md5="07DD4B811D15D144081D0189A4954754"/>
-	</game>
-	<game name="宝可梦：红（简）SSS888 RickyL1213 fciq 修正LOGO - 5CF426DA">
-		<rom name="宝可梦：红（简）SSS888 RickyL1213 fciq 修正LOGO.gbc" size="1048576" crc="5CF426DA" md5="AD155C6C7F349A60CAE42785DD49CCC8"/>
-	</game>
-	<game name="宝可梦：绿（简）Tom_C 20230813 v1.0 接近日版 - 05858FB2">
-		<rom name="宝可梦：绿（简）Tom_C 20230813 v1.0 接近日版.gbc" size="2097152" crc="05858FB2" md5="76A7252BD6C0BC311C0A5864C7E35170"/>
-	</game>
-	<game name="宝可梦：绿（繁）Unl - F8C2504D">
-		<rom name="宝可梦：绿（繁）Unl.gbc" size="1048576" crc="F8C2504D" md5="F56E67493880BC875492A417C0E785E4"/>
-	</game>
-	<game name="宝可梦：绿（简）Tom_C 20231001 v1.1 接近日版 - 3759FD5F">
-		<rom name="宝可梦：绿（简）Tom_C 20231001 v1.1 接近日版.gbc" size="2097152" crc="3759FD5F" md5="43013A0F8AFC8A113F5F4C3A78B48DF9"/>
-	</game>
-	<game name="宝可梦：蓝（简）Tom_C 20230813 v1.0 接近美版 - 7E857799">
-		<rom name="宝可梦：蓝（简）Tom_C 20230813 v1.0 接近美版.gbc" size="2097152" crc="7E857799" md5="9D8ECF634F1DEE3E788AD1640F99C179"/>
-	</game>
-	<game name="宝可梦：蓝（简）Tom_C 20230813 v1.0 接近日版 - DE680E94">
-		<rom name="宝可梦：蓝（简）Tom_C 20230813 v1.0 接近日版.gbc" size="2097152" crc="DE680E94" md5="5E8DCDA194EFDC5F6689E8A61915666F"/>
-	</game>
-	<game name="宝可梦：蓝（简）Unl - C5571F88">
-		<rom name="宝可梦：蓝（简）Unl.gbc" size="1048576" crc="C5571F88" md5="447B9245E591AA2F17A2A1FE85982BF1"/>
-	</game>
-	<game name="宝可梦：蓝（简）Tom_C 20231001 v1.1 接近美版 - 28474752">
-		<rom name="宝可梦：蓝（简）Tom_C 20231001 v1.1 接近美版.gbc" size="2097152" crc="28474752" md5="E2B5154E87B8FEC8A48ACDA41F435460"/>
-	</game>
-	<game name="宝可梦：蓝（简）Tom_C 20231001 v1.1 接近日版 - FC1E8A1D">
-		<rom name="宝可梦：蓝（简）Tom_C 20231001 v1.1 接近日版.gbc" size="2097152" crc="FC1E8A1D" md5="BFB81D3DDFBA38EDA02D587155BAE9FD"/>
-	</game>
 	<game name="宝可梦：蓝宝石（繁）新特奇 - 3A08C8EB">
 		<rom name="宝可梦：蓝宝石（繁）新特奇.gbc" size="4194304" crc="3A08C8EB" md5="42859279719EAEEF0907CF00254875F0"/>
 	</game>
@@ -502,44 +463,8 @@
 	<game name="宝可梦：银（简）梦吧g 251 文字修正整合金银 - A9625FC7">
 		<rom name="宝可梦：银（简）梦吧g 251 文字修正整合金银.gbc" size="2097152" crc="A9625FC7" md5="BA2BF9ECF042A22C4D8EF9B8A68A90BA"/>
 	</game>
-	<game name="宝可梦：黄（繁）黄口袋精灵 - 08776CB0">
-		<rom name="宝可梦：黄（繁）黄口袋精灵.gbc" size="1048576" crc="08776CB0" md5="44B8CD6367AF33A37E5A5DE4C06065E9"/>
-	</game>
-	<game name="宝可梦：黄（简）CKN 口袋群星SP 20201130 v1.1 - E482DD31">
-		<rom name="宝可梦：黄（简）CKN 口袋群星SP 20201130 v1.1.gbc" size="2097152" crc="E482DD31" md5="0F4AD2000D1D1E32533E6AA05D5D0AD9"/>
-	</game>
-	<game name="宝可梦：黄（简）CKN 口袋群星SP 20170211 V1.0 - 89A2D884">
-		<rom name="宝可梦：黄（简）CKN 口袋群星SP 20170211 V1.0.gbc" size="2097152" crc="89A2D884" md5="DFDCD0DCE24D28902683B64C7A521EF9"/>
-	</game>
-	<game name="宝可梦：黄（简）SSS888 20220617 v1.1 内置金手指 - 056886A4">
-		<rom name="宝可梦：黄（简）SSS888 20220617 v1.1 内置金手指.gbc" size="2097152" crc="056886A4" md5="6D0459D5B8F7402D0D9EFB7662AA08D9"/>
-	</game>
-	<game name="宝可梦：黄（简）Tom_C 20230813 v1.1 接近日文 - 64A2BBCB">
-		<rom name="宝可梦：黄（简）Tom_C 20230813 v1.1 接近日文.gbc" size="2097152" crc="64A2BBCB" md5="2F233CA980C292B29207B65EDF18FAC1"/>
-	</game>
-	<game name="宝可梦：黄（简）Tom_C 20230813 v1.0 接近英文 - 98995F8E">
-		<rom name="宝可梦：黄（简）Tom_C 20230813 v1.0 接近英文.gbc" size="2097152" crc="98995F8E" md5="B5C301A9563EECCEEA4230DB6AF4479C"/>
-	</game>
 	<game name="宝可梦：黄（简）Tom_C 20240117 v1.1 彩色切换 - D22CB7D6">
 		<rom name="宝可梦：黄（简）Tom_C 20240117 v1.1 彩色切换.gbc" size="2097152" crc="D22CB7D6" md5="021B149977732D7B55942B81EA1D751D"/>
-	</game>
-	<game name="宝可梦：黄（简）Unl - D622859A">
-		<rom name="宝可梦：黄（简）Unl.gbc" size="1048576" crc="D622859A" md5="CB708CD2309377ACBC9926C249ECD9E6"/>
-	</game>
-	<game name="宝可梦：黄（简）涉川良 151 免通讯 v1.5 - 173811BB">
-		<rom name="宝可梦：黄（简）涉川良 151 免通讯 v1.5.gbc" size="2097152" crc="173811BB" md5="153C981C36A3366304BB7B11C15A72D9"/>
-	</game>
-	<game name="宝可梦：黄（简）南球 151 免通讯 - E6725BCF">
-		<rom name="宝可梦：黄（简）南球 151 免通讯.gbc" size="2097152" crc="E6725BCF" md5="4A0873FA255DFD81203DEDA832FA3367"/>
-	</game>
-	<game name="宝可梦：黄（简）涉川良 151 免通讯 v1.2 - 1DF61294">
-		<rom name="宝可梦：黄（简）涉川良 151 免通讯 v1.2.gbc" size="2097152" crc="1DF61294" md5="99856ECF6AB390C90117C558823D4E2A"/>
-	</game>
-	<game name="宝可梦：黄（简）Tom_C 20231001 v1.1 接近英文 - BA343514">
-		<rom name="宝可梦：黄（简）Tom_C 20231001 v1.1 接近英文.gbc" size="2097152" crc="BA343514" md5="A74015AEF16B98F8F80A56A8E8AC4EE6"/>
-	</game>
-	<game name="宝可梦：黄（简）Tom_C 20231001 v1.1 接近日文 - 35FB1F60">
-		<rom name="宝可梦：黄（简）Tom_C 20231001 v1.1 接近日文.gbc" size="2097152" crc="35FB1F60" md5="4A43BCAF55B5CB82DB00156458F20868"/>
 	</game>
 	<game name="宠物小精灵 结金塔之王（繁）广誉 - 24EE5C85">
 		<rom name="宠物小精灵 结金塔之王（繁）广誉.gbc" size="1048576" crc="24EE5C85" md5="9536291472DED8E881269E4DDB0243CD"/>
@@ -547,11 +472,8 @@
 	<game name="密特罗德2萨姆斯归来（简）翼势力 GB着色1.3 - B3E9BCFB">
 		<rom name="密特罗德2萨姆斯归来（简）翼势力 GB着色1.3.gbc" size="1048576" crc="B3E9BCFB" md5="A8C657494024BB4F844E4B137FD2287E"/>
 	</game>
-	<game name="密特罗德II萨姆斯归来（简）翼势力 全彩汉化 - 664918F4">
-		<rom name="密特罗德II萨姆斯归来（简）翼势力 全彩汉化.gbc" size="1048576" crc="664918F4" md5="BF49A2A456B8CFA791BEFFC617FEF4F7"/>
-	</game>
-	<game name="密特罗德II萨姆斯归来（英）EJRTQ 20190301 v1.3 全彩 - A2D565B0">
-		<rom name="密特罗德II萨姆斯归来（英）EJRTQ 20190301 v1.3 全彩.gbc" size="1048576" crc="A2D565B0" md5="F005CBCB60F4D9F3E4F6190E809CFF1D"/>
+	<game name="密特罗德II萨姆斯归来（简）翼势力 20211231 v1.3 GB着色汉化 - 664918F4">
+		<rom name="密特罗德II萨姆斯归来（简）翼势力 20211231 v1.3 GB着色汉化.gbc" size="1048576" crc="664918F4" md5="BF49A2A456B8CFA791BEFFC617FEF4F7"/>
 	</game>
 	<game name="小太极：神话历险（繁）新特奇 - FAB140AB">
 		<rom name="小太极：神话历险（繁）新特奇.gbc" size="4194304" crc="FAB140AB" md5="1B8E83A80410861197530AFCDA963F66"/>
@@ -685,9 +607,6 @@
 	<game name="数码暴龙02水晶2（改）YONGYONG - 5666E0F6">
 		<rom name="数码暴龙02水晶2（改）YONGYONG.gbc" size="1048576" crc="5666E0F6" md5="DA767A16D39BB50AAAEA0FD58C5CCBBF"/>
 	</game>
-	<game name="新光明与黑暗（繁）新特奇 - 1066EC96">
-		<rom name="新光明与黑暗（繁）新特奇.gbc" size="2097152" crc="1066EC96" md5="4A58E3E59100C1791ACD3C82F5EBD656"/>
-	</game>
 	<game name="新封神榜（繁） - A8D069D8">
 		<rom name="新封神榜（繁）.gbc" size="1048576" crc="A8D069D8" md5="BF26DEA12BFF3B00C1082F852FD77DA6"/>
 	</game>
@@ -723,6 +642,9 @@
 	</game>
 	<game name="星球大战2克隆人的进攻（简）新特奇 - E8FD000F">
 		<rom name="星球大战2克隆人的进攻（简）新特奇.gbc" size="4194304" crc="E8FD000F" md5="8EDD837A95D8ACE27EAD721E03282C77"/>
+	</game>
+	<game name="最终幻想（简）外星 星夜之幻 20240728 DumpFixed - 0BA8BB72">
+		<rom name="最终幻想（简）外星 星夜之幻 20240728 DumpFixed.gbc" size="1048576" crc="0BA8BB72" md5="FEB2C6A6E7CF76137FF4E32422F18139"/>
 	</game>
 	<game name="最终幻想 无尽沙加（繁）新特奇 - 44484CFC">
 		<rom name="最终幻想 无尽沙加（繁）新特奇.gbc" size="2097152" crc="44484CFC" md5="5AA7189F7B06E9517D3AF6C621CA1088"/>
@@ -760,11 +682,11 @@
 	<game name="水浒传（繁）中华 - 2CCCA6B8">
 		<rom name="水浒传（繁）中华.gbc" size="2097152" crc="2CCCA6B8" md5="125FB55C19BD9F3A4D0FA5AE71498920"/>
 	</game>
-	<game name="水浒传 群魔风云录（繁）HITEK - 33BF192C">
-		<rom name="水浒传 群魔风云录（繁）HITEK.gbc" size="1048576" crc="33BF192C" md5="1612918DE38D822253D1ED42FE505F2A"/>
-	</game>
 	<game name="水浒传：经典版（简）fixHeader - D894DBB3">
 		<rom name="水浒传：经典版（简）fixHeader.gbc" size="1048576" crc="D894DBB3" md5="65649F297662D5444D498A493EA48741"/>
+	</game>
+	<game name="水浒传：群魔风云录（繁）HITEK - 33BF192C">
+		<rom name="水浒传：群魔风云录（繁）HITEK.gbc" size="1048576" crc="33BF192C" md5="1612918DE38D822253D1ED42FE505F2A"/>
 	</game>
 	<game name="水浒神兽（繁） - 60A745B7">
 		<rom name="水浒神兽（繁）.gbc" size="2097152" crc="60A745B7" md5="89349E8E5B67B917F7814C6B3F482359"/>
@@ -856,9 +778,6 @@
 	<game name="火焰之纹章外传（简）外星 - 66887380">
 		<rom name="火焰之纹章外传（简）外星.gbc" size="1048576" crc="66887380" md5="55E5B9B74F30498B372168E2E394C389"/>
 	</game>
-	<game name="火焰纹章外传-光与暗的轮回（繁）SKOB - 808F19D7">
-		<rom name="火焰纹章外传-光与暗的轮回（繁）SKOB.gbc" size="2097152" crc="808F19D7" md5="0348787D4432C969B4AF0129682468BA"/>
-	</game>
 	<game name="炮灰（简）Unl SSS888 原版LOGO - 8062C574">
 		<rom name="炮灰（简）Unl SSS888 原版LOGO.gbc" size="4194304" crc="8062C574" md5="9CB1150398EDE243C9073186D4EEFB5F"/>
 	</game>
@@ -882,9 +801,6 @@
 	</game>
 	<game name="牧场物语2GB（简） - 9FC7A3B5">
 		<rom name="牧场物语2GB（简）.gbc" size="2097152" crc="9FC7A3B5" md5="EAF1968C8BC2FBB2AE63D8C1B52E45EB"/>
-	</game>
-	<game name="牧场物语2GB（简） - D9A7FCD3">
-		<rom name="牧场物语2GB（简）.gbc" size="2097152" crc="D9A7FCD3" md5="8AEEDAAB8A1DF0BC26FAE53B2B606B1F"/>
 	</game>
 	<game name="牧场物语3GB男孩遇见女孩（简） - 6B02C367">
 		<rom name="牧场物语3GB男孩遇见女孩（简）.gbc" size="2097152" crc="6B02C367" md5="280AA9D747010DC41728E85B13E0630F"/>
@@ -927,6 +843,12 @@
 	</game>
 	<game name="生存之子2逃离双子岛（简）79NOS v0.1 - 81415EE0">
 		<rom name="生存之子2逃离双子岛（简）79NOS v0.1.gbc" size="1048576" crc="81415EE0" md5="3B4BD66A0CCAA27D6B1C8FA4F7D7D0C7"/>
+	</game>
+	<game name="生活降魔录外传（繁）新特奇 - 1066EC96">
+		<rom name="生活降魔录外传（繁）新特奇.gbc" size="2097152" crc="1066EC96" md5="4A58E3E59100C1791ACD3C82F5EBD656"/>
+	</game>
+	<game name="生活降魔录外传（繁）SKOB - 808F19D7">
+		<rom name="生活降魔录外传（繁）SKOB.gbc" size="2097152" crc="808F19D7" md5="0348787D4432C969B4AF0129682468BA"/>
 	</game>
 	<game name="电梯大战EX（简）幻想 - 8D13A348">
 		<rom name="电梯大战EX（简）幻想.gbc" size="1048576" crc="8D13A348" md5="EBF694531F89492C0FF6BFA0449FA855"/>
@@ -994,8 +916,8 @@
 	<game name="绝对武力（简）新特奇 - 1CACCC97">
 		<rom name="绝对武力（简）新特奇.gbc" size="2097152" crc="1CACCC97" md5="25633F564C2D2C0528C98F4ADBBE0C09"/>
 	</game>
-	<game name="群侠传2（简）HITEK - C0E501A3">
-		<rom name="群侠传2（简）HITEK.gbc" size="2097152" crc="C0E501A3" md5="CA6B458A21593E9D9A154DBF4E97A906"/>
+	<game name="群侠传2（简） - D9A7FCD3">
+		<rom name="群侠传2（简）.gbc" size="2097152" crc="D9A7FCD3" md5="8AEEDAAB8A1DF0BC26FAE53B2B606B1F"/>
 	</game>
 	<game name="老夫子传奇（繁）新特奇 - 0E732071">
 		<rom name="老夫子传奇（繁）新特奇.gbc" size="4194304" crc="0E732071" md5="507143E4BDEED59D8B909FA98421D024"/>
@@ -1111,6 +1033,9 @@
 	<game name="重装机兵（简）外星 - 8907AD00">
 		<rom name="重装机兵（简）外星.gbc" size="2097152" crc="8907AD00" md5="42AD5389D58DD81F3DCEF955A26E0F41"/>
 	</game>
+	<game name="金庸群侠传（简）HITEK - C0E501A3">
+		<rom name="金庸群侠传（简）HITEK.gbc" size="2097152" crc="C0E501A3" md5="CA6B458A21593E9D9A154DBF4E97A906"/>
+	</game>
 	<game name="金庸群侠传（简）HITEK FLYEYES PRETTIFY 美化 - 8B15C3BC">
 		<rom name="金庸群侠传（简）HITEK FLYEYES PRETTIFY 美化.gbc" size="2097152" crc="8B15C3BC" md5="EA296AB38574168757D9A8732702D958"/>
 	</game>
@@ -1152,6 +1077,9 @@
 	</game>
 	<game name="魔卡少女樱：友枝小学大运动会（简）Unl yy小龙虾 - 2A2FB4AB">
 		<rom name="魔卡少女樱：友枝小学大运动会（简）Unl yy小龙虾.gbc" size="2097152" crc="2A2FB4AB" md5="F0BA546BBD66AAC8A53B63E95A7A9551"/>
+	</game>
+	<game name="魔卡少女樱：永远和樱酱在一起（简）Unl 星夜之幻 20240716 - 11228624">
+		<rom name="魔卡少女樱：永远和樱酱在一起（简）Unl 星夜之幻 20240716.gbc" size="1048576" crc="11228624" md5="30C6F26A49F873C07D160AA91EF863A4"/>
 	</game>
 	<game name="魔戒1（繁）新特奇 - 49E77DD9">
 		<rom name="魔戒1（繁）新特奇.gbc" size="4194304" crc="49E77DD9" md5="7FBD9813341B03F7F625456C2BC3DC43"/>

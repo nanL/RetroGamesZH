@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20240700</version></header>
+	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20241000</version></header>
 	<game name="NHK大河剧 - 太平记（简）cslrxyz - 6E781C6C">
 		<rom name="NHK大河剧 - 太平记（简）cslrxyz.gen" size="1048576" crc="6E781C6C" md5="41D6D2116F52F0988C4023BE81F2D731"/>
 	</game>
@@ -70,8 +70,8 @@
 	<game name="信长之野望 - 霸王传（简）永盛 147201688 - 1BB86A33">
 		<rom name="信长之野望 - 霸王传（简）永盛 147201688.gen" size="2097152" crc="1BB86A33" md5="C94D3DA9F55D0CE2370B35022CE7092A"/>
 	</game>
-	<game name="信长之野望 - 霸王传（繁）永盛 - 0A0993CF">
-		<rom name="信长之野望 - 霸王传（繁）永盛.gen" size="2097152" crc="0A0993CF" md5="4DC51F73838C0BBF2FF0D141D3B35A35"/>
+	<game name="信长野望：霸王传（繁）永盛 - 0A0993CF">
+		<rom name="信长野望：霸王传（繁）永盛.gen" size="2097152" crc="0A0993CF" md5="4DC51F73838C0BBF2FF0D141D3B35A35"/>
 	</game>
 	<game name="光明与黑暗（繁）永盛 小鬼混 修正版 - EA770243">
 		<rom name="光明与黑暗（繁）永盛 小鬼混 修正版.gen" size="2097152" crc="EA770243" md5="05792AF8664D2E65DFE36B9C6235B179"/>
@@ -622,8 +622,8 @@
 	<game name="秘境魔宝 - 皇帝的财宝（简）意志之路 fixCRC - F353E166">
 		<rom name="秘境魔宝 - 皇帝的财宝（简）意志之路 fixCRC.gen" size="2293760" crc="F353E166" md5="70B660B53EFD601BABBF6C377A5082D1"/>
 	</game>
-	<game name="究极麻将2 - 治艳篇（繁）Sun Green - E9829B22">
-		<rom name="究极麻将2 - 治艳篇（繁）Sun Green.gen" size="1048576" crc="E9829B22" md5="964D411B692E0788063EC8B0896F87B9"/>
+	<game name="究极麻将2（繁）Sun Green - E9829B22">
+		<rom name="究极麻将2（繁）Sun Green.gen" size="1048576" crc="E9829B22" md5="964D411B692E0788063EC8B0896F87B9"/>
 	</game>
 	<game name="美少女战士（简）SGGG v0.61 - F8AE9511">
 		<rom name="美少女战士（简）SGGG v0.61.gen" size="4194304" crc="F8AE9511" md5="C38ABC1C7F441E392C9E6B4A57092057"/>

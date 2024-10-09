@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20240700</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20241000</version></header>
 	<game name="GO!GO!恶魔少年（繁）模拟中文网 v1.01 - 8CD0822E">
 		<rom name="GO!GO!恶魔少年（繁）模拟中文网 v1.01.sfc" size="1310720" crc="8CD0822E" md5="99378BB306088C9F228449C57669193F"/>
 	</game>
@@ -87,6 +87,9 @@
 	</game>
 	<game name="十六张麻将-星座女郎篇（繁）不明 - 561BBD96">
 		<rom name="十六张麻将-星座女郎篇（繁）不明.sfc" size="524288" crc="561BBD96" md5="2A5B7B6DDD3B0516CABCC5645F452140"/>
+	</game>
+	<game name="古大陆物语2（简）伟大的病毒 古大陆物语2 - 7C8FF773">
+		<rom name="古大陆物语2（简）伟大的病毒 古大陆物语2.sfc" size="4194304" crc="7C8FF773" md5="1B1111ED2FB974021147CB54CA720066"/>
 	</game>
 	<game name="吞食天地：三国群雄传（繁）CSLRXYZ v1.01 - 83EF72BA">
 		<rom name="吞食天地：三国群雄传（繁）CSLRXYZ v1.01.sfc" size="1572864" crc="83EF72BA" md5="18522F4BE7DBAB1B8D259BE5B0DB0BA3"/>
@@ -181,6 +184,9 @@
 	<game name="巴巴罗萨（简）CSLRXYZ 剧情汉化 - 21CE1EC9">
 		<rom name="巴巴罗萨（简）CSLRXYZ 剧情汉化.sfc" size="1048576" crc="21CE1EC9" md5="B76A586194BA766FE2EF45ABB3A79373"/>
 	</game>
+	<game name="忍者战士归来（简）zjwps 阿刃 20240926 - CE2DF763">
+		<rom name="忍者战士归来（简）zjwps 阿刃 20240926.sfc" size="1589248" crc="CE2DF763" md5="8D557ACEB813DB5E1DF768A09D86EFE2"/>
+	</game>
 	<game name="忍者神龟：时空神龟（简）DMG v1.0 - D7189DEB">
 		<rom name="忍者神龟：时空神龟（简）DMG v1.0.sfc" size="1310720" crc="D7189DEB" md5="66F668472DA177F2A89FB8C3F9E818A5"/>
 	</game>
@@ -256,6 +262,9 @@
 	<game name="最终幻想6（简）勇者 v1.1 日菜单 - 324FE6C5">
 		<rom name="最终幻想6（简）勇者 v1.1 日菜单.sfc" size="3670016" crc="324FE6C5" md5="B26CCEE340A5A36B49AF70BB63309579"/>
 	</game>
+	<game name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20240724 致赴死者的祈祷 - 4352937E">
+		<rom name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20240724 致赴死者的祈祷.smc" size="2097152" crc="4352937E" md5="3385A1219FEFA2A8420C0CEB973845E5"/>
+	</game>
 	<game name="松村邦洋传（简）1d4444 20240416 v0.8 - 95B5E7FD">
 		<rom name="松村邦洋传（简）1d4444 20240416 v0.8.sfc" size="3145728" crc="95B5E7FD" md5="2A0DA34B412F2CCAC76A289A897A7319"/>
 	</game>
@@ -273,6 +282,9 @@
 	</game>
 	<game name="横山光辉三国志（简）混沌星辰 v1.2 - F73F7DB6">
 		<rom name="横山光辉三国志（简）混沌星辰 v1.2.sfc" size="1048576" crc="F73F7DB6" md5="6D6D106E16C0E297BE9EC225447971C7"/>
+	</game>
+	<game name="消防员的故事（简）阿刃 20240826 - 2619986C">
+		<rom name="消防员的故事（简）阿刃 20240826.sfc" size="1572864" crc="2619986C" md5="876F829C8D2AC7A317E3DEE47E619569"/>
 	</game>
 	<game name="灌篮高手SD激斗升级（简）风干的包子 fixCRC - 3497AC77">
 		<rom name="灌篮高手SD激斗升级（简）风干的包子 fixCRC.sfc" size="4194304" crc="3497AC77" md5="C8BD327689723177C4B6866CB9476682"/>
@@ -511,6 +523,9 @@
 	<game name="重装机兵瓦尔肯（简）SchreckgSoldat 20220116 - CA350A9E">
 		<rom name="重装机兵瓦尔肯（简）SchreckgSoldat 20220116.sfc" size="1048576" crc="CA350A9E" md5="030612F9EAF8D181A48ECA0AAD2A27D3"/>
 	</game>
+	<game name="重装机兵瓦尔肯（简）小鬼混 阿刃 20240930 - 47DDA31E">
+		<rom name="重装机兵瓦尔肯（简）小鬼混 阿刃 20240930.smc" size="1572864" crc="47DDA31E" md5="9A6BB0638D775C342F04BE0A51C71B9F"/>
+	</game>
 	<game name="钓鱼太郎（繁）ANGEL_POON 完全汉化 - 966573A8">
 		<rom name="钓鱼太郎（繁）ANGEL_POON 完全汉化.sfc" size="2097152" crc="966573A8" md5="A56484061DC8FAA7E33DCAFC194355E8"/>
 	</game>
@@ -567,5 +582,8 @@
 	</game>
 	<game name="龙珠Z超悟空传：觉醒（简）天空 少量汉化 - 4E204DE5">
 		<rom name="龙珠Z超悟空传：觉醒（简）天空 少量汉化.sfc" size="2097152" crc="4E204DE5" md5="0ACFD5BBCAD1D38B8F4AE145B409B4B9"/>
+	</game>
+	<game name="龙虎之拳（简）1d4444 20241001 v1.0 - E7D6B9FB">
+		<rom name="龙虎之拳（简）1d4444 20241001 v1.0.smc" size="2097152" crc="E7D6B9FB" md5="A94E8B12B2B683032514662ADD38AA74"/>
 	</game>
 </datafile>
