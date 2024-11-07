@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20241000</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20241100</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -778,6 +778,12 @@
 	<game name="恶魔城：月之轮回（简）施珂昱 - 5925D9C9">
 		<rom name="恶魔城：月之轮回（简）施珂昱.gba" size="8388608" crc="5925D9C9" md5="CF8411A62DC864F79CF39467080A81CE"/>
 	</game>
+	<game name="恶魔城：月之轮回（简）Advance 20241101 - 76F55B89">
+		<rom name="恶魔城：月之轮回（简）Advance 20241101.gba" size="8388608" crc="76F55B89" md5="FD0E8B7C21A4E697D08CD027174E3173"/>
+	</game>
+	<game name="恶魔城：月之轮回（简）Advance 20241101 去片头 - 09EE7E9F">
+		<rom name="恶魔城：月之轮回（简）Advance 20241101 去片头.gba" size="8388608" crc="09EE7E9F" md5="9EB615F203A860FAF881586239BF0775"/>
+	</game>
 	<game name="恶魔城：白夜协奏曲（简）施珂昱 - D280479F">
 		<rom name="恶魔城：白夜协奏曲（简）施珂昱.gba" size="8388608" crc="D280479F" md5="DE97325F06958488FB77BC9B06E9F776"/>
 	</game>
@@ -954,6 +960,9 @@
 	</game>
 	<game name="最终幻想战略版 Advance（简）熊组 yggdra Tring v0.2.5 Demo - 8FC9A974">
 		<rom name="最终幻想战略版 Advance（简）熊组 yggdra Tring v0.2.5 Demo.gba" size="11604020" crc="8FC9A974" md5="94ADF8B5A385DBB9324071F92B08DAA7"/>
+	</game>
+	<game name="机兽新世纪（简）流星落月 20241019 v1.0 - 2337CDCB">
+		<rom name="机兽新世纪（简）流星落月 20241019 v1.0.gba" size="11611424" crc="2337CDCB" md5="992E8B6D59EB058920C14ED69C5194BE"/>
 	</game>
 	<game name="机兽新世纪2（简）菜单少量汉化 - 6B001E50">
 		<rom name="机兽新世纪2（简）菜单少量汉化.gba" size="8388608" crc="6B001E50" md5="425938D45122FEA6EA741A43E73CDFD5"/>
@@ -1255,8 +1264,8 @@
 	<game name="牧场物语：矿石镇的伙伴们（繁）CGP 模拟天下 - E69CC50E">
 		<rom name="牧场物语：矿石镇的伙伴们（繁）CGP 模拟天下.gba" size="8388608" crc="E69CC50E" md5="9D71E467EC9F74E18BF677D646295D16"/>
 	</game>
-	<game name="牧场物语：矿石镇的伙伴们（简）矿石镇有爱小组 2013 v1.7 完美汉化 - 22D27456">
-		<rom name="牧场物语：矿石镇的伙伴们（简）矿石镇有爱小组 2013 v1.7 完美汉化.gba" size="8388608" crc="22D27456" md5="8BFB3641AD17B55822E1A10BDE005F93"/>
+	<game name="牧场物语：矿石镇的伙伴们（简）矿石镇有爱小组 2013 v1.7 - 22D27456">
+		<rom name="牧场物语：矿石镇的伙伴们（简）矿石镇有爱小组 2013 v1.7.gba" size="8388608" crc="22D27456" md5="8BFB3641AD17B55822E1A10BDE005F93"/>
 	</game>
 	<game name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20211125 - 363A135F">
 		<rom name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20211125.gba" size="8388608" crc="363A135F" md5="C3C6613BAEA81E2EBC94768B64B54E0A"/>
@@ -1282,8 +1291,11 @@
 	<game name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240505 - B7B6D549">
 		<rom name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240505.gba" size="8388608" crc="B7B6D549" md5="87C9F90913A7FE6CD80D34E57743D48A"/>
 	</game>
-	<game name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240814 废矿3万 - 320BB434">
-		<rom name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240814 废矿3万.gba" size="8388608" crc="320BB434" md5="237777037E175E74A1EAC70EB21DDCB3"/>
+	<game name="牧场物语：矿石镇的伙伴们（改）熊2猫3 20240814 废矿3万 - 320BB434">
+		<rom name="牧场物语：矿石镇的伙伴们（改）熊2猫3 20240814 废矿3万.gba" size="8388608" crc="320BB434" md5="237777037E175E74A1EAC70EB21DDCB3"/>
+	</game>
+	<game name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240814 - 0B26C8BD">
+		<rom name="牧场物语：矿石镇的伙伴们（简）熊2猫3 20240814.gba" size="8388608" crc="0B26C8BD" md5="2ED5645E756E72AD81DEFEC843170C94"/>
 	</game>
 	<game name="牧场物语：矿石镇的伙伴们女孩版（简）Middle333 2004 v0.6 - 96900F94">
 		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）Middle333 2004 v0.6.gba" size="16777216" crc="96900F94" md5="B09D50D45EC9975D0A860FB0B22633DD"/>
@@ -1294,8 +1306,8 @@
 	<game name="牧场物语：矿石镇的伙伴们女孩版（简）K - 18D56348">
 		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）K.gba" size="16777216" crc="18D56348" md5="5A0831D052B6DAB2AD9EC65F2B3A4E22"/>
 	</game>
-	<game name="牧场物语：矿石镇的伙伴们女孩版（简）矿石镇有爱小组 2014 v1.3 完美汉化 - 4676E33B">
-		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）矿石镇有爱小组 2014 v1.3 完美汉化.gba" size="16777216" crc="4676E33B" md5="1E7B804111F4C0EC5B46123765ACCDB1"/>
+	<game name="牧场物语：矿石镇的伙伴们女孩版（简）矿石镇有爱小组 2014 v1.3 - 4676E33B">
+		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）矿石镇有爱小组 2014 v1.3.gba" size="16777216" crc="4676E33B" md5="1E7B804111F4C0EC5B46123765ACCDB1"/>
 	</game>
 	<game name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20211204 - B7B34BEC">
 		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20211204.gba" size="16777216" crc="B7B34BEC" md5="0B73F7718B371C15175E1E15FAA6E188"/>

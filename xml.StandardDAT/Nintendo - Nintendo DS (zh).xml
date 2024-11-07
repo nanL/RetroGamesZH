@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20241000</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20241100</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -904,6 +904,9 @@
 	<game name="宝可梦：心金（简）Xzonn 20240204 v2 - C898AB5A">
 		<rom name="宝可梦：心金（简）Xzonn 20240204 v2.nds" size="134217728" crc="C898AB5A" md5="07FC5DE0DD108469CA47734C004F3059"/>
 	</game>
+	<game name="宝可梦：心金（简）Xzonn 20251027 v2.1.0 - 9F53CA47">
+		<rom name="宝可梦：心金（简）Xzonn 20251027 v2.1.0.nds" size="134217728" crc="9F53CA47" md5="E05AE6D7BE450DF85D6C992B367C5161"/>
+	</game>
 	<game name="宝可梦：珍珠（简）YYJOY v1.1.0 - 7AA0B0D1">
 		<rom name="宝可梦：珍珠（简）YYJOY v1.1.0.nds" size="134217728" crc="7AA0B0D1" md5="FF1DAD10D940FC1CC3995824717BADB9"/>
 	</game>
@@ -919,14 +922,17 @@
 	<game name="宝可梦：珍珠（简）Xzonn 20240204 v2a - ECCDFE2E">
 		<rom name="宝可梦：珍珠（简）Xzonn 20240204 v2a.nds" size="67108864" crc="ECCDFE2E" md5="AF267E681450DA50211E9A248880FB5D"/>
 	</game>
+	<game name="宝可梦：珍珠（简）Xzonn 20251027 v2.1.0 - C64EC8F4">
+		<rom name="宝可梦：珍珠（简）Xzonn 20251027 v2.1.0.nds" size="67108864" crc="C64EC8F4" md5="0123272633759ABAD2150EA614FC9DDF"/>
+	</game>
 	<game name="宝可梦：白（简繁）ACG 简繁 v2 - 40F08826">
 		<rom name="宝可梦：白（简繁）ACG 简繁 v2.nds" size="268435456" crc="40F08826" md5="B74B6B07D2AB1BCB02B57046CE043966"/>
 	</game>
 	<game name="宝可梦：白（简繁）ACG YKALJSHSH v3 修正 - 3EAC5CC0">
 		<rom name="宝可梦：白（简繁）ACG YKALJSHSH v3 修正.nds" size="268435456" crc="3EAC5CC0" md5="5C0D4F5848E1CAB7EA49B32EDDF97E6C"/>
 	</game>
-	<game name="宝可梦：白（简）BW 20210214A - 9EAFC47B">
-		<rom name="宝可梦：白（简）BW 20210214A.nds" size="268435456" crc="9EAFC47B" md5="495463101189B7015B4ABD379645E18E"/>
+	<game name="宝可梦：白（简）BW 20210214 v1 - 9EAFC47B">
+		<rom name="宝可梦：白（简）BW 20210214 v1.nds" size="268435456" crc="9EAFC47B" md5="495463101189B7015B4ABD379645E18E"/>
 	</game>
 	<game name="宝可梦：白（简）ACG - B2521F2A">
 		<rom name="宝可梦：白（简）ACG.nds" size="207736892" crc="B2521F2A" md5="1E1EF14FEDEB7DF4C72028C55579C063"/>
@@ -936,6 +942,9 @@
 	</game>
 	<game name="宝可梦：白（简）BW 20240718 v2 - 592483DB">
 		<rom name="宝可梦：白（简）BW 20240718 v2.nds" size="268435456" crc="592483DB" md5="17B06E2CDB90FD4D0C3169DCA782B168"/>
+	</game>
+	<game name="宝可梦：白（简）BW 20241016 v2.1 - 85FA1AA5">
+		<rom name="宝可梦：白（简）BW 20241016 v2.1.nds" size="268435456" crc="85FA1AA5" md5="EE1AE28B38B5A899CB8AAF5A339DA1B9"/>
 	</game>
 	<game name="宝可梦：白2（简繁）ACG 口袋群星SP v2 - 40D51B68">
 		<rom name="宝可梦：白2（简繁）ACG 口袋群星SP v2.nds" size="319947776" crc="40D51B68" md5="47355E6481E533C591458640811BFA33"/>
@@ -979,6 +988,9 @@
 	<game name="宝可梦：白金（简）Xzonn 20240204 v2 - D50B0804">
 		<rom name="宝可梦：白金（简）Xzonn 20240204 v2.nds" size="134217728" crc="D50B0804" md5="4133C9053A5FE47B815184E0E725671E"/>
 	</game>
+	<game name="宝可梦：白金（简）Xzonn 20251027 v2.1.0 - 797464B9">
+		<rom name="宝可梦：白金（简）Xzonn 20251027 v2.1.0.nds" size="134217728" crc="797464B9" md5="38B985D314DB90EFC9A174A63E7D6D5C"/>
+	</game>
 	<game name="宝可梦：钻石（简）YYJOY v1.1.0 - D9E0D10E">
 		<rom name="宝可梦：钻石（简）YYJOY v1.1.0.nds" size="134217728" crc="D9E0D10E" md5="27BDC4A6826871D5398DB3EDFD86FC3D"/>
 	</game>
@@ -993,6 +1005,9 @@
 	</game>
 	<game name="宝可梦：钻石（简）Xzonn 20240204 v2a - E6B03269">
 		<rom name="宝可梦：钻石（简）Xzonn 20240204 v2a.nds" size="67108864" crc="E6B03269" md5="F37CD0F5272BFA69EB2FF58E45DFAF12"/>
+	</game>
+	<game name="宝可梦：钻石（简）Xzonn 20251027 v2.1.0 - 1C21946A">
+		<rom name="宝可梦：钻石（简）Xzonn 20251027 v2.1.0.nds" size="67108864" crc="1C21946A" md5="4C7E59AE195B2CC6BC8C775494D0A368"/>
 	</game>
 	<game name="宝可梦：魂银（简）ACG - CA3569E1">
 		<rom name="宝可梦：魂银（简）ACG.nds" size="134217728" crc="CA3569E1" md5="27FAAF718C7A475C02A69604C5423703"/>
@@ -1012,14 +1027,17 @@
 	<game name="宝可梦：魂银（简）Xzonn 20240204 v2 - B07A4DE4">
 		<rom name="宝可梦：魂银（简）Xzonn 20240204 v2.nds" size="134217728" crc="B07A4DE4" md5="82C48BCB3BC987B577F341E60511B93B"/>
 	</game>
+	<game name="宝可梦：魂银（简）Xzonn 20251027 v2.1.0 - 488DA0AD">
+		<rom name="宝可梦：魂银（简）Xzonn 20251027 v2.1.0.nds" size="134217728" crc="488DA0AD" md5="7062238E8D866BD439DD42DFDADA9F41"/>
+	</game>
 	<game name="宝可梦：黑（简繁）ACG 简繁 v2 - 9F751F56">
 		<rom name="宝可梦：黑（简繁）ACG 简繁 v2.nds" size="268435456" crc="9F751F56" md5="A4AC2E2A72A8536B3242E2958575E734"/>
 	</game>
 	<game name="宝可梦：黑（简繁）ACG YKALJSHSH v3 修正 - A5BEB57C">
 		<rom name="宝可梦：黑（简繁）ACG YKALJSHSH v3 修正.nds" size="268435456" crc="A5BEB57C" md5="FC19AA04A1F632F71CC4DD2FB4982208"/>
 	</game>
-	<game name="宝可梦：黑（简）BW 20210214 - 0BEC573D">
-		<rom name="宝可梦：黑（简）BW 20210214.nds" size="268435456" crc="0BEC573D" md5="E55E7F840EA4C520E8CCFEF75C77F04A"/>
+	<game name="宝可梦：黑（简）BW 20210214 v1 - 0BEC573D">
+		<rom name="宝可梦：黑（简）BW 20210214 v1.nds" size="268435456" crc="0BEC573D" md5="E55E7F840EA4C520E8CCFEF75C77F04A"/>
 	</game>
 	<game name="宝可梦：黑（简）ACG - 3DA45EC1">
 		<rom name="宝可梦：黑（简）ACG.nds" size="207732284" crc="3DA45EC1" md5="5B55EFA4F04A9883EFA4E6C47D6EF293"/>
@@ -1029,6 +1047,9 @@
 	</game>
 	<game name="宝可梦：黑（简）BW 20240718 v2 - 02B89F65">
 		<rom name="宝可梦：黑（简）BW 20240718 v2.nds" size="268435456" crc="02B89F65" md5="12FEBB82F34FC1513F5B53FC3C91E1B6"/>
+	</game>
+	<game name="宝可梦：黑（简）BW 20241016 v2.1 - 477E5F84">
+		<rom name="宝可梦：黑（简）BW 20241016 v2.1.nds" size="268435456" crc="477E5F84" md5="7FDADDE1DFA62FA9925122A3D1D3F308"/>
 	</game>
 	<game name="宝可梦：黑2（简繁）ACG 口袋群星SP v2 - 3F5198CF">
 		<rom name="宝可梦：黑2（简繁）ACG 口袋群星SP v2.nds" size="320468992" crc="3F5198CF" md5="02DF4A834C3341F3DF14C628585E1940"/>

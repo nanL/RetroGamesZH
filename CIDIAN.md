@@ -15477,7 +15477,7 @@ Shion no Ou - The Flowers of Hard Blood|紫音之王
 Ship|
 Shippuu no Usagimaru - Megumi no Tama to Fuuma no Shirushi|
 Shippuu no Usagimaru - Nazo no Karakuri-jou|
-Shiren Monsters - Netsal|风来西林怪兽足球
+Shiren Monsters - Netsal|风来的西林怪兽足球
 Shiro to Kuro no Meikyuu|
 Shiroi Ring e - Twinkle Little Star|女子摔角-闪耀之星传说
 Shiruike II - Yu Meiren|

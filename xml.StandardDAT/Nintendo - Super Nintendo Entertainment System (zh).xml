@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20241000</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20241100</version></header>
 	<game name="GO!GO!恶魔少年（繁）模拟中文网 v1.01 - 8CD0822E">
 		<rom name="GO!GO!恶魔少年（繁）模拟中文网 v1.01.sfc" size="1310720" crc="8CD0822E" md5="99378BB306088C9F228449C57669193F"/>
 	</game>
@@ -199,6 +199,9 @@
 	<game name="战斗潜水艇（简）CSLRXYZ 完全汉化 - 86923FC8">
 		<rom name="战斗潜水艇（简）CSLRXYZ 完全汉化.sfc" size="1048576" crc="86923FC8" md5="2886B9BB082D9691986F2BB4A5A61208"/>
 	</game>
+	<game name="斗姬传（简）小鬼混 20241011 - 2F2E5FF4">
+		<rom name="斗姬传（简）小鬼混 20241011.smc" size="1572864" crc="2F2E5FF4" md5="F5DD35CF99BF2BBE1A528D7C0174F400"/>
+	</game>
 	<game name="斩3（繁）天空 v1.0 - 7C2FCBB6">
 		<rom name="斩3（繁）天空 v1.0.sfc" size="1572864" crc="7C2FCBB6" md5="71E59B1DA7327A8EE7402DD4BC87972A"/>
 	</game>
@@ -262,8 +265,11 @@
 	<game name="最终幻想6（简）勇者 v1.1 日菜单 - 324FE6C5">
 		<rom name="最终幻想6（简）勇者 v1.1 日菜单.sfc" size="3670016" crc="324FE6C5" md5="B26CCEE340A5A36B49AF70BB63309579"/>
 	</game>
-	<game name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20240724 致赴死者的祈祷 - 4352937E">
-		<rom name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20240724 致赴死者的祈祷.smc" size="2097152" crc="4352937E" md5="3385A1219FEFA2A8420C0CEB973845E5"/>
+	<game name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20240724 - 4352937E">
+		<rom name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20240724.smc" size="2097152" crc="4352937E" md5="3385A1219FEFA2A8420C0CEB973845E5"/>
+	</game>
+	<game name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20241010 汉化TV14动画 - F5A42FDE">
+		<rom name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20241010 汉化TV14动画.smc" size="2097152" crc="F5A42FDE" md5="DE311CA2ACECE9D598F9943A3F9E3455"/>
 	</game>
 	<game name="松村邦洋传（简）1d4444 20240416 v0.8 - 95B5E7FD">
 		<rom name="松村邦洋传（简）1d4444 20240416 v0.8.sfc" size="3145728" crc="95B5E7FD" md5="2A0DA34B412F2CCAC76A289A897A7319"/>
@@ -328,6 +334,9 @@
 	<game name="火焰之纹章：多拉基亚776（简）火花 狼组 - 58A7A281">
 		<rom name="火焰之纹章：多拉基亚776（简）火花 狼组.smc" size="4194816" crc="58A7A281" md5="7AC802B1E5A11F31D734786F8C45E960"/>
 	</game>
+	<game name="火焰之纹章：多拉基亚776（简）hiken 20241022 菜单修复 - 615C6FDC">
+		<rom name="火焰之纹章：多拉基亚776（简）hiken 20241022 菜单修复.sfc" size="4194304" crc="615C6FDC" md5="67385FA68AF9D232F6F499344C4252D1"/>
+	</game>
 	<game name="火焰之纹章：纹章之谜（简）狼组 v1.03 - D782F6B9">
 		<rom name="火焰之纹章：纹章之谜（简）狼组 v1.03.smc" size="3146240" crc="D782F6B9" md5="476CB026AA99DE40A41D08B874890C59"/>
 	</game>
@@ -366,6 +375,9 @@
 	</game>
 	<game name="盖亚幻想纪（简）MAGICMIRROR v1.0 - 29CFFB56">
 		<rom name="盖亚幻想纪（简）MAGICMIRROR v1.0.sfc" size="4194304" crc="29CFFB56" md5="FA2B9FDE879B0432EE3ABBAF03F84B85"/>
+	</game>
+	<game name="石榴之味（简）1d4444 20241101 v0.9 - 69D7C388">
+		<rom name="石榴之味（简）1d4444 20241101 v0.9.smc" size="2097152" crc="69D7C388" md5="38D7221E743A684590CE5F1E207C2EF6"/>
 	</game>
 	<game name="神奇计划J机械少年匹诺（简）hlken 20180520 - 9CA85AE4">
 		<rom name="神奇计划J机械少年匹诺（简）hlken 20180520.sfc" size="4194304" crc="9CA85AE4" md5="9543CA9434D806CB01A0C9D87BBBB429"/>
@@ -585,5 +597,8 @@
 	</game>
 	<game name="龙虎之拳（简）1d4444 20241001 v1.0 - E7D6B9FB">
 		<rom name="龙虎之拳（简）1d4444 20241001 v1.0.smc" size="2097152" crc="E7D6B9FB" md5="A94E8B12B2B683032514662ADD38AA74"/>
+	</game>
+	<game name="龙虎之拳（简）1d4444 20241013 v1.01 - 788D13A4">
+		<rom name="龙虎之拳（简）1d4444 20241013 v1.01.smc" size="2097152" crc="788D13A4" md5="81C8CD090E2EEF26024BF4F303FA74BA"/>
 	</game>
 </datafile>
