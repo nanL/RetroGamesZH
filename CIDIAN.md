@@ -304,7 +304,7 @@
 3D Classics - Excitebike|
 3D Classics - Hikari Shinwa - Palutena no Kagami|
 3D Classics - Hoshi no Kirby - Yume no Izumi no Monogatari|
-3D Classics - Kid Icarus|
+3D Classics - Kid Icarus|光之神话
 3D Classics - Kirby's Adventure|
 3D Classics - Twinbee|
 3D Classics - Urban Champion|
@@ -2590,7 +2590,7 @@ Castle Master|
 Castle Of Magic|
 Castle Quest|奇幻大冒险
 Castle of Deceit|谎言之城
-Castle of Dragon|龙之军团
+Castle of Dragon|龙之城堡
 Castle of Illusion Starring Mickey Mouse|米老鼠奇幻城堡
 Castlequest|精致之城
 Castlevania|恶魔城
@@ -3034,7 +3034,7 @@ Clever! - Das Spiel, das Wissen Schafft|聪明!戏剧,创造知识
 Cliffhanger|颠峰战士
 Clique, The - Diss and Make Up|女校风波
 Clique, The - Queen Teen|女校风波
-Clock Tower|钟楼
+Clock Tower|钟楼惊魂
 Clockwerx|时钟职人
 Cloud Master|中华大仙
 Cloudy with a Chance of Meatballs|美食从天而降
@@ -4809,9 +4809,9 @@ Dune - The Battle for Arrakis|沙丘魔堡-王朝的复兴
 Dune II - Kampf um den Wuestenplaneten|
 Dune II - The Battle for Arrakis|
 Dungeon & Magic - Swords of Element|地下城与魔法 元素之剑
-Dungeon Explorer|迷宫探险家-邪神的领域
-Dungeon Explorer - Jashin no Ryouiki|迷宫探险家-邪神的领域
-Dungeon Explorer - Warriors of Ancient Arts|迷宫探险家-邪神的领域
+Dungeon Explorer|迷宫探险家
+Dungeon Explorer - Jashin no Ryouiki|迷宫探险家：邪神领域
+Dungeon Explorer - Warriors of Ancient Arts|迷宫探险家：盟约之门
 Dungeon Kid|地城小子
 Dungeon Magic - Sword of the Elements|地城魔法 - 元素之剑
 Dungeon Maker|迷宫制造者-魔法铲和小勇者
@@ -5511,7 +5511,7 @@ Feng Shen Ying Jie Chuan|封神英杰传
 Feng Shen Yingjie Chuan|
 Feng Zhi Gou II|风之谷2
 Fengchen Yixialu|
-Fengkuang Dafuweng|
+Fengkuang Dafuweng|疯狂大富翁
 Fengkuang Jidan Zi - Flighty Chicken|
 Fengkuang Taohuayuan|
 Fengshenbang|
@@ -8657,13 +8657,13 @@ KickMaster|踢王
 Kickle Cubicle|迷宫岛
 Kid Chameleon|变色龙
 Kid Dracula|恶魔城外传 德拉古拉君
-Kid Icarus|光之神话 天使岛传说
+Kid Icarus|光之神话
 Kid Icarus - Of Myths and Monsters|光之神话
-Kid Icarus - Uprising|
-Kid Icarus - Uprising Preview|
-Kid Icarus 3D Anime - Medusa's Revenge|
-Kid Icarus 3D Anime - Palutena's Revolting Dinner|
-Kid Icarus 3D Anime - Thanatos Rising|
+Kid Icarus - Uprising|光之神话
+Kid Icarus - Uprising Preview|光之神话
+Kid Icarus 3D Anime - Medusa's Revenge|光之神话
+Kid Icarus 3D Anime - Palutena's Revolting Dinner|光之神话
+Kid Icarus 3D Anime - Thanatos Rising|光之神话
 Kid Klown in Crazy Chase|凯伦的疯狂追逐
 Kid Klown in Night Mayor World|小丑王子大冒险
 Kid Klown no Crazy Chase|凯伦的疯狂追逐
@@ -8882,7 +8882,7 @@ KlashBall|机器人足球
 Klax|翻转方块
 Klonoa - Empire of Dreams|风之少年 梦之帝国
 Klonoa 2 - Dream Champ Tournament|风之少年2梦之选手巡回赛
-Klonoa Heroes - Densetsu no Star Medal|克罗帝亚英雄们-传说的星之徽章
+Klonoa Heroes - Densetsu no Star Medal|克罗帝亚英雄：传说的星之徽章
 Klustar|旋转方块
 Knerten Gets Married|
 Knigge - Spielend zum Guten Benehmen|学习礼节与好习惯
@@ -10606,7 +10606,7 @@ Meiguo Fuhao|
 Meiji Ishin|明治维新
 Meikyou Kokugo - Rakubiki Jite|
 Meikyuu Jiin Dababa|
-Meikyuu Kumikyoku - Milon no Daibouken|迷宫组曲 米隆的城堡冒险
+Meikyuu Kumikyoku - Milon no Daibouken|迷宫组曲
 Meikyuu no Tatsujin - Daimeiro|迷宫达人
 Meikyuu-jima|迷宫岛
 Meimon! Daisan Yakyuubu|第三野球部
@@ -11022,7 +11022,7 @@ Moe Pro! '90 - Kandou Hen|燃烧职业棒球 '90 - 感动篇
 Moe Pro! - Saikyou Hen|燃烧职业棒球 - 最强篇
 Moe Sta - Moeru Toudai Eigojuku|萌星-最萌东大英语课堂
 Moero TwinBee - Cinnamon Hakase o Sukue!|兵蜂2 - 拯救西那蒙博士
-Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2|燃烧吧!热血旋律魂-押忍!战斗!应援团2
+Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2|押忍!战斗!应援团2
 Moero!! Jaleco Collection|燃烧系列合集
 Moero!! Junior Basket - Two on Two|燃烧篮球
 Moero!! Juudou Warriors|燃烧柔道战士
@@ -17390,7 +17390,7 @@ Takahashi Meijin no Bouken-jima|冒险岛
 Takahashi Meijin no Bouken-jima II|冒险岛2
 Takahashi Meijin no Bouken-jima III|冒险岛3
 Takahashi Meijin no Bouken-jima IV|冒险岛4
-Takahashi Meijin no Bugutte Honey|高桥名人之蜜蜂女
+Takahashi Meijin no Bugutte Honey|高桥名人：妖精哈尼
 Takahashi Meijin no Daibouken-jima|高桥名人之大冒险岛
 Takahashi Meijin no Daibouken-jima II|高桥名人之大冒险岛2
 Takahashi Meijin no Shin Bouken-jima|
@@ -18510,7 +18510,7 @@ Ultimate Winter Games|终极冬季运动会
 Ultra Baseball Jitsumei Ban|极端棒球实名版
 Ultra Baseball Jitsumei Ban 2|极端棒球实名版2
 Ultra Baseball Jitsumei Ban 3|极端棒球实名版3
-Ultra Keibitai - Monster Attack|奥特曼警备队 怪兽突击
+Ultra Keibitai - Monster Attack|奥特曼警备队：怪兽袭击
 Ultra League - Moero! Soccer Daikessen!!|咸蛋超人联盟足球大战
 Ultra Seven|咸蛋超人7号
 Ultraman|奥特曼-空想特撮系列
@@ -18582,7 +18582,7 @@ Urban Strike|都市攻击
 Urban Trial Freestyle|城市自由狂飙
 Urban Trial Freestyle 2|
 Urban Yeti!|都市的雪人!
-Urbz, The - Sims in the City|模拟市民 上流社会
+Urbz, The - Sims in the City|模拟人生：上流社会
 Urusei Yatsura - Endless Summer|福星小子:无尽之夏
 Urusei Yatsura - Lum no Wedding Bell|福星小子 - 拉姆的结婚铃
 Usavich - Game no Jikan|
