@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20241100</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20241200</version></header>
 	<game name="GO!GO!恶魔少年（繁）模拟中文网 v1.01 - 8CD0822E">
 		<rom name="GO!GO!恶魔少年（繁）模拟中文网 v1.01.sfc" size="1310720" crc="8CD0822E" md5="99378BB306088C9F228449C57669193F"/>
 	</game>
@@ -250,6 +250,9 @@
 	<game name="时空勇士（简）WERTHER等 天幻 v1.0 - EFFB8E63">
 		<rom name="时空勇士（简）WERTHER等 天幻 v1.0.sfc" size="2621440" crc="EFFB8E63" md5="2F963615EF64E5B6D7E5A6515BEC55DD"/>
 	</game>
+	<game name="晶沙之城堡探险（简）伟大的病毒 20241028 - 86767794">
+		<rom name="晶沙之城堡探险（简）伟大的病毒 20241028.smc" size="2097152" crc="86767794" md5="A7DA7A301BA07BA376C02F6F41E6C884"/>
+	</game>
 	<game name="最终幻想5（繁）BOCO v2.0 - E8575A00">
 		<rom name="最终幻想5（繁）BOCO v2.0.sfc" size="2621440" crc="E8575A00" md5="A2E7A40DACDCF28036B60AADFDF893F7"/>
 	</game>
@@ -345,6 +348,9 @@
 	</game>
 	<game name="火焰之纹章：纹章之谜（简）火花 狼组 v1.03 - 5962B217">
 		<rom name="火焰之纹章：纹章之谜（简）火花 狼组 v1.03.sfc" size="3145728" crc="5962B217" md5="9C9DD3352AF528CF0EE0916226FAAC9A"/>
+	</game>
+	<game name="热血食物方块（简）风干的包子 20241119 - B025121F">
+		<rom name="热血食物方块（简）风干的包子 20241119.smc" size="720896" crc="B025121F" md5="E68B8B94534E9C81989ACABC7B6D7568"/>
 	</game>
 	<game name="热血高校躲避球全员集合（简）AXI AHE 热血的鱼缸 v1.0 - 8990767E">
 		<rom name="热血高校躲避球全员集合（简）AXI AHE 热血的鱼缸 v1.0.sfc" size="2097152" crc="8990767E" md5="9436DABC41D676EA77CCC4016DF350AA"/>
@@ -556,11 +562,17 @@
 	<game name="钓鱼太郎2（简）MXJ7546 - D2DC0695">
 		<rom name="钓鱼太郎2（简）MXJ7546.smc" size="1573376" crc="D2DC0695" md5="B5E42D321B438A67F19F27BD8AFD06C9"/>
 	</game>
-	<game name="钟楼（简）Я929 fixCRC - CF1D7F9B">
-		<rom name="钟楼（简）Я929 fixCRC.sfc" size="4194304" crc="CF1D7F9B" md5="BBCA2FFB3B8C755A1CC3B3545239D82C"/>
+	<game name="钟楼惊魂（简）Я929 fixCRC - CF1D7F9B">
+		<rom name="钟楼惊魂（简）Я929 fixCRC.sfc" size="4194304" crc="CF1D7F9B" md5="BBCA2FFB3B8C755A1CC3B3545239D82C"/>
 	</game>
-	<game name="钟楼（简）Я929 - B6BE1802">
-		<rom name="钟楼（简）Я929.sfc" size="3276800" crc="B6BE1802" md5="1747FB2D398EA31AB236BA786EB659DC"/>
+	<game name="钟楼惊魂（简）Я929 - B6BE1802">
+		<rom name="钟楼惊魂（简）Я929.sfc" size="3276800" crc="B6BE1802" md5="1747FB2D398EA31AB236BA786EB659DC"/>
+	</game>
+	<game name="钟楼惊魂（简）HUMAN 20241029 官中修正 - 83AE910C">
+		<rom name="钟楼惊魂（简）HUMAN 20241029 官中修正.sfc" size="4194304" crc="83AE910C" md5="34BBB69CCD827E47E1531463969CDE06"/>
+	</game>
+	<game name="钟楼惊魂（简）killllme 20241104 Rewind - 4F2B0561">
+		<rom name="钟楼惊魂（简）killllme 20241104 Rewind.sfc" size="4194304" crc="4F2B0561" md5="2B995B481ADEBC2468CED97C697F86F0"/>
 	</game>
 	<game name="银河战国群雄传（繁）天空 完全汉化 - D91D7CAA">
 		<rom name="银河战国群雄传（繁）天空 完全汉化.sfc" size="2097152" crc="D91D7CAA" md5="5A85FB7649D3567302105A3BE0FCCE70"/>

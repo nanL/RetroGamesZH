@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20241000</version></header>
+	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20241200</version></header>
 	<game name="1942（简）MS - A36F13D0">
 		<rom name="1942（简）MS.nes" size="40976" crc="A36F13D0" md5="0B3CEADB1A155807E7C7AA37FD9904F7"/>
 	</game>
@@ -544,11 +544,14 @@
 	<game name="傲视天地（简）晶科泰 - 85BB9B00">
 		<rom name="傲视天地（简）晶科泰.nes" size="1048592" crc="85BB9B00" md5="64789F3DC814602E56964816477AD7D3"/>
 	</game>
-	<game name="光之神话 天使岛传说（简）MS - D056B58F">
-		<rom name="光之神话 天使岛传说（简）MS.nes" size="131215" crc="D056B58F" md5="D9060958740A019D11A9AD7BC86BDE0C"/>
+	<game name="光之神话（简）MS - D056B58F">
+		<rom name="光之神话（简）MS.nes" size="131215" crc="D056B58F" md5="D9060958740A019D11A9AD7BC86BDE0C"/>
 	</game>
-	<game name="光之神话 天使岛传说（简）虫虫 - 7C9B9B33">
-		<rom name="光之神话 天使岛传说（简）虫虫.nes" size="131088" crc="7C9B9B33" md5="AE02581E9F09B78D1E4CBC721DD306BB"/>
+	<game name="光之神话（简）虫虫 - 7C9B9B33">
+		<rom name="光之神话（简）虫虫.nes" size="131088" crc="7C9B9B33" md5="AE02581E9F09B78D1E4CBC721DD306BB"/>
+	</game>
+	<game name="光之神话（简）NOKOH 20241114 - E175D4DA">
+		<rom name="光之神话（简）NOKOH 20241114.nes" size="262160" crc="E175D4DA" md5="DF80A748E589022531DBEA528B8C3F81"/>
 	</game>
 	<game name="光明之神（繁）酷哥 - 400B7FE8">
 		<rom name="光明之神（繁）酷哥.nes" size="524304" crc="400B7FE8" md5="53E1DF19EB3C9169C035F73B156FDE5F"/>
@@ -2190,6 +2193,9 @@
 	</game>
 	<game name="战斗原始人（简）高伟 - F2212734">
 		<rom name="战斗原始人（简）高伟.nes" size="262160" crc="F2212734" md5="634AC5FC11B5D47778A5EB7825FF5234"/>
+	</game>
+	<game name="战斗原始人（简）重重过客 20241016 - 95BD343F">
+		<rom name="战斗原始人（简）重重过客 20241016.nes" size="262160" crc="95BD343F" md5="53960F7B5833CB4BF858E87332416181"/>
 	</game>
 	<game name="战斗直升机（简）高伟 - D6847113">
 		<rom name="战斗直升机（简）高伟.nes" size="40976" crc="D6847113" md5="8C2693F4DE29957FE2484EA531D58646"/>
@@ -3991,8 +3997,11 @@
 	<game name="迷宫封印（繁）圣谦 - 9490C38E">
 		<rom name="迷宫封印（繁）圣谦.nes" size="131088" crc="9490C38E" md5="CB0524CF7B80D46EA65EC1EB304FAE54"/>
 	</game>
-	<game name="迷宫组曲 米隆的城堡冒险（简）虫虫 - 0B47B954">
-		<rom name="迷宫组曲 米隆的城堡冒险（简）虫虫.nes" size="65552" crc="0B47B954" md5="5412C4AC10FF5E05A1B38821666EE2DD"/>
+	<game name="迷宫组曲（简）虫虫 - 0B47B954">
+		<rom name="迷宫组曲（简）虫虫.nes" size="65552" crc="0B47B954" md5="5412C4AC10FF5E05A1B38821666EE2DD"/>
+	</game>
+	<game name="迷宫组曲（繁）NOKOH 20241202 - 15288FAA">
+		<rom name="迷宫组曲（繁）NOKOH 20241202.nes" size="196624" crc="15288FAA" md5="2965E4C30152ACECD6BCD68E10DB3B98"/>
 	</game>
 	<game name="迷糊蛋（简）雷精灵 砂糖 v1.2 - 48E8BCEE">
 		<rom name="迷糊蛋（简）雷精灵 砂糖 v1.2.nes" size="393232" crc="48E8BCEE" md5="FFD9BC9B9FFA4FA6A900F957E6ADF210"/>
@@ -4270,6 +4279,9 @@
 	<game name="马力欧医生（简）九班 v2 - D12475A8">
 		<rom name="马力欧医生（简）九班 v2.nes" size="65552" crc="D12475A8" md5="11A02A9184D9737A7615B5795FE5164F"/>
 	</game>
+	<game name="马力欧医生（简）重重过客 20241006 - 5AE1BA8F">
+		<rom name="马力欧医生（简）重重过客 20241006.nes" size="65552" crc="5AE1BA8F" md5="913AC74206C85983DDDA525D43E10404"/>
+	</game>
 	<game name="马戏团（简）汉化情报站 MS - 75E6A28E">
 		<rom name="马戏团（简）汉化情报站 MS.nes" size="24592" crc="75E6A28E" md5="0E3A533F837E131A520C089C329361D7"/>
 	</game>
@@ -4302,6 +4314,12 @@
 	</game>
 	<game name="高机动战斗2（简）高伟 - 0F6F74CE">
 		<rom name="高机动战斗2（简）高伟.nes" size="40976" crc="0F6F74CE" md5="A3157738B2959560E6698C6C8FCFBE45"/>
+	</game>
+	<game name="高桥名人：妖精哈尼（繁）NOKOH 20241125 - 5286F7D4">
+		<rom name="高桥名人：妖精哈尼（繁）NOKOH 20241125.nes" size="196624" crc="5286F7D4" md5="910AF27847C2007D291EF8662C20C47C"/>
+	</game>
+	<game name="高桥名人：妖精哈尼（繁）NOKOH 20241201 - 1BBF55A4">
+		<rom name="高桥名人：妖精哈尼（繁）NOKOH 20241201.nes" size="196624" crc="1BBF55A4" md5="F15D39F56A8765D9FCB989FECB2BF650"/>
 	</game>
 	<game name="高级战争（简）快乐的龙 - 27140DE9">
 		<rom name="高级战争（简）快乐的龙.nes" size="262160" crc="27140DE9" md5="B775D9727EC6772375CA8D52445FE268"/>
@@ -4501,6 +4519,12 @@
 	<game name="龙之城堡（简）虫虫 - 9301F948">
 		<rom name="龙之城堡（简）虫虫.nes" size="131088" crc="9301F948" md5="066570AB1AD2CE91587ECD9E5339F9BA"/>
 	</game>
+	<game name="龙之城堡（简）重重过客 20241016 日版 - FD95EF6E">
+		<rom name="龙之城堡（简）重重过客 20241016 日版.nes" size="131088" crc="FD95EF6E" md5="424EA427B2CB79D390363B08313D086B"/>
+	</game>
+	<game name="龙之城堡（简）重重过客 20241016 美版 - 5CDA393E">
+		<rom name="龙之城堡（简）重重过客 20241016 美版.nes" size="131088" crc="5CDA393E" md5="4C906BB798511B5827D07F81CFE3C9D7"/>
+	</game>
 	<game name="龙之忍者（简）MS - FE618121">
 		<rom name="龙之忍者（简）MS.nes" size="262160" crc="FE618121" md5="5FE54C7C45540B1441540FE98B8A9F75"/>
 	</game>
@@ -4509,6 +4533,12 @@
 	</game>
 	<game name="龙战士（简）高伟 v0.9 - CBBD7C84">
 		<rom name="龙战士（简）高伟 v0.9.nes" size="262160" crc="CBBD7C84" md5="747AFEBA87D04F1E628E684E5E49619D"/>
+	</game>
+	<game name="龙战士（简）重重过客 20241016 日版 - EB484EAB">
+		<rom name="龙战士（简）重重过客 20241016 日版.nes" size="262160" crc="EB484EAB" md5="4E860871D63CBB62CAA29FBE981F1D2C"/>
+	</game>
+	<game name="龙战士（简）重重过客 20241016 美版 - CFFA8554">
+		<rom name="龙战士（简）重重过客 20241016 美版.nes" size="262160" crc="CFFA8554" md5="297492302B718CFE1DB396DE8CD51C63"/>
 	</game>
 	<game name="龙珠Z 超武斗传2（简）天空联盟 - 6872B406">
 		<rom name="龙珠Z 超武斗传2（简）天空联盟.nes" size="393232" crc="6872B406" md5="6DBD17DF3AC6F74095EE754EC44BC328"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Color (zh)</name><version>20241100</version></header>
+	<header><name>Nintendo - Game Boy Color (zh)</name><version>20241200</version></header>
 	<game name="007：黑日危机（繁） - D33D0CDD">
 		<rom name="007：黑日危机（繁）.gbc" size="2097152" crc="D33D0CDD" md5="AAE37F7E9869A07C777077FF4043367E"/>
 	</game>
@@ -877,6 +877,12 @@
 	<game name="疯狂大富翁（繁）广誉 - AD68B3DD">
 		<rom name="疯狂大富翁（繁）广誉.gbc" size="2097152" crc="AD68B3DD" md5="0302066CF764B39159922594F31E3445"/>
 	</game>
+	<game name="疯狂大富翁（简）外星 星夜之幻 babypkzhu 20241010 fixDump - 126A0D1D">
+		<rom name="疯狂大富翁（简）外星 星夜之幻 babypkzhu 20241010 fixDump.gbc" size="2097152" crc="126A0D1D" md5="F12E2AC038419DC536212864EC9F580A"/>
+	</game>
+	<game name="疯狂大富翁（繁）广誉 Stephen 20241124 v1.0 Bugfix - A8E0C474">
+		<rom name="疯狂大富翁（繁）广誉 Stephen 20241124 v1.0 Bugfix.gbc" size="2097152" crc="A8E0C474" md5="5CAF03656F243436EF4E4B53D86E72D9"/>
+	</game>
 	<game name="疯狂阿给2炸弹人（改）新特奇 - 558A0FE0">
 		<rom name="疯狂阿给2炸弹人（改）新特奇.gbc" size="1048576" crc="558A0FE0" md5="A50E21EEB94F3E34E91D7692F46431A3"/>
 	</game>
@@ -984,9 +990,6 @@
 	</game>
 	<game name="超人特攻队（简）新特奇 - 1159836B">
 		<rom name="超人特攻队（简）新特奇.gbc" size="2097152" crc="1159836B" md5="53E9C7081BE58FFEE81F43AAB91F7B37"/>
-	</game>
-	<game name="超级大富豪（简）外星 星夜之幻 babypkzhu 20241010 fixDump - 126A0D1D">
-		<rom name="超级大富豪（简）外星 星夜之幻 babypkzhu 20241010 fixDump.gbc" size="2097152" crc="126A0D1D" md5="F12E2AC038419DC536212864EC9F580A"/>
 	</game>
 	<game name="超级机器人大战F完结篇（繁）SKOB - B6FCA9F2">
 		<rom name="超级机器人大战F完结篇（繁）SKOB.gbc" size="1048576" crc="B6FCA9F2" md5="EC8BDE08AC1A90601B385008C0A38E74"/>

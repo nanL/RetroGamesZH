@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20241100</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20241200</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -1359,6 +1359,9 @@
 	</game>
 	<game name="战火兄弟连DS（简）fciq 20220210 英文文本中文语音 - 17CA1FC3">
 		<rom name="战火兄弟连DS（简）fciq 20220210 英文文本中文语音.nds" size="33554432" crc="17CA1FC3" md5="A7E65CF69A1EA680329C137A74CEA4C3"/>
+	</game>
+	<game name="押忍!战斗!应援团2（简）ACG 青文 20241115 - 0AC31872">
+		<rom name="押忍!战斗!应援团2（简）ACG 青文 20241115.nds" size="132488384" crc="0AC31872" md5="E3A78CA2447434EDAB9441AE4D6D13B5"/>
 	</game>
 	<game name="押忍！奋斗！应援团（简）HOho 测试 - A7F6DC8D">
 		<rom name="押忍！奋斗！应援团（简）HOho 测试.nds" size="67043432" crc="A7F6DC8D" md5="6ED4903C5C9EEA142565EC41584636B2"/>
