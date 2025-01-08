@@ -351,8 +351,8 @@
 3D Visual Experience|
 3D the Super Shinobi II|
 3in1 Horses - My Riding Stables 3D - Jumping for the Team + Riding Star 3D + My Western Horse 3D|
-3x3 Eyes - Juuma Houkan|3x3只眼-魔兽奉还
-3x3 Eyes - Seima Kourinden|3x3只眼-圣魔降临传
+3x3 Eyes - Juuma Houkan|3x3只眼：魔兽奉还
+3x3 Eyes - Seima Kourinden|3x3只眼：圣魔降临传
 4 Elements|四元素
 4 Game Fun Pack - Monopoly + Boggle + Yahtzee + Battleship|4合1：大富翁，拼字母，骰子，战舰
 4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble|游戏4合1-战斗船+连接4+对不起+麻烦
@@ -415,7 +415,7 @@
 7th Dragon III Code - VFD|
 7th Dragon III Code - Vfd|
 7th Saga, The|
-8 Eyes|八只眼
+8 Eyes|八眼传说
 80's Overdrive|
 8BallAllstars|台球全明星
 9-in-1 Arcade Collection|
@@ -2306,7 +2306,7 @@ Bubble Guppies|
 Bubble Pop World|
 Bubble and Squeak|
 Bubblegum Crash!|泡泡糖危机
-Bubblegum Crash! - Knight Sabers 2034|泡泡糖危机
+Bubblegum Crash! - Knight Sabers 2034|泡泡糖危机：塞柏斯骑士2034
 Bubsy II|音速狐2
 Bubsy in - Claws Encounters of the Furred Kind|巴比斯欧版
 Bubsy in Claws Encounters of the Furred Kind|巴比斯
@@ -5126,7 +5126,7 @@ Essential Sudoku DS|竞争数独DS
 Estpolis - The Lands Cursed by the Gods|四狂神战记：四狂神诅咒
 Estpolis Denki|四狂神战记
 Estpolis Denki - Yomigaeru Densetsu|四狂神战记：传奇归来
-Estpolis Denki II|四狂神战记2
+Estpolis Denki II|四狂神战记II
 Eternal Champions|永恒之冠
 Eternal City - Toshi Tensou Keikaku|
 Etrian Mystery Dungeon|世界树与不可思议的迷宫
@@ -8282,7 +8282,7 @@ Juezhan Sanguo|决战三国
 Juezhan Taipingyang|
 Juggler DS|戏法者DS
 Juiced 2 - Hot Import Nights|极品醉车2-燃情之夜
-Juka and the Monophonic Menace|朱卡和单声威胁
+Juka and the Monophonic Menace|朱卡和单音麦纳斯
 Jukugo - Sokubiki Jiten Yomenai Kanji mo Raku Raku Yomeru|
 Jukugo Quiz|
 Jumble Madness|混杂疯狂
@@ -8363,7 +8363,7 @@ Juuouki|兽王记
 Juuryoku Soukou Metal Storm|重力装甲金属风暴
 Juushin Enbu DS|兽神演武 DS
 Juushinden - Ultimate Beast Battlers|兽神传-终极兽战士
-Juusou Kihei Leynos|
+Juusou Kihei Leynos|重装机兵雷诺斯
 Juusou Kihei Valken|突击装甲日版
 Juvei Quest|十兵卫传说
 K-1 Pocket Grand Prix|K-1口袋格斗大奖赛
@@ -8445,7 +8445,7 @@ Kakitori Rekishi Shougakusei|
 Kakko Yoku Narou - Kaku-chan Shiki - Kintore Navi|角田君的格斗指南
 Kakonde Ke Shite - Wakugumi Nojika|
 Kaku-San-Sei Million Arthur|扩散性百万亚瑟王
-Kakurenbo Battle - Monster Tactics|机械兵团战日
+Kakurenbo Battle - Monster Tactics|怪兽战略：迷宫兵团战
 Kakuro by Nikoli|
 Kakuromaniacs|狂热数和
 Kakusansei Million Arthur|
@@ -8634,7 +8634,7 @@ Kero Kero Keroppi no Bouken Nikki - Nemureru Mori no Keroleen|大眼蛙的冒险
 Kero Kero Keroppi no Daibouken|大眼蛙大冒险
 Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi!|大眼蛙大冒险2甜甜圈池塘大骚动
 Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi!!|
-Keroppi to Keroriinu no Splash Bomb!|大眼蛙之水弹大进击
+Keroppi to Keroriinu no Splash Bomb!|大眼蛙水炸弹
 Keroro Gunsou - Enshuu Da yo! - Zenin Shuugou Part 2|Keroro军曹-演习!全员集合-战斗2
 Keroro Gunsou - Taiketsu! Gekisou Keronprix Daisakusen de Arimasu!!|库洛洛军曹对决-激走车青蛙大作战!!
 Keroro RPG - Kishi to Musha to Densetsu no Kaizoku|克罗罗RPG 骑士和武士和传说的海盗
@@ -9770,7 +9770,7 @@ Luke Yingxiong Z|洛克英雄Z
 Luminous Arc|弧光之源
 Luminous Arc 2|弧光之源2-意志
 Luminous Arc 2 - Will|弧光之源2 意志
-Luminous Arc 3 - Eyes|弧光之源3 瞳
+Luminous Arc 3 - Eyes|弧光之源3猎眼妖精
 Lunar - Dragon Song|露娜-龙之歌
 Lunar - Genesis|银河之星-露娜传奇
 Lunar Ball|银河撞球
@@ -13494,7 +13494,7 @@ Polarium Advance|直感一笔
 Pole Tchudes|
 Pole Tchudes 2|
 Policeman|警察
-Polly Pocket! - Super Splash Island|波利口袋!
+Polly Pocket! - Super Splash Island|波利口袋：超级人鱼岛
 Pom Pom Purin - Corocoro Daibouken|
 Pong - The Next Level|乒乓球
 Pong Pong Candy|
@@ -14547,7 +14547,7 @@ Rockman 3|洛克人3
 Rockman 3 - Dr. Wily no Saigo!|洛克人3威利博士的末日
 Rockman 4 - Aratanaru Yabou!!|洛克人4新的野心
 Rockman 5 - Blues no Wana!|洛克人5布鲁斯的阴谋
-Rockman 6 - Shijou Saidai no Tatakai!!|洛克人6史上最长的战斗
+Rockman 6 - Shijou Saidai no Tatakai!!|洛克人6史上最大战斗
 Rockman 7 - Shukumei no Taiketsu!|洛克人7宿命的对决
 Rockman 7 Fants' Confrontation!|
 Rockman Classics Collection|洛克人合集
@@ -17472,13 +17472,13 @@ Tanigawa Kouji no Shougi Shinan II|谷川浩司的将棋指南2
 Tanigawa Kouji no Shougi Shinan III|谷川浩司的将棋指南3
 Tanimura Hitoshi Ryuu Pachinko Kouryaku Daisakusen - Don Quijote ga Iku|谷村流攻略大作战日
 Tank|坦克
-Tank 1990|
+Tank 1990|坦克1990
 Tank 3D|
 Tank Battles|坦克大战
 Tank Beat|坦克打击
 Tank Beat 2 - Gekitotsu! Duits-gun vs. Rengougun|触控坦克车 2 激战-德军 vs.同盟军
 Tank Beat 2 - Gyeokdol! Jeoncha Daejeon|坦克大战2
-Tank Fengyun - King Tank|
+Tank Fengyun - King Tank|坦克风云
 Tank Onslaught|
 Tank Troopers|
 Tanoshii Youchien - Kotoba to Asobo!|欢乐幼儿园
@@ -17511,7 +17511,7 @@ Tappingo|
 Tappingo 2|
 Targa|
 Target - Renegade|目标 叛徒
-Target Earth|目标地球美
+Target Earth|重装机兵雷诺斯
 Taro's Quest|塔罗的冒险
 Tarot Mystery|星座别相性诊所
 Tarzan|小泰山
@@ -17588,8 +17588,8 @@ Teenage Mutant Ninja Turtles II - The Arcade Game|忍者神龟2
 Teenage Mutant Ninja Turtles III - The Manhattan Project|忍者神龟3曼哈顿计划
 Teenage Mutant Ninja Turtles IV - Turtles in Time|忍者龟4
 Teenage Zombies - Invasion of the Alien Brain Thingys|少年僵尸-异性侵略
-Teitoku no Ketsudan|太平洋争霸战
-Teitoku no Ketsudan II|提督的决断2
+Teitoku no Ketsudan|提督的决断
+Teitoku no Ketsudan II|提督的决断II
 Tekichuu Keiba Juku|的中竞马塾
 Tekipaki Kyuukyuu Kyuuhen Training DS|救急急变训练DS
 Tekken 2|铁拳2
@@ -18300,7 +18300,7 @@ Trick Star|诡计摩托
 Trickboarder GP|燃烧滑雪板
 Tricky|动物金头脑日版
 Tricky Kick|动物金头脑美版
-Trinea|三星幻界
+Trinea|三世奇缘
 Tringo|方块拼图
 Trioncube|小鸟方块
 Trip World|旅行世界
@@ -19440,7 +19440,7 @@ Youda Legend - The Golden Bird of Paradise|
 Youda Safari|
 Youkai Buster - Ruka no Daibouken|露卡大冒险
 Youkai Club|妖怪俱乐部
-Youkai Douchuuki|妖怪道中记日版
+Youkai Douchuuki|妖怪道中记
 Youkai Sangokushi|妖怪三国志
 Youkai Watch|妖怪手表RPG
 Youkai Watch 2|

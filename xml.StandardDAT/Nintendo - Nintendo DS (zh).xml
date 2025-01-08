@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20241200</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250100</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -1177,8 +1177,8 @@
 	<game name="弧光之源2 意志（简）小黑屋 - C6EFBD0D">
 		<rom name="弧光之源2 意志（简）小黑屋.nds" size="124431284" crc="C6EFBD0D" md5="F1EEC6921BC6B13AAC16B589E3786BAD"/>
 	</game>
-	<game name="弧光之源3 瞳（简）小黑屋 20140129 测试 - 16EC5070">
-		<rom name="弧光之源3 瞳（简）小黑屋 20140129 测试.nds" size="105954624" crc="16EC5070" md5="CD3AF8A15E4B5737D22D924AF123800A"/>
+	<game name="弧光之源3猎眼妖精（简）小黑屋 20140129 测试 - 16EC5070">
+		<rom name="弧光之源3猎眼妖精（简）小黑屋 20140129 测试.nds" size="105954624" crc="16EC5070" md5="CD3AF8A15E4B5737D22D924AF123800A"/>
 	</game>
 	<game name="弹唱DS吉他 M-06（简）E.WINGS - 43EA577B">
 		<rom name="弹唱DS吉他 M-06（简）E.WINGS.nds" size="67108864" crc="43EA577B" md5="D2F45A7D5A6AED85C1F3C700C2346A53"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Color (zh)</name><version>20241200</version></header>
+	<header><name>Nintendo - Game Boy Color (zh)</name><version>20250100</version></header>
 	<game name="007：黑日危机（繁） - D33D0CDD">
 		<rom name="007：黑日危机（繁）.gbc" size="2097152" crc="D33D0CDD" md5="AAE37F7E9869A07C777077FF4043367E"/>
 	</game>
@@ -514,6 +514,12 @@
 	<game name="心跳回忆：运动篇（繁） - 58B6CD90">
 		<rom name="心跳回忆：运动篇（繁）.gbc" size="4194304" crc="58B6CD90" md5="3E8193D8F4B2B468EE84B9DB4F9C019F"/>
 	</game>
+	<game name="怪兽战略：迷宫兵团战（简）江户城子 20241224 - A16217CB">
+		<rom name="怪兽战略：迷宫兵团战（简）江户城子 20241224.gbc" size="4194304" crc="A16217CB" md5="9A5843E399D52E3C3929D60C818A2623"/>
+	</game>
+	<game name="怪兽战略：迷宫兵团战（简）willzyj 20250106 修正小字 - 2B7797BB">
+		<rom name="怪兽战略：迷宫兵团战（简）willzyj 20250106 修正小字.gbc" size="4194304" crc="2B7797BB" md5="17532BD6A19B66598ADECACB2D16B049"/>
+	</game>
 	<game name="恶狼传说：世纪之战（繁） - 219DECF9">
 		<rom name="恶狼传说：世纪之战（繁）.gbc" size="1048576" crc="219DECF9" md5="6573E33B2EEDC2AE15CB11550150892B"/>
 	</game>
@@ -651,6 +657,9 @@
 	</game>
 	<game name="星球大战2克隆人的进攻（简）新特奇 - E8FD000F">
 		<rom name="星球大战2克隆人的进攻（简）新特奇.gbc" size="4194304" crc="E8FD000F" md5="8EDD837A95D8ACE27EAD721E03282C77"/>
+	</game>
+	<game name="暴力摩托（简）宇夜喵 20241220 - A29DAC53">
+		<rom name="暴力摩托（简）宇夜喵 20241220.gbc" size="1048576" crc="A29DAC53" md5="C9C69D8C40AC30117E1623BC298A4BCC"/>
 	</game>
 	<game name="最终幻想（简）外星 星夜之幻 20240728 DumpFixed - 0BA8BB72">
 		<rom name="最终幻想（简）外星 星夜之幻 20240728 DumpFixed.gbc" size="1048576" crc="0BA8BB72" md5="FEB2C6A6E7CF76137FF4E32422F18139"/>
@@ -1125,6 +1134,9 @@
 	</game>
 	<game name="龙珠Z传说中的超级战士（简）RangerMarsh 20240701 v0.3.0 - B59AA91D">
 		<rom name="龙珠Z传说中的超级战士（简）RangerMarsh 20240701 v0.3.0.gbc" size="2097152" crc="B59AA91D" md5="6AFD55100B4022ECD88235A7E95D78FB"/>
+	</game>
+	<game name="龙珠Z传说中的超级战士（简）RangerMarsh SSS888 20250106 v1.0.0 - AE962F3C">
+		<rom name="龙珠Z传说中的超级战士（简）RangerMarsh SSS888 20250106 v1.0.0.gbc" size="4194304" crc="AE962F3C" md5="E567485835949FECFB17B2F7559AA214"/>
 	</game>
 	<game name="龙珠Z格斗2005（繁） - D1C48145">
 		<rom name="龙珠Z格斗2005（繁）.gbc" size="2097152" crc="D1C48145" md5="05E5ECC94EF05260EBBA60576CA45BA0"/>

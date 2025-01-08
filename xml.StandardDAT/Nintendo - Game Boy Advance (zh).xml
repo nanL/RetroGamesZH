@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20241200</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20250100</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -109,8 +109,8 @@
 	<game name="世界足球（简）Swelin 6lay Guys Punkemnx - F89B26EA">
 		<rom name="世界足球（简）Swelin 6lay Guys Punkemnx.gba" size="8388608" crc="F89B26EA" md5="B2DA1086172D7D1D4C53DD0EEEA9D208"/>
 	</game>
-	<game name="世界足球（简）Swelin 6lay Guys Punkemnx fciq 20230523 河南方言解说 - 6DA461F9">
-		<rom name="世界足球（简）Swelin 6lay Guys Punkemnx fciq 20230523 河南方言解说.gba" size="8388608" crc="6DA461F9" md5="F534248840ED6FDE5981AB2E07C0F362"/>
+	<game name="世界足球（简）Swelin 6lay Guys Punkemnx fciq 20230523 河南方言 - 6DA461F9">
+		<rom name="世界足球（简）Swelin 6lay Guys Punkemnx fciq 20230523 河南方言.gba" size="8388608" crc="6DA461F9" md5="F534248840ED6FDE5981AB2E07C0F362"/>
 	</game>
 	<game name="乐高星球大战 影视游戏（简）空气 - 15CE797E">
 		<rom name="乐高星球大战 影视游戏（简）空气.gba" size="16777216" crc="15CE797E" md5="D82F8F0C55DC3F97BF5F5EFD9BB5875E"/>
@@ -997,6 +997,9 @@
 	<game name="最终幻想战略版 Advance（简）熊组 yggdra Tring v0.2.5 Demo - 8FC9A974">
 		<rom name="最终幻想战略版 Advance（简）熊组 yggdra Tring v0.2.5 Demo.gba" size="11604020" crc="8FC9A974" md5="94ADF8B5A385DBB9324071F92B08DAA7"/>
 	</game>
+	<game name="朱卡和单音麦纳斯（简）Advance 20241215 - FCEF3257">
+		<rom name="朱卡和单音麦纳斯（简）Advance 20241215.gba" size="33554432" crc="FCEF3257" md5="76A317D3AD73F53C14C6C9ED19E9064A"/>
+	</game>
 	<game name="机兽新世纪（简）落月 20241019 v1.0 - 2337CDCB">
 		<rom name="机兽新世纪（简）落月 20241019 v1.0.gba" size="11611424" crc="2337CDCB" md5="992E8B6D59EB058920C14ED69C5194BE"/>
 	</game>
@@ -1225,6 +1228,9 @@
 	<game name="火焰之纹章（改）画画的邶邶 20241201 v1.0.1 Reforged - 2E4F049F">
 		<rom name="火焰之纹章（改）画画的邶邶 20241201 v1.0.1 Reforged.gba" size="33391476" crc="2E4F049F" md5="1D9959D224F383D6F146B78FE244AA43"/>
 	</game>
+	<game name="火焰之纹章（改）素昼 20240209 v1.1 回声 - A98828EE">
+		<rom name="火焰之纹章（改）素昼 20240209 v1.1 回声.gba" size="22048676" crc="A98828EE" md5="72044E50E49F85E73B6F6A967E41F696"/>
+	</game>
 	<game name="火焰之纹章：圣魔之光石（简）火花 狼组 - AAF44313">
 		<rom name="火焰之纹章：圣魔之光石（简）火花 狼组.gba" size="16777216" crc="AAF44313" md5="2F7662C2E97A957B1382FE1F29F3265C"/>
 	</game>
@@ -1380,6 +1386,9 @@
 	</game>
 	<game name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20241209 - 871F7B4B">
 		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20241209.gba" size="16777216" crc="871F7B4B" md5="38D3403FE6C1FC2BDA87B917796F45ED"/>
+	</game>
+	<game name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20241216 - 4FA912B0">
+		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20241216.gba" size="16777216" crc="4FA912B0" md5="FE92090C1AEE6230772291E2322BA2BA"/>
 	</game>
 	<game name="特训（简）WHOWE - 0C38B8B7">
 		<rom name="特训（简）WHOWE.gba" size="129656" crc="0C38B8B7" md5="8AE6BD04C1F0DBEE29BFAE9F2FBFD0DB"/>
@@ -2041,8 +2050,8 @@
 	<game name="龙战士（简）FLYEYES 20091030 - 51BFA615">
 		<rom name="龙战士（简）FLYEYES 20091030.gba" size="4250264" crc="51BFA615" md5="E7CBE7FC57ABCB0F3BDF390529ABD8AE"/>
 	</game>
-	<game name="龙战士（简）Asaki 20081122 画面增强 - 934264A6">
-		<rom name="龙战士（简）Asaki 20081122 画面增强.gba" size="4250264" crc="934264A6" md5="99E227A2F8B24B570AFA35899C0A2707"/>
+	<game name="龙战士（简）Asaki 画质增强 - 934264A6">
+		<rom name="龙战士（简）Asaki 画质增强.gba" size="4250264" crc="934264A6" md5="99E227A2F8B24B570AFA35899C0A2707"/>
 	</game>
 	<game name="龙战士2（简）飞越无尽暗空 测试 - CA1A5CFB">
 		<rom name="龙战士2（简）飞越无尽暗空 测试.gba" size="4718584" crc="CA1A5CFB" md5="92B93C8D881BBAA292C419E79405F4BA"/>
@@ -2050,8 +2059,8 @@
 	<game name="龙战士2（简）天幻 v1.0 - FBC4BB0B">
 		<rom name="龙战士2（简）天幻 v1.0.gba" size="4687872" crc="FBC4BB0B" md5="662BBF604ED3088B1BA30B28D4B34AFD"/>
 	</game>
-	<game name="龙战士2（简） - 7BAFD9F2">
-		<rom name="龙战士2（简）.gba" size="4687872" crc="7BAFD9F2" md5="9C2B219A959FE7491C826B9E898FAEC3"/>
+	<game name="龙战士2（简）ioev 画质增强 - 7BAFD9F2">
+		<rom name="龙战士2（简）ioev 画质增强.gba" size="4687872" crc="7BAFD9F2" md5="9C2B219A959FE7491C826B9E898FAEC3"/>
 	</game>
 	<game name="龙珠Z布欧的愤怒（简）Advance DMG 20200114 v1.2 - 9B41D8D2">
 		<rom name="龙珠Z布欧的愤怒（简）Advance DMG 20200114 v1.2.gba" size="9437184" crc="9B41D8D2" md5="224705CE14DE8FD2444E2A7797B5F955"/>

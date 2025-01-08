@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20241200</version></header>
+	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20250100</version></header>
 	<game name="NHK大河剧 - 太平记（简）cslrxyz - 6E781C6C">
 		<rom name="NHK大河剧 - 太平记（简）cslrxyz.gen" size="1048576" crc="6E781C6C" md5="41D6D2116F52F0988C4023BE81F2D731"/>
 	</game>
@@ -208,9 +208,6 @@
 	<game name="天下统一：乱世的霸者（繁） - 8EEEE786">
 		<rom name="天下统一：乱世的霸者（繁）.gen" size="1048576" crc="8EEEE786" md5="6164F149BF304B08EFA1719B19CCB4C9"/>
 	</game>
-	<game name="太平洋争霸战（简）永盛 AXI 修正版 - FC12D5C5">
-		<rom name="太平洋争霸战（简）永盛 AXI 修正版.gen" size="4194304" crc="FC12D5C5" md5="381F1CF6EEB06BDBAD2F57E10AFE723E"/>
-	</game>
 	<game name="太空战士 魔法战士（简）川普 147201688 - AE58855D">
 		<rom name="太空战士 魔法战士（简）川普 147201688.gen" size="2097152" crc="AE58855D" md5="DEE41197B65C1B562DD1870969F0C7FF"/>
 	</game>
@@ -387,6 +384,9 @@
 	</game>
 	<game name="抓鬼大师（繁）盛碁 - 76C62A8B">
 		<rom name="抓鬼大师（繁）盛碁.gen" size="524288" crc="76C62A8B" md5="4CFA0256C3DEB52A75C20E10B44574C6"/>
+	</game>
+	<game name="提督的决断（简）永盛 AXI 修正版 - FC12D5C5">
+		<rom name="提督的决断（简）永盛 AXI 修正版.gen" size="4194304" crc="FC12D5C5" md5="381F1CF6EEB06BDBAD2F57E10AFE723E"/>
 	</game>
 	<game name="数字射击（简）小鬼混 - 7A0876A0">
 		<rom name="数字射击（简）小鬼混.gen" size="1048576" crc="7A0876A0" md5="6B6588D43A8A462BF2A9D28558816B40"/>
@@ -714,6 +714,9 @@
 	</game>
 	<game name="轰炸小子（繁）三协资讯 - 065D2019">
 		<rom name="轰炸小子（繁）三协资讯.gen" size="524288" crc="065D2019" md5="C5816740D93932870C5C466EA2931A4F"/>
+	</game>
+	<game name="重装机兵雷诺斯（简）阿刃 20241219 - D13355D0">
+		<rom name="重装机兵雷诺斯（简）阿刃 20241219.gen" size="655360" crc="D13355D0" md5="D239CA6587106DACDDB56F0D044D87BC"/>
 	</game>
 	<game name="野蛇（繁）小鬼混 简菜单 - C3B7785C">
 		<rom name="野蛇（繁）小鬼混 简菜单.gen" size="524288" crc="C3B7785C" md5="2C15E65BBDF847BE386655DC654C66AC"/>

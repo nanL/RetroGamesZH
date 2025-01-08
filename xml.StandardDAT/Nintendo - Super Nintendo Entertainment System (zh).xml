@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20241200</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20250100</version></header>
+	<game name="3x3只眼：魔兽奉还（简）小鬼混 20241212 - 0B149BC3">
+		<rom name="3x3只眼：魔兽奉还（简）小鬼混 20241212.smc" size="2097152" crc="0B149BC3" md5="776CE482203B54EF9700A7B37F9EAAB5"/>
+	</game>
 	<game name="GO!GO!恶魔少年（繁）模拟中文网 v1.01 - 8CD0822E">
 		<rom name="GO!GO!恶魔少年（繁）模拟中文网 v1.01.sfc" size="1310720" crc="8CD0822E" md5="99378BB306088C9F228449C57669193F"/>
 	</game>
 	<game name="GO!GO!恶魔少年（简）模拟中文网 v1.01 - F28EBB84">
 		<rom name="GO!GO!恶魔少年（简）模拟中文网 v1.01.sfc" size="1310720" crc="F28EBB84" md5="0A100BA822F95388DD20F40DF57AF5F8"/>
+	</game>
+	<game name="三世奇缘（简）小鬼混 20241214 - B7692A2A">
+		<rom name="三世奇缘（简）小鬼混 20241214.smc" size="4194304" crc="B7692A2A" md5="41C2357CDDCF6839D406BE2B8088FE28"/>
 	</game>
 	<game name="三国志 英杰传（简）WGF MXJ7546 v0.51 - 0FE0B6B4">
 		<rom name="三国志 英杰传（简）WGF MXJ7546 v0.51.sfc" size="3145728" crc="0FE0B6B4" md5="3143C12FDFA489318570A49843825D20"/>
@@ -96,6 +102,12 @@
 	</game>
 	<game name="吞食天地：三国群雄传（简）CSLRXYZ v1.01 - A3C60293">
 		<rom name="吞食天地：三国群雄传（简）CSLRXYZ v1.01.sfc" size="1572864" crc="A3C60293" md5="426C10D64BF6F959741804F582D167EA"/>
+	</game>
+	<game name="四狂神战记II（简）飞雨影 20241225 - 27EE9E46">
+		<rom name="四狂神战记II（简）飞雨影 20241225.sfc" size="4194304" crc="27EE9E46" md5="AE05E9A13D5CDC896AB93CD45853E922"/>
+	</game>
+	<game name="四狂神战记II（繁）飞雨影 20241225 - DCA634D8">
+		<rom name="四狂神战记II（繁）飞雨影 20241225.sfc" size="4194304" crc="DCA634D8" md5="DFF95E12C9A03AE2F281AC5886984663"/>
 	</game>
 	<game name="圣剑传说3（繁）天幻 PTT v1.0 - 86C49FCD">
 		<rom name="圣剑传说3（繁）天幻 PTT v1.0.sfc" size="4194304" crc="86C49FCD" md5="000D81B61A730568F9EC5A19EB64E40F"/>
@@ -198,6 +210,9 @@
 	</game>
 	<game name="战斗潜水艇（简）CSLRXYZ 完全汉化 - 86923FC8">
 		<rom name="战斗潜水艇（简）CSLRXYZ 完全汉化.sfc" size="1048576" crc="86923FC8" md5="2886B9BB082D9691986F2BB4A5A61208"/>
+	</game>
+	<game name="提督的决断（简）郁闷的鹌鹑 20241224 v1.0 - B258EF6D">
+		<rom name="提督的决断（简）郁闷的鹌鹑 20241224 v1.0.smc" size="1311232" crc="B258EF6D" md5="4F4933D3B4E2B2FEAEC31D8FD583D52D"/>
 	</game>
 	<game name="斗姬传（简）小鬼混 20241011 - 2F2E5FF4">
 		<rom name="斗姬传（简）小鬼混 20241011.smc" size="1572864" crc="2F2E5FF4" md5="F5DD35CF99BF2BBE1A528D7C0174F400"/>
@@ -339,6 +354,12 @@
 	</game>
 	<game name="火焰之纹章：多拉基亚776（简）hiken 20241022 菜单修复 - 615C6FDC">
 		<rom name="火焰之纹章：多拉基亚776（简）hiken 20241022 菜单修复.sfc" size="4194304" crc="615C6FDC" md5="67385FA68AF9D232F6F499344C4252D1"/>
+	</game>
+	<game name="火焰之纹章：多拉基亚776（简）狼组 willzyj 20230206 修正标点 - 633BFAA2">
+		<rom name="火焰之纹章：多拉基亚776（简）狼组 willzyj 20230206 修正标点.smc" size="4194304" crc="633BFAA2" md5="EDD185BB79247320A14CC03C58FBE19F"/>
+	</game>
+	<game name="火焰之纹章：多拉基亚776（简）狼组 willzyj 20250101 修正标点花屏 - 947FA261">
+		<rom name="火焰之纹章：多拉基亚776（简）狼组 willzyj 20250101 修正标点花屏.smc" size="4194304" crc="947FA261" md5="D6EF1247D6D3B5FD6B9AAC99BDD94A7F"/>
 	</game>
 	<game name="火焰之纹章：纹章之谜（简）狼组 v1.03 - D782F6B9">
 		<rom name="火焰之纹章：纹章之谜（简）狼组 v1.03.smc" size="3146240" crc="D782F6B9" md5="476CB026AA99DE40A41D08B874890C59"/>
@@ -496,20 +517,20 @@
 	<game name="重装机兵R（简）狼组 v0.51 - 1D9ADC2A">
 		<rom name="重装机兵R（简）狼组 v0.51.sfc" size="4194304" crc="1D9ADC2A" md5="EB1B3813EE56B7BDCF962E34A65AC612"/>
 	</game>
-	<game name="重装机兵R（简）狼组 WILLZYJ v0.96 fixCRC - 3F440943">
-		<rom name="重装机兵R（简）狼组 WILLZYJ v0.96 fixCRC.sfc" size="4194304" crc="3F440943" md5="89A5D996C78FE5228E8665224965CEFA"/>
+	<game name="重装机兵R（简）狼组 willzyj v0.96 fixCRC - 3F440943">
+		<rom name="重装机兵R（简）狼组 willzyj v0.96 fixCRC.sfc" size="4194304" crc="3F440943" md5="89A5D996C78FE5228E8665224965CEFA"/>
 	</game>
-	<game name="重装机兵R（简）狼组 WILLZYJ v0.96 - F6B1E953">
-		<rom name="重装机兵R（简）狼组 WILLZYJ v0.96.smc" size="4194816" crc="F6B1E953" md5="B6A87AE202EA3B43FC8967C4C5BD9A6C"/>
+	<game name="重装机兵R（简）狼组 willzyj v0.96 - F6B1E953">
+		<rom name="重装机兵R（简）狼组 willzyj v0.96.smc" size="4194816" crc="F6B1E953" md5="B6A87AE202EA3B43FC8967C4C5BD9A6C"/>
 	</game>
-	<game name="重装机兵R（简）狼组 河马王子 WILLZYJ v0.96 红狼纪念版 - E18738DA">
-		<rom name="重装机兵R（简）狼组 河马王子 WILLZYJ v0.96 红狼纪念版.smc" size="4194816" crc="E18738DA" md5="804D853509217DB2D2C7D8A43B9152A0"/>
+	<game name="重装机兵R（简）狼组 河马王子 willzyj v0.96 红狼纪念版 - E18738DA">
+		<rom name="重装机兵R（简）狼组 河马王子 willzyj v0.96 红狼纪念版.smc" size="4194816" crc="E18738DA" md5="804D853509217DB2D2C7D8A43B9152A0"/>
 	</game>
 	<game name="重装机兵R（简）狼组 v0.51 - C4320051">
 		<rom name="重装机兵R（简）狼组 v0.51.smc" size="4194816" crc="C4320051" md5="8FB01C1398243CEC6B85CE14E3EE54C3"/>
 	</game>
-	<game name="重装机兵R（简）狼组 河马王子 WILLZYJ v0.96 红狼纪念版 - F7072211">
-		<rom name="重装机兵R（简）狼组 河马王子 WILLZYJ v0.96 红狼纪念版.sfc" size="4194304" crc="F7072211" md5="3A1641DA54DFE4AD73AA9F6FF426E83F"/>
+	<game name="重装机兵R（简）狼组 河马王子 willzyj v0.96 红狼纪念版 - F7072211">
+		<rom name="重装机兵R（简）狼组 河马王子 willzyj v0.96 红狼纪念版.sfc" size="4194304" crc="F7072211" md5="3A1641DA54DFE4AD73AA9F6FF426E83F"/>
 	</game>
 	<game name="重装机兵R（简）狼组 v0.51 - 895E8388">
 		<rom name="重装机兵R（简）狼组 v0.51.smc" size="4194816" crc="895E8388" md5="79A7CA8188372BC2DD3902D18125101C"/>
@@ -517,17 +538,17 @@
 	<game name="重装机兵R（简）狼组 20140508 v0.51A - AE3D6158">
 		<rom name="重装机兵R（简）狼组 20140508 v0.51A.smc" size="4194816" crc="AE3D6158" md5="A77CEC3EE65D65BE2075C11BABBB52A1"/>
 	</game>
-	<game name="重装机兵R（简）狼组 WILLZYJ 20201224 v0.95 完结版 - 608DDF2C">
-		<rom name="重装机兵R（简）狼组 WILLZYJ 20201224 v0.95 完结版.smc" size="4194816" crc="608DDF2C" md5="6520048F232421F8C36A3534466F1F56"/>
+	<game name="重装机兵R（简）狼组 willzyj 20201224 v0.95 完结版 - 608DDF2C">
+		<rom name="重装机兵R（简）狼组 willzyj 20201224 v0.95 完结版.smc" size="4194816" crc="608DDF2C" md5="6520048F232421F8C36A3534466F1F56"/>
 	</game>
-	<game name="重装机兵R（简）狼组 WILLZYJ 20220805 v0.96 - FD598EF6">
-		<rom name="重装机兵R（简）狼组 WILLZYJ 20220805 v0.96.smc" size="4194816" crc="FD598EF6" md5="354F8459AA77FD8DFCFECDEE19C6CB18"/>
+	<game name="重装机兵R（简）狼组 willzyj 20220805 v0.96 - FD598EF6">
+		<rom name="重装机兵R（简）狼组 willzyj 20220805 v0.96.smc" size="4194816" crc="FD598EF6" md5="354F8459AA77FD8DFCFECDEE19C6CB18"/>
 	</game>
-	<game name="重装机兵R（简）狼组 河马王子 WILLZYJ 20220805 v0.96 红狼纪念版 - EA6F5F7F">
-		<rom name="重装机兵R（简）狼组 河马王子 WILLZYJ 20220805 v0.96 红狼纪念版.smc" size="4194816" crc="EA6F5F7F" md5="64697027CAD644D1863E0D3B6B71AD20"/>
+	<game name="重装机兵R（简）狼组 河马王子 willzyj 20220805 v0.96 红狼纪念版 - EA6F5F7F">
+		<rom name="重装机兵R（简）狼组 河马王子 willzyj 20220805 v0.96 红狼纪念版.smc" size="4194816" crc="EA6F5F7F" md5="64697027CAD644D1863E0D3B6B71AD20"/>
 	</game>
-	<game name="重装机兵R（简）狼组 WILLZYJ 20220805 v0.96 fixCRC - EBCF46F0">
-		<rom name="重装机兵R（简）狼组 WILLZYJ 20220805 v0.96 fixCRC.sfc" size="4194304" crc="EBCF46F0" md5="A42AFF8EDB1079DAFA48B2926EDCF3E0"/>
+	<game name="重装机兵R（简）狼组 willzyj 20220805 v0.96 fixCRC - EBCF46F0">
+		<rom name="重装机兵R（简）狼组 willzyj 20220805 v0.96 fixCRC.sfc" size="4194304" crc="EBCF46F0" md5="A42AFF8EDB1079DAFA48B2926EDCF3E0"/>
 	</game>
 	<game name="重装机兵瓦尔肯（简）CSLRXYZ 完全汉化 - C9293F14">
 		<rom name="重装机兵瓦尔肯（简）CSLRXYZ 完全汉化.sfc" size="1048576" crc="C9293F14" md5="94EDF437F7E4A6D7AB629C230FF034B5"/>
