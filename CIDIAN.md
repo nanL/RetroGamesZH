@@ -7886,8 +7886,8 @@ Itsudemo Pachinko GB - CR Monster House|随时随地柏青哥
 Itsumo no Shokuzai de Dekichau Suteki na Sweets to Gochisou.|日常食材大变身-美味的甜点
 Itsuwari no Rondo|谎言的圆舞曲
 Ivan 'Ironman' Stewart's Super Off Road|环绕越野赛车
-Ivy the Kiwi|青藤几维鸟?
-Ivy the Kiwi - Tsuta ga Michibiku Monogatari.|青藤几维鸟?
+Ivy the Kiwi|青藤几维鸟
+Ivy the Kiwi - Tsuta ga Michibiku Monogatari.|青藤几维鸟
 Ivy the Kiwi Mini|
 Ivy the Kiwi Mini - Go Series|
 Iza! Kake Agare! - Tower of God|
@@ -8876,7 +8876,7 @@ Kitty's Catch|猫抓鱼
 Kiwame Mahjong Deluxe - Mirai Senshi 21|究级麻将-未来战士21杯
 Kiwami Birei Aquarium - Sekai no Sakana to Iruka Kujira-tachi|美丽水族馆 世界的鱼和海豚、鲸鱼
 Kiwi Kraze|
-Kiwi Kraze - A Bird-Brained Adventure!|纽西兰故事
+Kiwi Kraze - A Bird-Brained Adventure!|新西兰故事
 Kkachi-wa Norae Chingu|undefined
 KlashBall|机器人足球
 Klax|翻转方块

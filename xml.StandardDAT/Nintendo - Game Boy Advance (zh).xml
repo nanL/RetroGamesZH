@@ -193,6 +193,9 @@
 	<game name="克罗帝亚英雄：传说的星之徽章（简）Anyhow_YLH 20241103 v1.22 - D5D259D1">
 		<rom name="克罗帝亚英雄：传说的星之徽章（简）Anyhow_YLH 20241103 v1.22.gba" size="33554432" crc="D5D259D1" md5="C8CF59E345244C3B7D3F0849E0C3F8A3"/>
 	</game>
+	<game name="克罗帝亚英雄：传说的星之徽章（简）Anyhow_YLH 20241226 v1.3 - 23652BCA">
+		<rom name="克罗帝亚英雄：传说的星之徽章（简）Anyhow_YLH 20241226 v1.3.gba" size="33554432" crc="23652BCA" md5="7D292FA9E6FE8E9E818D28FEFD5C2E23"/>
+	</game>
 	<game name="公主同盟（简）狼狼小酷 20100811 - 43FFA477">
 		<rom name="公主同盟（简）狼狼小酷 20100811.gba" size="33554432" crc="43FFA477" md5="BEE85308912FB95EA4314A87DD83D841"/>
 	</game>
@@ -462,6 +465,9 @@
 	</game>
 	<game name="奥特曼警备队：怪兽袭击（简）Advance 20241112 v1.0 - 6843E447">
 		<rom name="奥特曼警备队：怪兽袭击（简）Advance 20241112 v1.0.gba" size="16854304" crc="6843E447" md5="7F9920163FD6E498F4D978F4471BEBCB"/>
+	</game>
+	<game name="奥特曼警备队：怪兽袭击（简）Advance 落月 20250116 v2.6 - AD91677A">
+		<rom name="奥特曼警备队：怪兽袭击（简）Advance 落月 20250116 v2.6.gba" size="16854304" crc="AD91677A" md5="FB17BD2F7A53461A92ACC2A9C56630EF"/>
 	</game>
 	<game name="好狗狗前进（英）exelotl hot_pengu 20181204 自制 - 940BB2CD">
 		<rom name="好狗狗前进（英）exelotl hot_pengu 20181204 自制.gba" size="2787328" crc="940BB2CD" md5="CF60F8F56B8B731BFAE38B1364F85564"/>
@@ -1230,6 +1236,9 @@
 	</game>
 	<game name="火焰之纹章（改）素昼 20240209 v1.1 回声 - A98828EE">
 		<rom name="火焰之纹章（改）素昼 20240209 v1.1 回声.gba" size="22048676" crc="A98828EE" md5="72044E50E49F85E73B6F6A967E41F696"/>
+	</game>
+	<game name="火焰之纹章（改）素昼 20250112 v1.1.2 回声 - A06FB681">
+		<rom name="火焰之纹章（改）素昼 20250112 v1.1.2 回声.gba" size="22272580" crc="A06FB681" md5="61CBC576B8134950596126DA4AC89EC5"/>
 	</game>
 	<game name="火焰之纹章：圣魔之光石（简）火花 狼组 - AAF44313">
 		<rom name="火焰之纹章：圣魔之光石（简）火花 狼组.gba" size="16777216" crc="AAF44313" md5="2F7662C2E97A957B1382FE1F29F3265C"/>

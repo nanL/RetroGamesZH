@@ -427,6 +427,9 @@
 	<game name="宝可梦：金（简）TomJinW 20241013 v1.2.1 换字体 - 3D39188C">
 		<rom name="宝可梦：金（简）TomJinW 20241013 v1.2.1 换字体.gbc" size="2097152" crc="3D39188C" md5="D7B455B1B7106C3A4D9C064DA9465853"/>
 	</game>
+	<game name="宝可梦：金（简）TomJinW 20241230 v1.0 - C305A574">
+		<rom name="宝可梦：金（简）TomJinW 20241230 v1.0.gbc" size="2097152" crc="C305A574" md5="9DD10A51578929629DC399A41A776D13"/>
+	</game>
 	<game name="宝可梦：金银（简）Unl 金银二合一 - 61B4186E">
 		<rom name="宝可梦：金银（简）Unl 金银二合一.gbc" size="2097152" crc="61B4186E" md5="E0F58C980FCC061F35B5E5C491168153"/>
 	</game>
@@ -468,6 +471,9 @@
 	</game>
 	<game name="宝可梦：银（简）TomJinW 20241013 v1.2.1 换字体 - 1DD96587">
 		<rom name="宝可梦：银（简）TomJinW 20241013 v1.2.1 换字体.gbc" size="2097152" crc="1DD96587" md5="6349897FCB5311C96BEAA94938D59CE0"/>
+	</game>
+	<game name="宝可梦：银（简）TomJinW 20241230 v1.0 - 4F7D1F62">
+		<rom name="宝可梦：银（简）TomJinW 20241230 v1.0.gbc" size="2097152" crc="4F7D1F62" md5="CDD69D7A1CF1C964300F89E368D6AB1A"/>
 	</game>
 	<game name="宝可梦：黄（简）TomJinW 20240117 v1.1 彩色切换 - D22CB7D6">
 		<rom name="宝可梦：黄（简）TomJinW 20240117 v1.1 彩色切换.gbc" size="2097152" crc="D22CB7D6" md5="021B149977732D7B55942B81EA1D751D"/>
@@ -1137,6 +1143,9 @@
 	</game>
 	<game name="龙珠Z传说中的超级战士（简）RangerMarsh SSS888 20250106 v1.0.0 - AE962F3C">
 		<rom name="龙珠Z传说中的超级战士（简）RangerMarsh SSS888 20250106 v1.0.0.gbc" size="4194304" crc="AE962F3C" md5="E567485835949FECFB17B2F7559AA214"/>
+	</game>
+	<game name="龙珠Z传说中的超级战士（简）SSS888 20250115 v1.0.1 - CDD09620">
+		<rom name="龙珠Z传说中的超级战士（简）SSS888 20250115 v1.0.1.gbc" size="4194304" crc="CDD09620" md5="D3321690F445D787FC40A47A983069E8"/>
 	</game>
 	<game name="龙珠Z格斗2005（繁） - D1C48145">
 		<rom name="龙珠Z格斗2005（繁）.gbc" size="2097152" crc="D1C48145" md5="05E5ECC94EF05260EBBA60576CA45BA0"/>

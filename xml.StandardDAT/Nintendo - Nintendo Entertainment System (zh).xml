@@ -2383,6 +2383,12 @@
 	<game name="新英雄传（繁）南晶 - 0AEC3279">
 		<rom name="新英雄传（繁）南晶.nes" size="262160" crc="0AEC3279" md5="05DAC4EEF266CE5674BC8FBA0119465C"/>
 	</game>
+	<game name="新西兰故事（简）高伟 - 767369B6">
+		<rom name="新西兰故事（简）高伟.nes" size="262160" crc="767369B6" md5="C5E386A922E21A7AC8B8D167FC7AD738"/>
+	</game>
+	<game name="新西兰故事（简）rym1020 20250116 v2.0 SE菜单 - 1D8DBDE9">
+		<rom name="新西兰故事（简）rym1020 20250116 v2.0 SE菜单.nes" size="262160" crc="1D8DBDE9" md5="BD0B196A6F23E66702C0CB042FB0B24B"/>
+	</game>
 	<game name="新魔界（简）晶科泰 - 97101DBA">
 		<rom name="新魔界（简）晶科泰.nes" size="1048592" crc="97101DBA" md5="F7E1B404BFFBE62B3D37804FD0859363"/>
 	</game>
@@ -2883,6 +2889,9 @@
 	</game>
 	<game name="洛克人（简）3DM - 12959887">
 		<rom name="洛克人（简）3DM.nes" size="131088" crc="12959887" md5="2545E3E10BC313E1307544BEB51C5554"/>
+	</game>
+	<game name="洛克人（简）NOKOH 20250110 - BA36F0D4">
+		<rom name="洛克人（简）NOKOH 20250110.nes" size="262160" crc="BA36F0D4" md5="8D6388AB3847B6E215EF6205691AFC55"/>
 	</game>
 	<game name="洛克人2威利博士之谜（简）NEOX - E9F7C580">
 		<rom name="洛克人2威利博士之谜（简）NEOX.nes" size="262160" crc="E9F7C580" md5="C92D612C2953A5B2C7D4ED6ECC410BAF"/>
@@ -3507,9 +3516,6 @@
 	</game>
 	<game name="纽约大拳猫（简）逆游の五彩鱼 v1b - 5D67CE45">
 		<rom name="纽约大拳猫（简）逆游の五彩鱼 v1b.nes" size="393232" crc="5D67CE45" md5="1208E2843AD5E4B34895E998F44CD3D3"/>
-	</game>
-	<game name="纽西兰故事（简）高伟 - 767369B6">
-		<rom name="纽西兰故事（简）高伟.nes" size="262160" crc="767369B6" md5="C5E386A922E21A7AC8B8D167FC7AD738"/>
 	</game>
 	<game name="组合战机（简）高伟 - 4374A239">
 		<rom name="组合战机（简）高伟.nes" size="65552" crc="4374A239" md5="C19D4642135E5367CE975884EE8666F1"/>
