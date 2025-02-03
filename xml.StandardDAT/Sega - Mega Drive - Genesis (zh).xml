@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20250100</version></header>
+	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20250200</version></header>
 	<game name="NHK大河剧 - 太平记（简）cslrxyz - 6E781C6C">
 		<rom name="NHK大河剧 - 太平记（简）cslrxyz.gen" size="1048576" crc="6E781C6C" md5="41D6D2116F52F0988C4023BE81F2D731"/>
 	</game>
@@ -514,8 +514,8 @@
 	<game name="武者雅士达（简）云飞 20240608 - 63BE662B">
 		<rom name="武者雅士达（简）云飞 20240608.gen" size="524288" crc="63BE662B" md5="0A33405C24F88BC985B0D2A8557A7099"/>
 	</game>
-	<game name="武者雅士达（简）1d4444 20240610 v1.0 - 43C9D13E">
-		<rom name="武者雅士达（简）1d4444 20240610 v1.0.gen" size="524288" crc="43C9D13E" md5="EFC6F1747A11B574A715DCF019DBF8FD"/>
+	<game name="武者雅士达（简）1d 20240610 v1.0 - 43C9D13E">
+		<rom name="武者雅士达（简）1d 20240610 v1.0.gen" size="524288" crc="43C9D13E" md5="EFC6F1747A11B574A715DCF019DBF8FD"/>
 	</game>
 	<game name="水浒 - 风云传（繁）Never Ending Soft Team - 3E9E010C">
 		<rom name="水浒 - 风云传（繁）Never Ending Soft Team.gen" size="2097152" crc="3E9E010C" md5="171D1381A9650572F9F13627976F397A"/>
@@ -691,11 +691,11 @@
 	<game name="超级大富豪（繁）未知 - 0CACD325">
 		<rom name="超级大富豪（繁）未知.gen" size="2097152" crc="0CACD325" md5="3104B365B79ACD0AB28E6F3A64E7DD58"/>
 	</game>
-	<game name="超级幻想地带（简）1d4444 20240511 v0.9 - 9A7DC94D">
-		<rom name="超级幻想地带（简）1d4444 20240511 v0.9.gen" size="1048576" crc="9A7DC94D" md5="B6B5D017C81ADE3AA07E55086845FAE2"/>
+	<game name="超级幻想地带（简）1d 20240511 v0.9 - 9A7DC94D">
+		<rom name="超级幻想地带（简）1d 20240511 v0.9.gen" size="1048576" crc="9A7DC94D" md5="B6B5D017C81ADE3AA07E55086845FAE2"/>
 	</game>
-	<game name="超级幻想地带（简）1d4444 20240531 v1.0 剧情 - 29852878">
-		<rom name="超级幻想地带（简）1d4444 20240531 v1.0 剧情.gen" size="1048576" crc="29852878" md5="0CDC4B58D0FD279687F92157510F123D"/>
+	<game name="超级幻想地带（简）1d 20240531 v1.0 剧情 - 29852878">
+		<rom name="超级幻想地带（简）1d 20240531 v1.0 剧情.gen" size="1048576" crc="29852878" md5="0CDC4B58D0FD279687F92157510F123D"/>
 	</game>
 	<game name="超级忍2（简）cslrxyz - 8D8FB732">
 		<rom name="超级忍2（简）cslrxyz.gen" size="1048576" crc="8D8FB732" md5="7FE3C16EF50BB8803D3973BDA1BD8840"/>

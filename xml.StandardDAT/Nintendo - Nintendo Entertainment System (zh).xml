@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20250100</version></header>
+	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20250200</version></header>
 	<game name="1942（简）MS - A36F13D0">
 		<rom name="1942（简）MS.nes" size="40976" crc="A36F13D0" md5="0B3CEADB1A155807E7C7AA37FD9904F7"/>
 	</game>
@@ -3204,6 +3204,9 @@
 	</game>
 	<game name="热血物语（简）大糯米藕 20250105 大字 - 823C8664">
 		<rom name="热血物语（简）大糯米藕 20250105 大字.nes" size="524304" crc="823C8664" md5="16D4FA0335B53C040AE8069F8033B13E"/>
+	</game>
+	<game name="热血物语（简）腓特烈 20250107 v2 融合 - AE3E3238">
+		<rom name="热血物语（简）腓特烈 20250107 v2 融合.nes" size="524304" crc="AE3E3238" md5="157E218C01B3BE474BFFC2424FE64D52"/>
 	</game>
 	<game name="热血硬派（简）AXI 热血的鱼缸 - 9E5FF985">
 		<rom name="热血硬派（简）AXI 热血的鱼缸.nes" size="147472" crc="9E5FF985" md5="DFA28582D3D129A4C37E45DA9CE2B32E"/>

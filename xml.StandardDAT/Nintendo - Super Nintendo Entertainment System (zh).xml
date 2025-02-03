@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20250100</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20250200</version></header>
 	<game name="3x3只眼：魔兽奉还（简）小鬼混 20241212 - 0B149BC3">
 		<rom name="3x3只眼：魔兽奉还（简）小鬼混 20241212.smc" size="2097152" crc="0B149BC3" md5="776CE482203B54EF9700A7B37F9EAAB5"/>
 	</game>
@@ -145,6 +145,9 @@
 	<game name="复活邪神3-体验版（繁）WERTHER等 天幻 v1.01 - C8D13BDB">
 		<rom name="复活邪神3-体验版（繁）WERTHER等 天幻 v1.01.sfc" size="4194304" crc="C8D13BDB" md5="A1085B6BC053E163055DE7720210AB77"/>
 	</game>
+	<game name="夜光虫（简）1d 20250201 v1.0 - 92F9F337">
+		<rom name="夜光虫（简）1d 20250201 v1.0.smc" size="2097152" crc="92F9F337" md5="5B7E14E1C7EA5B83E00BDE5AAADB48BB"/>
+	</game>
 	<game name="大地勇士：海与风的鼓动（简）阿刃 20240403 - DC4D666E">
 		<rom name="大地勇士：海与风的鼓动（简）阿刃 20240403.smc" size="1245184" crc="DC4D666E" md5="88418E79ACDA58D3790E61458A558808"/>
 	</game>
@@ -210,6 +213,9 @@
 	</game>
 	<game name="快打旋风3（简）Advance - 53352015">
 		<rom name="快打旋风3（简）Advance.sfc" size="4194304" crc="53352015" md5="28B80A25BF2F8D82590F1AE2CE88BD9C"/>
+	</game>
+	<game name="战区88（简）阿刃 20250122 - AB96370D">
+		<rom name="战区88（简）阿刃 20250122.sfc" size="1179648" crc="AB96370D" md5="3F78D59B9314BC07DF5E56D1F19E628C"/>
 	</game>
 	<game name="战斗潜水艇（简）CSLRXYZ 完全汉化 - 86923FC8">
 		<rom name="战斗潜水艇（简）CSLRXYZ 完全汉化.sfc" size="1048576" crc="86923FC8" md5="2886B9BB082D9691986F2BB4A5A61208"/>
@@ -292,8 +298,8 @@
 	<game name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20241010 汉化TV14动画 - F5A42FDE">
 		<rom name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20241010 汉化TV14动画.smc" size="2097152" crc="F5A42FDE" md5="DE311CA2ACECE9D598F9943A3F9E3455"/>
 	</game>
-	<game name="松村邦洋传（简）1d4444 20240416 v0.8 - 95B5E7FD">
-		<rom name="松村邦洋传（简）1d4444 20240416 v0.8.sfc" size="3145728" crc="95B5E7FD" md5="2A0DA34B412F2CCAC76A289A897A7319"/>
+	<game name="松村邦洋传（简）1d 20240416 v0.8 - 95B5E7FD">
+		<rom name="松村邦洋传（简）1d 20240416 v0.8.sfc" size="3145728" crc="95B5E7FD" md5="2A0DA34B412F2CCAC76A289A897A7319"/>
 	</game>
 	<game name="梦幻模拟战（简）madcell DEHEPO 20101105 - 63EACA14">
 		<rom name="梦幻模拟战（简）madcell DEHEPO 20101105.sfc" size="3145728" crc="63EACA14" md5="D0DCDF3371D01E11283D8F2FE13445B2"/>
@@ -406,8 +412,8 @@
 	<game name="盖亚幻想纪（简）MAGICMIRROR v1.0 - 29CFFB56">
 		<rom name="盖亚幻想纪（简）MAGICMIRROR v1.0.sfc" size="4194304" crc="29CFFB56" md5="FA2B9FDE879B0432EE3ABBAF03F84B85"/>
 	</game>
-	<game name="石榴之味（简）1d4444 20241101 v0.9 - 69D7C388">
-		<rom name="石榴之味（简）1d4444 20241101 v0.9.smc" size="2097152" crc="69D7C388" md5="38D7221E743A684590CE5F1E207C2EF6"/>
+	<game name="石榴之味（简）1d 20241101 v0.9 - 69D7C388">
+		<rom name="石榴之味（简）1d 20241101 v0.9.smc" size="2097152" crc="69D7C388" md5="38D7221E743A684590CE5F1E207C2EF6"/>
 	</game>
 	<game name="神奇计划J机械少年匹诺（简）hlken 20180520 - 9CA85AE4">
 		<rom name="神奇计划J机械少年匹诺（简）hlken 20180520.sfc" size="4194304" crc="9CA85AE4" md5="9543CA9434D806CB01A0C9D87BBBB429"/>
@@ -631,10 +637,10 @@
 	<game name="龙珠Z超悟空传：觉醒（简）天空 少量汉化 - 4E204DE5">
 		<rom name="龙珠Z超悟空传：觉醒（简）天空 少量汉化.sfc" size="2097152" crc="4E204DE5" md5="0ACFD5BBCAD1D38B8F4AE145B409B4B9"/>
 	</game>
-	<game name="龙虎之拳（简）1d4444 20241001 v1.0 - E7D6B9FB">
-		<rom name="龙虎之拳（简）1d4444 20241001 v1.0.smc" size="2097152" crc="E7D6B9FB" md5="A94E8B12B2B683032514662ADD38AA74"/>
+	<game name="龙虎之拳（简）1d 20241001 v1.0 - E7D6B9FB">
+		<rom name="龙虎之拳（简）1d 20241001 v1.0.smc" size="2097152" crc="E7D6B9FB" md5="A94E8B12B2B683032514662ADD38AA74"/>
 	</game>
-	<game name="龙虎之拳（简）1d4444 20241013 v1.01 - 788D13A4">
-		<rom name="龙虎之拳（简）1d4444 20241013 v1.01.smc" size="2097152" crc="788D13A4" md5="81C8CD090E2EEF26024BF4F303FA74BA"/>
+	<game name="龙虎之拳（简）1d 20241013 v1.01 - 788D13A4">
+		<rom name="龙虎之拳（简）1d 20241013 v1.01.smc" size="2097152" crc="788D13A4" md5="81C8CD090E2EEF26024BF4F303FA74BA"/>
 	</game>
 </datafile>

@@ -105,7 +105,7 @@
 1943 - The Battle of Valhalla|1943：中途岛海战
 1943 Kai|1943改
 1950s Lawn Mower Kids|
-1988 Jinpai Mali|
+1988 Jinpai Mali|1988金牌玛丽
 1991 Du Ma Racing|91赛马
 1992 Gaishi 190-in-1 Hua Mian Xuan Guan|
 1995 Super Value Collection 2-in-1|
@@ -6101,7 +6101,7 @@ Galactic Siege|
 Galactic Taz Ball|银河塔兹球
 Galactik Football|银河系足球世界杯
 Galaga|大蜜蜂
-Galaga '88|小蜜蜂日版
+Galaga '88|小蜜蜂
 Galaga '90|小蜜蜂美版
 Galaga - Demons of Death|大蜜蜂
 Galaga - Destination Earth|太空小蜜蜂
@@ -9176,7 +9176,7 @@ Kyouryuu Taisen Dino Champ - Saikyou DNA Hakkutsu Daisakusen|恐龙对战-最强
 Kyuukai Douchuuki|
 Kyuukyoku Harikiri Koushien|究极甲子园
 Kyuukyoku Harikiri Stadium|究极棒球
-Kyuukyoku Harikiri Stadium - '88 Senshu Shin Data Version|究极棒球 '88
+Kyuukyoku Harikiri Stadium - '88 Senshu Shin Data Version|究极棒球88
 Kyuukyoku Harikiri Stadium - Heisei Gannen Ban|究极棒球平成元年版
 Kyuukyoku Harikiri Stadium III|究极棒球3
 Kyuukyoku Mahjong - Idol Graphic|
@@ -10735,8 +10735,8 @@ Metroid|密特罗德
 Metroid - Samus Returns|
 Metroid - Zero Mission|密特罗德：零点任务
 Metroid Fusion|密特罗德：融合
-Metroid II - Return Of Samus|
-Metroid II - Return of Samus|密特罗德II萨姆斯归来
+Metroid II - Return Of Samus|密特罗德2萨姆斯归来
+Metroid II - Return of Samus|密特罗德2萨姆斯归来
 Metroid Prime|密特罗德究极
 Metroid Prime - Blast Ball|
 Metroid Prime - Federation Force|
@@ -11029,7 +11029,7 @@ Moero!! Juudou Warriors|燃烧柔道战士
 Moero!! Pro Soccer|燃烧职业足球
 Moero!! Pro Tennis|燃烧职业网球
 Moero!! Pro Yakyuu|燃烧职业棒球
-Moero!! Pro Yakyuu '88 - Ketteiban|燃烧职业棒球 '88 - 决定版
+Moero!! Pro Yakyuu '88 - Ketteiban|燃烧职业棒球88
 Moero!! Pro Yakyuu 2016|
 Moeru! Oniisan|深山原始人
 Moetan DS|萌单 DS
@@ -13749,7 +13749,7 @@ Pro Wres|专业摔跤
 Pro Wrestling|雷霆摔交
 Pro Yakyuu - Family Stadium|拿姆科职业棒球
 Pro Yakyuu - Family Stadium '87|拿姆科职业棒球 '87
-Pro Yakyuu - Family Stadium '88|拿姆科职业棒球 '88
+Pro Yakyuu - Family Stadium '88|拿姆科职业棒球88
 Pro Yakyuu Famista 2011|职业棒球 家庭竞技场2011SPG
 Pro Yakyuu Famista Climax|职业棒球 家庭竞技场 顶级赛事
 Pro Yakyuu Famista DS|明星职业棒球DS
@@ -17064,7 +17064,7 @@ Super Puzzle Bobble Advance|超级泡泡龙A
 Super Puzzle Fighter II|超级方块战士II
 Super R-Type|超级异形战机
 Super R.B.I. Baseball|超级RBI棒球
-Super Real Baseball '88|超真实棒球 '88
+Super Real Baseball '88|超真实棒球88
 Super Real Basketball|
 Super Real Bout 97|
 Super Real Fishing|超拟真钓鱼

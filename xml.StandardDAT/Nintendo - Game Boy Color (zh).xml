@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Color (zh)</name><version>20250100</version></header>
+	<header><name>Nintendo - Game Boy Color (zh)</name><version>20250200</version></header>
 	<game name="007：黑日危机（繁） - D33D0CDD">
 		<rom name="007：黑日危机（繁）.gbc" size="2097152" crc="D33D0CDD" md5="AAE37F7E9869A07C777077FF4043367E"/>
 	</game>
@@ -481,11 +481,11 @@
 	<game name="宠物小精灵 结金塔之王（繁）广誉 - 24EE5C85">
 		<rom name="宠物小精灵 结金塔之王（繁）广誉.gbc" size="1048576" crc="24EE5C85" md5="9536291472DED8E881269E4DDB0243CD"/>
 	</game>
-	<game name="密特罗德2萨姆斯归来（简）翼势力 GB着色1.3 - B3E9BCFB">
-		<rom name="密特罗德2萨姆斯归来（简）翼势力 GB着色1.3.gbc" size="1048576" crc="B3E9BCFB" md5="A8C657494024BB4F844E4B137FD2287E"/>
+	<game name="密特罗德2萨姆斯归来（简）翼势力 v1.3 GB着色 - B3E9BCFB">
+		<rom name="密特罗德2萨姆斯归来（简）翼势力 v1.3 GB着色.gbc" size="1048576" crc="B3E9BCFB" md5="A8C657494024BB4F844E4B137FD2287E"/>
 	</game>
-	<game name="密特罗德II萨姆斯归来（简）翼势力 20211231 v1.3 GB着色汉化 - 664918F4">
-		<rom name="密特罗德II萨姆斯归来（简）翼势力 20211231 v1.3 GB着色汉化.gbc" size="1048576" crc="664918F4" md5="BF49A2A456B8CFA791BEFFC617FEF4F7"/>
+	<game name="密特罗德2萨姆斯归来（简）翼势力 20211231 v1.3 GB着色汉化 - 664918F4">
+		<rom name="密特罗德2萨姆斯归来（简）翼势力 20211231 v1.3 GB着色汉化.gbc" size="1048576" crc="664918F4" md5="BF49A2A456B8CFA791BEFFC617FEF4F7"/>
 	</game>
 	<game name="富甲三国（简）外星 星夜之幻 babypkzhu 20241011 fixDump - 2D4753B3">
 		<rom name="富甲三国（简）外星 星夜之幻 babypkzhu 20241011 fixDump.gbc" size="1048576" crc="2D4753B3" md5="E076A8F08A63F1786F762DE0CB681352"/>

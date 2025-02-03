@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250100</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250200</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -2044,17 +2044,20 @@
 	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME YKALJSHSH 2014 最终版 - 7832AA80">
 		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME YKALJSHSH 2014 最终版.nds" size="124613180" crc="7832AA80" md5="5C5899A37F89699D38E36AB71FFEEEC4"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）Soma Yome 家在矿石镇 20231112 v1.0 日语配音 - 339597BE">
-		<rom name="牧场物语：欢迎来到风之集市（简）Soma Yome 家在矿石镇 20231112 v1.0 日语配音.nds" size="134217728" crc="339597BE" md5="8F5707F5784BA1D4F7FB8BAC5D64813A"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 日语配音 - 339597BE">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 日语配音.nds" size="134217728" crc="339597BE" md5="8F5707F5784BA1D4F7FB8BAC5D64813A"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）Soma Yome 家在矿石镇 20231112 v1.0 汉语配音 - 81CB1431">
-		<rom name="牧场物语：欢迎来到风之集市（简）Soma Yome 家在矿石镇 20231112 v1.0 汉语配音.nds" size="134217728" crc="81CB1431" md5="F5F099D2459F2B97BE64B5CB89C3F00A"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 汉语配音 - 81CB1431">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 汉语配音.nds" size="134217728" crc="81CB1431" md5="F5F099D2459F2B97BE64B5CB89C3F00A"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）Soma Yome 家在矿石镇 20231122 v1.1 日语配音2024精修 - E5610353">
-		<rom name="牧场物语：欢迎来到风之集市（简）Soma Yome 家在矿石镇 20231122 v1.1 日语配音2024精修.nds" size="134217728" crc="E5610353" md5="135B60183156CB22D5B5ECB202A67CEF"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 日语配音2024精修 - E5610353">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 日语配音2024精修.nds" size="134217728" crc="E5610353" md5="135B60183156CB22D5B5ECB202A67CEF"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）Soma Yome 家在矿石镇 20231122 v1.1 汉语配音2024精修 - 573F80DC">
-		<rom name="牧场物语：欢迎来到风之集市（简）Soma Yome 家在矿石镇 20231122 v1.1 汉语配音2024精修.nds" size="134217728" crc="573F80DC" md5="26073FD1338E81C510BE2B910747115E"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 汉语配音2024精修 - 573F80DC">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 汉语配音2024精修.nds" size="134217728" crc="573F80DC" md5="26073FD1338E81C510BE2B910747115E"/>
+	</game>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 2014 最终版 日版片头 - 5F4CDF3E">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 2014 最终版 日版片头.nds" size="124613180" crc="5F4CDF3E" md5="1EF6B1A50EC309533ED1DF9B836D8182"/>
 	</game>
 	<game name="牧场物语：精灵驿站（简）NDSBBS MOBILE v02 测试 - 806CEF17">
 		<rom name="牧场物语：精灵驿站（简）NDSBBS MOBILE v02 测试.nds" size="33554432" crc="806CEF17" md5="617704516BB9FC354BBC053E2978D4A1"/>

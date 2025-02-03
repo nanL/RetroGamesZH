@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20250100</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20250200</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -754,17 +754,17 @@
 	<game name="影音中心（简）神游 - EC8EB115">
 		<rom name="影音中心（简）神游.gba" size="16777216" crc="EC8EB115" md5="6EF9674E95AE4D230C44183AA3B7B4CF"/>
 	</game>
-	<game name="彼岸花（简）1d4444 20240401 v0.1 - 689B0482">
-		<rom name="彼岸花（简）1d4444 20240401 v0.1.gba" size="8388608" crc="689B0482" md5="A0854E6757C62A50525AFF5E7EFCBCCD"/>
+	<game name="彼岸花（简）1d 20240401 v0.1 - 689B0482">
+		<rom name="彼岸花（简）1d 20240401 v0.1.gba" size="8388608" crc="689B0482" md5="A0854E6757C62A50525AFF5E7EFCBCCD"/>
 	</game>
-	<game name="彼岸花（简）1d4444 20240411 v0.4 - 54C95CFF">
-		<rom name="彼岸花（简）1d4444 20240411 v0.4.gba" size="8388608" crc="54C95CFF" md5="4C043B6D150AEBFBC8B013DE67573114"/>
+	<game name="彼岸花（简）1d 20240411 v0.4 - 54C95CFF">
+		<rom name="彼岸花（简）1d 20240411 v0.4.gba" size="8388608" crc="54C95CFF" md5="4C043B6D150AEBFBC8B013DE67573114"/>
 	</game>
-	<game name="彼岸花（简）1d4444 20240514 v0.6 - C1E350CE">
-		<rom name="彼岸花（简）1d4444 20240514 v0.6.gba" size="8388608" crc="C1E350CE" md5="5EFBE41750FE94E8036B7FB32A29B1CB"/>
+	<game name="彼岸花（简）1d 20240514 v0.6 - C1E350CE">
+		<rom name="彼岸花（简）1d 20240514 v0.6.gba" size="8388608" crc="C1E350CE" md5="5EFBE41750FE94E8036B7FB32A29B1CB"/>
 	</game>
-	<game name="彼岸花（简）1d4444 20240701 v1.0 - 7B7C495D">
-		<rom name="彼岸花（简）1d4444 20240701 v1.0.gba" size="8388608" crc="7B7C495D" md5="B795AC72AE2096C6BC35040E2D270E41"/>
+	<game name="彼岸花（简）1d 20240701 v1.0 - 7B7C495D">
+		<rom name="彼岸花（简）1d 20240701 v1.0.gba" size="8388608" crc="7B7C495D" md5="B795AC72AE2096C6BC35040E2D270E41"/>
 	</game>
 	<game name="心跳回忆 Demo（改）星组 v1.5 改版演示 - 11881A86">
 		<rom name="心跳回忆 Demo（改）星组 v1.5 改版演示.gba" size="864752" crc="11881A86" md5="EB0B4D7B0C96FB7648E57471C3A75BCF"/>
@@ -781,11 +781,11 @@
 	<game name="忍者神龟2（简）Unl yy小龙虾 - F4641711">
 		<rom name="忍者神龟2（简）Unl yy小龙虾.gba" size="33554432" crc="F4641711" md5="28CEBF1C1138771D3C55BEEBF589FC52"/>
 	</game>
-	<game name="忘却的旋律（简）1d4444 20240518 v0.8 DeepL机翻 - 7B8B601B">
-		<rom name="忘却的旋律（简）1d4444 20240518 v0.8 DeepL机翻.gba" size="8388608" crc="7B8B601B" md5="BB5244AD392C91F7EF4EF6732C9BDC1E"/>
+	<game name="忘却的旋律（简）1d 20240518 v0.8 DeepL机翻 - 7B8B601B">
+		<rom name="忘却的旋律（简）1d 20240518 v0.8 DeepL机翻.gba" size="8388608" crc="7B8B601B" md5="BB5244AD392C91F7EF4EF6732C9BDC1E"/>
 	</game>
-	<game name="忘却的旋律（简）1d4444 20240518 v0.8 有道机翻 - 4C867789">
-		<rom name="忘却的旋律（简）1d4444 20240518 v0.8 有道机翻.gba" size="8388608" crc="4C867789" md5="3F183AC97B437A124FA9E2DC4F63E4FC"/>
+	<game name="忘却的旋律（简）1d 20240518 v0.8 有道机翻 - 4C867789">
+		<rom name="忘却的旋律（简）1d 20240518 v0.8 有道机翻.gba" size="8388608" crc="4C867789" md5="3F183AC97B437A124FA9E2DC4F63E4FC"/>
 	</game>
 	<game name="快打旋风One（简）天使 madcell - E5AAB7F7">
 		<rom name="快打旋风One（简）天使 madcell.gba" size="4224224" crc="E5AAB7F7" md5="A6BC46740EF75C752C271BF4B534083E"/>
@@ -1849,11 +1849,11 @@
 	<game name="钻地小子A 不可思议的细菌（简）PGCG - 29C0FF31">
 		<rom name="钻地小子A 不可思议的细菌（简）PGCG.gba" size="8388608" crc="29C0FF31" md5="FEC9A7F2638D170FBEC7757032AC9267"/>
 	</game>
-	<game name="铁拳小子（简）1d4444 20240513 v0.8 - E61F9CD0">
-		<rom name="铁拳小子（简）1d4444 20240513 v0.8.gba" size="16777216" crc="E61F9CD0" md5="0583DDEB8F45349F80C065D27B07732A"/>
+	<game name="铁拳小子（简）1d 20240513 v0.8 - E61F9CD0">
+		<rom name="铁拳小子（简）1d 20240513 v0.8.gba" size="16777216" crc="E61F9CD0" md5="0583DDEB8F45349F80C065D27B07732A"/>
 	</game>
-	<game name="铁拳小子（简）1d4444 20240520 v1.0 - 877DDB0E">
-		<rom name="铁拳小子（简）1d4444 20240520 v1.0.gba" size="16777216" crc="877DDB0E" md5="07D364849783C378B46C650B66F6305B"/>
+	<game name="铁拳小子（简）1d 20240520 v1.0 - 877DDB0E">
+		<rom name="铁拳小子（简）1d 20240520 v1.0.gba" size="16777216" crc="877DDB0E" md5="07D364849783C378B46C650B66F6305B"/>
 	</game>
 	<game name="铁臂阿童木 阿童木之心的秘密（简）心灵的冬天 v1.0 - C08048E8">
 		<rom name="铁臂阿童木 阿童木之心的秘密（简）心灵的冬天 v1.0.gba" size="8702208" crc="C08048E8" md5="94EDBCEE6AB50B8F2516F1E98378D9A1"/>
