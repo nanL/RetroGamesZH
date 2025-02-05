@@ -529,8 +529,8 @@
 	<game name="宝可梦：叶绿（简）天涯 386 v3 - 2921789D">
 		<rom name="宝可梦：叶绿（简）天涯 386 v3.gba" size="16777216" crc="2921789D" md5="427092C26A5A11F253B3486DEC84B437"/>
 	</game>
-	<game name="宝可梦：叶绿（简）小河流水390 386 v4P 免通讯进化修正版 - 7DA0896E">
-		<rom name="宝可梦：叶绿（简）小河流水390 386 v4P 免通讯进化修正版.gba" size="16777216" crc="7DA0896E" md5="212719F16BB86E686DED63B44CE1340B"/>
+	<game name="宝可梦：叶绿（简）小河流水390 386 v4P 免通讯进化修正 - 7DA0896E">
+		<rom name="宝可梦：叶绿（简）小河流水390 386 v4P 免通讯进化修正.gba" size="16777216" crc="7DA0896E" md5="212719F16BB86E686DED63B44CE1340B"/>
 	</game>
 	<game name="宝可梦：叶绿（简）洛水惊鸿 20241113 官译 - 57DA095A">
 		<rom name="宝可梦：叶绿（简）洛水惊鸿 20241113 官译.gba" size="16777216" crc="57DA095A" md5="2293F202B7DC439AA4A71F5278770630"/>
@@ -676,8 +676,14 @@
 	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241107 官译 - 547884F8">
 		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241107 官译.gba" size="16777216" crc="547884F8" md5="8FE0907F059C33D17DC151051424D4FF"/>
 	</game>
-	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241118 官译八代 - 4ABAF12D">
-		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241118 官译八代.gba" size="16777216" crc="4ABAF12D" md5="707374C05226BA9F34A7537ECDE78698"/>
+	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241118 八代官译 - 4ABAF12D">
+		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241118 八代官译.gba" size="16777216" crc="4ABAF12D" md5="707374C05226BA9F34A7537ECDE78698"/>
+	</game>
+	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241202 八代官译 - 1D49F900">
+		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241202 八代官译.gba" size="16777216" crc="1D49F900" md5="985C4E4A6DF680A9831264FA5EACEA4E"/>
+	</game>
+	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241202 八代官译不能跑步 - 1D6BC64F">
+		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241202 八代官译不能跑步.gba" size="16777216" crc="1D6BC64F" md5="F4ED3C8856BD7207D9A7F5BA43F7F921"/>
 	</game>
 	<game name="宝可梦：蓝宝石（简）202 时钟修正 - 882BF9AD">
 		<rom name="宝可梦：蓝宝石（简）202 时钟修正.gba" size="8388608" crc="882BF9AD" md5="292651C53A098162A3FEDEE428A74AB0"/>
@@ -841,26 +847,14 @@
 	<game name="我们的太阳：太阳动作RPG（简）TGB - 01E74D21">
 		<rom name="我们的太阳：太阳动作RPG（简）TGB.gba" size="16777216" crc="01E74D21" md5="0B29780E53CB61948E0A686A9A465636"/>
 	</game>
-	<game name="我们的太阳：太阳动作RPG（简）TGB 逆转ACE 太阳少年 - AC52552F">
-		<rom name="我们的太阳：太阳动作RPG（简）TGB 逆转ACE 太阳少年.gba" size="16777216" crc="AC52552F" md5="55C24E94219DBD814CEB8ED455AC9B10"/>
+	<game name="我们的太阳：太阳动作RPG（简）TGB 逆转ACE 太阳少年 20160712 - AC52552F">
+		<rom name="我们的太阳：太阳动作RPG（简）TGB 逆转ACE 太阳少年 20160712.gba" size="16777216" crc="AC52552F" md5="55C24E94219DBD814CEB8ED455AC9B10"/>
 	</game>
-	<game name="我们的太阳：太阳动作RPG（简）太阳少年 20180421 新重译版 - 674FC7B0">
-		<rom name="我们的太阳：太阳动作RPG（简）太阳少年 20180421 新重译版.gba" size="16777216" crc="674FC7B0" md5="A7F02E352087FCE60402D1E71856B0E3"/>
+	<game name="我们的太阳：太阳动作RPG（简）太阳少年 20190401 新重译版 - 674FC7B0">
+		<rom name="我们的太阳：太阳动作RPG（简）太阳少年 20190401 新重译版.gba" size="16777216" crc="674FC7B0" md5="A7F02E352087FCE60402D1E71856B0E3"/>
 	</game>
-	<game name="我们的太阳：太阳少年加戈（简）TGB 逆转ACE 测试 - 54E8DA86">
-		<rom name="我们的太阳：太阳少年加戈（简）TGB 逆转ACE 测试.gba" size="16777216" crc="54E8DA86" md5="0E6538EB3949523A63D16E73B01B5D78"/>
-	</game>
-	<game name="我们的太阳：太阳少年加戈（简）TGB 逆转ACE 太阳少年 - 1036EF7C">
-		<rom name="我们的太阳：太阳少年加戈（简）TGB 逆转ACE 太阳少年.gba" size="16777216" crc="1036EF7C" md5="A38A191C2598A6E19DC4E10BD990BCEC"/>
-	</game>
-	<game name="我们的太阳：太阳少年加戈（简）TGB 逆转ACE 太阳少年 v2.0 - 1642B024">
-		<rom name="我们的太阳：太阳少年加戈（简）TGB 逆转ACE 太阳少年 v2.0.gba" size="16777216" crc="1642B024" md5="F8CFAB7C4079B63B703B83B539B94459"/>
-	</game>
-	<game name="我们的太阳：逆袭的萨巴塔（简）TGB 逆转ACE 测试 - 973A4D94">
-		<rom name="我们的太阳：逆袭的萨巴塔（简）TGB 逆转ACE 测试.gba" size="16777216" crc="973A4D94" md5="E87F4BB139041C53255E1C4FEE9A8655"/>
-	</game>
-	<game name="我们的太阳：逆袭的萨巴塔（简）TGB 逆转ACE 太阳少年 20160622 - 29CA5AE1">
-		<rom name="我们的太阳：逆袭的萨巴塔（简）TGB 逆转ACE 太阳少年 20160622.gba" size="16777216" crc="29CA5AE1" md5="07A82ACEACD36BFCD6F48520AB1AC045"/>
+	<game name="我们的太阳：太阳动作RPG（简）卧看微尘 20240917 移除阳光补丁 - 59A1078A">
+		<rom name="我们的太阳：太阳动作RPG（简）卧看微尘 20240917 移除阳光补丁.gba" size="16777216" crc="59A1078A" md5="AF4366408E7B02A1804E07369F857C95"/>
 	</game>
 	<game name="我是航空管制员（简）熊组 - 1373EB55">
 		<rom name="我是航空管制员（简）熊组.gba" size="8388608" crc="1373EB55" md5="C2F048D880627D5014FE98D7B89FAD2E"/>
@@ -930,6 +924,15 @@
 	</game>
 	<game name="斯科基病毒：蜂巢（简）河豚幻想 20240629 - 2FCCD1EF">
 		<rom name="斯科基病毒：蜂巢（简）河豚幻想 20240629.gba" size="16777216" crc="2FCCD1EF" md5="CF67322F5D5CDCCD8EE1F29F00B337A6"/>
+	</game>
+	<game name="新我们的太阳：逆袭的萨巴塔（简）TGB 逆转ACE 测试 - 973A4D94">
+		<rom name="新我们的太阳：逆袭的萨巴塔（简）TGB 逆转ACE 测试.gba" size="16777216" crc="973A4D94" md5="E87F4BB139041C53255E1C4FEE9A8655"/>
+	</game>
+	<game name="新我们的太阳：逆袭的萨巴塔（简）TGB 逆转ACE 太阳少年 20160712 - 29CA5AE1">
+		<rom name="新我们的太阳：逆袭的萨巴塔（简）TGB 逆转ACE 太阳少年 20160712.gba" size="16777216" crc="29CA5AE1" md5="07A82ACEACD36BFCD6F48520AB1AC045"/>
+	</game>
+	<game name="新我们的太阳：逆袭的萨巴塔（简）卧看微尘 20240917 移除阳光补丁 - A233443D">
+		<rom name="新我们的太阳：逆袭的萨巴塔（简）卧看微尘 20240917 移除阳光补丁.gba" size="16777216" crc="A233443D" md5="027A5A5AD4AD87EACDA04073F330C855"/>
 	</game>
 	<game name="新约圣剑传说（简）NECRO 天使 狼组 勇者 - 04B8220C">
 		<rom name="新约圣剑传说（简）NECRO 天使 狼组 勇者.gba" size="16777216" crc="04B8220C" md5="510E54F22787984E33F61502712A9BC6"/>
@@ -1203,6 +1206,9 @@
 	</game>
 	<game name="游戏王! 怪兽决斗国际版2（简）天使 - 1C1BF15A">
 		<rom name="游戏王! 怪兽决斗国际版2（简）天使.gba" size="16777216" crc="1C1BF15A" md5="3613E82C06E8A4F52EAACC602082BFB1"/>
+	</game>
+	<game name="游戏王-地牢方块妖怪（简）Advance 20241217 v1.0 - 1EB24715">
+		<rom name="游戏王-地牢方块妖怪（简）Advance 20241217 v1.0.gba" size="16777216" crc="1EB24715" md5="78EC7593D7B6B9074DADB48C5D7CA609"/>
 	</game>
 	<game name="游戏王7-决斗都市传说（简）Advance 20230601 v1.02 - 34A74E92">
 		<rom name="游戏王7-决斗都市传说（简）Advance 20230601 v1.02.gba" size="16777216" crc="34A74E92" md5="3F33905C918545D54294B2D8BBDF0CDD"/>
@@ -1581,6 +1587,18 @@
 	</game>
 	<game name="纯情房东俏房客A祝福之钟声（简）PGCG CGP - A857303A">
 		<rom name="纯情房东俏房客A祝福之钟声（简）PGCG CGP.gba" size="9177344" crc="A857303A" md5="0BA817745A3AF8811296A97EACC982DE"/>
+	</game>
+	<game name="续我们的太阳：太阳少年强戈（简）TGB 逆转ACE 测试 - 54E8DA86">
+		<rom name="续我们的太阳：太阳少年强戈（简）TGB 逆转ACE 测试.gba" size="16777216" crc="54E8DA86" md5="0E6538EB3949523A63D16E73B01B5D78"/>
+	</game>
+	<game name="续我们的太阳：太阳少年强戈（简）TGB 逆转ACE 太阳少年 20120206 - 1036EF7C">
+		<rom name="续我们的太阳：太阳少年强戈（简）TGB 逆转ACE 太阳少年 20120206.gba" size="16777216" crc="1036EF7C" md5="A38A191C2598A6E19DC4E10BD990BCEC"/>
+	</game>
+	<game name="续我们的太阳：太阳少年强戈（简）TGB 逆转ACE 太阳少年 20160712 v2.0 - 1642B024">
+		<rom name="续我们的太阳：太阳少年强戈（简）TGB 逆转ACE 太阳少年 20160712 v2.0.gba" size="16777216" crc="1642B024" md5="F8CFAB7C4079B63B703B83B539B94459"/>
+	</game>
+	<game name="续我们的太阳：太阳少年强戈（简）卧看微尘 20240917 移除阳光补丁 - E9D60F1A">
+		<rom name="续我们的太阳：太阳少年强戈（简）卧看微尘 20240917 移除阳光补丁.gba" size="16777216" crc="E9D60F1A" md5="59CDE4BC79E9344385A899849A8DC730"/>
 	</game>
 	<game name="网球王子 天才少年学院（简）PGCG - F7764506">
 		<rom name="网球王子 天才少年学院（简）PGCG.gba" size="8388608" crc="F7764506" md5="88DDBEABE88DD058DBE798F9966B063E"/>

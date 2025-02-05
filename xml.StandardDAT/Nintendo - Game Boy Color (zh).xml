@@ -526,6 +526,9 @@
 	<game name="怪兽战略：迷宫兵团战（简）willzyj 20250106 修正小字 - 2B7797BB">
 		<rom name="怪兽战略：迷宫兵团战（简）willzyj 20250106 修正小字.gbc" size="4194304" crc="2B7797BB" md5="17532BD6A19B66598ADECACB2D16B049"/>
 	</game>
+	<game name="怪兽战略：迷宫兵团战（简）江户城子 willzyj 20250111 v1.1 - 28406C6E">
+		<rom name="怪兽战略：迷宫兵团战（简）江户城子 willzyj 20250111 v1.1.gbc" size="4194304" crc="28406C6E" md5="99321C33018B26C5B18EE52137E2C572"/>
+	</game>
 	<game name="恶狼传说：世纪之战（繁） - 219DECF9">
 		<rom name="恶狼传说：世纪之战（繁）.gbc" size="1048576" crc="219DECF9" md5="6573E33B2EEDC2AE15CB11550150892B"/>
 	</game>
@@ -946,6 +949,9 @@
 	<game name="神雕奇侠（简）外星 星夜之幻 babypkzhu 20241009 fixDump - 65855423">
 		<rom name="神雕奇侠（简）外星 星夜之幻 babypkzhu 20241009 fixDump.gbc" size="2097152" crc="65855423" md5="6A83533E5FB0CABC1BDD136B9DBB6352"/>
 	</game>
+	<game name="神鬼帝国之恶魔城（繁）新特奇 - 516DD4F8">
+		<rom name="神鬼帝国之恶魔城（繁）新特奇.gbc" size="4194304" crc="516DD4F8" md5="5B4F2DB649E02EC1FF69ACA4D9C4E8AE"/>
+	</game>
 	<game name="精灵王（繁）新特奇 精灵王 - 15A4B4EC">
 		<rom name="精灵王（繁）新特奇 精灵王.gbc" size="2097152" crc="15A4B4EC" md5="63D2A1E2CFF88F8EEA91BCFC9AC9DE1C"/>
 	</game>
@@ -1032,6 +1038,9 @@
 	</game>
 	<game name="超级格斗99（繁）广誉 - CE41B1BB">
 		<rom name="超级格斗99（繁）广誉.gbc" size="2097152" crc="CE41B1BB" md5="64A63155C1500B50D6445558BD715787"/>
+	</game>
+	<game name="超级音速小子II（繁）新特奇 - F717CD3F">
+		<rom name="超级音速小子II（繁）新特奇.gbc" size="4194304" crc="F717CD3F" md5="0B9B74C048C5F5F647599F63207CDBB5"/>
 	</game>
 	<game name="超级马力欧乐园2DX6个金币（简）VERKKARS 上色版 - 94F396B6">
 		<rom name="超级马力欧乐园2DX6个金币（简）VERKKARS 上色版.gbc" size="1048576" crc="94F396B6" md5="8205CB7045C3BCB41627F33A03EC84F5"/>

@@ -772,6 +772,9 @@
 	<game name="勇者斗恶龙2恶灵的众神（简）外星 庞先生 - E9E0E46D">
 		<rom name="勇者斗恶龙2恶灵的众神（简）外星 庞先生.nes" size="262160" crc="E9E0E46D" md5="8B3620512B12BDD16ED856011AB803A4"/>
 	</game>
+	<game name="勇者斗恶龙2恶灵的众神（简）外星 庞先生 - 125C9077">
+		<rom name="勇者斗恶龙2恶灵的众神（简）外星 庞先生.nes" size="262160" crc="125C9077" md5="8A6C9D8BF8CCA653F3DC4D7A1046EFC5"/>
+	</game>
 	<game name="勇者斗恶龙3 罪恶渊源（简）晶科泰 - 33253806">
 		<rom name="勇者斗恶龙3 罪恶渊源（简）晶科泰.nes" size="1048592" crc="33253806" md5="C6D02D2328DEC6C787D0E96AA780F7B6"/>
 	</game>
@@ -952,11 +955,17 @@
 	<game name="古巴战士（简）惊风 - 77189DD9">
 		<rom name="古巴战士（简）惊风.nes" size="262160" crc="77189DD9" md5="5F34AF56FD022C6197A60D89BE33B42E"/>
 	</game>
+	<game name="古巴战士（简） - A9847F42">
+		<rom name="古巴战士（简）.nes" size="262160" crc="A9847F42" md5="6AF468F60E845AD0D9B6101AA7A99419"/>
+	</game>
 	<game name="古巴战士（简）惊风 - AB222232">
 		<rom name="古巴战士（简）惊风.nes" size="262160" crc="AB222232" md5="F507ED2F7F8B5EC676B2EF07E26F70C3"/>
 	</game>
 	<game name="古巴战士（简）惊风 完整汉化防闪版 - 09C526B5">
 		<rom name="古巴战士（简）惊风 完整汉化防闪版.nes" size="262160" crc="09C526B5" md5="697B75D58263689007FACAE6FD69C40B"/>
+	</game>
+	<game name="古巴战士（简）惊风 - 0D2B7EDC">
+		<rom name="古巴战士（简）惊风.nes" size="262160" crc="0D2B7EDC" md5="9C3CEE5FE9C78B4985979D5AA03D13EA"/>
 	</game>
 	<game name="可鲁可鲁世界（简）虫儿 - 58317A89">
 		<rom name="可鲁可鲁世界（简）虫儿.nes" size="24592" crc="58317A89" md5="339DA9AA34CB3E42B8E3770A05180AAC"/>
@@ -1540,6 +1549,18 @@
 	<game name="学生电脑（简）小视霸 - 59C6DDB7">
 		<rom name="学生电脑（简）小视霸.nes" size="524304" crc="59C6DDB7" md5="ABCB7327FB703493C28133EBB3A00D62"/>
 	</game>
+	<game name="宇宙巡航机（简）烈火暴龙 - A023EB04">
+		<rom name="宇宙巡航机（简）烈火暴龙.nes" size="262160" crc="A023EB04" md5="6E46B9374F046D6D12F2C5A3A016DD3D"/>
+	</game>
+	<game name="宇宙巡航机（繁）罗云 - A3A1F836">
+		<rom name="宇宙巡航机（繁）罗云.nes" size="65552" crc="A3A1F836" md5="68F95E63E893A2E59CE2201CA39A8424"/>
+	</game>
+	<game name="宇宙巡航机（简）高伟 v0.9 - E7AF94C3">
+		<rom name="宇宙巡航机（简）高伟 v0.9.nes" size="65552" crc="E7AF94C3" md5="4E2DDFC455BD49C7576A0E6E2DE7D9CF"/>
+	</game>
+	<game name="宇宙巡航机（简）虫儿 - B5A5644E">
+		<rom name="宇宙巡航机（简）虫儿.nes" size="65552" crc="B5A5644E" md5="ED7BC9335DADA9DFBADE44A74187D1FB"/>
+	</game>
 	<game name="宇宙巡航机2（简）MS - E9A2DF49">
 		<rom name="宇宙巡航机2（简）MS.nes" size="262160" crc="E9A2DF49" md5="8186F7B9B1A3679720DA8E9233452CCE"/>
 	</game>
@@ -1945,11 +1966,11 @@
 	<game name="忍者使徒 - 龙牙（简）少年不知愁 - 05FAC5D5">
 		<rom name="忍者使徒 - 龙牙（简）少年不知愁.nes" size="262160" crc="05FAC5D5" md5="77F7674BF8A0ADCC27C88BEBAA1DA422"/>
 	</game>
-	<game name="忍者君 阿修罗之章（简）金明 - 6BC2FE20">
-		<rom name="忍者君 阿修罗之章（简）金明.nes" size="131088" crc="6BC2FE20" md5="479FA7B6C17016E542420CBF09CAC25D"/>
+	<game name="忍者君：阿修罗之章（简）金明 - 6BC2FE20">
+		<rom name="忍者君：阿修罗之章（简）金明.nes" size="131088" crc="6BC2FE20" md5="479FA7B6C17016E542420CBF09CAC25D"/>
 	</game>
-	<game name="忍者君 阿修罗之章（简）高伟 v0.9 - 80E96725">
-		<rom name="忍者君 阿修罗之章（简）高伟 v0.9.nes" size="131088" crc="80E96725" md5="241A421AA86080F900EE951B86EB9EA1"/>
+	<game name="忍者君：阿修罗之章（简）高伟 v0.9 - 80E96725">
+		<rom name="忍者君：阿修罗之章（简）高伟 v0.9.nes" size="131088" crc="80E96725" md5="241A421AA86080F900EE951B86EB9EA1"/>
 	</game>
 	<game name="忍者特训（简）金明 修改 - E24F5E78">
 		<rom name="忍者特训（简）金明 修改.nes" size="24592" crc="E24F5E78" md5="D59B67F979D1AFC9EFD8BDD2ED8B1D3C"/>
@@ -2130,6 +2151,9 @@
 	</game>
 	<game name="恶魔城（简）虫儿 - AD66E7FA">
 		<rom name="恶魔城（简）虫儿.nes" size="131088" crc="AD66E7FA" md5="4DDF38E707DFF883502EEACCD1D847FF"/>
+	</game>
+	<game name="恶魔城（简）吸血男爵 - 08BF608E">
+		<rom name="恶魔城（简）吸血男爵.nes" size="131600" crc="08BF608E" md5="55ECE9C016A95A17C9F98452A30DFF6E"/>
 	</game>
 	<game name="恶魔城2诅咒的封印（简）v1.1 - 157E5CBA">
 		<rom name="恶魔城2诅咒的封印（简）v1.1.nes" size="393232" crc="157E5CBA" md5="4151418D2C5F0752A542E97CC59EF0A6"/>
@@ -2842,18 +2866,6 @@
 	<game name="沙罗曼蛇2（简）v3 - 23A85867">
 		<rom name="沙罗曼蛇2（简）v3.nes" size="262160" crc="23A85867" md5="A685951D63B0EC25D912304273419CB0"/>
 	</game>
-	<game name="沙罗曼蛇2（简）烈火暴龙 - A023EB04">
-		<rom name="沙罗曼蛇2（简）烈火暴龙.nes" size="262160" crc="A023EB04" md5="6E46B9374F046D6D12F2C5A3A016DD3D"/>
-	</game>
-	<game name="沙罗曼蛇2（繁）罗云 - A3A1F836">
-		<rom name="沙罗曼蛇2（繁）罗云.nes" size="65552" crc="A3A1F836" md5="68F95E63E893A2E59CE2201CA39A8424"/>
-	</game>
-	<game name="沙罗曼蛇2（简）高伟 v0.9 - E7AF94C3">
-		<rom name="沙罗曼蛇2（简）高伟 v0.9.nes" size="65552" crc="E7AF94C3" md5="4E2DDFC455BD49C7576A0E6E2DE7D9CF"/>
-	</game>
-	<game name="沙罗曼蛇2（简）虫儿 - B5A5644E">
-		<rom name="沙罗曼蛇2（简）虫儿.nes" size="65552" crc="B5A5644E" md5="ED7BC9335DADA9DFBADE44A74187D1FB"/>
-	</game>
 	<game name="沙罗曼蛇Q版（简）YULIANGMAX - BD486AED">
 		<rom name="沙罗曼蛇Q版（简）YULIANGMAX.nes" size="262160" crc="BD486AED" md5="A0F67004F123DA9836C9C1E15E7B143C"/>
 	</game>
@@ -2892,6 +2904,9 @@
 	</game>
 	<game name="洛克人（简）NOKOH 20250110 - BA36F0D4">
 		<rom name="洛克人（简）NOKOH 20250110.nes" size="262160" crc="BA36F0D4" md5="8D6388AB3847B6E215EF6205691AFC55"/>
+	</game>
+	<game name="洛克人（简）MS - 99F55EB7">
+		<rom name="洛克人（简）MS.nes" size="131088" crc="99F55EB7" md5="9B9CABDA58237242F3E45F6B3DA3682A"/>
 	</game>
 	<game name="洛克人2威利博士之谜（简）NEOX - E9F7C580">
 		<rom name="洛克人2威利博士之谜（简）NEOX.nes" size="262160" crc="E9F7C580" md5="C92D612C2953A5B2C7D4ED6ECC410BAF"/>

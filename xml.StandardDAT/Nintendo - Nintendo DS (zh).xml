@@ -1465,11 +1465,14 @@
 	<game name="数独游戏10000问（简）的士 - 7D43CA4B">
 		<rom name="数独游戏10000问（简）的士.nds" size="13756456" crc="7D43CA4B" md5="ED8F0E98019B94A723AC4A46276B5C5B"/>
 	</game>
-	<game name="数码宝贝传说：失落的进化（简）繁乐西 G翻陆修 - 4ED194E0">
-		<rom name="数码宝贝传说：失落的进化（简）繁乐西 G翻陆修.nds" size="61806652" crc="4ED194E0" md5="A79A56DE59A891F74322B75E9635D901"/>
+	<game name="数码宝贝传说：失落的进化（简）繁乐西 20240901 机翻陆修 - 4ED194E0">
+		<rom name="数码宝贝传说：失落的进化（简）繁乐西 20240901 机翻陆修.nds" size="61806652" crc="4ED194E0" md5="A79A56DE59A891F74322B75E9635D901"/>
 	</game>
-	<game name="数码宝贝传说：失落的进化（简）繁乐西 20250905 G翻九修 - AF434146">
-		<rom name="数码宝贝传说：失落的进化（简）繁乐西 20250905 G翻九修.nds" size="61231164" crc="AF434146" md5="45698E302CFA9EA12F1A2077F0B109C5"/>
+	<game name="数码宝贝传说：失落的进化（简）繁乐西 20240905 机翻九A - AF434146">
+		<rom name="数码宝贝传说：失落的进化（简）繁乐西 20240905 机翻九A.nds" size="61231164" crc="AF434146" md5="45698E302CFA9EA12F1A2077F0B109C5"/>
+	</game>
+	<game name="数码宝贝传说：失落的进化（简）繁乐西 20240909 机翻九C - 3A3760DC">
+		<rom name="数码宝贝传说：失落的进化（简）繁乐西 20240909 机翻九C.nds" size="60932964" crc="3A3760DC" md5="D034BDFDC89CBC137736474294138AAC"/>
 	</game>
 	<game name="数码宝贝传说：日光（简）巴士 小黑屋 ACG v1.2 最终版 - 42060F7F">
 		<rom name="数码宝贝传说：日光（简）巴士 小黑屋 ACG v1.2 最终版.nds" size="60515520" crc="42060F7F" md5="2F953395B43CAE2E384821C4F14A4E1C"/>
@@ -1849,8 +1852,8 @@
 	<game name="海贼王：巨人战争（简）起航 v1.0 汉化公测版 - 9253E7E4">
 		<rom name="海贼王：巨人战争（简）起航 v1.0 汉化公测版.nds" size="62251008" crc="9253E7E4" md5="9431ECCE8038D4032293508927EE5852"/>
 	</game>
-	<game name="海贼王：换挡之魂（简）APEX 20071121 最终版 - 56D2B64F">
-		<rom name="海贼王：换挡之魂（简）APEX 20071121 最终版.nds" size="39032872" crc="56D2B64F" md5="9A86C6EF4CA84865CAEA39EB3D72079E"/>
+	<game name="海贼王：换挡之魂（简）APEX 20071121 最终 - 56D2B64F">
+		<rom name="海贼王：换挡之魂（简）APEX 20071121 最终.nds" size="39032872" crc="56D2B64F" md5="9A86C6EF4CA84865CAEA39EB3D72079E"/>
 	</game>
 	<game name="海贼王：换挡之魂（简）APEX - 1118E6EB">
 		<rom name="海贼王：换挡之魂（简）APEX.nds" size="39032872" crc="1118E6EB" md5="A3C9F84354CF0408EAE3BA67E10F3BCE"/>
@@ -2721,6 +2724,9 @@
 	</game>
 	<game name="超操纵机器MG（简）通用型柚子 20240726 v1.0 - 306CE51C">
 		<rom name="超操纵机器MG（简）通用型柚子 20240726 v1.0.nds" size="64614924" crc="306CE51C" md5="FB8FD40765284BAB6682181258EC7CC8"/>
+	</game>
+	<game name="超操纵机器MG（简）通用型柚子 20240827 v1.0.1 - 430BFD9C">
+		<rom name="超操纵机器MG（简）通用型柚子 20240827 v1.0.1.nds" size="67108864" crc="430BFD9C" md5="FDC254E5904C00D11E30584FA368E377"/>
 	</game>
 	<game name="超时空之轮（简）恶梦的死神 v4 - 5DE78CF2">
 		<rom name="超时空之轮（简）恶梦的死神 v4.nds" size="88449116" crc="5DE78CF2" md5="EA69DFF690888F6635E538416CC97BAD"/>

@@ -634,8 +634,11 @@
 	<game name="联合前线（简）cslrxyz - 0D6D06F6">
 		<rom name="联合前线（简）cslrxyz.gen" size="2097152" crc="0D6D06F6" md5="E17B0B4AD8648CB5BB2EFDD7A9F00780"/>
 	</game>
-	<game name="联合前线（简）Soldat 20241118 v202411182355.b - 7D096989">
-		<rom name="联合前线（简）Soldat 20241118 v202411182355.b.gen" size="2097152" crc="7D096989" md5="354357E3BC789EF781B785CFB2D004BA"/>
+	<game name="联合前线（简）Soldat 20241118 - 7D096989">
+		<rom name="联合前线（简）Soldat 20241118.gen" size="2097152" crc="7D096989" md5="354357E3BC789EF781B785CFB2D004BA"/>
+	</game>
+	<game name="联合前线（简）Soldat 20241229 - 4BA36A4A">
+		<rom name="联合前线（简）Soldat 20241229.gen" size="2097152" crc="4BA36A4A" md5="79700524E75E3CC7E5830D5B387B02C8"/>
 	</game>
 	<game name="航空产业2（繁）SKOB - 19F38AE5">
 		<rom name="航空产业2（繁）SKOB.gen" size="1048576" crc="19F38AE5" md5="14DFC169FCCC58666C89E27FE7702CE6"/>
@@ -715,8 +718,8 @@
 	<game name="轰炸小子（繁）三协资讯 - 065D2019">
 		<rom name="轰炸小子（繁）三协资讯.gen" size="524288" crc="065D2019" md5="C5816740D93932870C5C466EA2931A4F"/>
 	</game>
-	<game name="重装机兵雷诺斯（简）阿刃 20241219 - D13355D0">
-		<rom name="重装机兵雷诺斯（简）阿刃 20241219.gen" size="655360" crc="D13355D0" md5="D239CA6587106DACDDB56F0D044D87BC"/>
+	<game name="重装机兵雷诺斯（简）Soldat 阿刃 20241219 - D13355D0">
+		<rom name="重装机兵雷诺斯（简）Soldat 阿刃 20241219.gen" size="655360" crc="D13355D0" md5="D239CA6587106DACDDB56F0D044D87BC"/>
 	</game>
 	<game name="野蛇（繁）小鬼混 简菜单 - C3B7785C">
 		<rom name="野蛇（繁）小鬼混 简菜单.gen" size="524288" crc="C3B7785C" md5="2C15E65BBDF847BE386655DC654C66AC"/>
