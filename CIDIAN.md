@@ -62,6 +62,7 @@
 110-in-1|
 117-in-1|
 12|
+12 Dots Text Viewer|
 12 Family Games|游戏12合1
 12 Sai Koisuru Diary|
 12-Sai - Honto no Kimochi|
@@ -304,7 +305,7 @@
 3D Classics - Excitebike|
 3D Classics - Hikari Shinwa - Palutena no Kagami|
 3D Classics - Hoshi no Kirby - Yume no Izumi no Monogatari|
-3D Classics - Kid Icarus|光之神话
+3D Classics - Kid Icarus|光神话
 3D Classics - Kirby's Adventure|
 3D Classics - Twinbee|
 3D Classics - Urban Champion|
@@ -328,6 +329,7 @@
 3D MahJongg|3D麻将PUZ
 3D Mahjong|
 3D Mahjongg|
+3D Othello|
 3D Out Run|
 3D Pocket Pool|3D台球
 3D Pool Allstars|
@@ -358,6 +360,7 @@
 4 Game Pack! - Battleship + Connect Four + Sorry! + Trouble|游戏4合1-战斗船+连接4+对不起+麻烦
 4 Game Pack! - Clue + Aggravation + Perfection + Mouse Trap|益智游戏4合1
 4 Games on One Game Pak|游戏4合1-火箭力量ZG+尼克通FFF+海绵方块SS+反斗家族SS
+4 Koma TV|
 4 Kyouka Perfect Clear DS|
 4 Kyouka Perfect Clear DS - Eigo Onsei Tsuki|
 4 Nin Uchi Mahjong|4人麻将
@@ -721,6 +724,7 @@ Aitakute Monki|
 Aiwa CSD-GM1|
 Aka-chan Doubutsuen|小朋友的动物园
 Akachan wa Doko kara Kuru no|为你而生-宝宝从哪里来？
+Akagawa Jirou - Majo-tachi no Nemuri|
 Akagawa Jirou - Majotachi no Nemuri|沉睡的魔女
 Akagawa Jirou Mystery - Tsuki no Hikari - Shizumeru Kane no Satsujin|赤川次郎悬疑小说-月光-沉钟杀人
 Akagawa Jirou Mystery - Yasoukyoku - Hon ni Manekareta Satsujin|赤川次郎侦探系列-夜想曲-由一本书所引起的杀人案
@@ -766,6 +770,7 @@ Albert Odyssey|英雄圣战
 Albert Odyssey 2 - Jashin no Taidou|英雄圣战2
 Alcahest|地底魔神
 Alchemic Dungeons|
+Alchemist Marie & Elie - Futari no Atelier|
 Aleck Bordon Adventure - Tower & Shaft Advance|阿莱克博顿大冒险-塔与桥的大冒险
 Alex DeMeo's Race America|美国赛车
 Alex Kidd - Cheongong Maseong|天空的魔城
@@ -970,6 +975,7 @@ Anonymous Notes Daisanshou - From the Abyss|
 Anonymous Notes Daiyonshou - From the Abyss|
 Another Code - Futatsu no Kioku|异色代码：双重记忆
 Another Code - Two Memories|异色代码：双重记忆
+Another Heaven - Memory of those Days|
 Another Time, Another Leaf - Kagami no Naka no Tantei|镜中侦探
 Another World|另一个世界
 Another World - 20th Anniversary Edition|
@@ -1060,6 +1066,7 @@ Arc Style - Soccer!! 3D|
 Arc Style - Solitaire|
 Arc Style - Spider Solitaire|
 Arc Style - Totsugeki! - Kyassuru Atakkazu|
+Arc the Lad - Kishin Fukkatsu|
 Arcade Bowling|
 Arcade Classics|街机游戏合集
 Arcade Classics 3D|街机3D合集PUZ
@@ -1098,6 +1105,7 @@ Argentina Soccer 2006|
 Argos no Senshi|阿尔戈斯战士
 Argos no Senshi - Hachamecha Daishingeki|未来战士
 Argus|百眼巨神
+Arial|
 Ariel - Crystal Densetsu|
 Ariel - The Little Mermaid|
 Ariel the Little Mermaid|迪斯尼-小美人鱼
@@ -1115,6 +1123,7 @@ Armana no Kiseki|
 Armed Blue - Gunvolt|
 Armed Blue Gunvolt - Striker Pack|
 Armed F|
+Armored Police - Metal Jack|
 Armorines - Project S.W.A.R.M.|装甲兵器-S.W.A.R.M.计划
 Army Defender|
 Army Men|小军人1代
@@ -1152,9 +1161,11 @@ Arthur and the Minimoys|亚瑟与迷你国
 Arthur and the Revenge of Maltazard|亚瑟和他的迷你王国2
 Arthur's Absolutely Fun Day!|快乐的日子
 Artillery - Knights vs. Orcs|
+Artisan|
 Artist Tool|绘图工具日版
 Aru Seishun no Monogatari - Kouenji Joshi Soccer|
 Aru to Harapeko Monster|
+Arubi|
 Aruite Wakaru - Seikatsu Rhythm DS|步调生活测定软件
 Aryol|动态拼图
 Asa Delta|
@@ -1235,6 +1246,7 @@ Atari Anniversary Advance|雅达利周年纪念游戏
 Atari Greatest Hits - Volume 1|雅达利经典游戏-卷1
 Atari Greatest Hits - Volume 2|雅达利经典游戏-卷2
 Atarimix - Happy 10 Games|雅达利快乐10游戏
+Atchi Muite Hoitsu!|
 Atelier Annie - Alchemists of Sera Island|安妮的工作室 塞拉岛的炼金术士
 Atelier Deco La Doll Collection|
 Atelier Deco Ra Doll - Antique|
@@ -1300,11 +1312,9 @@ Aventures de T'choupi a l'Ecole, Les|
 Awa Tama|Awa Tama
 Away - Shuffle Dungeon|AWAY混乱迷宫
 Awesome Possum|
-Awesome Possum Kicks Dr Machino's Butt!|
 Awesome Possum Kicks Dr. Machino's Butt|
 Awesome Possum Kicks Dr. Machino's Butt!|
 Awesome Possum... ...Kicks Dr. Machino's Butt|真棒波苏姆。.踢马奇诺博士的屁屁
-Aworg|
 Aworg - Hero in the Sky|
 Axelay|银河风暴
 Ayrton Senna Revival Show|
@@ -1342,6 +1352,7 @@ BB Car|噗噗车
 BFF TV|BFF电视台
 BMX Simulator|BMX模拟器
 BMX Trick Racer|BMX花式越野车大赛
+BOM Danna|
 BS-X - Sore wa Namae o Nusumareta Machi no Monogatari|
 Ba Bao Qizhu|
 Babar to the Rescue|贝巴-救援
@@ -1414,6 +1425,7 @@ Bakukyuu Renpatsu!! Super B-Daman - Gekitan! Rising Valkyrie!!|爆球连发日
 Bakuman. - Mangaka e no Michi|
 Bakumatsu Kourinden Oni|幕末降临传
 Bakumatsu Renka Shinsengumi DS|幕末恋华 新选组
+Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana|
 Bakunetsu Dodge Ball Fighters|超级躲避球A
 Bakushou! Star Monomane Shitennou|爆笑四天王
 Bakushou!! Ai no Gekijou|爆笑爱之剧场
@@ -1489,7 +1501,9 @@ Barbie - Magic Genie Adventure|芭比：魔法精灵冒险
 Barbie - Meeres Abenteuer|芭比娃娃–海洋探险
 Barbie - Ocean Discovery|芭比娃娃–海洋探险
 Barbie - Pet Rescue|芭比娃娃–营救宠物
+Barbie - Super Model|
 Barbie - The Princess and the Pauper|芭比-公主与乞丐
+Barbie - Vacation Adventure|
 Barbie Diaries, The - High School Mystery|芭比日记-高校神秘
 Barbie Dreamhouse Party|芭比梦之屋派对PAR
 Barbie Fashion Show - An Eye for Style|芭比时装秀-魅眼有型
@@ -1533,6 +1547,7 @@ Baseball Fighter|棒球战士
 Baseball Simulator 1.000|模拟棒球
 Baseball Star - Mezase Sankanou!!|棒球之星 - 迈向三冠王！
 Baseball Stars|棒球之星
+Baseball Stars Color - Pocket Sports Series|
 Baseball Stars II|棒球之星 II
 Bases Loaded|满垒王
 Bases Loaded 3|满垒王 III
@@ -1605,6 +1620,7 @@ Battle Royale|battleroyale美版
 Battle Rush - Build Up Robot Tournament|
 Battle Soccer - Field no Hasha|SD足球
 Battle Soccer 2|SD足球2
+Battle Spirit - Digimon Frontier|
 Battle Spirits Digital Starter|战魂-数位起始包
 Battle Squadron|武装中队
 Battle Stadium - Senbatsu Pro Yakyuu|战斗野球 - 职业野球选拔赛
@@ -1801,6 +1817,7 @@ Bibliothek der Klassischen Buecher|古典书籍图书馆
 Biene Maja, Die - Klatschmohnwiese in Gefahr|蜜蜂宝宝
 Bienvenue Chez les Ch'tis - Le Jeu|欢迎来到北方
 Big Bang Mini|迷你烟花
+Big Bang Pro Wrestling|
 Big Bass Arcade|
 Big Bass Arcade - No Limit|
 Big Bass Arcade 3D|
@@ -1838,6 +1855,7 @@ Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal|热血新纪录
 Bikkuri Nekketsu Shinkiroku! Harukanaru Kin Medal|
 Bikkuri! Tobidasu! Mahou no Pen|神奇魔法绘笔PUZ
 Bikkuriman 2000 - Charging Card GB|仙魔大战2000
+Bikkuriman 2000 - Viva! Pocket Festival!|
 Bikkuriman Daijiten|仙魔大战大事典
 Bikkuriman Kanjuku Haou - Sanmi Douran Sensouki|
 Bikkuriman World|冒险世界日版1
@@ -1870,6 +1888,7 @@ Bio Hazard|生化危机
 Bio Hazard Battle|亚生命战争
 Bio Miracle Bokutte Upa|生命的奇迹 超级宝宝
 Bio Senshi Dan - Increaser Tono Tatakai|生化战士 DAN
+Bio Worms|
 BioMetal|生化金属战机
 Biohazard - Code - Veronica - Kanzenban|生化危机：维罗妮卡
 Biohazard - Deadly Silence|生化危机DS 死寂
@@ -1881,6 +1900,7 @@ Biohazard 3|生化危机3
 Biohazard Gaiden|生化危机外传
 Biohazard Revelations|生化危机 启示录
 Biohazard Zero|生化危机0
+Biomotor Unitron|
 Bionic Commando|希特勒复活
 Bionic Commando - Elite Forces|生化指挥官–究极武力
 Bionicle|生化战士
@@ -1888,6 +1908,7 @@ Bionicle - Matoran Adventures|乐高斗牛士冒险
 Bionicle - Maze of Shadows|乐高荒岛冒险-幽影迷宫
 Bionicle Heroes|生化英雄
 Biorhythm|
+Biorhythm for WonderWitch|
 Bird + Beans|
 Bird Bombs|
 Bird Hunting King|
@@ -1903,7 +1924,9 @@ Bishoujo Senshi Sailor Moon - Another Story|美少女战士2
 Bishoujo Senshi Sailor Moon R|美少女战士r
 Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen|美少女战士射波2
 Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo!|美少女战士S-方块大战
+Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo!!|
 Bishoujo Senshi Sailor Moon S - Kurukkurin|美少女战士S-3
+Bishoujo Senshi Sailor Moon Super S - Fuwafuwa Panic|
 Bishoujo Senshi Sailor Moon SuperS - Fuwafuwa Panic|美少女战士射波
 Bishoujo Senshi Sailor Moon SuperS - Zenin Sanka!! Shuyaku Soudatsusen|美少女战士超级S
 Bishoujo Wrestler Retsuden - Blizzard Yuki Rannyuu!!|美少女摔角列传
@@ -1982,6 +2005,7 @@ Blok Drop Chaos|
 Bloo Kid 2|
 Blood Bowl|血腥橄榄球
 Blood of Bahamut|巴哈姆特之血
+BloodStorm|
 Bloodshot|血腥射击
 Bloodstained - Curse of the Moon|
 Bloody Vampire|
@@ -1993,6 +2017,7 @@ Bloons TD 4|
 Bloque Magico, El|魔法封锁
 Blue Almanac|
 Blue Angelo - Angels from the Shrine|蓝色天使-神殿里的天使
+Blue Crystal Rod, The|
 Blue Crystalrod, The|色水晶杖
 Blue Dragon - Awakened Shadow|蓝龙-异界巨兽
 Blue Dragon - Ikai no Kyojuu|蓝龙 异界巨兽
@@ -2012,10 +2037,14 @@ Blue Exorcist Manga Vol.8|
 Blue Exorcist Manga Vol.9|
 Blue Marlin, The|蓝色马林鱼
 Blue Shadow|赤影战士
+Blue Wing Blitz|
 Blue's Clues - Blue's Alphabet Book|蓝色谜题
 Blues Brothers, The|蓝色兄弟
 Blumen & Muster Puzzle - Echter Puzzlespass fuer Unterwegs|拼图游戏-花和样式
 Bo Jackson Baseball|波杰克森棒球
+Board Checker RVK|
+Board Checker RVL|
+Board Checker TWL|
 Board Game Classics|新游戏3合1-经典桌面棋盘游戏合集
 Board Game Classics - Backgammon & Chess & Draughts|新游戏3合1-经典桌面棋盘游戏合集
 Boarder Zone|极速滑雪
@@ -2379,6 +2408,7 @@ Burnin Rubber|
 Burning Angels|燃烧天使日版
 Burning Force|燃烧战队
 Burnout Legends|火爆狂飚
+Bury|
 Bushi Seiryuuden - Futari no Yuusha|青龙传
 Business Ryoku Kentei DS|商务能力检定
 Business Wars|商场战争
@@ -2387,12 +2417,14 @@ Bust-A-Move|泡泡龙方块
 Bust-A-Move 4|泡泡龙4
 Bust-A-Move DS|泡泡龙DS
 Bust-A-Move Millennium|对战热舞千禧年
+Bust-A-Move Pocket|
 Bust-A-Move Universe|
 Busy Scissors|忙碌的理发师
 Butt-Ugly Martians - B.K.M. Battles|神勇火星人-反冲大作战
 Butterfly - Inchworm Animation II|
 Buzz & Waldog|巴治与沃尔多
 Buzz Lightyear of Star Command|巴兹光年星际使命
+Byakuyakou: Chapter 1|白夜行：第一章
 Bye-Bye Boxboy!|
 Byeol-ui Kirby - Robobot Planet|星之卡比：机械星球
 Byeorui Kirby - Dopang Ildangui Seupgyeok|星之卡比：怪盗洛切团
@@ -2403,12 +2435,12 @@ C.O.P. - The Recruit|刑警新兵-罪恶覆灭计划
 C.O.R.E.|核心
 CB Chara Wars - Ushinawareta Gag|CB世界
 CD-ROM System|
-CDX Pro|
 CGB Test Cartridge|
 CICertA|
 CIMA - The Enemy|异次元敌人
 CJ's Elephant Antics|
 CNAE Aprende con Nosotros - Driver's Ed|CNAE 我们一起学驾驶
+CNLink|
 CRYGHT|
 CSI - Crime Scene Investigation - Dark Motives|犯罪现场-黑暗动机
 CSI - Crime Scene Investigation - Deadly Intent - The Hidden Cases|CSI犯罪现场-致命意图
@@ -2492,6 +2524,7 @@ Canhao|
 Cannon Fodder|炮灰
 Cannondale Cup|无敌风火轮脚踏车
 Canon - The Legend of the New Gods|
+Canon Hockey|
 Capcom Barcelona '92|卡普空巴塞隆纳运动会 '92
 Capcom Classics Mini Mix|CAPCOM经典小合集
 Capcom Fight 2003|
@@ -2653,6 +2686,7 @@ Cavalos & Peoes|
 Cave Story|洞窟物语
 Cave Story 3D|洞窟物语3DACT
 Caveman Games|原始人运动会
+Caveman Ninja|
 Cazzarion|
 Cazzarion Adventureland|
 Cedric - L'Anniversaire de Chen|塞德里克-陈的生日
@@ -2664,6 +2698,7 @@ Centurion - Defender of Rome|罗马保卫战美
 Cesar Millan's Dog Whisperer|我的狗教练-和凯撒米兰一起了解你的狗
 Chack'n Pop|拯救爱心
 Chain Blaster|
+Chains|
 Chainz Galaxy|
 Chajara! Gaeguri Jungsa Keroro - Teullingeurimchatgi Daejakjeon!|找到了!青蛙军曹-找错大作战!
 Chakan|查坎
@@ -2702,7 +2737,6 @@ Chaoji Dazhanlue|
 Chaoji Gedou 2001 Alpha|
 Chaoji Jiqiren Dazhan X - Super Robot War X|
 Chaoji Mahjong Club|
-Chaoji Majiang Club|
 Chaoji Maliou 2|超级马力欧2
 Chaoji Maliou DX|
 Chaoji Maliou Shijie|超级马力欧世界
@@ -2724,6 +2758,7 @@ Chara Pet Light|
 Chara Pet Tsukutte! Sodatete! Character Shougakkou|
 Chara-Chenko|
 CharaPet Tsukutte! Sodatete! Character Shougakkou|
+Charaga|
 Chari-Sou DX|
 Chari-Sou DX3 - Time Rider|
 Charisou DX|
@@ -2764,6 +2799,7 @@ Chessmaster - The Art of Learning|国际象棋大师-学习的艺术
 Chessmaster, The|西洋棋王
 Chester Cheetah - Too Cool to Fool|起司豹
 Chester Cheetah - Wild Wild Quest|起司豹2
+Chester Field|
 Chester Field - Ankoku Shin e no Chousen|切斯特大陆 暗黑之挑战
 Chevaliers du Zodiaque, Les - La Legende d'Or|圣斗士星矢 - 黄金传说
 Chevrolet Camaro - Wild Ride|
@@ -2856,7 +2892,6 @@ Chocolatier|巧克力大亨
 Chojin Baseball Stadium|
 Chokkan Hitofude|直感一笔
 Chokkan! Asonde Rilakkuma|直感!游玩吧松弛熊
-Chong Chong Weiji - A Bug's Life|
 Chongwu Baobao|
 Chongwu Da Jiazu - Buluo Fenzheng|
 Chongwu Gaoda Zhan Ji|
@@ -2990,6 +3025,8 @@ Chuukara! Dairoujou|
 Ciao Dream Touch! - Happy Anniversary|触摸梦想!快乐周年庆
 Cid to Chocobo no Fushigi na Dungeon - Toki Wasure no Meikyuu DS+|西德和陆行鸟不可思议迷宫-忘却时间的迷宫+
 Cinderella - Magical Dreams|迪斯尼仙履奇缘-奇幻之旅
+Cinnamon - Fuwafuwa Daisakusen|
+Cinnamon - Yume no Daibouken|
 Cinnamon Game Series 2 - Yume no Daibouken|长耳狗希纳蒙-梦之大冒险
 Cinnamon Game Series 3 - Fuwafuwa Daisakusen|长耳狗-云上大作战
 Cinnamoroll - Cinnamon Ball - Kurukuru Sweets Paradise|长耳狗弹珠台-旋转甜点天堂
@@ -3052,6 +3089,9 @@ Cliffhanger|颠峰战士
 Clique, The - Diss and Make Up|女校风波
 Clique, The - Queen Teen|女校风波
 Clock Tower|钟楼惊魂
+Clock Tower - Rewind|钟楼：倒带
+Clock Works|
+ClockWerx|
 Clockwerx|时钟职人
 Cloud Master|中华大仙
 Cloudy with a Chance of Meatballs|美食从天而降
@@ -3070,6 +3110,7 @@ Clubhouse Games Express - Strategy Pack|
 Clue|生活大富翁
 Clueless Fashion|
 Coach K College Basketball|K教练大学篮球
+Coar Crashers|
 Coaster Creator 3D|
 Cobra Command|眼镜蛇指挥官
 Cobra Mission|眼镜蛇任务
@@ -3119,6 +3160,7 @@ Collide-A-Ball|
 Color Commando|
 Color Cross|绚彩十字绣
 Color Cubes|
+Color Dreams Color Test|
 Color Zen|
 Color Zen Kids|
 Color a Dinosaur|恐龙着色家
@@ -3216,7 +3258,9 @@ Cooking Mama World - Combo Pack - Volume 1|
 Cooking Mama World - Combo Pack - Volume 2|
 Cooking Mama World - Hobbies & Fun|厨房妈妈-爱好和乐趣
 Cooking Mama World - Outdoor Adventures|
+Cool Boarders Pocket|
 Cool Bricks|酷砖块
+Cool Cool Jam|
 Cool Hand|拉斯维加斯赌圣
 Cool Spot|酷小子
 Cool World|酷世界
@@ -3265,6 +3309,9 @@ Cosmos Chaos|
 Cosmos Cop|宇宙警察
 Cosmos X2|
 Countdown - The Game|倒数计时
+Course Out|
+Course Out 2|
+Course Out 3|
 Cowboy Kid|西部小子
 Crab Carry the Flag|
 Crack Down|爆裂激战
@@ -3390,6 +3437,7 @@ Cruis'n Velocity|劲速狂飙车
 Cruise Line Tycoon|游艇大亨
 Crusader of Centy|创世战士
 Crush 3D|压碎3D
+Crush Roller|
 Crush3D|
 Crushed Baseball|热血棒球
 Crying - Aseimei Sensou|
@@ -3565,12 +3613,12 @@ Daffy Duck - Fowl Play|达菲鸭–致富记
 Daffy Duck - Subette Koron de Oogane Mochi|达菲鸭致富记日
 Daffy Duck - The Marvin Missions|达菲鸭-火星任务
 Daffy Duck in Hollywood|达菲鸭在好莱坞
-Dahna|
 Dahna - Megami Tanjou|
 Dahua Sanguo|独霸三国
 Dahua Shuihu|
 Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken|
 Dai Gyakuten Saiban 2 - Naruhodou Ryuunosuke no Kakugo|
+Dai Meikyuu|
 Dai-2-ji Super Robot Taisen|第2次超级机器人大战
 Dai-3-ji Super Robot Taisen|第3次超级机器人大战
 Dai-4-ji Jiqiren Daizhan|
@@ -3672,8 +3720,10 @@ Darius R|大流士战机R
 Darius Twin|太空战斗机2
 Dark|
 Dark Arena|暗黑竞技场
+Dark Arms - Beast Buster 1999|黑暗兵器：野兽梦魇1999
 Dark Castle|暗黑之城
 Dark Empire|黑暗帝国
+Dark Eyes - Battle Gate|
 Dark Half|隐逝的黑暗
 Dark Island|
 Dark Kingdom|黑暗领域
@@ -3683,6 +3733,9 @@ Dark Seed - Heian Zhi Gu|
 Dark Spire, The|幻雾之塔与剑之铁规
 Dark Spirits - Go Series|
 Dark Void Zero|
+Darkhero Figment - Calibur Edition|
+Darkhero Figment - Doris Edition|
+Darkhero Figment 2|
 Darkman|变形黑侠
 Darkrai Distribution 2008|
 Darkrai Distribution 2011|
@@ -3833,6 +3886,7 @@ Dekita yo! Mama. - Wannyan Club - Onnanoko|是啊!妈妈女孩俱乐部
 Dekita yo! Mama. - Wannyan Club - Otokonoko|亲子娱乐幼儿小熊-男孩版
 Dekitate High School|美少女高校经营
 Delbo|
+Delta Warp|
 Deltora Quest - Nanatsu no Houseki|拯救德尔托拉-七宝石
 Delusions of Von Sottendorff and His Squared Mind, The|
 Delusions of Von Sottendorff, The|
@@ -3852,6 +3906,7 @@ Demon's Blazon - Makaimura Monshou Hen|魔界村外传-紋章篇
 Demon's Crest|魔界村外传-紋章篇
 Demons Blazon Magic Village Eharpery Hen|
 Demons of Asteborg|阿斯特堡的恶魔
+Den'Z Traffic Panic|
 Den'z Traffic Panic|
 Dengeki - Big Bang!|电击超人
 Dengeki Bazooka!! Oh! Gatti-Man Specialgame|
@@ -3874,6 +3929,7 @@ Denpa Ningen no RPG 3|
 Denpa Ningen no RPG Free!|
 Densetsu no Kishi - Elrond|巫师与战士
 Densetsu no Ogre Battle - The March of the Black Queen|皇家骑士团
+Densetsu no Ogre Battle Gaiden - Zenobia no Ouji|皇家骑士团外传：赞诺比亚的皇子
 Densetsu no Stafy|传说的斯塔非1
 Densetsu no Stafy - Taiketsu! Dile Kaizoku Dan|传说的斯塔菲-对决!戴尔海盗团
 Densetsu no Stafy 2|传说的斯塔菲2
@@ -3884,6 +3940,7 @@ Densha Unten Shirei! Toukaidou-hen|
 Densha Unten Shireri Toukaido Hen|
 Densha de Go!|前进吧 列车
 Densha de Go! 2|电车Go!2
+Densha de Go! 2 on NeoGeo Pocket|
 Dentaku + TCG-you Tool - Duel Dentaku Custom|
 Deonjyeoseo Ssok! Yuryeong Toechi|
 Deoxys Distribution 2008|
@@ -3957,6 +4014,9 @@ Dial Q o Mawase!|雀侦物语
 Diamond Trust of London|
 Dianshi Mali - Big TV Mary Bar|
 Diary Girl|日记女生
+Dicing Knight|
+Dicing Knight.|
+DicingKnight Legion|
 Dick Tracy|至尊神探
 Dick Vitale's 'Awesome, Baby!' College Hoops|
 Dictionary|词典
@@ -4014,6 +4074,7 @@ Digicoro Keshikasu Vol.013|
 Digicoro Keshikasu Vol.014|
 Digicoro Keshikasu Vol.015|
 Digidrive - Art Style Series|
+Digimon - Anode Tamer & Cathode Tamer - Veedramon Version|
 Digimon - Battle Spirit|数码宝贝：战魂
 Digimon - Battle Spirit 2|数码宝贝：战魂2
 Digimon - Ruby and Sapphire|数码宝贝：红宝石蓝宝石
@@ -4023,6 +4084,7 @@ Digimon 02 5|
 Digimon 2|数码宝贝2
 Digimon 3 Crystal|数码宝贝3水晶
 Digimon Adventure|数码宝贝大冒险
+Digimon Adventure 02 - D1 Tamers|
 Digimon Adventure 2001|
 Digimon Amethyst|
 Digimon Championship|数码宝贝冠军赛
@@ -4038,6 +4100,10 @@ Digimon Story - Moonlight|数码宝贝传说：月光
 Digimon Story - Sunburst|数码宝贝传说：日光
 Digimon Story - Super Xros Wars - Blue|数码宝贝传说：超合体大战：蓝
 Digimon Story - Super Xros Wars - Red|数码宝贝传说：超合体大战：红
+Digimon Tamers - Battle Spirit|数码兽驯兽师：战斗之魂
+Digimon Tamers - Battle Spirit Ver. 1.5|数码兽驯兽师：战斗之魂v1.5
+Digimon Tamers - Brave Tamer|
+Digimon Tamers - Digimon Medley|
 Digimon Universe - Appli Monsters|
 Digimon Universe App Monsters-Cyber Arena|
 Digimon World - Dawn|数码宝贝世界：日照
@@ -4049,7 +4115,9 @@ Digital Champ|真实拳击日版
 Digital Champ - Battle Boxing|
 Digital Devil Story - Megami Tensei|女神转生
 Digital Devil Story - Megami Tensei II|女神转生 II
+Digital Monster - D-Project|
 Digital Monster 2001|
+Digital Monster Card Game - Ver. WonderSwan Color|
 Diguo Fengbao - Napoleon's War|
 Diguo Shidai|
 Diguo Wangchao|
@@ -4145,6 +4213,10 @@ Diva Girls - Making the Music|歌剧女孩-创作音乐
 Diva Girls - Princess on Ice 2|迪娃女孩-冰上公主2
 Diva Starz|天后星光购物狂
 Diva Starz - Mall Mania|女明星–疯狂购物
+Dive Alert - Becky's Version|
+Dive Alert - Burn Hen|
+Dive Alert - Matt's Version|
+Dive Alert - Rebecca Hen|
 Diveman|
 Divergent Shift|
 Divine Sealing|
@@ -4188,6 +4260,8 @@ Dokidoki Cooking Series 2 - Gourmet Kitchen - Suteki na Obentou|心跳烹饪系�
 Dokidoki Densetsu - Mahoujin Guruguru|咕噜咕噜魔法
 Doko Demo Honya-san|
 Doko Demo Wii no Ma|
+Dokodemo Hamster 3 - Odekake Saffron|
+Dokodemo Mahjong|
 Dokodemo Pilates|在哪都能进行的瑜伽
 Dokodemo Raku Raku! - DS Kakeibo|任何地方都能用的DS家计本
 Dokodemo Taikyoku - Yakuman Advance|随身对局 役满Advance
@@ -4331,7 +4405,6 @@ Dong Dong Nao 1|动动脑1
 Dong Dong Nao II - Guo Zhong Ying Wen|动动脑-国中英文
 Dong Dongnao 1|
 Dong Dongnao II - Guozhong Yingwen|
-Dong Gu Ri Te Chi Jak Jeon|
 DongFeng Mahjong|东风麻将
 Dongfang de Chuanshuo - The Hyrule Fantasy|
 Dongguri Techi Jakjeon|
@@ -4483,6 +4556,7 @@ Doug - La Grande Aventure|杜哥的胆量
 Doug's Big Game|杜哥的胆量
 Dough Boy|美国大兵
 Doukutsujima|
+Doukyuu Tantei Oke Solo|
 Doukyuusei 2|同级生2
 Dowajwo! Rhythm Hero|节拍特工
 Down Load|
@@ -4535,6 +4609,7 @@ Dracula Densetsu|恶魔城冒险
 Dracula II - Noroi no Fuuin|
 Draglade|音乐格斗-屠龙战记
 Dragon - The Bruce Lee Story|龙的传人-李小龙传说
+Dragon Ball|
 Dragon Ball - Advance Adventure|龙珠大冒险
 Dragon Ball - Advanced Adventure|龙珠大冒险
 Dragon Ball - Daimaou Fukkatsu|龙珠大魔王复活
@@ -4629,8 +4704,8 @@ Dragon Power|七龙珠 - 神龙之谜
 Dragon Quest|勇者斗恶龙
 Dragon Quest - The Chapters of the Chosen|勇者斗恶龙：被引导的人们
 Dragon Quest - The Hand of the Heavenly Bride|勇者斗恶龙：天空的新娘
-Dragon Quest Characters - Torneko no Daibouken 2 Advance - Fushigi no Dungeon|勇者斗恶龙外传：特鲁内克大冒险2A不可思议的迷宫
-Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon|勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫
+Dragon Quest Characters - Torneko no Daibouken 2 Advance - Fushigi no Dungeon|特鲁内克大冒险2A
+Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon|特鲁内克大冒险3A
 Dragon Quest Heroes - Rocket Slime|勇者斗恶龙怪物篇-史莱姆冲击的尾巴团2
 Dragon Quest I & II|勇者斗恶龙1和2
 Dragon Quest II|勇者斗恶龙2
@@ -4861,6 +4936,7 @@ Dynamite Duke|毁灭公爵
 Dynamite Headdy|铁头小子
 Dynamite Headdy - Jitsuen-you Sample|
 Dynamite Johnny|
+Dynamite Slugger|
 Dynasty Warriors Advance|真·三国无双A
 Dynasty Warriors DS - Fighter's Battle|真三国无双-斗士之战
 Dynasty Warriors VS|
@@ -5086,6 +5162,7 @@ Ener-G - Gym Rockets|活力无限的体操火箭
 Ener-G - Horse Riders|活力无限的马术骑士
 Energy|艾吉娜日版
 Energy Breaker|秘境魔宝
+Engacho! for WonderSwan|返家十万里
 Englisch Buddy|英语伙计
 Englisch Entdecken Mit Ben & Bella|
 Englisch Macht Spass - Eine Reise nach London!|趣味英语-伦敦之旅
@@ -5123,6 +5200,7 @@ Eric Cantona Football Challenge|爱瑞克足球
 Eric Cantona Football Challenge - Goal! 2|足球得点王 II
 Erika to Satoru no Yume Bouken|梦冒险
 Error Messages|
+Es=Loss Zero Side|
 Escape Fantasy Alice In Escapeland|
 Escape From Forest|
 Escape From Mystery Solving Maze|
@@ -5184,6 +5262,8 @@ Ever Oasis|永恒绿洲 美版
 Ever Oasis - Seirei to Tanebito no Mirage|
 Everyday Soccer|
 Everything's Rosie|
+Evil Dragon|
+Evolution - Eternal Dungeons|
 Evolution GT|进化赛车GT
 Ex-Mutants|ex异种美欧
 Ex-Ranza|机动战神
@@ -5295,8 +5375,6 @@ FIFA 97|FIFA足球赛97-欧
 FIFA 98 - Road to World Cup|
 FIFA 99|
 FIFA International Soccer|国际足球
-FIFA International Soccer '96|
-FIFA International Soccer '97|
 FIFA Soccer 06|FIFA足球2006
 FIFA Soccer 07|FIFA07
 FIFA Soccer 08|国际足盟大赛 FIFA 08
@@ -5465,6 +5543,7 @@ Fantastic Children|奇幻儿童-梦想少年
 Fantastic Dizzy|
 Fantastic Four - Rise of the Silver Surfer|神奇四侠2-银影侠
 Fantastic Maerchen - Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai - Kosei Shinri Gaku|
+Fantastic Night Dreams - Cotton|
 Fantastici 4, I|神奇四侠
 Fantasy Aquarium by DS|梦幻水族馆DS
 Fantasy Life|幻想生活RPG
@@ -5493,6 +5572,7 @@ Farming Simulator 3D|
 Farming Simulator 3D - Pocket Nouen|
 Farmscapes|写意农场
 Farmtopia|疯狂农场
+Faselei!|
 Fashion Designer - High Fashion|时装设计师-高档时尚
 Fashion Designer - Style Icon|时装设计师
 Fashion Dogz|时尚宠物狗
@@ -5509,15 +5589,17 @@ Fatal Fracture|
 Fatal Fury|饿狼传说
 Fatal Fury 2|饿狼传说２
 Fatal Fury 2'|
+Fatal Fury F-Contact - Pocket Fighting Series|
 Fatal Fury Special|饿狼传说特别版
 Fatal Labyrinth|
-Fatal Rewind|机械战狗?
+Fatal Rewind|机械战狗
 Fatamor Ghana Hall|
 Fate Kaleid Liner - Prisma Illya|
 Fate-Kaleid Liner|
 Fatman|
 Faxanadu|沙那多
 Fear Factor - Unleashed|
+Features|
 Feda - The Emblem of Justice|王者之师/正义之纹章
 Federation Force|
 Fee Lili-Rose 2, La - Mon Monde Merveilleux|莉莉菲公主-我的精彩世界
@@ -5557,7 +5639,6 @@ Fido Dido|七喜小子
 Field Combat|杀戮战场
 Field of Nine - Digital Edition 2001|九局战场-数位版2001
 Fieldrunners|
-Fifa Soccer 95|
 Fifi and the Flowertots|花童菲菲
 Fifi and the Flowertots - Fifi's Garden Party|
 Fifteen|
@@ -5617,6 +5698,7 @@ Final Fight Tough|街头快打3
 Final Fire Pro Wrestling - Yume no Dantai Unei!|终极火爆摔跤梦之团体运营!
 Final Knockout|最后一拳击倒
 Final Lap|最后冲刺
+Final Lap Special - GT & Formula Machine|
 Final Lap Twin|终极赛车美版
 Final Match Tennis|终极网球日版
 Final Mission|最终任务
@@ -5725,6 +5807,7 @@ Flametail|
 Flap Flap|译名未知，像素风格的游戏
 Flappy|顽皮精灵
 Flash Focus - Vision Training in Minutes a Day|DS眼力训练
+Flash Koibito-kun|
 Flash Point|
 Flashback|闪电归来
 Flashback - The Quest for Identity|闪回 - 身份之谜
@@ -5744,6 +5827,7 @@ Flintstones, The - The Rescue of Dino & Hoppy|摩登原始人：营救迪诺和�
 Flintstones, The - The Surprise at Dinosaur Peak|摩登原始人：恐龙峰的惊喜
 Flintstones, The - The Surprise at Dinosaur Peak!|摩登原始人：恐龙峰的惊喜
 Flintstones, The - The Treasure of Sierra Madrock|石头族乐园-升官版
+Flip|
 Flip the Core|
 Flipnote Studio 3D|
 Flipper|
@@ -5827,7 +5911,6 @@ Four Players' Tennis|世界杯网球赛
 Fox's Peter Pan & the Pirates - The Revenge of Captain Hook|彼得.潘与海盗 铁钩船长的复仇
 Fractured Soul|
 Fragrant Story|
-France 98|
 Frank Herbert's Dune - Ornithopter Assault|沙丘魔堡
 Frank Thomas Big Hurt Baseball|法蘭克的大棒一挥
 Frankenstein - The Monster Returns|科学怪人
@@ -5869,9 +5952,14 @@ Frogger's Adventures - Temple of the Frog|青蛙冒险-蛙之殿堂
 Frogger's Adventures 2 - The Lost Wand|青蛙冒险2-失落的权杖
 Frogger's Journey - The Forgotten Relic|青蛙冒险-古文明之谜
 Frogman Show D.S., The - Datte, Shouganai Janai.|蛙男秀DS
+From TV Animation One Piece - Chopper no Daibouken|
+From TV Animation One Piece - Grand Battle Swan Colosseum|
 From TV Animation One Piece - Maboroshi no Grand Line Boukenki!|海贼王：梦幻的伟大航线冒险谭
 From TV Animation One Piece - Mezase! King of Berry|海贼王：目标!赏金之王
 From TV Animation One Piece - Nanatsu-jima no Daihihou|海贼王：七岛大秘宝
+From TV Animation One Piece - Niji no Shima Densetsu|
+From TV Animation One Piece - Treasure Wars|
+From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso|
 From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou!|海贼王：梦之路飞海贼团诞生
 From TV Animation Slam Dunk - Kyougou Makkou Taiketsu!|灌篮高手 - 正面的决战！
 From TV Animation Slam Dunk - SD Heat Up!!|灌篮高手SD激斗升级
@@ -6059,6 +6147,7 @@ GP-1 - Part II|GP-1重型机车赛2
 GP-1 RS - Rapid Stream|GP-1行云流水赛
 GP-1 Racing|GP-1赛车
 GPIO|
+GPS TOOL for WonderSwan|
 GS Mikami - Joreishi wa Nice Body|除灵师GS美神
 GSP|
 GT Advance - Championship Racing|GT职业概念锦标赛车
@@ -6200,7 +6289,6 @@ Game Notes Digital Manual|
 Game Paks - 4 Games in 1|
 Game Party|游戏派对
 Game Saver|
-Game Toshokan|
 Game Zanmai|
 Game de Demashita! Powerpuff Girls Z|飞天小女警Z
 Game no Kanzume Otokuyou|
@@ -6240,6 +6328,8 @@ Ganbare Goemon Gaiden - Kieta Ougon Kiseru|大盗五右卫门外传 - 消失之�
 Ganbare Goemon Gaiden 2 - Tenka no Zaihou|大盗五右卫门外传 II - 天下之财宝
 Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake|大盗伍佑卫门-闪亮道中-我成为舞者的理由
 Ganbare Goemon! - Karakuri Douchuu|大盗伍佑卫门
+Ganbare Neo Poke-Kun|加油 NeoPoke 君
+Ganbare Neo Poke-kun|
 Ganbare Pennant Race!|棒球锦标赛
 Ganbare! Daiku no Gen-san|加油吧！大力工头
 Ganbare! Dodge Fighters|躲避球斗士
@@ -6254,6 +6344,7 @@ Gangdan Wuyu 2|钢弹物语2
 Gangstar 2 - Kings of L.A.|
 Gangster 2 - Kings of L.A.|
 Ganpuru - Gunman's Proof|西部英豪：枪手的考验
+Gansaku Shuu Watch|
 Ganso Pachi-Slot Nihonichi|元祖柏青嫂日本一
 Ganso Pachinko Ou|元祖柏青哥王
 Ganso Saiyuuki - Super Monkey Daibouken|元祖西游记 - 孙悟空大冒险
@@ -6326,6 +6417,7 @@ Gekitou Pro Wrestling!! - Toukon Densetsu|激斗摔角 - 斗魂传说
 Gekitou Senshi Nagerunder|
 Gekitou Stadium!!|激斗棒球
 Gekitou! Car Battler Go!!|激斗!遥控车战士GO!!
+Gekitou! Crash Gear Turbo - Gear Champion League|
 Gekitou! Custom Robo|激斗!组合机器人
 Gekitsu Iou|
 Gekiyaba Runner|
@@ -6359,6 +6451,7 @@ Genpei Toumaden - Kan no Ni|
 Genseishin Justirisers - Souchaku! Hoshi no Senshi-tachi|幻星神正义战士-地球的战士们
 Gensou Maden Saiyuuki - Hangyaku no Toushin-taishi|幻想魔传最游记-叛逆的斗神太子
 Gensou Maden Saiyuuki - Sabaku no Shijin|最游记日
+Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de|
 Gensou Senki Kokou no Ryuu - Crying Dragon|
 Gensou Suikoden - Card Stories|幻想水浒传-卡片传说
 Gensou Suikoden - Tierkreis|幻想水浒传 黄道之轮
@@ -6587,7 +6680,7 @@ Goooooal Europa 2012|
 Goosebumps - The Game|
 Goosebumps HorrorLand|鸡皮疙瘩恐怖乐园
 Goraku Ou Tango!|语乐王
-Gorby no Pipeline Daisakusen|戈尔巴乔夫的水管大作战
+Gorby no Pipeline Daisakusen|水管大作战
 Gorilla Man, The|猩猩男
 Gormiti - The Lords of Nature!|高米迪战士-自然之王
 Gotcha Racing|
@@ -6631,6 +6724,7 @@ Grandia - Parallel Trippers|格兰蒂亚
 Grandia Chuanshuo|
 Granduel - Shinki Dungeon no Hihou|卡片大决斗
 Granhistoria - Genshi Sekaiki|幻史世界记
+Gransta Chronicle|
 Gravity Falls - Legend of the Gnome Gemulets|
 Grease - The Official Video Game|油脂劲歌热舞
 Great Battle Cyber|SD 英雄挑战
@@ -6726,6 +6820,8 @@ Guide the Ghost|
 Guild DS, The|协会
 Guild01|
 Guilty Gear - Dust Strikers|罪恶装备
+Guilty Gear Petit|
+Guilty Gear Petit 2|
 Guilty Gear X - Advance Edition|罪恶克星X
 Guinness World Records - The Videogame|吉尼斯世界纪录-游戏版
 Guitar Hero - On Tour|吉他英雄-巡演
@@ -6748,6 +6844,7 @@ Gun-Dec|火炮侦探
 Gun.Smoke|荒野大镖客
 GunForce|武装部队
 GunForce - Battle Fire Engulfed Terror Island|武装部队
+GunPey EX|
 Gunboat|激战惩美版
 Gundam - The 3D Battle|
 Gundam Tri Age SP|
@@ -6775,6 +6872,7 @@ Guru Logic Champ|充填方块
 Guru Logichamp|
 Guruguru Garakutas|秘界历险
 Guruguru Nagetto|咕噜咕噜-投
+Guruguru Ringuru|
 Guruguru Tamagotchi!|滚滚宠物蛋PUZ
 Guruguru Town Hanamaru-kun|克鲁镇
 Gurumin 3D|
@@ -6806,6 +6904,7 @@ Gyromite|
 Gyruss|太空射击战
 HAL's Hole in One Golf|一杆进洞
 HES 6-Pak - Real Player's Pak|动作游戏六合一
+HG-voice-player + Sound Sample|
 HMH Vokabeltrainer - Englisch|HMH英语词汇训练
 HMH Vokabeltrainer - Franzoesisch|HMH法语词汇
 HMH Vokabeltrainer - Spanisch|HMH西班牙语词汇
@@ -6901,6 +7000,7 @@ Hana no Keiji - Kumo no Kanata ni|北斗游侠-花之庆次
 Hana no Star Kaidou|明星街道
 Hana to Ikimono Rittai Zukan|
 Hana to Taiyou to Ame to - Owaranai Rakuen|花与太阳与雨：无尽的乐园
+Hanabi|
 Hanabi Hyakkei Advance|花火百景
 Hanafuda Ou|花札王
 Hanafuda Trump Mahjong - Depachika Wayouchuu|中日洋3国桌上游戏大合集
@@ -7028,9 +7128,11 @@ Harvest Moon GB|牧场物语
 Harvest Moon GBC|牧场物语1代_欧版
 Hasbro Family Game Night|孩之宝家庭游戏之夜
 Hashire Hebereke|可爱动物大竞赛
+Hashire! Taiboku!|
 Hassle|
 Hat Trick Hero|帽子戏法足球英雄
 Hat Trick Hero 2|帽子戏法足球英雄2
+Hataraku Chocobo|
 Hatayama Hatch no Pro Yakyuu News! - Jitsumei Ban|实名版棒球
 Hatena Satena|机智解迷
 Hatoenaji Puchi|
@@ -7080,6 +7182,7 @@ Hebereke no Oishii Puzzle wa Irimasenka|
 Hebereke no Popoon|魔法气泡运动大对决
 Hebereke's Popoitto|魔法气泡叠叠乐
 Hebereke's Popoon|魔法气泡运动大对决
+Hebi|
 Hector '87|爆击战士87
 Hei Tao 2 - Super Big 2|
 Heian Fuuunden|平安风云传
@@ -7255,6 +7358,7 @@ Hirameki! Egara Shiritori|
 Hirari - Sakura Samurai|
 Hirari Sakurazamurai|
 Hiromichi Oniisan no Oyako Taisou Navi - Oyako no Skin-Ship & Tairyoku Zukuri|广道哥哥的亲子体操
+Hirotte, Yokete!!|
 Hiryuu no Ken - Ougi no Sho|飞龙之拳 - 奥义之书
 Hiryuu no Ken - Retsuden GB|飞龙之拳烈传日
 Hiryuu no Ken II - Dragon no Tsubasa|飞龙之拳 II - 龙之翼
@@ -7301,6 +7405,7 @@ Hobo Nichi no Kenkou Techou|
 Hobonichi Rosenzu 2010|
 Hobot! Heavo Hevo! Heavyotonant!|
 Hogan's Alley|警察特训
+Hoippuru for WonderSwan|
 Hokkaido Hatsu! 'Dosanko Wide' ga DS ni Narimashita. - Hoshizawa Sachiko no Temanashi Raku Raku Gohan|星泽幸子的轻松烹饪法
 Hokkaidou Rensa Satsujin - Okhotsk ni Kiyu|北海道连续杀人事件
 Hokuto no Ken|北斗神拳
@@ -7435,6 +7540,8 @@ Houkago Mystery Club - 26 no Tobira|放学后-神秘俱乐部-26扇门
 Houkago Shounen|放学后少年
 Houkago in Beppin Jogakuin|放课后
 Hourai Gakuen no Bouken! - Tenkousei Scramble|蓬莱学园之冒险
+House Keeper|
+House Keeper - 1.5 Generation|
 House M.D. - Blue Meanie|
 House M.D. - Crashed|
 House M.D. - Globetrotting|
@@ -7491,7 +7598,10 @@ Hungry Dinosaurs|恐龙抢蛋
 Hungryburger|
 Hunt for Red October, The|猎杀红色十月
 Hunter|
+Hunter X Hunter - Greed Island|
+Hunter X Hunter - Michibikareshi Mono|
 Hunter X Hunter - Minna Tomodachi Daisakusen!!|猎人X猎人-热血友情大作战!!
+Hunter X Hunter - Sorezore no Ketsui|
 Hunter x Hunter - Hunter no Keifu|HunterXHunter–猎人的系谱
 Hunter x Hunter - Kindan no Hihou|HunterXHunter–禁断的秘宝
 Hunting & Camping - in a singularity|
@@ -7501,6 +7611,7 @@ Huoqiang Yingxiong|
 Huoyan Shizhe|
 Hurricanes|飓风队
 Hurry Up Hedgehog!|刺猬快跑
+Hurry Up!|
 Hwansangsuhojeon - Tierkreis|幻想水浒传-黄道十二宫
 Hwaseok Fighter|
 Hyakkiyagyou|百鬼夜行
@@ -7584,6 +7695,7 @@ Ice Age 3 - Dawn of the Dinosaurs|冰河世纪 3 恐龙的黎明
 Ice Age 4 - Continental Drift - Arctic Games|
 Ice Age II|
 Ice Climber|冰山登山者
+Ice Cream Shop|
 Ice Hockey|冰上曲棍球
 Ice Hockey Slovakia 2011|
 Ice Nine|冰冻九号
@@ -7641,6 +7753,7 @@ Ikki|一揆
 Ikki Tousen! Smash Heroes|
 Illu-Logi VOW|插画逻辑
 Illumislight - Hikari no Puzzle|霓虹之光-光线益智游戏
+Illusion Garden|
 Illusion of Gaia|盖亚幻想记-测试版
 Illusion of Time|盖亚幻想记
 Illust Koukan Nikki|
@@ -7803,6 +7916,7 @@ Infinite Dunamis|
 Infinite Golf|
 Infinite Space|无限航路
 Infinity|无限
+Infinity Cure|
 Information for Picross Nintendo Special|
 Infrared|
 Inindo - Way of the Ninja|伊忍道美版
@@ -7845,9 +7959,13 @@ Intersect - Art Style Series|
 Intervilles - Fais Gagner Ta Ville ! - Le Jeu Officiel|
 Intervilles - Fais Gagner Ta Ville! - Le Jeu Officiel|城市之间
 Inu Gaisha|小狗公司 DS
+Inu Renda 2|
 InuYasha - Secret of the Divine Jewel|犬夜叉-四魂之迷
 Inugamike no Ichizoku|犬神家一族
 Inukko Club|小狗俱乐部-福丸之大冒险
+Inuyasha - Fuuun Emaki|
+Inuyasha - Kagome no Sengoku Nikki|
+Inuyasha - Kagome no Yume Nikki|
 Inuyasha - Naraku no Wana! Mayoi no Mori no Shoutaijou|犬夜叉-奈落之圈套迷幻森林之请帖
 Invader|侵略者
 Invasion of the Alien Blobs!|
@@ -7881,11 +7999,13 @@ Ishi Sengokuden Sadame|
 Ishido - The Way of Stones|石头棋石之道
 Ishin no Arashi|维新之岚
 Ishin no Arashi - Shippuu Ryouma Den|维新风暴-疾风龙马传
+Isigarki|
 Island Days|日♂在小岛SLG
 Island Kagura 2 - Crimson|
 Island Xtreme Stunts|乐高积木岛极限特技赛车
 Isola dei Famosi, L'|兰达岛
 Isolated Warrior|马克司战士 - 惑星戒严令
+Isomon - Get Oh No!!|
 Isozuri - Ritou Hen|矶钓离岛篇
 Ispot Japan|
 Isseki Hatchou - Kore 1ppon de 8shurui!|一石八鸟!
@@ -7994,6 +8114,7 @@ Jake Power - Firefighter|杰克力量-消防员
 Jake Power - Fireman|杰克力量-消防员
 Jake Power - Handyman|杰克力量-杂物工
 Jake Power - Policeman|杰克力量-警察
+Jaleco Rally - Big Run - The Supreme 4WD Challenge|
 Jaleco Rally Big Run - The Supreme 4WD Challenge|野外大赛车
 Jam Sessions - Sing & Play Guitar|即兴演奏
 Jam Sessions - Sing and Play Guitar|即兴演奏
@@ -8310,12 +8431,15 @@ Joy Mech Fight|趣味机器人格斗
 Joy Mecha Fight|
 JuJu Densetsu|JuJu传说
 Judge Dredd|超时空战警
+Judgement Silversword|
+Judgement Silversword - Rebirth Edition|
 Juedai Yingxiong|
 Juedui Wuli|
 Juezhan Sanguo|决战三国
 Juezhan Taipingyang|
 Juggler DS|戏法者DS
 Juiced 2 - Hot Import Nights|极品醉车2-燃情之夜
+Juicy Crew|
 Juka and the Monophonic Menace|朱卡和单音麦纳斯
 Jukugo - Sokubiki Jiten Yomenai Kanji mo Raku Raku Yomeru|
 Jukugo Quiz|
@@ -8426,6 +8550,7 @@ Kabushiki Doujou|株式道场
 Kachiuma Yosou Soft - Baken Renkinjutsu|马券炼金术
 Kachou Shima Kosaku DS - Dekiru Otoko no Love & Success|课长岛耕作DS-万能先生的爱情和事业
 Kachou Shima Kousaku|课长岛耕作
+Kachou Shima Kousaku - Super Business Adventure|
 Kadohiro - Supidobatorukasutamu|
 Kaept'n Blaubaer - Die verrueckte Schatzsuche|布鲁熊智能湖
 Kaeru B Back|青蛙回家
@@ -8454,6 +8579,7 @@ Kaiketsu Yanchamaru|
 Kaiketsu Yanchamaru 2 - Karakuri Land|
 Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen|
 Kaiketsu Zorori to Mahou no Yuuenchi - Ohimesama o Sukue!|恶作剧王大闹魔法游乐园
+Kaikon|
 Kaisen Gemu - Redau|
 Kaisertal - Fight the Necronis War|凯瑟战机
 Kaite Oboeru - DoraGana|
@@ -8489,6 +8615,7 @@ Kakutou Ryouri Densetsu Bistro Recipe - Gekitou Foodon Battle Hen|格斗料理�
 Kakutou Ryouri Densetsu Bistro Recipe - Kettou Bistgarm Hen|格斗料理传说–决斗篇
 Kalle Kunskap - 4-7 Aar|卡勒科学-4-7年级
 Kalle Kunskap Matematik 4-8 ar|
+Kamai-tachi no Yoru|
 Kamaitachi no Yoru|恐怖惊魂夜
 Kamaitachi no Yoru Advance|恐怖惊魂夜
 Kame Nin Machanto!|
@@ -8511,6 +8638,7 @@ Kamigami no Triforce 2|
 Kamiwaza Wanda - Kirakira Ichibangai Kikiippatsu|
 Kamiwazawanda Kirakiraichibangai Kikiippatsu!|
 Kamonohashikamo. - Aimai Seikatsu no Susume|暧昧鸭嘴兽-暧昧生活的建议
+Kanain|
 Kanbayashi Shiki Nouryoku Kaihatsu Hou - Unou Kids DS|神林氏右脑开发
 Kangaeru Chikara o Gun Gun Nobasu! - DS Youji no Noutore|提升思考力DS-幼儿脑训练
 Kangti Wu Wang|
@@ -8550,13 +8678,14 @@ Karate Joe|英雄救美
 Karate Kid, The|小子难缠
 Karateka|决战富士山
 Karnaaj Rally|战斗赛车
-Karnov|卡洛夫
+Karnov|卡诺夫
 Karous - The Beast of Re - Eden|
 Karous - The Beast of Re-Eden|
 Karrablast-shelmet Distribution 2011|
 Kart Fighter|
 Kart Krashers|
 Karura Ou|迦楼罗王
+Kasanegasane|
 Kaseki Chou Shinka - Spectrobes|化石超进化Spectrobes
 Kaseki Horider - Mugen Gear|
 Kaseki Horider Mugen Gear|
@@ -8583,6 +8712,7 @@ Katekyoo Hitman Reborn! DS - Ore ga Boss! - Saikyou Family Taisen|家庭教师 H
 Katekyoo Hitman Reborn! DS - Shinuki Max! Vongola Carnival!!|家庭教师HITMAN REBORN!DS-死气MAX!彭哥列嘉年华
 Katekyoo Hitman Reborn! DS - Vongola Shiki - Taisen Battle Sugoroku|家庭教师Hitman Reborn!-意大利式对战双六
 Kato-chan & Ken-chan|加藤茶和志村健爆笑人
+Kato-chan Ken-chan|
 Katou Hifumi Kudan - Shougi Club|加藤一二三九段将棋俱乐部
 Katou Hifumi Kudan - Shougi Kyoushitsu|将棋教室日
 Kattobi! Takuhai-kun|
@@ -8659,7 +8789,6 @@ Kenka Banchou 6 - Seoul & Blood|
 Kenka Banchou 6 - Soul & Blood|
 Kenkabancho6 Soul & Blood|
 Kenkou Ouen Recipe 1000 - DS Kondate Zenshuu|健康应援菜谱1000 DS菜单全集
-Kensa-you Flash Card - UJI CHECKER - SEQUENCER|
 Kenshuui Tendo Dokuta|研修医-天堂独太
 Kenshuui Tendo Dokuta 2 - Inochi no Tenbin|研修医天堂独太2 命运的天秤
 Kentou Ou World Champion|拳斗王
@@ -8692,13 +8821,13 @@ KickMaster|踢王
 Kickle Cubicle|迷宫岛
 Kid Chameleon|变色龙
 Kid Dracula|恶魔城外传 德拉古拉君
-Kid Icarus|光之神话
-Kid Icarus - Of Myths and Monsters|光之神话
-Kid Icarus - Uprising|光之神话
-Kid Icarus - Uprising Preview|光之神话
-Kid Icarus 3D Anime - Medusa's Revenge|光之神话
-Kid Icarus 3D Anime - Palutena's Revolting Dinner|光之神话
-Kid Icarus 3D Anime - Thanatos Rising|光之神话
+Kid Icarus|光神话
+Kid Icarus - Of Myths and Monsters|光神话
+Kid Icarus - Uprising|光神话
+Kid Icarus - Uprising Preview|光神话
+Kid Icarus 3D Anime - Medusa's Revenge|光神话
+Kid Icarus 3D Anime - Palutena's Revolting Dinner|光神话
+Kid Icarus 3D Anime - Thanatos Rising|光神话
 Kid Klown in Crazy Chase|凯伦的疯狂追逐
 Kid Klown in Night Mayor World|小丑王子大冒险
 Kid Klown no Crazy Chase|凯伦的疯狂追逐
@@ -8720,10 +8849,15 @@ Kidou Keisatsu Patlabor|机动警察
 Kidou Keisatsu Patlabor - 98-Shiki Kidou Seyo!|
 Kidou Senkan Nadesico - Ruri Ruri Mahjong|机动战舰Nadesico–露莉露莉麻将
 Kidou Senshi Gundam - Cross Dimension 0079|机动战士高达：交错维度0079
+Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha|
 Kidou Senshi Gundam - Seed Destiny|机动战士高达SEED
 Kidou Senshi Gundam 00|机动战士高达 00
 Kidou Senshi Gundam F91 - Formula Senki 0122|机动战士高达F91-法缪拉战记0122
+Kidou Senshi Gundam Seed|机动战士高达SEED
 Kidou Senshi Gundam Seed - Tomo to Kimi to Koko de.|高达SEED与你共赴战场
+Kidou Senshi Gundam Vol. 1 - Side 7|
+Kidou Senshi Gundam Vol. 2 - Jaburo|
+Kidou Senshi Gundam Vol. 3 - A Baoa Qu|
 Kidou Senshi V Gundam|机动战士V高达
 Kidou Senshi Z Gundam - Away to the Newtype|机动战士Z高达-新人类之路
 Kidou Senshi Z Gundam - Hot Scramble|机动战士Z高达
@@ -8749,7 +8883,9 @@ Kiki Kaikai|奇奇怪界日版
 Kiki Kaikai - Nazo no Kuro Manteau|奇奇怪界-谜之黑斗篷
 Kiki Kaikai - Tsukiyo Soushi|奇奇怪界-月夜草子
 Kiki Kaikai Advance|奇奇怪界Advance
+Kikou Keisatsu - Metal Jack|
 Kikou Keisatsu Metal Jack|机甲警察
+Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori.|
 Kiku! Kaku! Kotoba o Fuyasu! - Hajimete no Eigo Training - Eitore|听写学单字!基础英文训练
 Kikuni Masahiko no Jantoushi Doraou|喜国雅彦的雀斗士铜锣王
 Kikuni Masahiko no Jantoushi Doraou 2|喜国雅彦的雀斗士铜锣王2
@@ -8797,7 +8933,9 @@ King of Fighters 98', The|格斗之王98
 King of Fighters 99, The|
 King of Fighters EX 2, The - Howling Blood|拳皇EX2 咆哮之血
 King of Fighters EX, The - NeoBlood|拳皇EX 新血
+King of Fighters R-2 - Pocket Fighting Series|拳皇R2
 King of Fighters R2|
+King of Fighters, The - Battle de Paradise|拳皇：乐园激战
 King of Kings|万王之王
 King of Kings, The - The Early Years|王中王
 King of Rally, The - Paris-Moscow-Beijing|拉力赛车王
@@ -8825,6 +8963,8 @@ Kinniku Banzuke GB 2 - Mezase! Muscle Champion|筋番付肉2代
 Kinniku Banzuke GB 3 - Shinseiki Survival Retsuden!|筋番付肉3代
 Kinnikuman - Dirty Challenger|筋肉人-挑战赛
 Kinnikuman - Muscle Tag Match|金肉人摔角
+Kinnikuman II-Sei - Choujin Seisenshi|
+Kinnikuman II-Sei - Dream Tag Match|
 Kinnikuman II-Sei - Seigi Choujin e no Michi|筋肉人Ⅱ世-正义超人之道
 Kipper Eigo Class Floppy's Phonics Vol. 1 Kipper Hen|
 Kipper Eigo Class Floppy's Phonics Vol. 2 Bif Hen|
@@ -8962,6 +9102,7 @@ Koenig der Loewen, Der - Simbas grosses Abenteuer|洛文之歌-辛巴的冒险
 Koguru Guruguru - Guruguru to Nakayoshi|咕噜咕噜到中岛
 Koh-Lanta|兰达岛
 Koh-Lanta - Survie dans la Jungle!|柯兰达-丛林生存
+Koi Koi Mahjong|
 Koinu de Kururin|小狗的房间
 Koinu to Issho - Aijou Monogatari|爱情物语可爱的宠物小狗
 Koinu to Issho 2|可爱小狗2
@@ -9163,6 +9304,7 @@ KuruKuru Princess - Tokimeki Figure - Mezase! Vancouver|回旋公主-动人花�
 KuruKuru Princess - Yume no White Quartet|溜冰公主梦之白色四重奏
 Kurukuru Kururin|咕噜咕噜转转棒
 Kuruma de DS|
+Kurupara!|
 Kurupoto - Atama ni Piritto Supplement Puzzle|回转门
 Kurupoto - Cool Cool Stars|回转门酷酷星
 Kururin Doughnut - Okashi na Recipe|旋转甜甜圈-点心食谱
@@ -9180,6 +9322,7 @@ Kutar Quiz|
 Kutar Ski Lift|
 Kutar Tube Rider|
 Kutsushita Nyanko - Shiroi Kutsushita o Haita Neko to Kurashi Hajimemashita.|穿白袜的小黑猫
+Kuttsuke Su|
 Kuuga - Operation Code 'Vapor Trail'|空牙-行动代号
 Kuukan Sagashimono Kei Nouryoku Kaihatsu - 3D Nou Training|
 Kuukan Zukei - Hirameki Training - Kuutore|空间☆图形-闪现训练
@@ -9288,6 +9431,7 @@ LEGO Pelicula el Videojuego, La|
 LEGO Pelicula, La - El Videojuego|
 LEGO Pirates of the Caribbean - The Video Game|乐高加勒比海盗-电视游戏版
 LEGO Racers|乐高赛车
+LEGO Racers - The Video Game|
 LEGO Racers 2|乐高赛车手2
 LEGO Rock Band|乐高摇滚乐队
 LEGO Star Wars - Das Erwachen der Macht|
@@ -9354,10 +9498,12 @@ Lasalle Ishii no Child's Quest|孩子的冒险
 Laser Invasion|救难任务
 LaserActive|
 Last Action Hero|最后魔鬼英雄
+Last Alive|
 Last Armageddon|末日战记
 Last Battle|北斗神拳
 Last Battle, The|最后决战
 Last Bible III|最后的圣经3
+Last Blade, The - Beyond the Destiny|
 Last Bullet|终结之弹
 Last Ninja, The|最后之忍者
 Last Starfighter, The|最后之星际战机
@@ -9590,7 +9736,6 @@ Lion King 3|狮子王3
 Lion King 5, The - Timon & Pumbaa|
 Lion King 6, The - Timon & Pumbaa|
 Lion King II|狮子王2
-Lion King II, The|
 Lion King II, The - Simba's Mighty Adventure|
 Lion King III, The|
 Lion King III, The - Timon & Pumbaa|
@@ -9691,6 +9836,7 @@ Lola's ABC Party|
 Lola's Alphabet Train|
 Lola's Fruit Shop Sudoku|
 Lola's Math Train|
+Lolita Queen|
 LonQ! Highland in DS - Puu Puu Seijin Arawaru!! Shukketsu Dai-service! Onara no Saiten SP|伦敦Q乐园DS
 Londonian Gothics - Meikyuu no Lolita|迷宫的罗利塔
 Lone Ranger, The|独行侠
@@ -9705,6 +9851,7 @@ Looney Tunes - Carrot Crazy|宾尼兔疯狂卡通美
 Looney Tunes - Cartoon Concerto|兔宝宝-卡通协奏曲
 Looney Tunes - Cartoon Conductor|兔宝宝-卡通协奏曲
 Looney Tunes - Duck Amuck|华纳群星总动员-达菲鸭
+Looney Tunes - Hoop It Up!|
 Looney Tunes - Road Runner|bb鸟与大野狼欧版
 Looney Tunes - Road Runner vs Wile E. Coyote|bb鸟与大野狼日版
 Looney Tunes - Twouble!|大野猫与金丝雀
@@ -9875,7 +10022,7 @@ Mach Rider|超音速机车赛
 Machi no Pet-ya-san DS - 200 Piki Wan-chan Daishuugou|镇上的宠物店DS-200只小狗大集合
 Machi no Pet-ya-san DS 2 - Wannyan 333-hiki Daishuugou!|城市宠物店 DS2-333 只猫狗大集合
 Machine Knight|
-Macross 7 - Ginga no Heart o Furuwasero!!|超时空要塞7日
+Macross 7 - Ginga no Heart o Furuwasero!!|超时空要塞7
 Mad City|鳄鱼先生
 Mad Dog Mccree|
 Mad Max|冲锋飞车队
@@ -9964,7 +10111,10 @@ Magical Diary - Secrets Sharing|
 Magical Doropie|
 Magical Drop|魔女小红帽
 Magical Drop 2|魔女小红帽2
+Magical Drop 2 - Bunka Housou Special Version|
 Magical Drop II|魔女小红帽2
+Magical Drop Pocket|
+Magical Harvest|
 Magical Hat no Buttobi Turbo! Daibouken|
 Magical Houshin|魔法封神
 Magical Kid's Doropie|小魔女皮皮
@@ -9998,6 +10148,7 @@ Magnum Kikiippatsu - Empire City - 1931|帝国城市1931
 Mah Jong Quest - Expeditions|麻将传奇
 Mah-Jong 300|麻将300
 Maharaja|印度大君
+Mahha de Tsuugaku!!|
 Mahjang Companion|麻雀指南
 Mahjong|推倒胡麻将
 Mahjong - Eine Reise um die Welt|麻将2
@@ -10076,8 +10227,6 @@ Maji de Manabu - LEC de Ukaru - DS Koumuin Shiken - Suuteki Shori|认真学习LE
 Maji de Manabu - LEC de Ukaru - DS Nisshou Boki 3-kyuu|DS日商簿记3级
 Maji de Manabu - LEC de Ukaru - DS Takuchi Tatemono Torihiki Shuninsha|认真学习LEC合格DS-土地交易主任
 Maji de Manabu - LEC de Ukaru - DS Takuchi Tatemono Torihiki Shuninsha - 2011 Nen & 2012 Nendo Ban|认真学习LEC合格DS-宅地建物取引主任者2010&2011年度版
-Majiang Emo Ta - Devilish Mahjong Tower|
-Majiang Qingren|
 Majikaru Doroppu Yurutto|
 Majikaru Funtajisuta|
 Majime ni Fumajime - Kaiketsu Zorori - Kyoufu no Takarabako|恶作剧狸猫-恐怖的宝箱
@@ -10114,6 +10263,7 @@ Makai Mura|
 Makai Ouji - Devils and Realist - Dairiou no Hihou|
 Makai Prince Dorabocchan|魔界王子日版
 Makai Senki Disgaea - Makai no Ouji to Akai Tsuki|魔界战记 魔界王子与赤月
+Makai Toushi Sa-Ga|
 Makaimura|魔界村
 Make 10 - A Journey of Numbers|相加为10的故事
 Make Up Style|
@@ -10461,6 +10611,7 @@ Maus DS|老鼠 DS
 Maus, Die|迪·毛斯
 Maus, Die - Verrueckte Olympiade|死亡毛利德
 Mawaru - Made in Wario|旋转瓦力欧
+Mawase Mawase WonderSwan Mawase|
 Mawashite Koron|Mawashite Koron
 Mawashite Tsunageru Touch Panic|疯狂触摸
 Mawasundaa!!|转转乐
@@ -10487,6 +10638,7 @@ Maze Breaker 3|
 Maze Breaker 4|
 Maze Breaker V|
 Maze Breaker VI|
+Maze Maze|
 Mazes of Fate|迷宫的圣杯
 Mazes of Fate DS|命运迷阵DS
 Mazin Saga|Mazin传说
@@ -10620,7 +10772,6 @@ Mega-CD|
 Mega-CD 2|
 Mega-lo-Mania|
 MegaMind|
-MegaNet|
 MegaPanel|
 MegaTrax|
 Megaman & Bass|洛克人与佛鲁迪
@@ -10688,12 +10839,16 @@ Meitantei Conan - Norowareta Kouro|名侦探柯南–被诅咒的航路
 Meitantei Conan - Phantom Kyoushikyoku|
 Meitantei Conan - Phantom Rhapsody|
 Meitantei Conan - Tantei Ryoku Trainer|名侦探柯南：侦探力训练 0.99
+Meitantei Conan - Yuugure no Oujo|
 Meitantei Holmes - Kiri no London Satsujin Jiken|名侦探霍姆斯 - 雾之伦敦杀人事件
 Meitantei Holmes - M kara no Chousenjou|名侦探福尔摩斯 - 谜之挑战状
 Meitantei Pikachu|名侦探皮卡丘 日版
 Meitantei Pikachu - Shin Combi Tanjou|
-Melfand Stories|美法蘭传说
+Melfand Stories|美法兰传说
+Melodion|
 Meloetta Distribution 2013|
+Memories Off - Festa|
+Memories Off - Pure|
 Men in Black|
 Men in Black - The Series|黑超特警组
 Men in Black 2 - The Series|MIB星际战警2代/黑衣人2代
@@ -10749,7 +10904,6 @@ Metal Gear Solid - Snake Eater|
 Metal Gear Solid - Snake Eater 3D|
 Metal Gear Solid 2D - Sensible|
 Metal Gear Solid 3D - Snake Eater|
-Metal Jack|
 Metal Marines|金属战队
 Metal Max|重装机兵
 Metal Max 2|重装机兵2
@@ -10763,6 +10917,8 @@ Metal Saga - Hagane no Kisetsu|重装机兵：钢之季节
 Metal Slader Glory|史莱德装甲之荣耀
 Metal Slader Glory - Director's Cut|金属之光
 Metal Slug|合金弹头
+Metal Slug - 1st Mission|合金弹头：第一任务
+Metal Slug - 2nd Mission|
 Metal Slug - Super Vehicle-001|合金弹头：超级战车001
 Metal Slug 7|合金弹头7
 Metal Slug Advance|合金弹头A
@@ -10800,6 +10956,7 @@ Mew Hikikae-you Soft|
 Mew Trading App|
 Mezase Pachi Pro - Pachio-kun|帕青哥君
 Mezase! 100 Giri Golf DS|突破100高尔夫DS
+Mezase! Kanji Ou|
 Mezase! Koushien|目标！甲子园
 Mezase! Shoujo Manga Ka!! Ciao Manga School|少女学院
 Mezase! Top Pro - Green ni Kakeru Yume|职业高尔夫球
@@ -10844,6 +11001,7 @@ Mickey to Minnie - Magical Adventure 2|米奇和米妮-魔法冒险2
 Mickey to Minnie no Magical Quest|迪斯尼的米奇老鼠
 Mickey to Minnie no Magical Quest 2|迪斯尼的米奇老鼠2
 Mickey's Adventure in Numberland|米老鼠之数字岛大冒险
+Mickey's Jigsaw Puzzles|
 Mickey's Playtown Adventure - A Day of Discovery!|米老鼠游乐城冒险
 Mickey's Racing Adventure|米老鼠大冒险
 Mickey's Safari in Letterland|米老鼠之字母岛大冒险
@@ -10917,6 +11075,7 @@ Mike Tyson Boxing|麦克·泰森拳击
 Mike Tyson's Intergalactic Power Punch|麦克泰森拳击
 Mike Tyson's Punch-Out!!|泰森拳击
 Mike the Knight and the Great Gallop|麦克小骑士
+Mikeneko Holmes - Ghost Panic|
 Mikuro No Seimeitai|
 Milandra|米蘭达拉传说
 Miles & Kilo|荒岛大冒险
@@ -10960,6 +11119,7 @@ Mini Moni. - Onegai Ohoshi-sama!|迷你早安-落在山脊上的星星!
 Mini Ninjas|迷你忍者
 Mini RC Rally|迷你RC拉力赛车
 Mini Sports Collection|
+Mini Tennis|
 Mini Yonku DS|迷你四驱
 Mini Yonku Let's & Go!! - Power WGP 2|爆走兄弟2
 Mini Yonku Shining Scorpion - Let's & Go!!|四驱车向前走
@@ -11015,6 +11175,7 @@ Mio Coach, Il - Arricchisco il Mio Inglese|我的英语教练
 Mio Coach, Il - Arricchisco il Mio Vocabolario|我的单词教练
 Miracle Casino Paradise|神奇赌博天堂
 Miracle Girls|神奇女孩
+Miracle Girls - Tomomi to Mikage no Fushigi Sekai no Daibouken|
 Miracle Piano Teaching System, The|神奇钢琴教学系统
 Miracle Ropit's - 2100 Nen no Daibouken|MIRACLE ROPIT冒险
 Miracle Tunes! Game de Tune Up! Dapun!|
@@ -11050,6 +11211,7 @@ Mizubaku Daibouken|水獭大冒险
 Mizuiro Blood|水色之血
 Mizuki Shigeru no Shin Youkaiden|新妖怪传
 Mizuki Shigeru no Youkai Hyakkiyakou|水木茂的妖怪百鬼夜行
+Mizuki Shigeru no Youkai Shashinkan|
 Mizushima Shinji no Daikoushien|水岛新司的大甲子园
 Mo Daoshi Yinmou|
 Mo Shou Shi Ji - Zhan Shen|魔兽世纪 战神
@@ -11133,6 +11295,7 @@ Monji Battle Kotodamaaru|
 Monkey Madness - Island Escape|
 Monkey Puncher|打洞猴
 Monmallineun 3-gongjuwa Hamkkehaneun - Geurimyeonsang Yeongdaneo Amgibeop|如何记住与图片相关联的英语词汇
+Monmon Gunner|
 Monokage Quest|
 Monokuro Boo & Baby Boo - Kururin Boo|黑白猪和宝宝猪的旋转方块
 Mononoke Forest|
@@ -11326,6 +11489,7 @@ Mountain Peak Battle Mess|
 Mouryou Senki Madara|鬼魅战记
 Mouryou Senki Madara 2|魍魉战记2
 Move Your Brain - Rollway Puzzle|
+Moverang|
 Movie Player|
 Moxie Girlz|慕斯女孩
 Moyashimon DS - Tales of Agriculture|萌菌物语DS
@@ -11336,7 +11500,8 @@ Mr Bean|憨豆先生
 Mr Mary|
 Mr Nutz|松鼠大进攻
 Mr. Assy - Momoco & Hanako|
-Mr. Bloopy - Saves the World|
+Mr. Bloopy Saves the World|
+Mr. Bloppy Saves the World|
 Mr. Brain - Misutaburei|
 Mr. Do!|度!先生
 Mr. Driller|钻子先生
@@ -11371,6 +11536,7 @@ Mujintou Monogatari|无人岛物语
 Mujou o Asonde Kurete Kansha Coupon|
 Mulan|花木兰
 Multi Play Volleyball|多人排球
+Multi-BoaRD|
 Multi-Mega|
 Mummi og de Mystiske Hylene|姆明和神秘的尖叫声
 Mummi og den Store Hoestfesten|姆明和伟大的秋季盛宴
@@ -11593,6 +11759,7 @@ NASCAR Heat|云斯顿热赛篇
 NASCAR Heat 2002|云斯顿赛车2002
 NASCAR Racers|新云斯顿赛车
 NASCAR Unleashed|纳斯卡赛车：释放
+NAVI GET 400 Million|
 NBA '98|
 NBA 3 on 3 Featuring Kobe Bryant|
 NBA Action '94|
@@ -11677,7 +11844,6 @@ NS CFA|
 NSYNC - Get to the Show|星光灿烂
 NTDEC 22-in-1|
 NTF 2.5 Test Cartridge|
-NTR Aging|
 NVer|
 NWM|
 NYR - New York Race|纽约赛车欧
@@ -11693,11 +11859,9 @@ Nagameru Dakede Kashikoku Nareru! - Mojipitta Shiritori Dokei|
 Nage Libre - Seijaku no Suishin|女子学园社团战记
 Nagenawa Action! Guruguru! Chibi Robo!|
 Nakajima Satoru - F-1 Hero|中岛悟 - F-1 英雄
-Nakajima Satoru Kanshuu - F-1 Grand Prix|
 Nakajima Satoru Kanshuu - F-1 Hero '94|中岛悟F1英雄94
 Nakajima Satoru Kanshuu - F-1 Hero 2|中嶋悟監修 F1英雄2
 Nakajima Satoru Kanshuu - F-1 Hero MD|
-Nakajima Satoru Kanshuu - F-1 Super License|
 Nakajima Satoru Kanshuu - F1 Grand Prix|
 Nakajima Satoru Kanshuu - F1 Super License|
 Nakajima Satoru Kanshuu - Super F-1 Hero|超级F1英雄
@@ -11734,8 +11898,10 @@ Namco Museum|南梦宫的博物馆
 Namco Museum - 50th Anniversary|南梦宫博物馆2
 Namco Museum DS|南梦宫博物馆DS
 Namco Prism Zone - Dream Master|梦境之王
+Namco Super Wars|
 Namcot Mahjong III - Mahjong Tengoku|拿姆科麻雀 III - 麻雀天国
 Namcot Open|拿姆科高尔夫开打
+Nametry|
 Naminori Yarou!|冲浪野郎
 Nanami no Oshiete Eibunpou DS - Kiso kara Manabu Step Up Gakushuu|奈奈美的英文教学-基础循序教学
 Nanami no Oshiete English DS - Mezase TOEIC Master|奈奈美的英文教学English DS-目标为TOEIC大师
@@ -11784,6 +11950,7 @@ Narnia Koku Monogatari Dai-1 Shou - Lion to Majo|纳鲁尼亚国物语
 Narnia Koku Monogatari Dai-2 Shou - Caspian Ouji no Tsunobue|纳尼亚传奇-凯斯宾王子
 Naruhodo! The World|原来如此!世界问答比赛
 Naruto - Choegangninja Daegyeoljip DS|火影忍者-最强忍者大集合3
+Naruto - Konoha Ninpouchou|
 Naruto - Konoha Senki|火影忍者 木叶战记
 Naruto - Ninja Council|火影忍者-最强忍者大集合1
 Naruto - Ninja Council - European Version|火影忍者-最强忍者大结集
@@ -11903,11 +12070,23 @@ Neko Neko Bakery DS|猫猫烤房DS
 Neko Neko Bekari - Pan De Pazurunya!|
 Neko No Irutan Guramu|
 Neko Tomo|
+Neko no Kurubushi|
 NekoBop|
 Nekojara Monogatari|子猫物语
 Nekori Bashi|
 Nemrem - Art Style Series|
 Nemuneko Puzzle|
+Neo 21 - Pocket Casino Series|
+Neo Baccarat - Pocket Casino Series|
+Neo Cherry Master Color - Pocket Casino Series|
+Neo Derby Champ Daiyosou|
+Neo Dragon's Wild - Real Casino Series|
+Neo Mystery Bonus - Pocket Casino Series|
+Neo Poke Pro Yakyuu|
+Neo Turf Masters|
+NeoGeo Cup '98 Plus Color - Pocket Sports Series|
+Neojan|
+Neon Genesis Evangelion - Shito Ikusei|新世纪福音战士：使徒育成
 Neopets Puzzle Adventure|尼奥宠物谜题冒险
 Neoromance Game - Harukanaru Toki no Naka de|新罗曼史系列-遥远时空
 Neoromance Game - Harukanaru Toki no Naka de - Yume no Ukihashi|遥远的时空中-梦浮桥
@@ -11925,9 +12104,9 @@ Network Boukenki Bugsite - Beta Version|网络冒险记Bug网站–贝塔版
 Network Manager|
 Neugier - Umi to Kaze no Kodou|大地勇士：海与风的鼓动
 Neuro de Fuzzy Shooting|
-Neutopia|世界冒险记美版
-Neutopia - Frey no Shou|
-Neutopia II|世界冒险记2美版
+Neutopia|新世界冒险记
+Neutopia - Frey no Shou|新世界冒险记
+Neutopia II|新世界冒险记II
 Neves|七巧板
 New 3D Golf Simulation - Devil's Course|魔鬼课程训练高尔夫
 New 3D Golf Simulation - Harukanaru Augusta|新3D高尔夫
@@ -11987,7 +12166,6 @@ New York Times Crosswords, The|纽约时报填字游戏
 New Zealand Story DS|新西兰故事DS
 New Zealand Story Revolution|新西兰故事-革命
 NewZealand Story, The|新西兰故事
-Newman Haas IndyCar - Featuring Nigel Mansell|
 Newman Haas IndyCar Featuring Nigel Mansell|
 Newman Haas IndyCar featuring Nigel Mansell|新人类印地安赛车欧版
 Newnurie Cinnamoroll|
@@ -12028,6 +12206,7 @@ Nicola Supervision Model - Fashionable Audition Platinum|
 Nicoli No Sudoku 3D - 8-Tsu No Puzzle De 1000-Mon|
 Niconico|
 Nicopuchi|
+Nige-ron-pa|
 Nigel Mansell F-1 Challenge|尼吉尔的F1挑战
 Nigel Mansell IndyCar|纽曼哈斯印地赛车
 Nigel Mansell's World Championship|尼吉尔世界冠军赛车
@@ -12053,6 +12232,7 @@ Nihongo de Asobo DS|用日语来游玩DS
 Nihonichi no Mei Kantoku|日本第一棒球名监督
 Nihonshi DS|日本史DS
 Niji no Silk Road|彩虹丝路
+Nijiiro Dandodan|
 Nikaku de Susshi|
 Nikkan Sports Pro Yakyuu VAN|
 Nikki no Tabi Suru Quiz|
@@ -12236,6 +12416,9 @@ Nishijin Pachinko Monogatari 2|西阵柏青哥物语2
 Nishimura Kyoutarou Mystery - Blue Train Satsujin Jiken|西村京太郎之推理世界 - 蓝色列车杀人事件
 Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken|西村京太郎之推理世界 - 特急列车杀人事件
 Nitro EVA.|
+Nitro EVA. F-WRITER Ver1.0K|
+Nitro EVA. F-WRITER Ver3.0|
+Nitro EVA. MIC|
 Nitropunks - Might Heads|阿飞的魔法头
 No Escape|无路可退
 No Fear - Downhill Mountain Biking|下坡山地车
@@ -12286,6 +12469,7 @@ Nos Voisins, les Hommes|篱笆墙外
 Nosferatu|古城救美
 Nostalgeo no Kaze|思乡之风
 Nostalgia|思乡之风
+Not Found|
 Notifications|
 Notifications Digital Manual|
 Noughts & Crosses|
@@ -12339,6 +12523,7 @@ Ochaken no Heya DS 2|茶犬的房间DS 2
 Ochaken no Heya DS 3|茶犬的房间DS3
 Ochaken no Heya DS 4|茶犬的房间DS4-轻松的养育茶犬
 Ochaken no Yume Bouken|茶犬的梦之冒险
+Octopus Mahjong, The|
 Oda Nobunaga - Haou no Gundan|织田信长-霸王之军团
 Oddworld - Munch's Oddysee|奥蒂世界-奥蒂的咀嚼
 Oddworld Adventures 2|奇异世界冒险2欧
@@ -12351,6 +12536,7 @@ Oeka Kids - Anpanman no Hiragana Daisuki|绘图小子 - 面包超人之最爱平
 Oeka Kids - Anpanman to Oekaki Shiyou!!|绘图小子 - 面包超人之绘图小子
 Oekaki Logic|逻辑绘图方块NP版
 Oekaki Logic 2|逻辑绘图方块NP版2
+Oekaki Puzzle|
 Oekaki Puzzle Battle! - Yuusha Ou GaoGaiGar Hen|绘图方块解谜：战斗勇者王
 Of Mice and Sand|
 Off the Wall|
@@ -12387,7 +12573,7 @@ Okiraku Golf 3D|
 Okiraku Kart 3D|
 Okiraku Pingpong 3D|
 Okiraku Tennis 3D|
-Okkotoshi Puzzle - Tonjan!|小猪仓库番
+Okkotoshi Puzzle - Tonjan!|游戏空间小猪仓库番
 Oktoberfest - The Official Game|啤酒节-官方游戏
 Okumanchouja Game - Nottori Daisakusen!|亿万长者游戏
 Oli Octopus|
@@ -12404,6 +12590,7 @@ Omiko Shiuzu|
 On Dal Jang Goon|
 On the Ball|360度转球
 Once upon a time... - Ugly Duckling|
+One Dazen Won!|
 One Piece|海贼王
 One Piece - Dai Kaizoku Colosseum|
 One Piece - Daikaizoku Tougijou|
@@ -12559,6 +12746,7 @@ Ou Dorobou Jing - Angel Version|银何侠盗–黄天使版
 Ou Dorobou Jing - Devil Version|银何侠盗–绿恶魔版
 Ou-chan no Oekaki Logic|绘图逻辑方块
 Ouchi Mainichi Tamagotchi|宠物蛋的豪华府邸SIM
+Ougon|
 Ougon no Taiyou - Hirakareshi Fuuin|黄金太阳：开启的封印
 Ougon no Taiyou - Shikkoku Naru Yoake|黄金太阳：漆黑的黎明
 Ougon no Taiyou - Ushinawareshi Toki|黄金太阳：失落的时代
@@ -12621,6 +12809,7 @@ PGA Tour Golf II|PGA高尔夫巡回赛2
 PGA Tour Golf III|
 PONS Englisch - Vokabel Buddy|
 PONS Franzoesisch - Vokabel Buddy|词汇好友-法语
+PP-AA01 - Pusher - Program - Hontai Controller Gawa|
 PaZeek|帕泽克
 Paard & Pony - Mijn Manege|我的马场
 Paard & Pony - Mijn Paardenstal|我的马场
@@ -12654,6 +12843,14 @@ Pac-World 2|吃豆人世界2
 Pachi & Slot Hisshoubon DS|柏青哥-柏青嫂必胜本DS
 Pachi-Slot Adventure 2 - Sorotta-kun no Pachi-Slot Tanteidan|柏青哥大冒险2
 Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan!|帕青哥大冒险 III
+Pachi-Slot Aruze Oukoku - Porcano 2|
+Pachi-Slot Aruze Oukoku Pocket - Azteca|
+Pachi-Slot Aruze Oukoku Pocket - Dekahel 2|
+Pachi-Slot Aruze Oukoku Pocket - Delsol 2|
+Pachi-Slot Aruze Oukoku Pocket - Hanabi|
+Pachi-Slot Aruze Oukoku Pocket - Ohanabi|
+Pachi-Slot Aruze Oukoku Pocket - Ward of Lights|
+Pachi-Slot Aruze Oukoku Pocket - e-CUP|
 Pachi-Slot Gambler|柏青嫂胜负师
 Pachi-Slot Kanzen Kouryaku - Universal Shindai Nyuuka Volume 1|柏青嫂完全攻略-通用新台入荷
 Pachi-Slot Kenkyuu|水果盘研究
@@ -12672,6 +12869,7 @@ Pachinko Daisakusen|帕青哥大作战
 Pachinko Daisakusen 2|帕青哥大作战 II
 Pachinko Fan - Shouri Sengen|柏青哥迷-胜利宣言
 Pachinko Hisshou Guide - Data no Ousama|柏青哥必胜指南
+Pachinko Hisshou Guide - Pocket Parlor|
 Pachinko Kuunyan|
 Pachinko Maruhi Hisshouhou|柏青哥秘密必胜法
 Pachinko Monogatari - Pachi-Slot mo Aru deyo!!|柏青哥物语
@@ -12714,6 +12912,7 @@ Panel de Pon DS|魔法方块
 Paneru Renketsu 3 Punroketto|
 Panewa!|
 Panic Restaurant|餐厅争夺战
+Panic Wonder|
 Panic in Nakayoshi World|美少女抢救大作战
 Panic! Dizzy|恐慌！头晕
 Panorama Cotton|棉花小魔女
@@ -12763,6 +12962,7 @@ Parodius Da! - Shinwa kara Owarai e|Q版沙罗曼蛇-疯狂大射击
 Parody World - Monster Party|怪兽派对
 Partouche Poker Tour - Poker Texas Hold'em No Limit|扑克巡回赛
 Party Carnival|聚会嘉年华
+Party Mail|
 Party Quiz Mega Q|
 Pashatto Bashitto - Whack a Friend|
 Pass Your Driving Theory Test|通过您的驾驶执照测验
@@ -12774,7 +12974,9 @@ Passeport du CE2 au CM1|Passeport: du CE2 au CM1
 Passeport du CM1 au CM2|
 Passeport du CM2 a la 6eme|Passeport: du CM2 a la 6eme
 Passeport du CP au CE1|CE1与CE的通行证
+Pastel Fantasy Deluxe|
 Pat Riley Basketball|派特瑞里篮球美
+Patto Golf|
 Patto Tokeru! - India Suugaku Drill DS - Jiman Shitaku Naru Anzan Hou|迎刃而解-印度数学训练
 Paul's Monster Adventure|
 Paul's Shooting Adventure|
@@ -12853,6 +13055,7 @@ Pepenga Pengo|
 Peppa Pig - Fun and Games|帕帕猪-玩乐与游戏
 Peppa Pig - The Game|粉红猪小妹
 Peppa Pig - Theme Park Fun|
+Pepperas!|
 Percy Jackson & the Lightning Thief|波西杰克森-神火之贼
 Percy Jackson and the Olympians - The Lightning Thief|波西杰克森-神火之贼
 Percy's Predicament Deluxe|
@@ -12893,6 +13096,7 @@ Peter Jackson's King Kong - The Official Game of the Movie|金刚
 Peter Pan - Return to Neverland|小飞侠-回到梦不落帝国
 Peter Pan - The Motion Picture Event|小飞侠-电影版
 Peter Pan's Playground|彼德潘乐园
+Petit Balls|
 Petit Computer|
 Petit Computer 3|
 Petit Computer 3-gou - SmileBASIC|
@@ -12900,6 +13104,9 @@ Petit Eva - Evangelion@Game|Q版新世纪福音战士
 Petit Fute - Travel and Play|
 Petit Novel Series - Harvest December|
 Petit Novel Series Harvest December|
+Petit PazzLe|
+Petit Shooo|
+Petit SounD|
 Petite Zombies|
 Pets Paradise Resort 3D|娇蛮宠物 宠物度假村3DSIM
 Petz - Bunnyz|宠物兔
@@ -13025,6 +13232,7 @@ Physical Contact - Speed|
 Pia Carrot e Youkoso!! 2.2|胡萝卜2.2日
 Pia Carrot e Youkoso!! 3.3|绯色茶餐厅
 Pian Wai Zhang - Huangjin Taiyang - Fengyin de Yuangu Lianjin Shu|
+Pianica|
 Pic Pic|绘图
 Pic Pic - Toku to E ni Naru 3-tsu no Puzzle|绘图总动员变成图画的3个解谜难题
 Pic-A-Pix Color|
@@ -13068,6 +13276,7 @@ PictoImage - Sketch and Guess on Your DS!|绘图猜猜猜DS
 Pictobits - Art Style Series|
 Picture Perfect - Pocket Stylist|
 Picture Picker|
+Picture Puzzle|
 Picture Puzzle Collection|拼图系列
 Picturebook Games - The Royal Bluff|
 Pieces|对战拼图
@@ -13077,9 +13286,7 @@ Pig Who Cried Werewolf, The|
 Piglet's Big Game|小猪大游戏
 Pika Pika Nurse Monogatari - Shounika wa Itsumo Oosawagi|
 Pika Pika Nurse Monogatari 2|闪光护士物语2SIM
-Pikachu|
 Pikachu - Pocket Monster|
-Pikachu II|
 Pikachu II - Pocket Monster II|
 Pikapika Nurse Monogatari - Nurse Ikusei Game|亮丽护士物语-活泼护士养成游戏
 Pikapika Nurse Story2|
@@ -13130,8 +13337,9 @@ Pingpong Trick Shot|
 Pingu no Waku Waku Carnival!|企鹅家族的神奇音乐狂欢
 Pink Dot Blue Dot|
 Pink Goes to Hollywood|顽皮豹好莱坞冒险欧版
-Pink Panther|
 Pink Panther - Pinkadelic Pursuit|粉红色的黑豹
+Pink Panther, The|
+Pink Passer|
 Pinkalicious - It's Party Time!|
 Pinkie|
 Pinky Monkey Town|粉红猴庄
@@ -13174,6 +13382,7 @@ Pitfall - The Lost Expedition|玛亚历险记-迷失的探险队
 Pitfall - The Mayan Adventure|玛亚历险
 Pitfall GB|森林寻宝历险记
 Pitman|矿工
+Pittari!|
 Pix3D|
 Pixel Hunter|像素猎人
 Pixel Paint|
@@ -13189,6 +13398,7 @@ Pixeline i Pixieland|小不点-魔法大陆
 Pixeline og Droemmespejlet|皮克西莱恩-梦境
 Pixelmaker|
 Pizza Pop!|披萨小子
+Pladel 2|
 Plain Video Poker|
 Planet 51 - The Game|51号星球
 Planet Crashers|
@@ -13247,6 +13457,7 @@ Pocket GT|赛车2005
 Pocket Golf!|
 Pocket Hanafuda|口袋花牌
 Pocket King|口袋王国
+Pocket Love - if|
 Pocket Lure Boy|袖珍小钓手
 Pocket Monster|
 Pocket Monster Aka|
@@ -13297,12 +13508,15 @@ Pocket Professor - Kwik Notes - Volume One|口袋教授-克威克笔记
 Pocket Puyo Puyo Sun|口袋魔法汽泡太阳版日
 Pocket Puyo Puyo-n|魔法气泡4日
 Pocket Racing|口袋迷你赛车
+Pocket Reversi|
 Pocket Scenario Series - Harukanaru Toki no Naka de - Mai Hitoyo|遥远的时空中-舞之一夜
 Pocket Smash Out|打破比赛时间
 Pocket Smash Out & Race Time|打破比赛时间
 Pocket Soccer|口袋足球
 Pocket Soccer League - Calciobit|
+Pocket Tennis Color - Pocket Sports Series|
 Pocket Zaurus - Juu Ouken no Nazo|十王剑之谜
+Pocket no Naka no Doraemon|
 Pocket no Naka no Oukoku|
 Pocky & Rocky|奇奇怪界
 Pocky & Rocky 2|奇奇怪界2
@@ -13727,7 +13941,6 @@ PriPri Chi-chan! PriPri DecoRoom!|水嫩小叽 水嫩装饰
 Price Is Right, The|正确定价
 Price Is Right, The - 2010 Edition|价格竞猜2010
 Primal Rage|波斯王子
-Primal Rage Showdown|
 Prime|雷霆超人
 Prime Time NFL Starring Deion Sanders|
 Primera Division Stars 2001|
@@ -13892,6 +14105,7 @@ Professor Layton vs. Phoenix Wright - Ace Attorney|
 Professor's Brain Trainer, The - Logic|专家脑锻炼-记忆
 Professor's Brain Trainer, The - Memory|专家脑锻炼-逻辑
 Project Cross Zone 2|
+Project E-Force|
 Project Hacker - Kakusei|黑客计划-觉醒
 Project Mirai|
 Project Mirai Lol|
@@ -13968,6 +14182,7 @@ Pushmo|
 Puss 'n Boots - Pero's Great Adventure|穿长靴的猫 皮洛的伟大探险
 Puss in Boots|穿靴子的猫
 Puteshestvie po Europe|
+Putipati|
 Putter Golf|
 Putty Moon|点点君
 Putty Squad|点点君大进击ACT
@@ -13988,7 +14203,7 @@ Puyo Puyo!! - Puyopuyo 20th Anniversary - Taikenban|
 Puyo Puyo!! 20th Anniversary|噗哟噗哟!! 20周年纪念版
 Puyo Puyo!! Mini Version|
 Puyopuyo Tetris|
-Puzslot|水果方块
+Puzslot|角子方块
 Puzz Loop|气球方块
 Puzzle|益智数字拼图游戏
 Puzzle & Action - Ichidanto-R|游戏大挑战-英雄救美
@@ -14010,6 +14225,7 @@ Puzzle Bobble 4|泡泡龙方块4
 Puzzle Bobble DS|泡泡龙 DS
 Puzzle Bobble Galaxy|泡泡龙银河
 Puzzle Bobble Millennium|泡泡龙方块千禧版
+Puzzle Bobble Mini|
 Puzzle Bobble Universe|飞出来吧!泡泡龙3D
 Puzzle Bottle|
 Puzzle Boy|解迷小子
@@ -14022,6 +14238,8 @@ Puzzle Kingdoms|解谜王国
 Puzzle Labyrinth|
 Puzzle League - Express|
 Puzzle League DS|谜题联盟DS
+Puzzle Link|
+Puzzle Link 2|
 Puzzle Master|益智王
 Puzzle Mate DS - Crossword Mate|益智同伴DS-填字游戏同伴
 Puzzle Mate DS - Nanpure Mate|解迷同伴 数字游戏同伴
@@ -14183,6 +14401,7 @@ RPGMaker Fes|
 RTO|
 RTO 2|
 RTO 3|
+RUN=DIM - Return to Earth|
 RV-7 My Drone|
 Raa Raa the Noisy Lion|
 Rabbids - Travel in Time 3D|
@@ -14246,6 +14465,7 @@ Rainbow Snake|
 Raining Coins|
 Raishi|雷子
 Raishi - Konpeki no Shou|
+Raku Jongg|
 Raku Raku Shindenzu Training DS|快乐心电图练习 DS
 Raku x Raku - Cut Shuu|拉库 x 拉库-切舒
 Raku x Raku - Mishin|拉库 x 拉库-米辛
@@ -14281,6 +14501,7 @@ Ratatouille|料理鼠王
 Ratatouille - Food Frenzy|料理鼠王-为食而狂
 Ratings|
 Rats!|黑帮鼠
+Rave Hunter|
 Rave Master - Special Attack Force!|圣石小子-特殊武力!
 Rayban the Third|
 Rayman|雷曼1代
@@ -14318,6 +14539,7 @@ Ready Steady Cook - The Game|准备好的可靠的厨师
 Real 3D Bass Fishing - Fish On|
 Real Adventures - Pet Vet|真实的冒险-宠物医院
 Real Adventures - Wild Horses - The Quest for the Golden Horse|真实冒险-野生马儿
+Real Cheese|
 Real Crimes - Jack the Ripper|真实犯罪-开膛手杰克
 Real Crimes - The Unicorn Killer|真实犯罪-独角兽杀手
 Real Dasshutsu Game x Nintendo 3DS - Chou Hakai Keikaku kara no Dasshutsu|
@@ -14349,6 +14571,7 @@ Rec Room Games|
 Recca no Honoo - The Game|烈火之炎 The Game
 Recettes de Cuisine avec Cyril Lignac|和西里尔利尼亚克一起学烹饪食谱
 Recochoku|
+Rect for WonderSwan|
 Red Arremer - Makaimura Gaiden|魔界村外传红魔冒险
 Red Arremer II|红魔鬼2
 Red Bull BC One|红牛一对一斗舞
@@ -14398,6 +14621,7 @@ Renjuku Kanji - Shougaku 3 Nensei|
 Renjuku Kanji - Shougaku 4 Nensei|
 Renjuku Kanji - Shougaku 5 Nensei|
 Renjuku Kanji - Shougaku 6 Nensei|
+Renketsu Puzzle Tsunagete Pon! Color|
 Rent a Hero|出租英雄日
 Rental Bukiya de Omasse|
 Rentiangougou|任天狗狗体验版
@@ -14431,10 +14655,12 @@ Revenge of the Smurfs, The|蓝精灵Smurfs的复仇
 Reversal Challenge|黑白棋大战
 Reverse Kids|
 Reverse Trial 6|
+Reversi|
 Revolution X|X革命
 Rex Ronan - Experimental Surgeon|联合缩小军
 Rhapsody - A Musical Adventure|玛鲁王国人形姬-天使爱的谐奏曲
 Rhino Rumble|快乐犀牛
+Rhyme Rider Kerorican|
 Rhythm 'n Notes|节拍与音符
 Rhythm 'n Notes - Improve Your Music Skills|绝对音感
 Rhythm Core Alpha|
@@ -14457,6 +14683,7 @@ Rhythm de Cooking - Sweets Party e Youkoso|旋律烹饪-欢迎来到甜点派对
 Rhythm de Kitaeru - Atarashii Eigo Zuke - Native Kaiwa-hen|
 Rhythm de Kitaeru - Atarashii Eigo Zuke - Yasashii Kaiwa-hen|
 Rhythm de Run Run Run|欢唱节奏
+Rhythmin|
 Richard Scarry's Busytown|理查德快乐城市美
 Riddick Bowe Boxing|瑞迪克拳击
 Riddle Wired|
@@ -14540,7 +14767,6 @@ RoboCop Versus The Terminator|
 RoboCop versus The Terminator|铁甲威龙对终结者
 Robocalypse|机器人欢歌
 Robocco Wars|机器子战记
-Robocop Versus The Terminator|
 Robodemons|机器恶魔
 Robogear 3D Tactics|
 Robopon - Star Version|
@@ -14601,6 +14827,7 @@ Rockin' Pretty|快乐星☆乐团
 Rockman|洛克人
 Rockman & Crystal|
 Rockman & Forte|洛克人与佛鲁迪
+Rockman - Battle & Fighters|
 Rockman - Mega World|洛克人：磁力世界
 Rockman 2|
 Rockman 2 - Dr. Wily no Nazo|洛克人2威利博士之谜
@@ -14615,6 +14842,7 @@ Rockman Classics Collection|洛克人合集
 Rockman DX6|洛克人DX6
 Rockman DX8|洛克人DX8
 Rockman EXE - Battle Chip GP|洛克人EXE战斗芯片GP
+Rockman EXE - N1 Battle|
 Rockman EXE - Operate Shooting Star|洛克人EXE流星行动
 Rockman EXE 4 - Tournament Blue Moon|洛克人战斗网络EXE4-蓝月亮
 Rockman EXE 4 - Tournament Red Sun|洛克人战斗网络EXE4-红太阳
@@ -14624,6 +14852,7 @@ Rockman EXE 5 - Team of Colonel|洛克人战斗网络EXE5-卡奈尔之队
 Rockman EXE 5 DS - Twin Leaders|洛克人EXE5DS双生领袖
 Rockman EXE 6 - Dennoujuu Falzar|洛克人EXE6电脑兽凤凰
 Rockman EXE 6 - Dennoujuu Gregar|洛克人EXE6电脑兽麒麟
+Rockman EXE WS|
 Rockman III|
 Rockman IV|
 Rockman V|
@@ -14655,6 +14884,7 @@ Rocky Mountain - Trophy Hunter|
 Rocky Rodent|阿飞的魔法头
 Rocman X|洛克人 X
 Rocman X Gold + 4 in 1|洛克人4合1
+Rod Land|
 Rodea the Sky Soldier|罗德里亚-天降神兵
 Rodland|罗德大陆
 Roger Clemens' MVP Baseball|罗格的MVP棒球
@@ -14784,9 +15014,14 @@ SD Gundam - Gachapon Senshi 3 - Eiyuu Senki|SD 钢弹 III - 英雄战记
 SD Gundam - Gachapon Senshi 4 - NewType Story|SD 钢弹 IV - 新机种传说
 SD Gundam - Gachapon Senshi 5 - Battle of Universal Century|SD 钢弹 V - 宇宙世纪之战
 SD Gundam - Gundam Wars|
+SD Gundam - Operation U.C.|
 SD Gundam - Power Formation Puzzle|SD刚弹方块
+SD Gundam Eiyuu Den - Kishi Densetsu|
+SD Gundam Eiyuu Den - Musha Densetsu|
 SD Gundam Force|SD高达力量
 SD Gundam G Generation - Cross Drive|SD高达G世纪-交叉火力
+SD Gundam G Generation - Gather Beat 2|
+SD Gundam G Generation - Mono-Eye Gundams|
 SD Gundam G Generation 3D|SD高达G世纪3DStrategy
 SD Gundam G Generation Advance|SD高达G世纪Adv
 SD Gundam G Generation DS|SD高达G世纪 DS
@@ -14797,6 +15032,7 @@ SD Gundam Gaiden - Knight Gundam Monogatari - Ooinaru Isan|SD高达外传：骑�
 SD Gundam Gaiden - Knight Gundam Monogatari 2 - Hikari no Knight|SD高达外传：骑士物语2
 SD Gundam Gaiden - Knight Gundam Monogatari 3 - Densetsu no Kishi Dan|SD高达外传：骑士物语3
 SD Gundam Gaiden 2 - Entaku no Kishi|SD高达外传2
+SD Gundam Gashapon Senki - Episode 1|SD高达扭蛋战记：第一章
 SD Gundam Sangoku Den - Brave Battle Warriors - Shin Militia Taisen|SD高达三国传-真三璃纱大战
 SD Gundam World - Gachapon Senshi - Scramble Wars|
 SD Hero Soukessen - Taose! Aku no Gundan|SD 英雄总决战 - 打倒恶之军团
@@ -14820,16 +15056,27 @@ SEGA Smash Pack|世嘉街机游戏合集
 SEGA Superstars Tennis|世嘉超级巨星网球
 SGB Test Program|
 SK8 - Tony Hawk's Pro Skater 2|托尼·霍克职业溜冰板2
-SM Choukyoushi Hitomi|
+SLG Kyara Idou Sanpuru|
 SM Choukyoushi Hitomi - Bangai Hen|
 SM Choukyoushi Hitomi - Bangai Hen 2 - Maki no Love Love Panic|
+SM Choukyoushi Hitomi Vol. 1|
 SM Choukyoushi Hitomi Vol. 2|
 SM Choukyoushi Hitomi Vol. 2 - Trial Version|
 SM Choukyoushi Hitomi Vol. 2 Remix|
 SM Choukyoushi Hitomi Vol. 3|
-SM Choukyoushi Hitomi Vol. 3 - Test Version|
+SM Choukyoushi Hitomi Vol. 3 - Trial Version|
+SMSAdvance|
 SN Systems|SN系统
+SNK Gals' Fighters|
+SNK NeoGeo Pocket Color|
+SNK vs. Capcom - Card Fighters 2 - Expand Edition|拳皇对街霸：卡片战士2扩展版
 SNK vs. Capcom - Card Fighters DS|SNK对CAPCOM-卡片战士DS
+SNK vs. Capcom - Card Fighters' Clash - Capcom Version|
+SNK vs. Capcom - Card Fighters' Clash - SNK Version|
+SNK vs. Capcom - Gekitotsu Card Fighters|
+SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version|拳皇对街霸：卡片战士Capcom支持者
+SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version|拳皇对街霸：卡片战士SNK支持者
+SNK vs. Capcom - The Match of the Millennium|拳皇对街霸：千禧之战
 SNSP Aging Ver 1.02|
 SOS|潜舰攻击
 SPEC - Kan|
@@ -14911,6 +15158,7 @@ Saikyou Toudai Shougi DS|最强东大将棋DS
 Sailor Moon - La Luna Splende|美少女战士-水手月亮
 Sailormoon|美少女战士
 Saint Seiya - Ougon Densetsu|圣斗士星矢：黄金传说
+Saint Seiya - Ougon Densetsu Hen - Perfect Edition|
 Saint Seiya - Ougon Densetsu Kanketsu Hen|圣斗士星矢：黄金传说完结篇
 Saint Sword|圣剑
 Saitama|
@@ -14948,7 +15196,9 @@ Samantha Oups! - Le Jeu|糟糕萨曼莎
 Samantha Swift and the Hidden Roses of Athena|萨曼莎斯威夫特和雅典娜暗藏的玫瑰
 Same Game|鲛龟方块
 Same! Same! Same!|相同！相同！相同！
+Samegame for WSC|
 Samgukji DS 2|三国志DS2
+Samoner|
 Sampras Tennis 96|
 Samsara Naga|轮回娜迦
 Samsara Naga 1x2|育龙战记1x2
@@ -14962,6 +15212,7 @@ Samurai Kid|葫芦武士
 Samurai Shodown|武士魂
 Samurai Shodown III|武士魂
 Samurai Shodown vs Soul Edge|
+Samurai Shodown! 2 - Pocket Fighting Series|
 Samurai Spirits|侍魂
 Samurai Spirits II|侍魂2
 Samurai Sword Destiny|
@@ -15058,6 +15309,7 @@ Santa Claus Saves the Earth|圣诞老人救地球
 Santa Claus is Comin' to Town|
 Santa Clause 3, The - The Escape Clause|圣诞老人3-出逃的圣诞老人
 Sanxia Wuyi - Yumao Chuanqi|三侠五义：御猫传奇
+Saorin Puzzle|
 Sarah - Die Hueterin des Einhorns|莎拉-寻找独角兽
 Sarah - Keeper of the Unicorn|莎拉-寻找独角兽
 Sarainneun Yeongeoro Ganghaejineun Siljeon! - DS Yeongeo Sammaegyeong|活用的英语增强的实战-DS英语三昧境界
@@ -15065,6 +15317,7 @@ Saru Puncher|猴子拳
 Saru Saru DS|猿猿DS
 Satisfashion - Rock the Runway|时尚造型师
 Satomi Hakkenden|里见八犬传
+Satori - WonderSwan Remix|
 Satsui no Kaisou - Soft House Renzoku Satsujin Jiken|杀意的阶层
 Satsujin Mystery - Kirisaki Jack|
 Saturday Night Slam Masters|霸王摔角
@@ -15073,6 +15326,7 @@ Save the Turtles|
 Sawaru Made in Wario|摸摸瓦力欧制造
 Sayonara Umihara Kawase|再见了 海腹川背ACT
 Scan Hunter - Sennen Kaigyo o Oe!|扫描猎人-追击千年怪鱼!
+Scanner|
 Scarabeus|甲虫轮盘
 Scarygirl Illustration Kit|
 Scene It Twilight|暮光之城
@@ -15189,7 +15443,7 @@ Sekai no Shougi|国际象棋
 Sekai wa Atashi de Mawatteru|世界以我为中心
 Sekaiju no Meikyuu|世界树迷宫
 Sekaiju no Meikyuu II - Shoou no Seihai|世界树迷宫2 诸王的圣杯
-Sekaiju no Meikyuu III - Seikai no Raihousha|世界树迷宫3-星海的访客
+Sekaiju no Meikyuu III - Seikai no Raihousha|世界树迷宫III星海的访客
 Sekaiju no Meikyuu IV - Denshou no Kyojin|
 Sekaiju no Meikyuu IV - Denshou no Kyoshin|
 Sekaiju no Meikyuu V - Nagaki Shinwa no Hate|
@@ -15202,6 +15456,7 @@ Sekigahara|关原之役日版
 Sekiryuuou|赤龙王
 Selection - Erabareshi Mono|抉择
 Selection II - Ankoku no Fuuin|抉择2
+Self Produce|
 Seller, The|
 Seme COM Dungeon - Drururuaga|攻克迷宫
 Sengoku Denshou|战国传承
@@ -15219,6 +15474,7 @@ Sengoku Tactics|
 Sengoku no Hasha - Tenkafubu e no Michi|战国的霸者
 Senjou no Ookami|战场之狼
 Senkai Ibunroku Juntei Taisen - TV Animation Senkaiden Houshin Engi Yori|新封神榜
+Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori|
 Sennen Kazoku|千年家族
 Senran Kagura - Shoujo-tachi no Shinei|
 Senran Kagura 2 - Deep Crimson|
@@ -15278,6 +15534,7 @@ Shadowhawk|
 Shadowrun|死而复生
 Shakedown - Hawaii|
 Shakugan no Shana DS|灼眼的夏娜DS
+Shaman King - Asu e no Ishi|
 Shaman King - Legacy of the Spirits - Soaring Hawk|通灵王-精神遗产之翱翔之鹰
 Shaman King - Legacy of the Spirits - Sprinting Wolf|通灵王-精神遗产之疾速之狼通灵王-精神遗产之疾速之狼
 Shaman King - Master of Spirits|通灵王1-精神大师
@@ -15302,6 +15559,7 @@ Shanghai II|上海2
 Shanghai II - Dragon's Eye|上海2
 Shanghai III|上海3
 Shanghai Mahjong|上海麻将TAB
+Shanghai Mini|
 Shanghai Pocket|口袋上海
 Shantae|桑塔
 Shantae - Kaizoku No Noroi|
@@ -15315,6 +15573,7 @@ Shapo|
 Shaq Fu|夏福
 Shaq-Fu|单福欧版
 Shark Tale|鲨鱼故事
+Shark! Shark!|鲨鱼来了
 Sharp Famicom Titler|
 Sharp My Computer TV C1|
 Shashin de Kakutou! - Photo Fighter X|
@@ -15363,7 +15622,6 @@ Shi Kong Zhi Lun|时空之轮
 Shi Mian Maifu - Fengyun Pian|
 Shi Mian Maifu - Tianlong Pian|
 Shi Mian Maifu - Yingxiong Pian|十面埋伏：英雄篇
-Shi San Zhang Ma Jiang - Zhong Guo Mei Nv Pian|
 Shi no Meikyuu - Labyrinth of Death|
 Shiba Kari no Densetsu|
 Shibou Nenshou Keikaku - Yasetore!! DS|脂肪燃烧计划-瘦身训练 DS
@@ -15371,6 +15629,7 @@ Shichida Shiki Training - Unou Tanren Unotan DS - Shun Kan Shoubu! Handanryoku|�
 Shichida Shiki Training - Unou Tanren Unotan DS - Shun Kan Shoubu! Kiokuryoku|实战柏青嫂必胜法！北斗神拳
 Shichida Shiki Training - Unou Tanren Unotan DS - Shun Kan Shoubu! Shuuchuuryoku|右脑锻炼DS
 Shichidasik Unoedallyeon - Super Brain|七田式右脑锻炼-超级大脑
+Shichuusuimei-gaku Nyuumon - Shin Tougenkyou|
 Shichuusuimeigaku Nyuumon - Shin Tougenkyou|真桃源乡
 Shien - The Blade Chaser|紫炎
 Shien's Revenge|紫炎测试版
@@ -15399,7 +15658,6 @@ Shikong Yibian|
 Shiliu Zhang Mahjong - Xiangyan Meiren Pian|
 Shiliu Zhang Mahjong II|
 Shiliu Zhang Majiang - Xiangyan Meiren Pian|十六张麻将
-Shiliu Zhang Majiang II|
 Shimono Masaki no Fishing to Bassing|巴斯钓鱼大会赛
 Shimura Ken no Baka Tonosama - Bakushou Tenka Touitsu Game|志村健之白痴殿下：爆笑天下统一游戏
 Shin 'Noukyou' Iku|
@@ -15520,6 +15778,7 @@ Shining Stars - Super Starcade|闪亮之星-超级明星凯德
 Shining and the Darkness|光明与黑暗
 Shining in the Darkness|光明与黑暗
 Shinjuku Dungeon|
+Shinki Sekai Evolution - Hateshinai Dungeon|
 Shinobi|忍日版
 Shinobi 3D|超级忍ACT
 Shinobi III - Return of the Ninja Master|影武者3大师之返美
@@ -15551,7 +15810,6 @@ Shiruike II - Yu Meiren|
 Shiryou Sensen - War of the Dead|死灵战线
 Shisan Zhang Mahjong - 98 Mei Shaonu|
 Shisan Zhang Mahjong - Zhongguo Meinu Pian|
-Shisan Zhang Majiang - 98 Mei Shaonu|
 Shiseido Beauty Solution Kaihatsu Center Kanshuu - Project Beauty|资生堂美颜方案开发中心监修-美颜专案
 Shisen Mahjong - Seifuku Hen|四川麻将
 Shisen Mahjong 2|四川麻将2
@@ -15569,6 +15827,7 @@ Shodan Morita Shougi|初段森田将棋
 Shodani Nintei - Shodan Pro Mahjong|初段麻将段位认定
 Shogun|将军
 Shoho kara Hajimeru - Otona no Eitango Renshuu|從頭開始 大人的英語單詞訓練
+Shokaku 80186|
 Shokugeki no Soma - Yuujou to Kizuna no Hitosara|
 Shokugyou Taiken Adventure - 13-sai no Hello Work DS|13岁的职业介绍所DS
 Shoot the Ball|
@@ -15592,6 +15851,7 @@ Shougi Shoshinsha Muyou|将棋初心者无用日版
 Shougi World Champion - Gekisashi DS|将棋世界冠军-激指DS
 Shougi Zanmai|将棋三昧
 Shougi no Hoshi|
+Shougi no Tatsujin Color|
 Shoukou Shindan Training DS|
 Shoukoushi Ceddie|小公子薛特利
 Shounen Ashibe - Goma-chan no Yuuenchi Daibouken|少年亚奇贝
@@ -16018,7 +16278,8 @@ Soldier Blade|太空军鉴美版
 Soldier Blade - Special Version|
 Soldiers of Fortune|未来士兵
 Soleil|新创世纪
-Solid Runner|暗龙传说
+Solfege|
+Solid Runner|索利德行者 暗龙传说
 Solitaire|连锁纸牌DS
 Solitaire Collection|
 Solitaire DS|蜘蛛纸牌DS
@@ -16094,6 +16355,7 @@ Sonic Spike - World Championship Beach Volleyball|沙滩排球美版
 Sonic Spinball|音速小子弹珠台
 Sonic The Hedgehog|音速小子1
 Sonic The Hedgehog - Genesis|索尼克和小尾巴
+Sonic The Hedgehog - Pocket Adventure|
 Sonic The Hedgehog - Triple Trouble|索尼克1
 Sonic The Hedgehog 2|音速小子2
 Sonic The Hedgehog 3|索尼克3
@@ -16116,10 +16378,12 @@ Soreike! Anpanman - 5-tsu no Tou no Ousama|前进面包超人2日
 Soreike! Anpanman - Baikinman no Daisakusen|面包超人
 Soreike! Anpanman - Fushigi na Nikoniko Album|前进！面包超人–不可思议的相册
 Soreike! Anpanman - Minna de Hiking Game!|面包超人
+Soreike!! Hanafuda Doujou|
 Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon no Nazo!!|大盗伍佑卫门迷路记
 Soriteiba|
 Soroban - Anzan - Flash Anzan Kanzenban|
 Soroban DS|算盘DS
+Sorobang|
 Soroeru Puzzle Douwa Oukoku|独奏-解谜-童话王国
 Sotsugyou Bangai Hen - Nee Mahjong Shiyo!|卒业麻雀
 Sou Setsu Ryuu|双截龙
@@ -16138,7 +16402,6 @@ Soul Blader|创世封魔录
 Soul Blazer|创世封魔录
 Soul Bubbles|心灵泡泡
 Soul Eater - Medusa no Inbou|噬魂师 美杜莎的阴谋
-Soul Edge VS Samurai Spirits|
 Soul Edge vs Samurai|
 Soul Getter - Houkago Bouken RPG|放课后冒险
 Soul of Darkness|
@@ -16204,7 +16467,6 @@ Sparkster|火箭骑士2
 Sparkster - Rocket Knight Adventures 2|
 Spartan X|成龙踢馆
 Spartan X 2|成龙踢馆2
-Spatter|
 Spawn|闪灵杀手
 Spec|
 Special Tee Shot|
@@ -16252,7 +16514,6 @@ Spider-Man 3|蜘蛛侠3
 Spider-Man 3 - Movie Version|蜘蛛侠3电影版
 Spider-Man X-Men - Arcade's Revenge|
 Spider-Man and the X-Men in Arcade's Revenge|蜘蛛侠和X战警
-Spiderman 2|
 Spiderwick Chronicles, The|奇幻精灵事件簿
 Spiegel Online - Die Wissenstrainer-Serie - Allgemeinwissen|明镜在线-综合知识
 Spiegel Online - Die Wissenstrainer-Serie - Karriere Coach|明镜在线-生涯教练
@@ -16400,6 +16661,8 @@ Star Fox 64 3D|星际火狐64 3D
 Star Fox Command|星际火狐-秘密指令
 Star Gate|星际之门
 Star Glider|
+Star Hearts - Hoshi to Daichi no Shisha|
+Star Hearts - Hoshi to Daichi no Shisha - Taikenban|
 Star Heritage|明星遗产
 Star Life|
 Star Luster|太空立体战
@@ -16408,6 +16671,7 @@ Star Novels - Kono Hareta Sora no Shita de|
 Star Novels - Shirogane no Torikago|
 Star Ocean|星之海洋
 Star Ocean - Blue Sphere|星之海洋：蔚藍星球
+Star Ochi|
 Star Odyssey|
 Star Series - Cute Witch|
 Star Series - Magic Bubble|
@@ -16449,6 +16713,7 @@ Stardust Suplex|幻象女子摔角
 Starflight|星际射击
 Starfox 64 3D|
 Stargate|星际之门
+Starlight Waltz|
 Starry Sky - In Autumn 3D|
 Starry Sky - In Spring 3D|
 Starry Sky - In Summer 3D|
@@ -16593,6 +16858,7 @@ Style Savvy - Styling Star|
 Style Savvy - Trendsetters|
 Style Savvy - Trendsetters - Fashion Contest|
 Style Savvy - Trendsetters - Shopping-Spree|
+SuFami Turbo|
 Sub-Terrania|旋风战机
 Subaracity|
 Subarashiki Kono Sekai - It's a Wonderful World|美丽世界
@@ -16639,7 +16905,6 @@ Sudokumaniacs|疯狂数独
 Sudokuro|数独魔方
 Sudokuro - Sudoku & Kakuro Games|数独魔方
 Sueddeutsche Zeitung Wissen - Mehr Kreuzwortraetsel|更多的填字游戏
-Sufami Turbo|
 Sugar Bunnies DS - Yume no Sweets Koubou|甜点兔DS-甜点梦工房
 Sugar Rush 3D|
 Sugar Sugar Rune - Heart Ga Ippai! Moegi Gakuen|双心之诗
@@ -16680,6 +16945,7 @@ Sumikko Gurashi - Mura o Tsukurun Desu|
 Sumikko Gurashi - Mura o Tsukurundesu|
 Sumikko Gurashi - Omise Hajimerun Desu|
 Sumikko Gurashi - Omise Hajimerundesu|
+Sumisei Home Tanmatsu|
 Summer Carnival '92 - Recca|烈火战机 '92
 Summer Carnival '92 Recca|
 Summer Challenge|
@@ -16772,10 +17038,13 @@ Super Black Onyx|超级黑玛瑙
 Super Blaster VII - Turbo 28|
 Super Bomberman|轰炸超人
 Super Bomberman - Panic Bomber W|
+Super Bomberman - Panic Bomber World|
 Super Bomberman 2|轰炸超人2
+Super Bomberman 2 - Caravan You Taikenban|
 Super Bomberman 3|轰炸超人3
 Super Bomberman 4|
 Super Bomberman 5|
+Super Bomberman 5 - Caravan Event Ban|
 Super Bombliss|轰炸俄罗斯方块
 Super Bombliss DX|炸弹俄罗斯DX
 Super Bonk|超级原人
@@ -17032,7 +17301,7 @@ Super Mario Bros. - The Lost Levels|
 Super Mario Bros. - The Lost Levels - Super Mario Bros. 2|
 Super Mario Bros. 2|超级马力欧兄弟2
 Super Mario Bros. 3|超级马力欧兄弟3
-Super Mario Bros. 4|
+Super Mario Bros. 4|超级马力欧兄弟4
 Super Mario Bros. Deluxe|超级马力欧兄弟豪华版
 Super Mario Bros. II+|
 Super Mario Brothers Deluxe|
@@ -17054,7 +17323,7 @@ Super Mario Sister|
 Super Mario Special 3|
 Super Mario USA|超级玛璃欧兄弟 II
 Super Mario World|超级马力欧世界
-Super Mario World - Super Mario Bros. 4|超级马力欧世界：超级马力欧兄弟4
+Super Mario World - Super Mario Bros. 4|超级马力欧兄弟4
 Super Mario World 2 - Yoshi's Island|耀西岛超级马力欧世界2
 Super Mario World 64|
 Super Mario World 9|
@@ -17140,6 +17409,7 @@ Super Real Baseball '88|超真实棒球88
 Super Real Basketball|
 Super Real Bout 97|
 Super Real Fishing|超拟真钓鱼
+Super Real Mahjong - Premium Collection|
 Super Real Mahjong Dousoukai|超写真麻雀同窗会
 Super Real Mahjong PIV|超真实麻雀P4
 Super Real Mahjong PV Paradise - All-Star 4-nin Uchi|
@@ -17150,6 +17420,8 @@ Super Robot Taisen - Original Generation|超级机器人大战OG
 Super Robot Taisen - Original Generation 2|超级机器人大战OG2
 Super Robot Taisen A|超级机器人大战A
 Super Robot Taisen BX|超级机器人大战BX
+Super Robot Taisen Compact 3|
+Super Robot Taisen Compact for WonderSwan Color|
 Super Robot Taisen D|超级机器人大战 D
 Super Robot Taisen EX|超级机器人大战EX
 Super Robot Taisen Gaiden - Masoukishin - The Lord of Elemental|超级机器人大战外传：魔装机神：元素领主
@@ -17221,7 +17493,7 @@ Super Tekkyuu Fight!|超级铁球大战
 Super Tennis|超级网球1.0版
 Super Tennis - World Circuit|超级网球巡迴赛
 Super Tetris 2 + Bombliss|超级俄罗斯方块2+轰炸方块
-Super Tetris 2 + Bombliss Genteiban|
+Super Tetris 2 + Bombliss Gentei Ban|
 Super Tetris 3|超级俄罗斯方块3
 Super Tetris II|
 Super Thunder Blade|超级直升机
@@ -17232,7 +17504,7 @@ Super Trump Collection 2|超级游戏集锦2
 Super Tsumeshougi 1000|超级詰将棋1000
 Super Turrican|超级星际战士
 Super Turrican 2|超级战士2
-Super Turrican 2 Special Edition|
+Super Turrican 2 - Special Edition|
 Super Turrican Collection|
 Super Ultra Baseball|超能力棒球
 Super Ultra Baseball 2|超能力棒球2
@@ -17269,6 +17541,7 @@ Supermodel 3D|
 Supermodel Makeover by Lauren Luke|劳伦卢克的超级名模化妆
 Supershot Golf Robot|
 Superstar Pro Wrestling|超级明星职业摔角
+Supervision 52-in-1|
 Supervivientes|荒岛求生密技
 Supichi Sapoto DS|
 Supreme Snowboarding|终极滑雪
@@ -17277,6 +17550,7 @@ Surf's Up|冲浪季节
 Surfacer+|
 Surging Aura|澎湃的电风
 Suri Hirozu - Kurisutaru Souru|
+Surround|
 Survival Kids|生存之子
 Survival Kids - Chiisana Shima no Ookina Himitsu!|生存之子：小岛的大秘密
 Survival Kids - Kotou no Boukensha|生存之子：孤岛生存
@@ -17308,6 +17582,7 @@ Suzuki Alstare Extreme Racing|铃木机车赛
 Suzuki Super-Bikes II - Riding Challenge|铃木超级摩托车2-骑术挑战赛
 Suzumiya Haruhi no Chokuretsu|凉宫春日的串联
 Swamp Thing|沼泽怪
+SwanCrystal Boot ROM|
 Swapdoodle|
 Swapnote|
 Sweet 16|甜蜜16
@@ -17462,7 +17737,7 @@ Takahashi Meijin no Bouken-jima|冒险岛
 Takahashi Meijin no Bouken-jima II|冒险岛2
 Takahashi Meijin no Bouken-jima III|冒险岛3
 Takahashi Meijin no Bouken-jima IV|冒险岛4
-Takahashi Meijin no Bugutte Honey|高桥名人：妖精哈尼
+Takahashi Meijin no Bugutte Honey|冒险岛
 Takahashi Meijin no Daibouken-jima|高桥名人之大冒险岛
 Takahashi Meijin no Daibouken-jima II|高桥名人之大冒险岛2
 Takahashi Meijin no Shin Bouken-jima|
@@ -17551,8 +17826,11 @@ Tank Beat|坦克打击
 Tank Beat 2 - Gekitotsu! Duits-gun vs. Rengougun|触控坦克车 2 激战-德军 vs.同盟军
 Tank Beat 2 - Gyeokdol! Jeoncha Daejeon|坦克大战2
 Tank Fengyun - King Tank|坦克风云
+Tank Island|
+Tank Move Color|
 Tank Onslaught|
 Tank Troopers|
+TankQ!|
 Tanoshii Youchien - Kotoba to Asobo!|欢乐幼儿园
 Tanoshiku - Omoshiroku - Kanken Shougakusei|
 Tanoshiku Omoshiroku Kanken Shougakusei|
@@ -17742,6 +18020,7 @@ Terra Formars - Akaki Wakusei no Gekitou|
 Terranigma|天地创造
 Terraria|泰拉瑞亚
 Terrifying 911|
+Terrors 2|
 Teruhashi Kokomi no Psi-nan - Ippai Offu|
 Teshu Budui 357|
 Test Drive 2001|新手上路2001
@@ -17796,6 +18075,7 @@ Tetsudou Nippon! Rosen Tabi Yui Rail-hen|
 Tetsudou Ou - Famicom Boardgame|铁道王 - 任天堂纸上游戏
 Tetsudou Seminar - JR Hen|铁路讲座-JR篇
 Tetsudou Seminar - Oote Shitetsu Hen|铁路讲座-大手私铁编
+Tetsujin 28 Gou|铁人28号
 Tetsuwan Atom|原子小金刚
 Texas Hold 'em Poker|德克萨斯扑克牌
 Texas Hold 'em Poker DS|德克萨斯洲扑克
@@ -18099,6 +18379,7 @@ Tomodachi Life|朋友聚会新生活
 Tomodachi Tsukurou! - Mahou no Koukan Nikki|魔法交换日记
 Tonagari Boushi to Mahou no Machi|
 Tonari Boushi to Mahou no Machi|
+Tonde Stone|
 Tongari Boushi to Mahou no 365-nichi|尖帽子与魔法的365天
 Tongari Boushi to Mahou no Machi|尖顶帽与魔法小镇SIM
 Tongari Boushi to Mahou no Omise|尖顶帽与魔法店
@@ -18108,6 +18389,7 @@ Tonic Trouble|麻烦大了
 Tonka - On the Job|工作中的大卡
 Tonka Construction Site|通凯建筑工地
 Tonka Raceway|大脚车赛车
+Tonpuusou|
 Tony Hawk's American Sk8land|托尼霍克美式滑板
 Tony Hawk's Downhill Jam|托尼霍克滑板下坡
 Tony Hawk's Motion|托尼霍克滑板
@@ -18176,7 +18458,7 @@ Toriko Gourmegabattle!|
 Toriko Gourmet Monsters|
 Toriko Ultimate Survival|
 Tornado|龙卷风
-Torneko no Daibouken - Fushigi no Dungeon|特鲁尼克大冒险-不可思议的迷宫
+Torneko no Daibouken - Fushigi no Dungeon|特鲁尼克大冒险
 Toshokan DS - Meisaku & Suiri & Kaidan & Bungaku|图书馆DS-名作&推理&怪谈&文学
 Tossa no Keisan Shunkan Kaitou - Keisan DS Training|计算力瞬间解答 计算DS练习
 Total Carnage|绝地大屠杀
@@ -18287,6 +18569,7 @@ Tower SP, The|模拟大楼SP
 Tower of Deus - Go Series|
 Tower of Druaga, The|龙之塔日版
 Tower of Radia|拉迪亚之塔
+Tower of Radia, The|
 Towers - Lord Baniff's Deceit|巴尼贵族
 Towers II - Plight of the Stargazer|
 Town & Country Surf Designs - Thrilla's Surfari|乡镇滑板
@@ -18416,6 +18699,7 @@ Tsukutte Utau Saru Band|
 Tsumiki - Block Drop Mania|
 Tsumiki - The Infernal Tower|积木方块
 Tsunagare Numbers|
+Tsunagete Pon! 2|
 Tsunagete! Pipe Mania|疯狂大接管
 Tsunde Tsumikiss|Tsunde Tsumikiss
 Tsuppari Oozumou|顶上大相扑
@@ -18530,6 +18814,7 @@ Uchuu Daisakusen Choco Vader - Uchuu kara no Shinryakusha|宇宙大作战-异次
 Uchuu Keibitai SDF|宇宙警备队SDF
 Uchuu Race - Astro Go! Go!|宇宙爆笑赛车
 Uchuu Senkan Gomora|
+Uchuu Senkan Yamato|
 Uchuu no Kishi - Tekkaman Blade|
 Uchuu no Stellvia|宇宙学院
 Uchuujin Tanaka Tarou de - RPG Tsukuru GB 2|宇宙人田中太郎的RPG制作_日版
@@ -18540,12 +18825,14 @@ Ugadayka|
 Ugoite Asobu Bokushingu|
 Ugoite Asobu Daietto|
 Ugokasou! Chibi Chara Koubou|
+Ugoku E Ver. 2.0 - Aryol|
 Ugoku Memo Chou 3D|
 Ui-Ire - World Soccer Winning Eleven|世界足球
 Ukkari o Nakusou Bunshou Yomi Training - Yomitore|消除迷糊!文章阅读训练
 Ultima - Exodus|创世纪 - 艾索德斯
 Ultima - Kyoufu no Exodus|爱儿和朋友们
 Ultima - Kyouryuu Teikoku|创世纪恐龙帝国
+Ultima - Kyouryuu Teikoku - The Savage Empire|
 Ultima - Quest of the Avatar|创世纪 - 圣者之道
 Ultima - Runes of Virtue II|创世纪神秘的美德2
 Ultima - Seija e no Michi|爱儿和朋友们
@@ -18591,6 +18878,7 @@ Ultra Seven|咸蛋超人7号
 Ultracore|
 Ultraman|奥特曼-空想特撮系列
 Ultraman - Confrontation Between Justice and Evil|
+Ultraman - Hikari no Kuni no Shisha|奥特曼：光之国的使者
 Ultraman Club - Kaijuu Daikessen!!|奥特曼俱乐部
 Ultraman Club - Supokon Fight!|
 Ultraman Club 2 - Kaettekita Ultraman Club|超人力霸王俱乐部 II
@@ -18612,6 +18900,7 @@ Undead Bowling|
 Undead Line|捉虫英雄日
 Undead Storm - Go Series|
 Undead Storm Nightmare|
+UnderBabel|
 Undercover - Dual Motives|秘密行动-双重动机
 Undercover Cops|未来警察
 Underground Pool|地下台球
@@ -18678,6 +18967,8 @@ Utsusu Meido In Wario|
 Uwasa no Midori-kun!! - Natsuiro Striker|传言的翠君 夏色射手
 Uwasa no Midori-kun!! 2 - Futari no Midori!|传言的翠君2-两个翠君
 Uzu Keobukseon|
+Uzumaki - Denshi Kaiki Hen|旋涡：电视怪奇篇
+Uzumaki - Noroi Simulation|旋涡：魔咒篇
 V-Master Cross|V-怪兽卡片斗士
 V-Rally - Championship Edition|v拉力棉标赛
 V-Rally - Edition 99|v越野赛车美
@@ -18691,6 +18982,7 @@ VIPs - Very Important Pets|
 VR Sports - Powerboat Racing|
 VR Troopers|vr格斗美欧
 VS Puyo Puyo Sun|
+VS. Collection|
 VT Tennis|
 Vacation Adventures - Park Ranger|
 Vacation Adventures - Park Ranger 2|
@@ -18777,6 +19069,7 @@ Virus|病毒
 Virus Shooter XX|病毒射击XXSTG
 Visiteurs, Les|笨贼与瓜头法
 Visual Logic Training|视觉逻辑训练
+Visual Sequencer MUCOS|
 Vita di Emma, La - Professione Infermiera|震惊的埃玛护士
 Vitamin X - Evolution Plus|
 Vitamin Z Revolution|维他命Z革命
@@ -18911,6 +19204,7 @@ Wappy Dog|电子宠物狗
 War & Romance Visual Novel|
 War 2410|2410大战美版
 War 3010 - The Revolution|3010大战
+War Cup|
 War Game|
 War in the Gulf|
 War on Wheels|车轮上的战争
@@ -18981,6 +19275,7 @@ Wedding Planner - Dream Weddings Guaranteed|想像-婚礼策划师
 Weekend Miljonairs|谁想成为百万富翁
 Weilai Xiaozi - Joy Van Kid|
 Welcome! Pet Hotel|
+Well-being|
 Wendy - Das Pferdehospital|温迪马匹学园
 Wendy - Der Traum von Arizona|温迪屋
 Wendy - Every Witch Way|温迪–魔法之路
@@ -19036,6 +19331,7 @@ Wide Boy-3|
 Widget|威奇精灵
 Wiffle Ball|威浮棒球
 Wild Adventures - Ultimate Deer Hunt 3D|
+Wild Card|
 Wild Gunman|荒野枪手
 Wild Guns|荒野双枪体验版日版
 Wild Snake|野蛇
@@ -19123,11 +19419,14 @@ Witch & Hero|
 Witch & Hero 2|
 Witch & Hero 3|
 Witch Tale - Minarai Majo to 7-nin no Hime|魔女传说-见习魔女与 7 公主
+Witch Typing|
 Witch's Cat|
 Witch's Tale, A|魔女传说-见习魔女和七公主
 Witch's Wish|魔女的心愿
 Witches & Vampires - Ghost Pirates of Ashburry|女巫与吸血鬼-阿什伯里幽灵海盗
 Witches & Vampires - The Secrets of Ashburry|女巫和吸血鬼-阿什堡的秘密
+Witches!|
+With You - Mitsumete Itai|
 Without Escape|无法逃脱
 Wiz 'N' Liz|精灵魔法师美
 Wiz 'n' Liz - The Frantic Wabbit Wescue|
@@ -19148,6 +19447,7 @@ Wizardry I - Proving Grounds of the Mad Overlord|巫术1代/辟邪除妖1代
 Wizardry I-II-III - Story of Llylgamyn|巫术123
 Wizardry II - Llylgamyn no Isan|辟邪除妖2欧
 Wizardry III - Diamond no Kishi|辟邪除妖3欧
+Wizardry Scenario 1 - Proving Grounds of the Mad Overlord|
 Wizardry Summoner|辟邪除妖-召唤者
 Wizardry V - Heart of the Maelstrom|巫术5:漩涡之心
 Wizardry V - Saika no Chuushin|巫术5
@@ -19169,15 +19469,19 @@ Wolverine - Adamantium Rage|金刚狼
 Wonder Boy III - Monster Lair|神奇男孩3 魔窟
 Wonder Boy V - Monster World III|怪物世界3-神奇小子5
 Wonder Boy in Monster World|
+Wonder Classic|
 Wonder Library|
 Wonder MIDI|
 Wonder Momo|wondermomo日版
 Wonder Pets! - Save the Animals!|神奇的宠物-拯救动物
 Wonder Project J - Kikai no Shounen Pino|神奇计划J机械少年匹诺
 Wonder Rabbit|
+Wonder Racer|
 Wonder World - Amusement Park|仙境娱乐公园
+WonderCommand|
 WonderMega|
 WonderMega M2|
+WonderSwan Color Boot ROM|
 Wonderland Dizzy|仙境眩晕
 Wondrous Magic|炼金术士
 Woodleys, The - Summer Sports|Woodleys夏季运动会
@@ -19292,6 +19596,7 @@ Wrecking Crew|拆屋工
 Wrecking Crew '98|拆屋工98
 Wrestle War|摔跤日欧
 Wrestleball|力量球日
+Wrestling Madness|
 Wu Kong Wai Zhuan|悟空外传
 Wujin de Renwu|
 Wukong Dou Ju|
@@ -19302,6 +19607,7 @@ Wurm - Journey to the Center of the Earth!|地底大作战
 Wushi Hun|
 Wushu Shen Jie|
 X|X战机
+X - Card of Fate|
 X Zhan Jing|
 X Zone|X空间
 X'Eye|
@@ -19328,6 +19634,7 @@ X2 - Wolverine's Revenge|X战警2-狼人之复仇
 XBAND|
 XDR - X-Dazedly-Ray|
 XG Blast!|XG 爆破!
+XI Little|
 XS Moto|XS摩托车
 Xak - The Art of Visual Stage|沙克传说
 Xandra no Daibouken - Valkyrie to no Deai|桑德拉大冒险
@@ -19391,6 +19698,7 @@ Xtreme Wheels|越野机车
 Xuanzhuan Jiansi - Yumao Chuanqi|
 Xybots|迷宫任务
 Ya Se Chuan Shuo|亚瑟传说
+Yadamon - Wonderland Dream|
 Yadamon - Wonderland Dreams|小讨厌：梦幻仙境
 Yajuu Deka - Tokyo Douji Tahatsu Terror o Chinatsu Seyo!|野兽刑警 东京同时镇压多起恐怖行动
 Yakari - The Mystery of Four Seasons|
@@ -19472,6 +19780,7 @@ Yogoe Watch 2 - Kkeutpanwang|
 Yogoe Watch 2 - Wonjo|
 Yogoe Watch Busters - Baekgyeondae|
 Yogoe Watch Busters - Jeongmyodan|
+Yokeru Kamo|
 Yokojiku de Manabu Sekai no Rekishi - Yoko Gaku DS|以横轴学世界历史DS
 Yokoyama Mitsuteru Sangokushi|横山光辉三国志
 Yokoyama Mitsuteru Sangokushi - Dai-1-kan - Touen no Chikai|横山光辉三国志第一卷-桃园之誓
@@ -19651,6 +19960,7 @@ Yuujin Janjuu Gakuen|游人雀兽学园
 Yuujin Janjuu Gakuen 2|游人雀兽学园2
 Yuujin no Furi Furi Girls|游人女孩盘戏
 Yuujou no Victory Goal 4v4 Arashi - Get the Goal!!|友情足球 4v4 得分!!
+Yuuki Paint|
 Yuureiyashiki no Nijuuyojikan|幽灵屋缚之24小时
 Yuuyu no Quiz de Go! Go!|悠悠问答
 Yuzhou Zhan Jiang|
@@ -19757,6 +20067,8 @@ Zero kara Kantan Kankokugo DS|韩语从头轻松学DS
 Zero the Kamikaze Squirrel|零式特攻队
 Zero-Tours|零度旅行
 Zero4 Champ|
+Zero4 Champ RR|
+Zero4 Champ RR-Z|
 Zettai Karen Children DS - Dai-4 no Children|绝对可怜小孩DS-四子
 Zettai Onkan Otodamaster|绝对音感-音灵大师
 Zettai Zetsumei Dangerous Jiisan DS - Dangerous Sensation|绝体绝命天才爷爷DS
@@ -19897,6 +20209,7 @@ bit Generations - Digidrive|几何世代-数位驱动
 bit Generations - Dotstream|点点潮流 几何世代
 bit Generations - Orbital|几何世代-轨道牵引
 bit Generations - Soundvoyager|几何世代-声音航海家
+collo|
 de Blob|
 de Blob 2|颜料宝贝2
 e'Fighter HOT|
@@ -19914,6 +20227,7 @@ iQue DS Lite Firmware|
 iQue Reader|神游阅读器
 iQue Video & Audio|神游播放器
 iTouch DS|
+mama Mitte|
 microSD Management|
 seaQuest DSV|深海潜舰
 snake3d|

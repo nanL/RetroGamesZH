@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>NEC - PC Engine - TurboGrafx 16 (zh)</name><version>20250200</version></header>
+	<header><name>NEC - PC Engine - TurboGrafx 16 (zh)</name><version>20250300</version></header>
 	<game name="1943改（简）少年不知愁 20210501 - 698A65D8">
 		<rom name="1943改（简）少年不知愁 20210501.pce" size="524288" crc="698A65D8" md5="EDEB87D0EB5883B8C88F2F77F2D9594E"/>
 	</game>
@@ -9,6 +9,12 @@
 	</game>
 	<game name="忍者龙剑传（繁英日）官中 标题ABS切换 - 67573BAC">
 		<rom name="忍者龙剑传（繁英日）官中 标题ABS切换.pce" size="524288" crc="67573BAC" md5="80498E6A60D2CD9AA925F45CBEFBFF83"/>
+	</game>
+	<game name="新世界冒险记（简）1d CLARK.H 20250322 v1.0 - 5000A7FC">
+		<rom name="新世界冒险记（简）1d CLARK.H 20250322 v1.0.pce" size="524288" crc="5000A7FC" md5="0FFB6105838A8136D80CCAB1184B5590"/>
+	</game>
+	<game name="新世界冒险记（简）1d CLARK.H 20250324 v1.1 - 9B9CC774">
+		<rom name="新世界冒险记（简）1d CLARK.H 20250324 v1.1.pce" size="393216" crc="9B9CC774" md5="2BD31A0C902FC399F24450C68E367597"/>
 	</game>
 	<game name="泡泡糖危机：塞柏斯骑士2034（简）1d 20240514 v0.1 - 6392F27A">
 		<rom name="泡泡糖危机：塞柏斯骑士2034（简）1d 20240514 v0.1.pce" size="524288" crc="6392F27A" md5="80F0031CD4EFFC8A7AF32BB5DBA91720"/>

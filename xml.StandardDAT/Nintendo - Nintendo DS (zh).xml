@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250200</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250300</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -243,6 +243,12 @@
 	</game>
 	<game name="世界树迷宫2 诸王的圣杯（简）小黑屋 - CAA9DA57">
 		<rom name="世界树迷宫2 诸王的圣杯（简）小黑屋.nds" size="22137408" crc="CAA9DA57" md5="58D2A37F73A4CEA075C0468D8BC2C784"/>
+	</game>
+	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 原版立绘 - D9E7C6E1">
+		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 原版立绘.nds" size="33554432" crc="D9E7C6E1" md5="FA958161C3F1029E0A9E8D5C365E2D43"/>
+	</game>
+	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 高清重制立绘 - 219FAD6E">
+		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 高清重制立绘.nds" size="33554432" crc="219FAD6E" md5="CCBCD239750A7C9547699EC858449931"/>
 	</game>
 	<game name="世界足球DS（简）YYJOY - 1BA9E005">
 		<rom name="世界足球DS（简）YYJOY.nds" size="37902164" crc="1BA9E005" md5="BC017238A7925273C71F99E42C4B5E9A"/>
@@ -975,6 +981,9 @@
 	</game>
 	<game name="宝可梦：白（简）BW 20241016 v2.1 - 85FA1AA5">
 		<rom name="宝可梦：白（简）BW 20241016 v2.1.nds" size="268435456" crc="85FA1AA5" md5="EE1AE28B38B5A899CB8AAF5A339DA1B9"/>
+	</game>
+	<game name="宝可梦：白（简）BW 20250204 v2.1 双译名 - FFC14E71">
+		<rom name="宝可梦：白（简）BW 20250204 v2.1 双译名.nds" size="268435456" crc="FFC14E71" md5="63D83CAAEE374209F40FB38A03919522"/>
 	</game>
 	<game name="宝可梦：白2（简繁）ACG 口袋群星SP v2 - 40D51B68">
 		<rom name="宝可梦：白2（简繁）ACG 口袋群星SP v2.nds" size="319947776" crc="40D51B68" md5="47355E6481E533C591458640811BFA33"/>
@@ -2023,8 +2032,8 @@
 	<game name="牧场物语：双子村（简）SOMA - BF4DB9E3">
 		<rom name="牧场物语：双子村（简）SOMA.nds" size="134217728" crc="BF4DB9E3" md5="CF87A3164D8E0D596D48B9ADCDF43D83"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 七夕国语片头 - 42B6B234">
-		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 七夕国语片头.nds" size="134217728" crc="42B6B234" md5="E84203C86F4946DAC16B85FDCDC5DC9B"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 七夕汉语片头 - 42B6B234">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 七夕汉语片头.nds" size="134217728" crc="42B6B234" md5="E84203C86F4946DAC16B85FDCDC5DC9B"/>
 	</game>
 	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 七夕日语片头修正 - A8B2090E">
 		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 七夕日语片头修正.nds" size="134217728" crc="A8B2090E" md5="F8E97EEBD09E56EE22D492A1A5E100D9"/>
@@ -2053,14 +2062,20 @@
 	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 汉语配音 - 81CB1431">
 		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 汉语配音.nds" size="134217728" crc="81CB1431" md5="F5F099D2459F2B97BE64B5CB89C3F00A"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 日语配音2024精修 - E5610353">
-		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 日语配音2024精修.nds" size="134217728" crc="E5610353" md5="135B60183156CB22D5B5ECB202A67CEF"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 日语配音 - E5610353">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 日语配音.nds" size="134217728" crc="E5610353" md5="135B60183156CB22D5B5ECB202A67CEF"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 汉语配音2024精修 - 573F80DC">
-		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 汉语配音2024精修.nds" size="134217728" crc="573F80DC" md5="26073FD1338E81C510BE2B910747115E"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 汉语配音 - 573F80DC">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 汉语配音.nds" size="134217728" crc="573F80DC" md5="26073FD1338E81C510BE2B910747115E"/>
 	</game>
 	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 2014 最终版 日版片头 - 5F4CDF3E">
 		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 2014 最终版 日版片头.nds" size="124613180" crc="5F4CDF3E" md5="1EF6B1A50EC309533ED1DF9B836D8182"/>
+	</game>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 日语配音 - 08EEA73F">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 日语配音.nds" size="134217728" crc="08EEA73F" md5="19D6AD3289ACAD9D5DF5EE55C1CEF512"/>
+	</game>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 汉语配音 - BAB024B0">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 汉语配音.nds" size="134217728" crc="BAB024B0" md5="5CB903B85384A8408280F02A7E9B9075"/>
 	</game>
 	<game name="牧场物语：精灵驿站（简）NDSBBS MOBILE v02 测试 - 806CEF17">
 		<rom name="牧场物语：精灵驿站（简）NDSBBS MOBILE v02 测试.nds" size="33554432" crc="806CEF17" md5="617704516BB9FC354BBC053E2978D4A1"/>
@@ -2245,6 +2260,9 @@
 	<game name="病院惊魂（繁）空气 DREAM75421 - 872F91BC">
 		<rom name="病院惊魂（繁）空气 DREAM75421.nds" size="67108864" crc="872F91BC" md5="4AA5A1AE0748E52105BC8C2682AF5348"/>
 	</game>
+	<game name="白夜行：第一章（改）流浪的猎人 v0.1 Demo - 2BB45A82">
+		<rom name="白夜行：第一章（改）流浪的猎人 v0.1 Demo.nds" size="8069468" crc="2BB45A82" md5="9783A3D391AFE801844CE17106419C48"/>
+	</game>
 	<game name="益智同伴DS 作画拼图同伴（简）ACG - FCE9DB0B">
 		<rom name="益智同伴DS 作画拼图同伴（简）ACG.nds" size="12473408" crc="FCE9DB0B" md5="3F47267DDAF00D830D9F8C7CEF4356AD"/>
 	</game>
@@ -2349,6 +2367,9 @@
 	</game>
 	<game name="第七龙神（简）Advance - 959A12D0">
 		<rom name="第七龙神（简）Advance.nds" size="126361904" crc="959A12D0" md5="12A85D648CE52D5A91993A5079172821"/>
+	</game>
+	<game name="简单DS系列07数独（简）fciq 20250228 - 8198EC8E">
+		<rom name="简单DS系列07数独（简）fciq 20250228.nds" size="8388608" crc="8198EC8E" md5="0D24294BE7DFBA2C2CF871A72C1129C3"/>
 	</game>
 	<game name="简单DS系列16寻找不可思议的昆虫之森（简）APEX - 59E4F1E9">
 		<rom name="简单DS系列16寻找不可思议的昆虫之森（简）APEX.nds" size="33554432" crc="59E4F1E9" md5="B4C55161B48245F8795CEDBBCFD614E6"/>
@@ -3019,8 +3040,8 @@
 	<game name="驯龙师：音魂（简）烈火暴龙 - 51179BC7">
 		<rom name="驯龙师：音魂（简）烈火暴龙.nds" size="54249753" crc="51179BC7" md5="36FD922720DEABEA3EC3DA47F4CE2820"/>
 	</game>
-	<game name="高级战争DS（简）高级战争吧 v1.1 - 4B770391">
-		<rom name="高级战争DS（简）高级战争吧 v1.1.nds" size="28648608" crc="4B770391" md5="0A234860A9B3A4588A3B88BCEA5B7A27"/>
+	<game name="高级战争DS（简）高级战争吧 20210629 v1.1 - 4B770391">
+		<rom name="高级战争DS（简）高级战争吧 20210629 v1.1.nds" size="28648608" crc="4B770391" md5="0A234860A9B3A4588A3B88BCEA5B7A27"/>
 	</game>
 	<game name="高级战争DS（简）高级战争吧 v1.0 - 2B5FE245">
 		<rom name="高级战争DS（简）高级战争吧 v1.0.nds" size="28648608" crc="2B5FE245" md5="7897B55BFBEA8F5267FE5BE1A0C4C3D7"/>

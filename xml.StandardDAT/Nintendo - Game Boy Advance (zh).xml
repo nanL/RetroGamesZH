@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20250200</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20250300</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -207,18 +207,6 @@
 	</game>
 	<game name="决战三国（繁）需用mGBA模拟 - CEB670B2">
 		<rom name="决战三国（繁）需用mGBA模拟.gba" size="4194304" crc="CEB670B2" md5="59D0027F066B620B643EB1CF213BE967"/>
-	</game>
-	<game name="勇者斗恶龙外传：特鲁内克大冒险2A不可思议的迷宫（简）星组 - C5BC025F">
-		<rom name="勇者斗恶龙外传：特鲁内克大冒险2A不可思议的迷宫（简）星组.gba" size="8388608" crc="C5BC025F" md5="733C871EDD8FBA0F7E0B818C2C3B4502"/>
-	</game>
-	<game name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 v2.1 - 0A48B6F4">
-		<rom name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 v2.1.gba" size="16777216" crc="0A48B6F4" md5="8FB6A47831248BCFC0A2967A39058210"/>
-	</game>
-	<game name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 v2.3 - 29029D50">
-		<rom name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 v2.3.gba" size="16777216" crc="29029D50" md5="28349C9C5D5004A17648B283FC0E97B6"/>
-	</game>
-	<game name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 魔法音译 - 8E6A8E06">
-		<rom name="勇者斗恶龙外传：特鲁内克大冒险3A不可思议的迷宫（简）星组 魔法音译.gba" size="17825792" crc="8E6A8E06" md5="2A97E710233E8A72B221A83A77B0C893"/>
 	</game>
 	<game name="勇者斗恶龙怪兽篇：旅团之心（繁）Unl 周哥 - EC167D8B">
 		<rom name="勇者斗恶龙怪兽篇：旅团之心（繁）Unl 周哥.gba" size="33554432" crc="EC167D8B" md5="6D93A0E224F040779CE898A6E917CE50"/>
@@ -679,6 +667,18 @@
 	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241118 八代官译 - 4ABAF12D">
 		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241118 八代官译.gba" size="16777216" crc="4ABAF12D" md5="707374C05226BA9F34A7537ECDE78698"/>
 	</game>
+	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241118 八代官译 - 0AFE8339">
+		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241118 八代官译.gba" size="16777216" crc="0AFE8339" md5="D2CB9E23A69F038A989F7CB6FC856F86"/>
+	</game>
+	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241118 八代官译室内跑步 - 50F3C1C2">
+		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241118 八代官译室内跑步.gba" size="16777216" crc="50F3C1C2" md5="616F58359CEA5A49189C2FBD46F671A2"/>
+	</game>
+	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241118 七代旧译 - 235D5389">
+		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241118 七代旧译.gba" size="16777216" crc="235D5389" md5="CC4C3303955C95B59B7838AA6A4D77FE"/>
+	</game>
+	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241118 七代旧译室内跑步 - 1295CACE">
+		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241118 七代旧译室内跑步.gba" size="16777216" crc="1295CACE" md5="4EA374492FD1CDDF7D58BABD2C7ED9BF"/>
+	</game>
 	<game name="宝可梦：绿宝石（简）洛水惊鸿 20241202 八代官译 - 1D49F900">
 		<rom name="宝可梦：绿宝石（简）洛水惊鸿 20241202 八代官译.gba" size="16777216" crc="1D49F900" md5="985C4E4A6DF680A9831264FA5EACEA4E"/>
 	</game>
@@ -793,6 +793,9 @@
 	<game name="忘却的旋律（简）1d 20240518 v0.8 有道机翻 - 4C867789">
 		<rom name="忘却的旋律（简）1d 20240518 v0.8 有道机翻.gba" size="8388608" crc="4C867789" md5="3F183AC97B437A124FA9E2DC4F63E4FC"/>
 	</game>
+	<game name="忘却的旋律（简）1d CLARK.H 20250307 v1.0 - 253EF788">
+		<rom name="忘却的旋律（简）1d CLARK.H 20250307 v1.0.gba" size="8388608" crc="253EF788" md5="3C0C02E40C6F6EE684E36DCBD625B77E"/>
+	</game>
 	<game name="快打旋风One（简）天使 madcell - E5AAB7F7">
 		<rom name="快打旋风One（简）天使 madcell.gba" size="4224224" crc="E5AAB7F7" md5="A6BC46740EF75C752C271BF4B534083E"/>
 	</game>
@@ -897,6 +900,9 @@
 	</game>
 	<game name="携带电兽2力量（简）Unl PUSZTA - 8F4C3F33">
 		<rom name="携带电兽2力量（简）Unl PUSZTA.gba" size="8388608" crc="8F4C3F33" md5="8072BEE2986A3516B4008D02D1FAAA6B"/>
+	</game>
+	<game name="携带电兽2速度（简）施珂昱 - 271593CF">
+		<rom name="携带电兽2速度（简）施珂昱.gba" size="8388608" crc="271593CF" md5="BAE3C24C16F50D04EAA562DDA014FA54"/>
 	</game>
 	<game name="携带电兽2速度（简）施珂昱 - 5AC01C3D">
 		<rom name="携带电兽2速度（简）施珂昱.gba" size="8388608" crc="5AC01C3D" md5="1C31D03028052F140DDF6ACB7DA5E9A9"/>
@@ -1195,6 +1201,9 @@
 	<game name="游戏王! 怪兽决斗EX 2（繁）九柳 测试 - 2A0F130C">
 		<rom name="游戏王! 怪兽决斗EX 2（繁）九柳 测试.gba" size="16777216" crc="2A0F130C" md5="C0154BCC7CEF25534E974F2297F92850"/>
 	</game>
+	<game name="游戏王! 怪兽决斗EX 2（简）Advance 落月 20250313 v1.0 - 9D762C65">
+		<rom name="游戏王! 怪兽决斗EX 2（简）Advance 落月 20250313 v1.0.gba" size="18951456" crc="9D762C65" md5="7F99A819A321A7341218178EABE4524A"/>
+	</game>
 	<game name="游戏王! 怪兽决斗EX 3（简）CGP - 392A4046">
 		<rom name="游戏王! 怪兽决斗EX 3（简）CGP.gba" size="16777216" crc="392A4046" md5="A8C1C90FC3983123AE96CCDDBC8BE435"/>
 	</game>
@@ -1405,8 +1414,26 @@
 	<game name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20241216 - 4FA912B0">
 		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20241216.gba" size="16777216" crc="4FA912B0" md5="FE92090C1AEE6230772291E2322BA2BA"/>
 	</game>
+	<game name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20250103 - 8FF2C7D6">
+		<rom name="牧场物语：矿石镇的伙伴们女孩版（简）熊2猫3 20250103.gba" size="16777216" crc="8FF2C7D6" md5="79AB1B269392FC5F834F26B77F82BB5B"/>
+	</game>
 	<game name="特训（简）WHOWE - 0C38B8B7">
 		<rom name="特训（简）WHOWE.gba" size="129656" crc="0C38B8B7" md5="8AE6BD04C1F0DBEE29BFAE9F2FBFD0DB"/>
+	</game>
+	<game name="特鲁内克大冒险2A（简）星组 - C5BC025F">
+		<rom name="特鲁内克大冒险2A（简）星组.gba" size="8388608" crc="C5BC025F" md5="733C871EDD8FBA0F7E0B818C2C3B4502"/>
+	</game>
+	<game name="特鲁内克大冒险3A（简）星组 v2.1 - 0A48B6F4">
+		<rom name="特鲁内克大冒险3A（简）星组 v2.1.gba" size="16777216" crc="0A48B6F4" md5="8FB6A47831248BCFC0A2967A39058210"/>
+	</game>
+	<game name="特鲁内克大冒险3A（简）星组 v2.3 - 29029D50">
+		<rom name="特鲁内克大冒险3A（简）星组 v2.3.gba" size="16777216" crc="29029D50" md5="28349C9C5D5004A17648B283FC0E97B6"/>
+	</game>
+	<game name="特鲁内克大冒险3A（简）星组 魔法音译 - 8E6A8E06">
+		<rom name="特鲁内克大冒险3A（简）星组 魔法音译.gba" size="17825792" crc="8E6A8E06" md5="2A97E710233E8A72B221A83A77B0C893"/>
+	</game>
+	<game name="特鲁内克大冒险3A（简）星组 hqqqqtv 20220520 v2.3 修正 - F008265B">
+		<rom name="特鲁内克大冒险3A（简）星组 hqqqqtv 20220520 v2.3 修正.gba" size="16777216" crc="F008265B" md5="F7BC9974C66FC21A8BC9EE50D1D12EBF"/>
 	</game>
 	<game name="王国之心 记忆之链（简）狼组 天幻 大字体 - BAABFF26">
 		<rom name="王国之心 记忆之链（简）狼组 天幻 大字体.gba" size="33554432" crc="BAABFF26" md5="6398604790C4FC2CEBD2DDA09076A1E0"/>

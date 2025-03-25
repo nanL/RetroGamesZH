@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Color (zh)</name><version>20250200</version></header>
+	<header><name>Nintendo - Game Boy Color (zh)</name><version>20250300</version></header>
 	<game name="007：黑日危机（繁） - D33D0CDD">
 		<rom name="007：黑日危机（繁）.gbc" size="2097152" crc="D33D0CDD" md5="AAE37F7E9869A07C777077FF4043367E"/>
 	</game>
@@ -153,6 +153,9 @@
 	</game>
 	<game name="十面埋伏 风云篇（繁）天才小子 - 7CDF4636">
 		<rom name="十面埋伏 风云篇（繁）天才小子.gbc" size="1048576" crc="7CDF4636" md5="8BA6E2E2DCCA74208866DBF1BC4359CB"/>
+	</game>
+	<game name="十面埋伏：英雄篇（繁）ankos babypkzhu taizou 修正 - A686C438">
+		<rom name="十面埋伏：英雄篇（繁）ankos babypkzhu taizou 修正.gbc" size="1048576" crc="A686C438" md5="B5470B74F30732D348F4538BA4A4FE99"/>
 	</game>
 	<game name="卧虎藏龙（简）GOWIN - 933513A6">
 		<rom name="卧虎藏龙（简）GOWIN.gbc" size="2097152" crc="933513A6" md5="5CE2FB59079C4B0DFD6EF8E4E87CA2CB"/>
@@ -1012,6 +1015,9 @@
 	<game name="超人特攻队（简）新特奇 - 1159836B">
 		<rom name="超人特攻队（简）新特奇.gbc" size="2097152" crc="1159836B" md5="53E9C7081BE58FFEE81F43AAB91F7B37"/>
 	</game>
+	<game name="超时空要塞7（简）RangerMarsh 20250310 v1.0 - A8380728">
+		<rom name="超时空要塞7（简）RangerMarsh 20250310 v1.0.gbc" size="2097152" crc="A8380728" md5="3B564D71FC9751C783ECA0828AC452EE"/>
+	</game>
 	<game name="超级机器人大战F完结篇（繁）SKOB - B6FCA9F2">
 		<rom name="超级机器人大战F完结篇（繁）SKOB.gbc" size="1048576" crc="B6FCA9F2" md5="EC8BDE08AC1A90601B385008C0A38E74"/>
 	</game>
@@ -1050,6 +1056,9 @@
 	</game>
 	<game name="超级马力欧兄弟豪华版（简）ERTONG - 5E3E77ED">
 		<rom name="超级马力欧兄弟豪华版（简）ERTONG.gbc" size="1048576" crc="5E3E77ED" md5="DC9319E391211CA76B8E3AA7281C48FF"/>
+	</game>
+	<game name="超级马力欧大陆（简）春华秋实 20250308 v0.9 GBDX - A70F2066">
+		<rom name="超级马力欧大陆（简）春华秋实 20250308 v0.9 GBDX.gbc" size="131072" crc="A70F2066" md5="A37D8A53DF3B6F56ADE1D41CB75A0D8E"/>
 	</game>
 	<game name="超进化 数码宝贝 D-3（繁）SKOB - 1517D27E">
 		<rom name="超进化 数码宝贝 D-3（繁）SKOB.gbc" size="1048576" crc="1517D27E" md5="6E6ECA68F57407CFB0040C57218064E3"/>
