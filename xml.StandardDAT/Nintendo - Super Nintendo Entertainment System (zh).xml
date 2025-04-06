@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20250300</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20250400</version></header>
 	<game name="3x3只眼：魔兽奉还（简）小鬼混 20241212 - 0B149BC3">
 		<rom name="3x3只眼：魔兽奉还（简）小鬼混 20241212.smc" size="2097152" crc="0B149BC3" md5="776CE482203B54EF9700A7B37F9EAAB5"/>
 	</game>
@@ -135,6 +135,9 @@
 	</game>
 	<game name="四狂神战记II（简）飞雨影 20250208 - 049C1D54">
 		<rom name="四狂神战记II（简）飞雨影 20250208.sfc" size="4194304" crc="049C1D54" md5="2D013C389C40590DFAEBA1E8A0486DAA"/>
+	</game>
+	<game name="四狂神战记II（简）飞雨影 20250323 - 201D820B">
+		<rom name="四狂神战记II（简）飞雨影 20250323.sfc" size="4194304" crc="201D820B" md5="AAC672F0DA4D78C27E3F07F42ECFD292"/>
 	</game>
 	<game name="圣剑传说3（繁）天幻 PTT v1.0 - 86C49FCD">
 		<rom name="圣剑传说3（繁）天幻 PTT v1.0.sfc" size="4194304" crc="86C49FCD" md5="000D81B61A730568F9EC5A19EB64E40F"/>
@@ -340,6 +343,9 @@
 	<game name="松村邦洋传（简）1d 20240416 v0.8 - 95B5E7FD">
 		<rom name="松村邦洋传（简）1d 20240416 v0.8.sfc" size="3145728" crc="95B5E7FD" md5="2A0DA34B412F2CCAC76A289A897A7319"/>
 	</game>
+	<game name="松村邦洋传（简）1d、CLARK.H 20250326 v1.0 - E34ABAE8">
+		<rom name="松村邦洋传（简）1d、CLARK.H 20250326 v1.0.sfc" size="3145728" crc="E34ABAE8" md5="08AC26BBD10F4DEACB1E3A6B3D1BA2B9"/>
+	</game>
 	<game name="梦幻模拟战（简）madcell DEHEPO 20101105 - 63EACA14">
 		<rom name="梦幻模拟战（简）madcell DEHEPO 20101105.sfc" size="3145728" crc="63EACA14" md5="D0DCDF3371D01E11283D8F2FE13445B2"/>
 	</game>
@@ -354,6 +360,18 @@
 	</game>
 	<game name="横山光辉三国志（简）混沌星辰 v1.2 - F73F7DB6">
 		<rom name="横山光辉三国志（简）混沌星辰 v1.2.sfc" size="1048576" crc="F73F7DB6" md5="6D6D106E16C0E297BE9EC225447971C7"/>
+	</game>
+	<game name="死亡之舞（简）1d、CLARK.H 20250327 v1.0 - 8F808179">
+		<rom name="死亡之舞（简）1d、CLARK.H 20250327 v1.0.sfc" size="4194304" crc="8F808179" md5="4771DFDA0199DF2804D0275C4BF03A9B"/>
+	</game>
+	<game name="洛克人7宿命的对决（繁）Nokoh 20250403 v2 - D2C2CBE4">
+		<rom name="洛克人7宿命的对决（繁）Nokoh 20250403 v2.sfc" size="3145728" crc="D2C2CBE4" md5="853FAD1653F140D18C7EC6163EA3B6E8"/>
+	</game>
+	<game name="洛克人7宿命的对决（繁）Nokoh 20250403 - 5AE3D0A8">
+		<rom name="洛克人7宿命的对决（繁）Nokoh 20250403.sfc" size="3145728" crc="5AE3D0A8" md5="63B9571DB47E6A018D8F633C0334637E"/>
+	</game>
+	<game name="洛克人7宿命的对决（繁）Nokoh 20250406 - C1928F06">
+		<rom name="洛克人7宿命的对决（繁）Nokoh 20250406.sfc" size="3145728" crc="C1928F06" md5="C84AD1ABFAB15686BA3CAB2AF134E12A"/>
 	</game>
 	<game name="消防员的故事（简）阿刃 20240826 - 2619986C">
 		<rom name="消防员的故事（简）阿刃 20240826.sfc" size="1572864" crc="2619986C" md5="876F829C8D2AC7A317E3DEE47E619569"/>

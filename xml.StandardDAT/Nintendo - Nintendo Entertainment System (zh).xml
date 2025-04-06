@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20250300</version></header>
+	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20250400</version></header>
 	<game name="1942（简）MS - A36F13D0">
 		<rom name="1942（简）MS.nes" size="40976" crc="A36F13D0" md5="0B3CEADB1A155807E7C7AA37FD9904F7"/>
 	</game>
@@ -3325,17 +3325,20 @@
 	<game name="洛克人4新的野心（简）中伟 HK - 8757AA46">
 		<rom name="洛克人4新的野心（简）中伟 HK.nes" size="524304" crc="8757AA46" md5="35574D80CFFA602F26D53A346A43440A"/>
 	</game>
-	<game name="洛克人4新的野心（简繁）Nokoh 20250209 标题左右切换语言 - C93339C9">
-		<rom name="洛克人4新的野心（简繁）Nokoh 20250209 标题左右切换语言.nes" size="1048592" crc="C93339C9" md5="730A5F11B5FB5AA18D0820EC98CE6E40"/>
+	<game name="洛克人4新的野心（简繁）Nokoh 20250209 - C93339C9">
+		<rom name="洛克人4新的野心（简繁）Nokoh 20250209.nes" size="1048592" crc="C93339C9" md5="730A5F11B5FB5AA18D0820EC98CE6E40"/>
 	</game>
-	<game name="洛克人4新的野心（简繁）Nokoh 20250213 标题左右切换语言 - AE32D6BF">
-		<rom name="洛克人4新的野心（简繁）Nokoh 20250213 标题左右切换语言.nes" size="1048592" crc="AE32D6BF" md5="267BB70500EEF426EA1E8BD6A9B239CF"/>
+	<game name="洛克人4新的野心（简繁）Nokoh 20250213 - AE32D6BF">
+		<rom name="洛克人4新的野心（简繁）Nokoh 20250213.nes" size="1048592" crc="AE32D6BF" md5="267BB70500EEF426EA1E8BD6A9B239CF"/>
 	</game>
-	<game name="洛克人4新的野心（简繁）Nokoh 20250221 Mapper245 标题左右切换语言 - A87A86CE">
-		<rom name="洛克人4新的野心（简繁）Nokoh 20250221 Mapper245 标题左右切换语言.nes" size="1048592" crc="A87A86CE" md5="8D5E7ECC504FAC4D9F8024A2EC57E9A7"/>
+	<game name="洛克人4新的野心（简繁）Nokoh 20250221 Mapper245 - A87A86CE">
+		<rom name="洛克人4新的野心（简繁）Nokoh 20250221 Mapper245.nes" size="1048592" crc="A87A86CE" md5="8D5E7ECC504FAC4D9F8024A2EC57E9A7"/>
 	</game>
-	<game name="洛克人4新的野心（简繁）Nokoh 20250221 Mapper4 标题左右切换语言 - D5FDFC0E">
-		<rom name="洛克人4新的野心（简繁）Nokoh 20250221 Mapper4 标题左右切换语言.nes" size="1048592" crc="D5FDFC0E" md5="1C863AA572E856A123711BB3BB3F660B"/>
+	<game name="洛克人4新的野心（简繁）Nokoh 20250221 Mapper4 - D5FDFC0E">
+		<rom name="洛克人4新的野心（简繁）Nokoh 20250221 Mapper4.nes" size="1048592" crc="D5FDFC0E" md5="1C863AA572E856A123711BB3BB3F660B"/>
+	</game>
+	<game name="洛克人4新的野心（简繁）Nokoh 20250303 Mapper5 - 0901D6B9">
+		<rom name="洛克人4新的野心（简繁）Nokoh 20250303 Mapper5.nes" size="1048592" crc="0901D6B9" md5="01ECD349B883A06BBE7A4D26539B2043"/>
 	</game>
 	<game name="洛克人5布鲁斯的阴谋（简）中伟 - BBE37229">
 		<rom name="洛克人5布鲁斯的阴谋（简）中伟.nes" size="1048608" crc="BBE37229" md5="CB43397C284F2287D1FE140E2A4F8E35"/>

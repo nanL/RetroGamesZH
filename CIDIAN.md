@@ -3803,7 +3803,7 @@ Days of Thunder|雷霆壮志
 Daze Before Christmas|圣诞老人大进击
 Dazhanlue|
 De-Block|太空方块
-Dead Dance|死亡烈斗
+Dead Dance|死亡之舞
 Dead Fox|人间兵器
 Dead Heat Breakers, The|死亡热力破碎机 日版
 Dead Moon|死亡之月美版
@@ -4094,12 +4094,12 @@ Digimon Racing|数码宝贝赛车
 Digimon Rury|
 Digimon Saphire|数码宝贝：蓝宝石
 Digimon Sapphire|数码宝贝：蓝宝石
-Digimon Story|数码宝贝传说
-Digimon Story - Lost Evolution|数码宝贝传说：失落的进化
-Digimon Story - Moonlight|数码宝贝传说：月光
-Digimon Story - Sunburst|数码宝贝传说：日光
-Digimon Story - Super Xros Wars - Blue|数码宝贝传说：超合体大战：蓝
-Digimon Story - Super Xros Wars - Red|数码宝贝传说：超合体大战：红
+Digimon Story|数码宝贝物语
+Digimon Story - Lost Evolution|数码宝贝物语：遗失的进化
+Digimon Story - Moonlight|数码宝贝物语：月光
+Digimon Story - Sunburst|数码宝贝物语：日光
+Digimon Story - Super Xros Wars - Blue|数码宝贝物语：超合体大战：蓝
+Digimon Story - Super Xros Wars - Red|数码宝贝物语：超合体大战：红
 Digimon Tamers - Battle Spirit|数码兽驯兽师：战斗之魂
 Digimon Tamers - Battle Spirit Ver. 1.5|数码兽驯兽师：战斗之魂v1.5
 Digimon Tamers - Brave Tamer|
@@ -9939,12 +9939,12 @@ Lucky Luke - Wanted!|幸运枪手路克-通缉犯
 Lucky Rabbit|
 Lucky Star - Moe Drill|幸运星 LOLI育成
 Lufia|四狂神战记
-Lufia & The Fortress of Doom|
+Lufia & The Fortress of Doom|四狂神战记
 Lufia & the Fortress of Doom|四狂神战记：虚空城堡
 Lufia - Curse of the Sinistrals|四狂神战记：四狂神诅咒
 Lufia - The Legend Returns|四狂神战记：传说再现
 Lufia - The Ruins of Lore|四狂神战记：沉默的遗迹
-Lufia II - Rise of the Sinistrals|四狂神战记2四狂神崛起
+Lufia II - Rise of the Sinistrals|四狂神战记II
 Luigi Mansion|路易吉洋馆
 Luigi Mansion 2|路易吉洋馆2
 Luigi's Mansion|路易吉洋馆
@@ -19881,52 +19881,52 @@ Yu Yu Hakusho DS - Ankoku Bujutsukai Hen|幽游白书DS暗黑武术会篇
 Yu Yu Hakusho Final - Makai Saikyou Retsuden|幽游白书FINAL魔界最强列传
 Yu Yu Hakusho Gaiden|幽游白书外传
 Yu Yu Hakusho V 97|
-Yu-Gi-Oh!|
-Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005|游戏王-世界锦标赛2005
-Yu-Gi-Oh! - Dark Duel Stories|游戏王–暗黑决斗记
-Yu-Gi-Oh! - Das Dunkle Duell|游戏王-暗黑决斗
-Yu-Gi-Oh! - Day of the Duelist - World Championship Tournament 2005|游戏王-世界冠军赛2005
-Yu-Gi-Oh! - Destiny Board Traveler|游戏王-命运之旅
-Yu-Gi-Oh! - Duel des Tenebres|游戏王-暗黑决斗
-Yu-Gi-Oh! - Duelo en las Tinieblas|游戏王-暗黑决斗
-Yu-Gi-Oh! - Dungeon Dice Monsters|游戏王-地牢方块妖怪
+Yu-Gi-Oh!|游戏王
+Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005|游戏王：世界冠军赛2005
+Yu-Gi-Oh! - Dark Duel Stories|游戏王：暗黑决斗
+Yu-Gi-Oh! - Das Dunkle Duell|游戏王：暗黑决斗
+Yu-Gi-Oh! - Day of the Duelist - World Championship Tournament 2005|游戏王：世界冠军赛2005
+Yu-Gi-Oh! - Destiny Board Traveler|游戏王：命运之旅
+Yu-Gi-Oh! - Duel des Tenebres|游戏王：暗黑决斗
+Yu-Gi-Oh! - Duelo en las Tinieblas|游戏王：暗黑决斗
+Yu-Gi-Oh! - Dungeon Dice Monsters|游戏王：怪兽龙门骰
 Yu-Gi-Oh! - Monster Capsule GB|游戏王：怪兽胶囊GB
-Yu-Gi-Oh! - Nightmare Troubadour|游戏王DS 噩梦的呤游诗人
-Yu-Gi-Oh! - Racconti Oscuri|游戏王-暗黑决斗
-Yu-Gi-Oh! - Reshef of Destruction|游戏王8-毁灭的大邪神
-Yu-Gi-Oh! - Sugoroku no Sugoroku|游戏王-双六的骰子
-Yu-Gi-Oh! - The Eternal Duelist Soul|游戏王-永恒斗士之魂
-Yu-Gi-Oh! - The Sacred Cards|游戏王-神圣的卡片
-Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006|游戏王UM2006
-Yu-Gi-Oh! - Ultimate Masters Edition - World Championship Tournament 2006|游戏王UM2006
-Yu-Gi-Oh! - World Championship 2007|游戏王决斗怪兽-世界冠军2007
-Yu-Gi-Oh! - World Championship 2008|游戏王-世界冠军赛2008
-Yu-Gi-Oh! - World Championship Tournament 2004|游戏王! 世界冠军锦标赛2004
-Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel|游戏王6-国际版
-Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009|游戏王5DS 星尘驱动者 世界冠军大会2009
-Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia|游戏王5D's 桃源乡的复仇 世界冠军
-Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus|游戏王5D'S 世界冠军大会2011
+Yu-Gi-Oh! - Nightmare Troubadour|游戏王：噩梦呤游诗人
+Yu-Gi-Oh! - Racconti Oscuri|游戏王：暗黑决斗
+Yu-Gi-Oh! - Reshef of Destruction|游戏王：毁灭的大邪神
+Yu-Gi-Oh! - Sugoroku no Sugoroku|游戏王：双六的骰子
+Yu-Gi-Oh! - The Eternal Duelist Soul|游戏王：永恒斗士之魂
+Yu-Gi-Oh! - The Sacred Cards|游戏王：神圣的卡片
+Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006|游戏王：世界冠军赛2006
+Yu-Gi-Oh! - Ultimate Masters Edition - World Championship Tournament 2006|游戏王：世界冠军赛2006
+Yu-Gi-Oh! - World Championship 2007|游戏王：世界冠军赛2007
+Yu-Gi-Oh! - World Championship 2008|游戏王：世界冠军赛2008
+Yu-Gi-Oh! - World Championship Tournament 2004|游戏王：世界冠军赛2004
+Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel|游戏王：国际版
+Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009|游戏王5Ds世界冠军赛2009
+Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia|游戏王5Ds世界冠军赛2010
+Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus|游戏王5Ds世界冠军赛2011
 Yu-Gi-Oh! Double Pack|游戏王2合1
-Yu-Gi-Oh! Double Pack 2|游戏2合1-游戏王-命运之旅+怪兽龙门骰
-Yu-Gi-Oh! Duel Monsters - Nightmare Troubadour|游戏王 DS 噩梦的吟游诗人
-Yu-Gi-Oh! Duel Monsters - World Championship 2007|游戏王 世界冠军2007
-Yu-Gi-Oh! Duel Monsters - World Championship 2008|游戏王 世界冠军2008
+Yu-Gi-Oh! Double Pack 2|游戏王2合1
+Yu-Gi-Oh! Duel Monsters - Nightmare Troubadour|游戏王：噩梦吟游诗人
+Yu-Gi-Oh! Duel Monsters - World Championship 2007|游戏王：世界冠军赛2007
+Yu-Gi-Oh! Duel Monsters - World Championship 2008|游戏王：世界冠军赛2008
 Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck|游戏王4最强决斗者战记：城内篇
 Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck|游戏王4最强决斗者战记：海马篇
 Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck|游戏王4最强决斗者战记：游戏篇
-Yu-Gi-Oh! Duel Monsters 5 Expert 1|游戏王5-双重恶魔
-Yu-Gi-Oh! Duel Monsters 6 Expert 2|游戏王! 怪兽决斗EX 2
-Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu|游戏王7-决斗都市传说
-Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin|游戏王! 怪兽决斗8 破灭的大邪神
-Yu-Gi-Oh! Duel Monsters Expert 2006|游戏王：决战怪兽 Ex 2006
-Yu-Gi-Oh! Duel Monsters Expert 3|游戏王! 怪兽决斗EX 3
-Yu-Gi-Oh! Duel Monsters GX - Card Almanac|游戏王-决斗怪兽DS-卡片年鉴
+Yu-Gi-Oh! Duel Monsters 5 Expert 1|游戏王5Ex1
+Yu-Gi-Oh! Duel Monsters 6 Expert 2|游戏王6Ex2
+Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu|游戏王7
+Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin|游戏王8
+Yu-Gi-Oh! Duel Monsters Expert 2006|游戏王Ex2006
+Yu-Gi-Oh! Duel Monsters Expert 3|游戏王Ex3
+Yu-Gi-Oh! Duel Monsters GX - Card Almanac|游戏王GX卡片年鉴
 Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King!|游戏王GX目标是决斗王
-Yu-Gi-Oh! Duel Monsters GX - Spirit Summoner|游戏王GX 精灵召唤者
-Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories|游戏王：怪兽之决斗2暗界决斗记
-Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant|游戏王：怪兽之决斗3三圣战神降临
-Yu-Gi-Oh! Duel Monsters International - Worldwide Edition|游戏王6-国际版
-Yu-Gi-Oh! Duel Monsters International 2|游戏王! 怪兽决斗国际版2
+Yu-Gi-Oh! Duel Monsters GX - Spirit Summoner|游戏王GX精灵召唤者
+Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories|游戏王II
+Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant|游戏王III
+Yu-Gi-Oh! Duel Monsters International - Worldwide Edition|游戏王：国际版
+Yu-Gi-Oh! Duel Monsters International 2|游戏王：国际版2
 Yu-Gi-Oh! GX - Card Almanac|游戏王-决斗怪兽GX 卡片年鉴
 Yu-Gi-Oh! GX - Duel Academy|游戏王GX-决斗学院
 Yu-Gi-Oh! GX - Spirit Caller|游戏王GX-精灵的召唤

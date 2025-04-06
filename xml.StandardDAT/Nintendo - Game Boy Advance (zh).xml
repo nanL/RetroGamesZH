@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20250300</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20250400</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -210,6 +210,9 @@
 	</game>
 	<game name="勇者斗恶龙怪兽篇：旅团之心（繁）Unl 周哥 - EC167D8B">
 		<rom name="勇者斗恶龙怪兽篇：旅团之心（繁）Unl 周哥.gba" size="33554432" crc="EC167D8B" md5="6D93A0E224F040779CE898A6E917CE50"/>
+	</game>
+	<game name="勇者斗恶龙怪兽篇：旅团之心（简）Advance 落月 shikeyu 20250329 v1.0 - 72EC98C3">
+		<rom name="勇者斗恶龙怪兽篇：旅团之心（简）Advance 落月 shikeyu 20250329 v1.0.gba" size="16777216" crc="72EC98C3" md5="7136482693E9F619BB5C4660EE8231BD"/>
 	</game>
 	<game name="千年家族（简）少量汉化 - C0E4A02F">
 		<rom name="千年家族（简）少量汉化.gba" size="16777216" crc="C0E4A02F" md5="4117040AAED69FBED4DC68898A62675A"/>
@@ -465,6 +468,9 @@
 	</game>
 	<game name="好狗狗星系（简）RikNicol JeremyClarke v1.2 - A4A932B1">
 		<rom name="好狗狗星系（简）RikNicol JeremyClarke v1.2.gba" size="33554432" crc="A4A932B1" md5="4CBE14D525A54F745523A6FB45F81AEF"/>
+	</game>
+	<game name="好狗狗星系（简）RikNicol JeremyClarke v1.3 - 159FF629">
+		<rom name="好狗狗星系（简）RikNicol JeremyClarke v1.3.gba" size="33554432" crc="159FF629" md5="BB9368A99E87251D9323A54841045914"/>
 	</game>
 	<game name="妹妹公主 RePure（简）PGCG - 4AE4EA8C">
 		<rom name="妹妹公主 RePure（简）PGCG.gba" size="8388608" crc="4AE4EA8C" md5="643D29E1BAAEC39B79B22F1DE739D147"/>
@@ -1183,50 +1189,44 @@
 	<game name="淘金者（简）TGB - 03B87CC4">
 		<rom name="淘金者（简）TGB.gba" size="4194304" crc="03B87CC4" md5="5B4B8BC33E0F5C95C4F1D4B3292A19D9"/>
 	</game>
-	<game name="游戏王! 世界冠军锦标赛2004（简）PGCG NRW - FFABBE7A">
-		<rom name="游戏王! 世界冠军锦标赛2004（简）PGCG NRW.gba" size="16777216" crc="FFABBE7A" md5="6732FF8242993ACC9CB5ABB9D14DFDD4"/>
+	<game name="游戏王6Ex2（繁）九柳 测试 - 2A0F130C">
+		<rom name="游戏王6Ex2（繁）九柳 测试.gba" size="16777216" crc="2A0F130C" md5="C0154BCC7CEF25534E974F2297F92850"/>
 	</game>
-	<game name="游戏王! 世界冠军锦标赛2004（简）PGCG NRW - A7F0A348">
-		<rom name="游戏王! 世界冠军锦标赛2004（简）PGCG NRW.gba" size="16777216" crc="A7F0A348" md5="72CC61C536E644EEC8A1833A308E04DD"/>
+	<game name="游戏王6Ex2（简）Advance 落月 20250313 v1.0 - 9D762C65">
+		<rom name="游戏王6Ex2（简）Advance 落月 20250313 v1.0.gba" size="18951456" crc="9D762C65" md5="7F99A819A321A7341218178EABE4524A"/>
 	</game>
-	<game name="游戏王! 怪兽决斗8 破灭的大邪神（简）天使 水晶 - 046502CD">
-		<rom name="游戏王! 怪兽决斗8 破灭的大邪神（简）天使 水晶.gba" size="16777216" crc="046502CD" md5="3BD91098D787C9A0E0F7EE1F3E1D27BB"/>
+	<game name="游戏王6Ex2（简）Advance 落月 20250327 v1.1 - DD521A4E">
+		<rom name="游戏王6Ex2（简）Advance 落月 20250327 v1.1.gba" size="18951456" crc="DD521A4E" md5="FA7703826E4AA4722051D7D8EF1A47D4"/>
 	</game>
-	<game name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240415 v1.0 - 34BF2509">
-		<rom name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240415 v1.0.gba" size="16872464" crc="34BF2509" md5="F4DB045CF183C28C37F4450177722341"/>
+	<game name="游戏王7（简）Advance 20230601 v1.02 - 34A74E92">
+		<rom name="游戏王7（简）Advance 20230601 v1.02.gba" size="16777216" crc="34A74E92" md5="3F33905C918545D54294B2D8BBDF0CDD"/>
 	</game>
-	<game name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240512 v1.1 - 5D97058E">
-		<rom name="游戏王! 怪兽决斗8 破灭的大邪神（简）Advance 20240512 v1.1.gba" size="16872464" crc="5D97058E" md5="3C23700EA1277F37C4BEB906C4C1A8FF"/>
+	<game name="游戏王7（简）Advance 20231007 v1.1 - D4B0B990">
+		<rom name="游戏王7（简）Advance 20231007 v1.1.gba" size="16777216" crc="D4B0B990" md5="CFB392464694D8992365C50B3D2FC9E2"/>
 	</game>
-	<game name="游戏王! 怪兽决斗EX 2（繁）九柳 测试 - 2A0F130C">
-		<rom name="游戏王! 怪兽决斗EX 2（繁）九柳 测试.gba" size="16777216" crc="2A0F130C" md5="C0154BCC7CEF25534E974F2297F92850"/>
+	<game name="游戏王7（简）Advance 20240414 v1.2 - C048DA17">
+		<rom name="游戏王7（简）Advance 20240414 v1.2.gba" size="16777216" crc="C048DA17" md5="EC33C7BF4019D2E7FA99FF15F6DE24C5"/>
 	</game>
-	<game name="游戏王! 怪兽决斗EX 2（简）Advance 落月 20250313 v1.0 - 9D762C65">
-		<rom name="游戏王! 怪兽决斗EX 2（简）Advance 落月 20250313 v1.0.gba" size="18951456" crc="9D762C65" md5="7F99A819A321A7341218178EABE4524A"/>
+	<game name="游戏王8（简）天使 水晶 - 046502CD">
+		<rom name="游戏王8（简）天使 水晶.gba" size="16777216" crc="046502CD" md5="3BD91098D787C9A0E0F7EE1F3E1D27BB"/>
 	</game>
-	<game name="游戏王! 怪兽决斗EX 3（简）CGP - 392A4046">
-		<rom name="游戏王! 怪兽决斗EX 3（简）CGP.gba" size="16777216" crc="392A4046" md5="A8C1C90FC3983123AE96CCDDBC8BE435"/>
+	<game name="游戏王8（简）Advance 20240415 v1.0 - 34BF2509">
+		<rom name="游戏王8（简）Advance 20240415 v1.0.gba" size="16872464" crc="34BF2509" md5="F4DB045CF183C28C37F4450177722341"/>
 	</game>
-	<game name="游戏王! 怪兽决斗EX 3（简）KNIGHTSAN - 0EF63BB0">
-		<rom name="游戏王! 怪兽决斗EX 3（简）KNIGHTSAN.gba" size="16777216" crc="0EF63BB0" md5="129FA49A094B3E0EB20972600C34AF68"/>
+	<game name="游戏王8（简）Advance 20240512 v1.1 - 5D97058E">
+		<rom name="游戏王8（简）Advance 20240512 v1.1.gba" size="16872464" crc="5D97058E" md5="3C23700EA1277F37C4BEB906C4C1A8FF"/>
 	</game>
-	<game name="游戏王! 怪兽决斗EX 3（繁）ZXP - C53DA5A4">
-		<rom name="游戏王! 怪兽决斗EX 3（繁）ZXP.gba" size="16777216" crc="C53DA5A4" md5="4BD213D4A542C963C37C0712AB19FEF2"/>
+	<game name="游戏王Ex2006（简）天使 20060307 - B4EFEF2F">
+		<rom name="游戏王Ex2006（简）天使 20060307.gba" size="33554432" crc="B4EFEF2F" md5="25AE074E73DAE7C70BEAD22B03445BCE"/>
 	</game>
-	<game name="游戏王! 怪兽决斗国际版2（简）天使 - 1C1BF15A">
-		<rom name="游戏王! 怪兽决斗国际版2（简）天使.gba" size="16777216" crc="1C1BF15A" md5="3613E82C06E8A4F52EAACC602082BFB1"/>
+	<game name="游戏王Ex3（简）CGP - 392A4046">
+		<rom name="游戏王Ex3（简）CGP.gba" size="16777216" crc="392A4046" md5="A8C1C90FC3983123AE96CCDDBC8BE435"/>
 	</game>
-	<game name="游戏王-地牢方块妖怪（简）Advance 20241217 v1.0 - 1EB24715">
-		<rom name="游戏王-地牢方块妖怪（简）Advance 20241217 v1.0.gba" size="16777216" crc="1EB24715" md5="78EC7593D7B6B9074DADB48C5D7CA609"/>
+	<game name="游戏王Ex3（简）KNIGHTSAN - 0EF63BB0">
+		<rom name="游戏王Ex3（简）KNIGHTSAN.gba" size="16777216" crc="0EF63BB0" md5="129FA49A094B3E0EB20972600C34AF68"/>
 	</game>
-	<game name="游戏王7-决斗都市传说（简）Advance 20230601 v1.02 - 34A74E92">
-		<rom name="游戏王7-决斗都市传说（简）Advance 20230601 v1.02.gba" size="16777216" crc="34A74E92" md5="3F33905C918545D54294B2D8BBDF0CDD"/>
-	</game>
-	<game name="游戏王7-决斗都市传说（简）Advance 20231007 v1.1 - D4B0B990">
-		<rom name="游戏王7-决斗都市传说（简）Advance 20231007 v1.1.gba" size="16777216" crc="D4B0B990" md5="CFB392464694D8992365C50B3D2FC9E2"/>
-	</game>
-	<game name="游戏王7-决斗都市传说（简）Advance 20240414 v1.2 - C048DA17">
-		<rom name="游戏王7-决斗都市传说（简）Advance 20240414 v1.2.gba" size="16777216" crc="C048DA17" md5="EC33C7BF4019D2E7FA99FF15F6DE24C5"/>
+	<game name="游戏王Ex3（繁）ZXP - C53DA5A4">
+		<rom name="游戏王Ex3（繁）ZXP.gba" size="16777216" crc="C53DA5A4" md5="4BD213D4A542C963C37C0712AB19FEF2"/>
 	</game>
 	<game name="游戏王GX目标是决斗王（简）天使 - 3C7A3025">
 		<rom name="游戏王GX目标是决斗王（简）天使.gba" size="33554432" crc="3C7A3025" md5="EFFAF0F106B9504B6323EAAEB355BEFE"/>
@@ -1234,8 +1234,20 @@
 	<game name="游戏王GX目标是决斗王（简）天使 Advance 20240905 v1.0 剧情汉化 - 7E0650BE">
 		<rom name="游戏王GX目标是决斗王（简）天使 Advance 20240905 v1.0 剧情汉化.gba" size="33554432" crc="7E0650BE" md5="399BE5383A2429A8B1ECDABB6F7C6102"/>
 	</game>
-	<game name="游戏王：决战怪兽 Ex 2006（简）天使 20060307 - B4EFEF2F">
-		<rom name="游戏王：决战怪兽 Ex 2006（简）天使 20060307.gba" size="33554432" crc="B4EFEF2F" md5="25AE074E73DAE7C70BEAD22B03445BCE"/>
+	<game name="游戏王：世界冠军赛2004（简）PGCG NRW - FFABBE7A">
+		<rom name="游戏王：世界冠军赛2004（简）PGCG NRW.gba" size="16777216" crc="FFABBE7A" md5="6732FF8242993ACC9CB5ABB9D14DFDD4"/>
+	</game>
+	<game name="游戏王：世界冠军赛2004（简）PGCG NRW - A7F0A348">
+		<rom name="游戏王：世界冠军赛2004（简）PGCG NRW.gba" size="16777216" crc="A7F0A348" md5="72CC61C536E644EEC8A1833A308E04DD"/>
+	</game>
+	<game name="游戏王：双六的骰子（简）Advance 落月 20250402 v1.0 - 47C48956">
+		<rom name="游戏王：双六的骰子（简）Advance 落月 20250402 v1.0.gba" size="10562848" crc="47C48956" md5="4CB5B22AF9816B0F508133948411932B"/>
+	</game>
+	<game name="游戏王：国际版2（简）天使 - 1C1BF15A">
+		<rom name="游戏王：国际版2（简）天使.gba" size="16777216" crc="1C1BF15A" md5="3613E82C06E8A4F52EAACC602082BFB1"/>
+	</game>
+	<game name="游戏王：怪兽龙门骰（简）Advance 20241217 v1.0 - 1EB24715">
+		<rom name="游戏王：怪兽龙门骰（简）Advance 20241217 v1.0.gba" size="16777216" crc="1EB24715" md5="78EC7593D7B6B9074DADB48C5D7CA609"/>
 	</game>
 	<game name="火影忍者 忍术全开!最强忍者大集合（简）漫游 - DFD0BC52">
 		<rom name="火影忍者 忍术全开!最强忍者大集合（简）漫游.gba" size="8388608" crc="DFD0BC52" md5="331D15EEAD67EA62A41F560E40BFEF81"/>
@@ -1611,6 +1623,9 @@
 	</game>
 	<game name="约束之地（繁）约束之地吧 v1.04 - 8506A839">
 		<rom name="约束之地（繁）约束之地吧 v1.04.gba" size="33554432" crc="8506A839" md5="2C0CDE0986DBE0590A8DFD651FB4F2EB"/>
+	</game>
+	<game name="约束之地（改）约束之地吧 v1.05 技能学习版 - 16D9770F">
+		<rom name="约束之地（改）约束之地吧 v1.05 技能学习版.gba" size="33554432" crc="16D9770F" md5="95F33C0DEC72A2FDA41E1AEFFBAA6823"/>
 	</game>
 	<game name="纯情房东俏房客A祝福之钟声（简）PGCG CGP - A857303A">
 		<rom name="纯情房东俏房客A祝福之钟声（简）PGCG CGP.gba" size="9177344" crc="A857303A" md5="0BA817745A3AF8811296A97EACC982DE"/>

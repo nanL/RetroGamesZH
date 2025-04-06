@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20250200</version></header>
+	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20250400</version></header>
 	<game name="NHK大河剧 - 太平记（简）cslrxyz - 6E781C6C">
 		<rom name="NHK大河剧 - 太平记（简）cslrxyz.gen" size="1048576" crc="6E781C6C" md5="41D6D2116F52F0988C4023BE81F2D731"/>
 	</game>
@@ -168,6 +168,9 @@
 	</game>
 	<game name="大航海时代（简）TCT cslrxyz - 12CC797A">
 		<rom name="大航海时代（简）TCT cslrxyz.gen" size="1048576" crc="12CC797A" md5="0729022A3DA86452D266BBF3590E1F77"/>
+	</game>
+	<game name="大航海时代（简）TCT 南波先生 文本修正 - 23B0008D">
+		<rom name="大航海时代（简）TCT 南波先生 文本修正.gen" size="1049088" crc="23B0008D" md5="E070BBA3E2F93371D00A00CFE75EFC70"/>
 	</game>
 	<game name="大航海时代2（简）模拟天下 - 5171A4E4">
 		<rom name="大航海时代2（简）模拟天下.gen" size="2097152" crc="5171A4E4" md5="0016F263D59FD200B67E0E63D0ABDAD2"/>

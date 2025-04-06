@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Color (zh)</name><version>20250300</version></header>
+	<header><name>Nintendo - Game Boy Color (zh)</name><version>20250400</version></header>
 	<game name="007：黑日危机（繁） - D33D0CDD">
 		<rom name="007：黑日危机（繁）.gbc" size="2097152" crc="D33D0CDD" md5="AAE37F7E9869A07C777077FF4043367E"/>
 	</game>
@@ -790,14 +790,14 @@
 	<game name="游戏王4最强决斗者战记：游戏篇（简）DMG v1.0 - 22B25AB4">
 		<rom name="游戏王4最强决斗者战记：游戏篇（简）DMG v1.0.gbc" size="4194304" crc="22B25AB4" md5="449CDF1ED730A05A642A2189BE4C5155"/>
 	</game>
-	<game name="游戏王：怪兽之决斗2暗界决斗记（繁） - FC63571F">
-		<rom name="游戏王：怪兽之决斗2暗界决斗记（繁）.gbc" size="4194304" crc="FC63571F" md5="D66B1A6D824EE4BCB11BF76B5D033A0B"/>
+	<game name="游戏王II（繁） - FC63571F">
+		<rom name="游戏王II（繁）.gbc" size="4194304" crc="FC63571F" md5="D66B1A6D824EE4BCB11BF76B5D033A0B"/>
 	</game>
-	<game name="游戏王：怪兽之决斗2暗界决斗记（繁）Unl SSS888 - 447DC450">
-		<rom name="游戏王：怪兽之决斗2暗界决斗记（繁）Unl SSS888.gbc" size="4194304" crc="447DC450" md5="1AA8B3CD85526A5DBD96E14E73B88F1D"/>
+	<game name="游戏王II（繁）Unl SSS888 - 447DC450">
+		<rom name="游戏王II（繁）Unl SSS888.gbc" size="4194304" crc="447DC450" md5="1AA8B3CD85526A5DBD96E14E73B88F1D"/>
 	</game>
-	<game name="游戏王：怪兽之决斗3三圣战神降临（简）DMG v1.0 - 021D6EBA">
-		<rom name="游戏王：怪兽之决斗3三圣战神降临（简）DMG v1.0.gbc" size="4194304" crc="021D6EBA" md5="AACB9DD4075CF3B03087F709F0FEEBFA"/>
+	<game name="游戏王III（简）DMG v1.0 - 021D6EBA">
+		<rom name="游戏王III（简）DMG v1.0.gbc" size="4194304" crc="021D6EBA" md5="AACB9DD4075CF3B03087F709F0FEEBFA"/>
 	</game>
 	<game name="游戏王：怪兽胶囊GB（简） - 92E48173">
 		<rom name="游戏王：怪兽胶囊GB（简）.gbc" size="1048576" crc="92E48173" md5="D8F3893A905D727CE09653C11F58CACF"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250300</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250400</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -1474,20 +1474,23 @@
 	<game name="数独游戏10000问（简）的士 - 7D43CA4B">
 		<rom name="数独游戏10000问（简）的士.nds" size="13756456" crc="7D43CA4B" md5="ED8F0E98019B94A723AC4A46276B5C5B"/>
 	</game>
-	<game name="数码宝贝传说：失落的进化（简）繁乐西 20240901 机翻陆修 - 4ED194E0">
-		<rom name="数码宝贝传说：失落的进化（简）繁乐西 20240901 机翻陆修.nds" size="61806652" crc="4ED194E0" md5="A79A56DE59A891F74322B75E9635D901"/>
+	<game name="数码宝贝物语：日光（简）巴士 小黑屋 ACG v1.2 最终版 - 42060F7F">
+		<rom name="数码宝贝物语：日光（简）巴士 小黑屋 ACG v1.2 最终版.nds" size="60515520" crc="42060F7F" md5="2F953395B43CAE2E384821C4F14A4E1C"/>
 	</game>
-	<game name="数码宝贝传说：失落的进化（简）繁乐西 20240905 机翻九A - AF434146">
-		<rom name="数码宝贝传说：失落的进化（简）繁乐西 20240905 机翻九A.nds" size="61231164" crc="AF434146" md5="45698E302CFA9EA12F1A2077F0B109C5"/>
+	<game name="数码宝贝物语：月光（简）巴士 小黑屋 ACG v1.2 最终版 - 50D4D760">
+		<rom name="数码宝贝物语：月光（简）巴士 小黑屋 ACG v1.2 最终版.nds" size="60516032" crc="50D4D760" md5="5D0556B06EBBDC8D2BD59FB30B38883E"/>
 	</game>
-	<game name="数码宝贝传说：失落的进化（简）繁乐西 20240909 机翻九C - 3A3760DC">
-		<rom name="数码宝贝传说：失落的进化（简）繁乐西 20240909 机翻九C.nds" size="60932964" crc="3A3760DC" md5="D034BDFDC89CBC137736474294138AAC"/>
+	<game name="数码宝贝物语：遗失的进化（简）繁乐西 20240901 机翻陆修 - 4ED194E0">
+		<rom name="数码宝贝物语：遗失的进化（简）繁乐西 20240901 机翻陆修.nds" size="61806652" crc="4ED194E0" md5="A79A56DE59A891F74322B75E9635D901"/>
 	</game>
-	<game name="数码宝贝传说：日光（简）巴士 小黑屋 ACG v1.2 最终版 - 42060F7F">
-		<rom name="数码宝贝传说：日光（简）巴士 小黑屋 ACG v1.2 最终版.nds" size="60515520" crc="42060F7F" md5="2F953395B43CAE2E384821C4F14A4E1C"/>
+	<game name="数码宝贝物语：遗失的进化（简）繁乐西 20240905 机翻九A - AF434146">
+		<rom name="数码宝贝物语：遗失的进化（简）繁乐西 20240905 机翻九A.nds" size="61231164" crc="AF434146" md5="45698E302CFA9EA12F1A2077F0B109C5"/>
 	</game>
-	<game name="数码宝贝传说：月光（简）巴士 小黑屋 ACG v1.2 最终版 - 50D4D760">
-		<rom name="数码宝贝传说：月光（简）巴士 小黑屋 ACG v1.2 最终版.nds" size="60516032" crc="50D4D760" md5="5D0556B06EBBDC8D2BD59FB30B38883E"/>
+	<game name="数码宝贝物语：遗失的进化（简）繁乐西 20240909 机翻九C - 3A3760DC">
+		<rom name="数码宝贝物语：遗失的进化（简）繁乐西 20240909 机翻九C.nds" size="60932964" crc="3A3760DC" md5="D034BDFDC89CBC137736474294138AAC"/>
+	</game>
+	<game name="数码宝贝物语：遗失的进化（简）Xzonn 卧看微尘 20250327 v1.0.0 - 46686188">
+		<rom name="数码宝贝物语：遗失的进化（简）Xzonn 卧看微尘 20250327 v1.0.0.nds" size="67108864" crc="46686188" md5="DA5F22F2FE9C4C108B517A8629C4C9E3"/>
 	</game>
 	<game name="斯隆与马克海尔的谜之物语（简）琴海 - 4322687C">
 		<rom name="斯隆与马克海尔的谜之物语（简）琴海.nds" size="61002188" crc="4322687C" md5="E6C4E0A11078BB975608A65DC0541669"/>
@@ -1888,53 +1891,53 @@
 	<game name="渥太利亚迷宫（简）罗伊SD APEX 20080520 文本汉化 - B44CBA2D">
 		<rom name="渥太利亚迷宫（简）罗伊SD APEX 20080520 文本汉化.nds" size="16777216" crc="B44CBA2D" md5="1BCE10852505D984CB30F402B6569319"/>
 	</game>
-	<game name="游戏王 DS 噩梦的吟游诗人（简）NDSBBS 天使 - 0E915064">
-		<rom name="游戏王 DS 噩梦的吟游诗人（简）NDSBBS 天使.nds" size="67108864" crc="0E915064" md5="2B4B04F78AF7EB993BE833B2D5605420"/>
+	<game name="游戏王5Ds世界冠军赛2009（简）CNGBA TONI 天堂狐 ZXP 卡片汉化 - 4E575CE7">
+		<rom name="游戏王5Ds世界冠军赛2009（简）CNGBA TONI 天堂狐 ZXP 卡片汉化.nds" size="268435456" crc="4E575CE7" md5="4069D4865834FAD8F24A4DCA547FD946"/>
 	</game>
-	<game name="游戏王 DS 噩梦的吟游诗人（简）NDSBBS 天使 完全版 - 6D67ADC4">
-		<rom name="游戏王 DS 噩梦的吟游诗人（简）NDSBBS 天使 完全版.nds" size="67108864" crc="6D67ADC4" md5="3859468B2CC5D4ED0A97C89101871D20"/>
+	<game name="游戏王5Ds世界冠军赛2009（繁）COU 卡片汉化 - 3551E98D">
+		<rom name="游戏王5Ds世界冠军赛2009（繁）COU 卡片汉化.nds" size="241523648" crc="3551E98D" md5="09609A73D9C12F77381EB1C710AE352D"/>
 	</game>
-	<game name="游戏王 DS 噩梦的吟游诗人（繁）COU 卡片汉化 - 08AFD3F6">
-		<rom name="游戏王 DS 噩梦的吟游诗人（繁）COU 卡片汉化.nds" size="66141888" crc="08AFD3F6" md5="5F6B978C06A90DDAE92C21CAF23E88D8"/>
+	<game name="游戏王5Ds世界冠军赛2010（简）CNGBA 卡牌汉化 - 835CE550">
+		<rom name="游戏王5Ds世界冠军赛2010（简）CNGBA 卡牌汉化.nds" size="268435456" crc="835CE550" md5="A7E77E0B2974F12B8853116667D156D5"/>
 	</game>
-	<game name="游戏王 DS 噩梦的吟游诗人（简） - DB82DABE">
-		<rom name="游戏王 DS 噩梦的吟游诗人（简）.nds" size="67108864" crc="DB82DABE" md5="5881BE5E6F2DF85ED5D138B01D54064F"/>
+	<game name="游戏王5Ds世界冠军赛2010（简）CG 20100303 卡片汉化 - D15590E2">
+		<rom name="游戏王5Ds世界冠军赛2010（简）CG 20100303 卡片汉化.nds" size="268435456" crc="D15590E2" md5="597B572FD69BDCAADDCAF53C5B428532"/>
 	</game>
-	<game name="游戏王 世界冠军2007（简）ZXP 卡片汉化 - 89AC3B31">
-		<rom name="游戏王 世界冠军2007（简）ZXP 卡片汉化.nds" size="134217728" crc="89AC3B31" md5="7E6D7E82E726ED481AD5DFC1EC4B5575"/>
+	<game name="游戏王5Ds世界冠军赛2011（简）NW旅团 罗洁爱儿 v2.0 卡片汉化 - 373ACC2D">
+		<rom name="游戏王5Ds世界冠军赛2011（简）NW旅团 罗洁爱儿 v2.0 卡片汉化.nds" size="134217728" crc="373ACC2D" md5="E5891F65E233B78BDB88BED5B04E887D"/>
 	</game>
-	<game name="游戏王 世界冠军2008（简）CG v1209 - 43BFD3B8">
-		<rom name="游戏王 世界冠军2008（简）CG v1209.nds" size="134217728" crc="43BFD3B8" md5="86DB4D34F38AB30F1FD37A2A2C06F41B"/>
+	<game name="游戏王5Ds世界冠军赛2011（简）NW旅团 卡片菜单汉化 - 7928F800">
+		<rom name="游戏王5Ds世界冠军赛2011（简）NW旅团 卡片菜单汉化.nds" size="134217728" crc="7928F800" md5="1336BFAA43668B11BE533ADC0AB36FA6"/>
 	</game>
-	<game name="游戏王 世界冠军2008（简）CG 卡片汉化 - FC27BD64">
-		<rom name="游戏王 世界冠军2008（简）CG 卡片汉化.nds" size="134217728" crc="FC27BD64" md5="F5C3F8062C4E0CACA7225CE355112358"/>
+	<game name="游戏王GX精灵召唤者（简）CNGBA 全剧情卡片汉化 - 7167675F">
+		<rom name="游戏王GX精灵召唤者（简）CNGBA 全剧情卡片汉化.nds" size="102192828" crc="7167675F" md5="6595C76DCDC03ECE2AA77069AD17EEBF"/>
 	</game>
-	<game name="游戏王 世界冠军2008（简）CG - 455FDEFC">
-		<rom name="游戏王 世界冠军2008（简）CG.nds" size="130370576" crc="455FDEFC" md5="391B17084B2408FA3030CED0C045A184"/>
+	<game name="游戏王：世界冠军赛2007（简）ZXP 卡片汉化 - 89AC3B31">
+		<rom name="游戏王：世界冠军赛2007（简）ZXP 卡片汉化.nds" size="134217728" crc="89AC3B31" md5="7E6D7E82E726ED481AD5DFC1EC4B5575"/>
 	</game>
-	<game name="游戏王 世界冠军2008（简）CG - 50E57310">
-		<rom name="游戏王 世界冠军2008（简）CG.nds" size="134217728" crc="50E57310" md5="CE265B41FF08365B8696BD34CCF764C3"/>
+	<game name="游戏王：世界冠军赛2008（简）CG v1209 - 43BFD3B8">
+		<rom name="游戏王：世界冠军赛2008（简）CG v1209.nds" size="134217728" crc="43BFD3B8" md5="86DB4D34F38AB30F1FD37A2A2C06F41B"/>
 	</game>
-	<game name="游戏王5D&#039;S 世界冠军大会2011（简）NW旅团 罗洁爱儿 v2.0 卡片汉化 - 373ACC2D">
-		<rom name="游戏王5D&#039;S 世界冠军大会2011（简）NW旅团 罗洁爱儿 v2.0 卡片汉化.nds" size="134217728" crc="373ACC2D" md5="E5891F65E233B78BDB88BED5B04E887D"/>
+	<game name="游戏王：世界冠军赛2008（简）CG 卡片汉化 - FC27BD64">
+		<rom name="游戏王：世界冠军赛2008（简）CG 卡片汉化.nds" size="134217728" crc="FC27BD64" md5="F5C3F8062C4E0CACA7225CE355112358"/>
 	</game>
-	<game name="游戏王5D&#039;S 世界冠军大会2011（简）NW旅团 卡片菜单汉化 - 7928F800">
-		<rom name="游戏王5D&#039;S 世界冠军大会2011（简）NW旅团 卡片菜单汉化.nds" size="134217728" crc="7928F800" md5="1336BFAA43668B11BE533ADC0AB36FA6"/>
+	<game name="游戏王：世界冠军赛2008（简）CG - 455FDEFC">
+		<rom name="游戏王：世界冠军赛2008（简）CG.nds" size="130370576" crc="455FDEFC" md5="391B17084B2408FA3030CED0C045A184"/>
 	</game>
-	<game name="游戏王5D&#039;s 桃源乡的复仇 世界冠军（简）CNGBA 卡牌汉化 - 835CE550">
-		<rom name="游戏王5D&#039;s 桃源乡的复仇 世界冠军（简）CNGBA 卡牌汉化.nds" size="268435456" crc="835CE550" md5="A7E77E0B2974F12B8853116667D156D5"/>
+	<game name="游戏王：世界冠军赛2008（简）CG - 50E57310">
+		<rom name="游戏王：世界冠军赛2008（简）CG.nds" size="134217728" crc="50E57310" md5="CE265B41FF08365B8696BD34CCF764C3"/>
 	</game>
-	<game name="游戏王5D&#039;s 桃源乡的复仇 世界冠军（简）CG 20100303 卡片汉化 - D15590E2">
-		<rom name="游戏王5D&#039;s 桃源乡的复仇 世界冠军（简）CG 20100303 卡片汉化.nds" size="268435456" crc="D15590E2" md5="597B572FD69BDCAADDCAF53C5B428532"/>
+	<game name="游戏王：噩梦吟游诗人（简）NDSBBS 天使 - 0E915064">
+		<rom name="游戏王：噩梦吟游诗人（简）NDSBBS 天使.nds" size="67108864" crc="0E915064" md5="2B4B04F78AF7EB993BE833B2D5605420"/>
 	</game>
-	<game name="游戏王5DS 星尘驱动者 世界冠军大会2009（简）CNGBA TONI 天堂狐 ZXP 卡片汉化 - 4E575CE7">
-		<rom name="游戏王5DS 星尘驱动者 世界冠军大会2009（简）CNGBA TONI 天堂狐 ZXP 卡片汉化.nds" size="268435456" crc="4E575CE7" md5="4069D4865834FAD8F24A4DCA547FD946"/>
+	<game name="游戏王：噩梦吟游诗人（简）NDSBBS 天使 完全版 - 6D67ADC4">
+		<rom name="游戏王：噩梦吟游诗人（简）NDSBBS 天使 完全版.nds" size="67108864" crc="6D67ADC4" md5="3859468B2CC5D4ED0A97C89101871D20"/>
 	</game>
-	<game name="游戏王5DS 星尘驱动者 世界冠军大会2009（繁）COU 卡片汉化 - 3551E98D">
-		<rom name="游戏王5DS 星尘驱动者 世界冠军大会2009（繁）COU 卡片汉化.nds" size="241523648" crc="3551E98D" md5="09609A73D9C12F77381EB1C710AE352D"/>
+	<game name="游戏王：噩梦吟游诗人（繁）COU 卡片汉化 - 08AFD3F6">
+		<rom name="游戏王：噩梦吟游诗人（繁）COU 卡片汉化.nds" size="66141888" crc="08AFD3F6" md5="5F6B978C06A90DDAE92C21CAF23E88D8"/>
 	</game>
-	<game name="游戏王GX 精灵召唤者（简）CNGBA 全剧情卡片汉化 - 7167675F">
-		<rom name="游戏王GX 精灵召唤者（简）CNGBA 全剧情卡片汉化.nds" size="102192828" crc="7167675F" md5="6595C76DCDC03ECE2AA77069AD17EEBF"/>
+	<game name="游戏王：噩梦吟游诗人（简） - DB82DABE">
+		<rom name="游戏王：噩梦吟游诗人（简）.nds" size="67108864" crc="DB82DABE" md5="5881BE5E6F2DF85ED5D138B01D54064F"/>
 	</game>
 	<game name="滑雪小子（简）TON - 50C77757">
 		<rom name="滑雪小子（简）TON.nds" size="35471104" crc="50C77757" md5="3FF45EC65C6B78A03749254D71CE52DE"/>
