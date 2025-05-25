@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20250400</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20250500</version></header>
 	<game name="3x3只眼：魔兽奉还（简）小鬼混 20241212 - 0B149BC3">
 		<rom name="3x3只眼：魔兽奉还（简）小鬼混 20241212.smc" size="2097152" crc="0B149BC3" md5="776CE482203B54EF9700A7B37F9EAAB5"/>
 	</game>
@@ -115,6 +115,15 @@
 	<game name="古大陆物语2（简）小鬼混 病毒 - F92783D0">
 		<rom name="古大陆物语2（简）小鬼混 病毒.smc" size="4194304" crc="F92783D0" md5="8E05CA3F9B7D2F6CF194078D3608AE3F"/>
 	</game>
+	<game name="史记英雄传：人龙传说（简）CLARK.H 20250504 v1.0 - 6D2BE9BE">
+		<rom name="史记英雄传：人龙传说（简）CLARK.H 20250504 v1.0.sfc" size="2097152" crc="6D2BE9BE" md5="13C26237B26E07B3C9A44670C78B2823"/>
+	</game>
+	<game name="史记英雄传：人龙传说（简）CLARK.H 20250506 v1.1 - 06DC09EE">
+		<rom name="史记英雄传：人龙传说（简）CLARK.H 20250506 v1.1.sfc" size="2097152" crc="06DC09EE" md5="5E0F77CE6B778F7EDE996EAD033938E1"/>
+	</game>
+	<game name="史记英雄传：人龙传说（简）CLARK.H 20250510 v1.2 - 1C883FFA">
+		<rom name="史记英雄传：人龙传说（简）CLARK.H 20250510 v1.2.sfc" size="2097152" crc="1C883FFA" md5="12FE393DDB4B6EB8D7B34FD883A783BA"/>
+	</game>
 	<game name="吞食天地：三国群雄传（简）cslrxyz v1.01 - E4FC957B">
 		<rom name="吞食天地：三国群雄传（简）cslrxyz v1.01.smc" size="1572864" crc="E4FC957B" md5="BAE0E295FBFEB396AB95C7E352C82DBA"/>
 	</game>
@@ -136,8 +145,11 @@
 	<game name="四狂神战记II（简）飞雨影 20250208 - 049C1D54">
 		<rom name="四狂神战记II（简）飞雨影 20250208.sfc" size="4194304" crc="049C1D54" md5="2D013C389C40590DFAEBA1E8A0486DAA"/>
 	</game>
-	<game name="四狂神战记II（简）飞雨影 20250323 - 201D820B">
-		<rom name="四狂神战记II（简）飞雨影 20250323.sfc" size="4194304" crc="201D820B" md5="AAC672F0DA4D78C27E3F07F42ECFD292"/>
+	<game name="四狂神战记II（简）飞雨影 20250323 v3 - 201D820B">
+		<rom name="四狂神战记II（简）飞雨影 20250323 v3.sfc" size="4194304" crc="201D820B" md5="AAC672F0DA4D78C27E3F07F42ECFD292"/>
+	</game>
+	<game name="四狂神战记II（简）飞雨影 20241223 - 0353E403">
+		<rom name="四狂神战记II（简）飞雨影 20241223.sfc" size="4194304" crc="0353E403" md5="AAA92224FA195C389F8015CDF8654BE0"/>
 	</game>
 	<game name="圣剑传说3（繁）天幻 PTT v1.0 - 86C49FCD">
 		<rom name="圣剑传说3（繁）天幻 PTT v1.0.sfc" size="4194304" crc="86C49FCD" md5="000D81B61A730568F9EC5A19EB64E40F"/>
@@ -343,8 +355,11 @@
 	<game name="松村邦洋传（简）1d 20240416 v0.8 - 95B5E7FD">
 		<rom name="松村邦洋传（简）1d 20240416 v0.8.sfc" size="3145728" crc="95B5E7FD" md5="2A0DA34B412F2CCAC76A289A897A7319"/>
 	</game>
-	<game name="松村邦洋传（简）1d、CLARK.H 20250326 v1.0 - E34ABAE8">
-		<rom name="松村邦洋传（简）1d、CLARK.H 20250326 v1.0.sfc" size="3145728" crc="E34ABAE8" md5="08AC26BBD10F4DEACB1E3A6B3D1BA2B9"/>
+	<game name="松村邦洋传（简）1d CLARK.H 20250326 v1.0 - E34ABAE8">
+		<rom name="松村邦洋传（简）1d CLARK.H 20250326 v1.0.sfc" size="3145728" crc="E34ABAE8" md5="08AC26BBD10F4DEACB1E3A6B3D1BA2B9"/>
+	</game>
+	<game name="松村邦洋传（简）1d CLARK.H v1.1 - BF39BBE8">
+		<rom name="松村邦洋传（简）1d CLARK.H v1.1.sfc" size="3145728" crc="BF39BBE8" md5="E6A7056775756E9153D8692304FFCB27"/>
 	</game>
 	<game name="梦幻模拟战（简）madcell DEHEPO 20101105 - 63EACA14">
 		<rom name="梦幻模拟战（简）madcell DEHEPO 20101105.sfc" size="3145728" crc="63EACA14" md5="D0DCDF3371D01E11283D8F2FE13445B2"/>
@@ -361,17 +376,29 @@
 	<game name="横山光辉三国志（简）混沌星辰 v1.2 - F73F7DB6">
 		<rom name="横山光辉三国志（简）混沌星辰 v1.2.sfc" size="1048576" crc="F73F7DB6" md5="6D6D106E16C0E297BE9EC225447971C7"/>
 	</game>
-	<game name="死亡之舞（简）1d、CLARK.H 20250327 v1.0 - 8F808179">
-		<rom name="死亡之舞（简）1d、CLARK.H 20250327 v1.0.sfc" size="4194304" crc="8F808179" md5="4771DFDA0199DF2804D0275C4BF03A9B"/>
+	<game name="死亡之舞（简）1d CLARK.H 20250327 v1.0 - 8F808179">
+		<rom name="死亡之舞（简）1d CLARK.H 20250327 v1.0.sfc" size="4194304" crc="8F808179" md5="4771DFDA0199DF2804D0275C4BF03A9B"/>
 	</game>
-	<game name="洛克人7宿命的对决（繁）Nokoh 20250403 v2 - D2C2CBE4">
-		<rom name="洛克人7宿命的对决（繁）Nokoh 20250403 v2.sfc" size="3145728" crc="D2C2CBE4" md5="853FAD1653F140D18C7EC6163EA3B6E8"/>
+	<game name="永远的神秘（简）aGuGu v1.01 - 94A99E3B">
+		<rom name="永远的神秘（简）aGuGu v1.01.sfc" size="4194304" crc="94A99E3B" md5="9E6273867F2D929C923DB1C4444E332B"/>
+	</game>
+	<game name="永远的神秘（繁）aGuGu v1.01 - 5C293311">
+		<rom name="永远的神秘（繁）aGuGu v1.01.sfc" size="4194304" crc="5C293311" md5="C0034F1D2B7AB62AD99183CBFE549FC9"/>
+	</game>
+	<game name="洛克人7宿命的对决（繁）Nokoh 20250403 v2 fixChecksum - D2C2CBE4">
+		<rom name="洛克人7宿命的对决（繁）Nokoh 20250403 v2 fixChecksum.sfc" size="3145728" crc="D2C2CBE4" md5="853FAD1653F140D18C7EC6163EA3B6E8"/>
 	</game>
 	<game name="洛克人7宿命的对决（繁）Nokoh 20250403 - 5AE3D0A8">
 		<rom name="洛克人7宿命的对决（繁）Nokoh 20250403.sfc" size="3145728" crc="5AE3D0A8" md5="63B9571DB47E6A018D8F633C0334637E"/>
 	</game>
-	<game name="洛克人7宿命的对决（繁）Nokoh 20250406 - C1928F06">
-		<rom name="洛克人7宿命的对决（繁）Nokoh 20250406.sfc" size="3145728" crc="C1928F06" md5="C84AD1ABFAB15686BA3CAB2AF134E12A"/>
+	<game name="洛克人7宿命的对决（繁）Nokoh 20250406 v3 - C1928F06">
+		<rom name="洛克人7宿命的对决（繁）Nokoh 20250406 v3.sfc" size="3145728" crc="C1928F06" md5="C84AD1ABFAB15686BA3CAB2AF134E12A"/>
+	</game>
+	<game name="洛克人7宿命的对决（繁）Nokoh 20250420 v4 - 64FD7C67">
+		<rom name="洛克人7宿命的对决（繁）Nokoh 20250420 v4.sfc" size="3145728" crc="64FD7C67" md5="263CD5BBEF9D29E0726CA4A76D5BCF50"/>
+	</game>
+	<game name="洛克人7宿命的对决（繁）Nokoh 20250420 v4 MSU-1 音效增强 - B7492944">
+		<rom name="洛克人7宿命的对决（繁）Nokoh 20250420 v4 MSU-1 音效增强.sfc" size="3145728" crc="B7492944" md5="3FF6F5F85A82BF98C71B79B6F76A3A29"/>
 	</game>
 	<game name="消防员的故事（简）阿刃 20240826 - 2619986C">
 		<rom name="消防员的故事（简）阿刃 20240826.sfc" size="1572864" crc="2619986C" md5="876F829C8D2AC7A317E3DEE47E619569"/>
@@ -733,8 +760,14 @@
 	<game name="龙珠Z超悟空传：突激（简）野兽 90%汉化 - 84D96325">
 		<rom name="龙珠Z超悟空传：突激（简）野兽 90%汉化.sfc" size="2097152" crc="84D96325" md5="DC2D0C56DA6F3184AEF358C08EEA5933"/>
 	</game>
+	<game name="龙珠Z超悟空传：突激（简）hlken XSIN 20250405 - 8A04BBA3">
+		<rom name="龙珠Z超悟空传：突激（简）hlken XSIN 20250405.sfc" size="2621440" crc="8A04BBA3" md5="479E97C9CDB1EE12F5B45626F236BB77"/>
+	</game>
 	<game name="龙珠Z超悟空传：觉醒（简）天空 少量汉化 - 4E204DE5">
 		<rom name="龙珠Z超悟空传：觉醒（简）天空 少量汉化.sfc" size="2097152" crc="4E204DE5" md5="0ACFD5BBCAD1D38B8F4AE145B409B4B9"/>
+	</game>
+	<game name="龙珠Z超悟空传：觉醒（简）hlken XSIN 20250405 - FE00F7E1">
+		<rom name="龙珠Z超悟空传：觉醒（简）hlken XSIN 20250405.sfc" size="2621440" crc="FE00F7E1" md5="F1EE681550DC1DFCE7829C2FD84B2196"/>
 	</game>
 	<game name="龙虎之拳（简）1d 20241001 v1.0 - E7D6B9FB">
 		<rom name="龙虎之拳（简）1d 20241001 v1.0.smc" size="2097152" crc="E7D6B9FB" md5="A94E8B12B2B683032514662ADD38AA74"/>

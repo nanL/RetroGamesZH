@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Color (zh)</name><version>20250400</version></header>
+	<header><name>Nintendo - Game Boy Color (zh)</name><version>20250500</version></header>
 	<game name="007：黑日危机（繁） - D33D0CDD">
 		<rom name="007：黑日危机（繁）.gbc" size="2097152" crc="D33D0CDD" md5="AAE37F7E9869A07C777077FF4043367E"/>
 	</game>
@@ -256,17 +256,20 @@
 	<game name="塞尔达传说：织梦岛DX（繁） - D705531A">
 		<rom name="塞尔达传说：织梦岛DX（繁）.gbc" size="1048576" crc="D705531A" md5="FBF01D22A8D2AE673F77338441E03F0F"/>
 	</game>
-	<game name="塞尔达传说：织梦岛DX（简）啪嗒啪嗒 小笨笨 OUR STORY℃ - C9FC7520">
-		<rom name="塞尔达传说：织梦岛DX（简）啪嗒啪嗒 小笨笨 OUR STORY℃.gbc" size="1048576" crc="C9FC7520" md5="EDB70AD327F0243EFE3DF40B7050EAFE"/>
+	<game name="塞尔达传说：织梦岛DX（简）啪嗒啪嗒 小笨笨 OurStory℃ - C9FC7520">
+		<rom name="塞尔达传说：织梦岛DX（简）啪嗒啪嗒 小笨笨 OurStory℃.gbc" size="1048576" crc="C9FC7520" md5="EDB70AD327F0243EFE3DF40B7050EAFE"/>
 	</game>
-	<game name="塞尔达传说：织梦岛DX（繁）啪嗒啪嗒 小笨笨 OUR STORY℃ - 8D10C3B0">
-		<rom name="塞尔达传说：织梦岛DX（繁）啪嗒啪嗒 小笨笨 OUR STORY℃.gbc" size="1048576" crc="8D10C3B0" md5="4A4322A71CC10BD14EADCBD3BAD0F0E6"/>
+	<game name="塞尔达传说：织梦岛DX（繁）啪嗒啪嗒 小笨笨 OurStory℃ - 8D10C3B0">
+		<rom name="塞尔达传说：织梦岛DX（繁）啪嗒啪嗒 小笨笨 OurStory℃.gbc" size="1048576" crc="8D10C3B0" md5="4A4322A71CC10BD14EADCBD3BAD0F0E6"/>
 	</game>
 	<game name="塞尔达传说：织梦岛DX（简） - 542B3E9E">
 		<rom name="塞尔达传说：织梦岛DX（简）.gbc" size="1048576" crc="542B3E9E" md5="BBD7A6DC5681FE5AF96CC6CC1EE4131B"/>
 	</game>
 	<game name="塞尔达传说：织梦岛DX（简） - 4E5EE06D">
 		<rom name="塞尔达传说：织梦岛DX（简）.gbc" size="1048576" crc="4E5EE06D" md5="78E5C2CEB817C74A0FCCC1F3AB72E37B"/>
+	</game>
+	<game name="塞尔达传说：织梦岛DX（简）RangerMarsh 20250411 v2.0 - 545738C0">
+		<rom name="塞尔达传说：织梦岛DX（简）RangerMarsh 20250411 v2.0.gbc" size="1048576" crc="545738C0" md5="62546D34978704F09944E10E75F0C1A9"/>
 	</game>
 	<game name="外星探险之星球大战（简）新特奇 - 21F84BF8">
 		<rom name="外星探险之星球大战（简）新特奇.gbc" size="2097152" crc="21F84BF8" md5="3749BD8BB03C68FAF6F69AA8AB6471A6"/>
@@ -529,8 +532,11 @@
 	<game name="怪兽战略：迷宫兵团战（简）willzyj 20250106 修正小字 - 2B7797BB">
 		<rom name="怪兽战略：迷宫兵团战（简）willzyj 20250106 修正小字.gbc" size="4194304" crc="2B7797BB" md5="17532BD6A19B66598ADECACB2D16B049"/>
 	</game>
-	<game name="怪兽战略：迷宫兵团战（简）江户城子 willzyj 20250111 v1.1 - 28406C6E">
-		<rom name="怪兽战略：迷宫兵团战（简）江户城子 willzyj 20250111 v1.1.gbc" size="4194304" crc="28406C6E" md5="99321C33018B26C5B18EE52137E2C572"/>
+	<game name="怪兽战略：迷宫兵团战（简）江户城子 20250111 v1.11 - 28406C6E">
+		<rom name="怪兽战略：迷宫兵团战（简）江户城子 20250111 v1.11.gbc" size="4194304" crc="28406C6E" md5="99321C33018B26C5B18EE52137E2C572"/>
+	</game>
+	<game name="怪兽战略：迷宫兵团战（简）江户城子 20250414 v1.12 - 5DA54CC5">
+		<rom name="怪兽战略：迷宫兵团战（简）江户城子 20250414 v1.12.gbc" size="4194304" crc="5DA54CC5" md5="ABB817D83F4E120A99AC5D3FC27341E9"/>
 	</game>
 	<game name="恶狼传说：世纪之战（繁） - 219DECF9">
 		<rom name="恶狼传说：世纪之战（繁）.gbc" size="1048576" crc="219DECF9" md5="6573E33B2EEDC2AE15CB11550150892B"/>
@@ -589,9 +595,6 @@
 	<game name="数码宝贝3水晶（简）fixHeader - BE72CDEF">
 		<rom name="数码宝贝3水晶（简）fixHeader.gbc" size="1048576" crc="BE72CDEF" md5="E77C11FEB5930AA7BA8FA7797E0D3E66"/>
 	</game>
-	<game name="数码宝贝9暴龙篇2002（繁）新特奇 - C10FA909">
-		<rom name="数码宝贝9暴龙篇2002（繁）新特奇.gbc" size="1048576" crc="C10FA909" md5="BC9C451415F5317DBF404B79B059F8B2"/>
-	</game>
 	<game name="数码宝贝9暴龙篇2002（简） - 76AB97F6">
 		<rom name="数码宝贝9暴龙篇2002（简）.gbc" size="4194304" crc="76AB97F6" md5="1ED176FB784867521B29A23CB2F81F4C"/>
 	</game>
@@ -633,6 +636,9 @@
 	</game>
 	<game name="数码暴龙02水晶2（改）YONGYONG - 5666E0F6">
 		<rom name="数码暴龙02水晶2（改）YONGYONG.gbc" size="1048576" crc="5666E0F6" md5="DA767A16D39BB50AAAEA0FD58C5CCBBF"/>
+	</game>
+	<game name="数码暴龙9（繁）新特奇 - C10FA909">
+		<rom name="数码暴龙9（繁）新特奇.gbc" size="1048576" crc="C10FA909" md5="BC9C451415F5317DBF404B79B059F8B2"/>
 	</game>
 	<game name="新封神榜（繁） - A8D069D8">
 		<rom name="新封神榜（繁）.gbc" size="1048576" crc="A8D069D8" md5="BF26DEA12BFF3B00C1082F852FD77DA6"/>

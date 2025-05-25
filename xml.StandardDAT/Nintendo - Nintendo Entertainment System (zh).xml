@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20250400</version></header>
+	<header><name>Nintendo - Nintendo Entertainment System (zh)</name><version>20250500</version></header>
+	<game name="（简）外星 口袋精灵.红 - 0CED6639">
+		<rom name="（简）外星 口袋精灵.红.nes" size="1048592" crc="0CED6639" md5="5C77C6EB1180A2F8A2675E4B03D59445"/>
+	</game>
+	<game name="（简）外星 吞食天地2诸葛孔明传 - E482F309">
+		<rom name="（简）外星 吞食天地2诸葛孔明传.nes" size="655376" crc="E482F309" md5="C0F3B9A50BC548B460247F291ECFDD5E"/>
+	</game>
+	<game name="（简）外星 哆啦A梦.超时空历险[图形修复版] - 204854A8">
+		<rom name="（简）外星 哆啦A梦.超时空历险[图形修复版].nes" size="524304" crc="204854A8" md5="290DCC538F18BB7B8ADB2D6A696E7D94"/>
+	</game>
+	<game name="（简）外星 圣火徽章3 - C0BFCB7E">
+		<rom name="（简）外星 圣火徽章3.nes" size="1048592" crc="C0BFCB7E" md5="9408F265C7E1DFAA969DA2BC6DC6CE0B"/>
+	</game>
+	<game name="（简）外星 塞尔达传说（神密金三角） - E5E39889">
+		<rom name="（简）外星 塞尔达传说（神密金三角）.nes" size="131088" crc="E5E39889" md5="7AF059E88F6E978FA03A66255B5323D4"/>
+	</game>
+	<game name="（简）外星 天王降魔传 - C4A8EE03">
+		<rom name="（简）外星 天王降魔传.nes" size="524304" crc="C4A8EE03" md5="3D06F346D2267B1E0C439044DF2DEB67"/>
+	</game>
+	<game name="（简）外星 宠物.红 - 70B1C174">
+		<rom name="（简）外星 宠物.红.nes" size="1048592" crc="70B1C174" md5="2A6798D0F41459139CE9A886A4130977"/>
+	</game>
+	<game name="（简）外星 火焰纹章.暗黑龙与光之剑 - 435D0164">
+		<rom name="（简）外星 火焰纹章.暗黑龙与光之剑.nes" size="655376" crc="435D0164" md5="0E65D060DA711A670ACFF08627422B9D"/>
+	</game>
+	<game name="（简）外星 火焰纹章.暗黑龙与光之剑修正版 - E1DBC290">
+		<rom name="（简）外星 火焰纹章.暗黑龙与光之剑修正版.nes" size="655380" crc="E1DBC290" md5="40F15E083F60B4465C9A652426637296"/>
+	</game>
+	<game name="（简）外星 火焰纹章.暗黑龙与光之剑修正版3.0 - 2322C651">
+		<rom name="（简）外星 火焰纹章.暗黑龙与光之剑修正版3.0.nes" size="786449" crc="2322C651" md5="F8C86719CECCAC8E5C35C7195CFF32E5"/>
+	</game>
+	<game name="（简）外星 第二次机器人大战 - 90F89EED">
+		<rom name="（简）外星 第二次机器人大战.nes" size="524304" crc="90F89EED" md5="C369ECBF2FF5025B9A179B41280DBCC5"/>
+	</game>
+	<game name="（简）外星 超级三合一 - DBB896D1">
+		<rom name="（简）外星 超级三合一.nes" size="1048592" crc="DBB896D1" md5="77B1C7F5B945A2CB45546C48E60B1545"/>
+	</game>
 	<game name="1942（简）MS - A36F13D0">
 		<rom name="1942（简）MS.nes" size="40976" crc="A36F13D0" md5="0B3CEADB1A155807E7C7AA37FD9904F7"/>
 	</game>
@@ -136,8 +172,8 @@
 	<game name="SD 钢弹 III - 英雄战记（繁） - BA5D37D2">
 		<rom name="SD 钢弹 III - 英雄战记（繁）.nes" size="524304" crc="BA5D37D2" md5="4487DB0651CD317FB639DA78491CBFF3"/>
 	</game>
-	<game name="SD 钢弹 III - 英雄战记（繁）振华 - 15345097">
-		<rom name="SD 钢弹 III - 英雄战记（繁）振华.nes" size="524304" crc="15345097" md5="DF8F0C2441571B4736F6C09EA116D07C"/>
+	<game name="SD 钢弹 III - 英雄战记（繁）外星 振华 - 15345097">
+		<rom name="SD 钢弹 III - 英雄战记（繁）外星 振华.nes" size="524304" crc="15345097" md5="DF8F0C2441571B4736F6C09EA116D07C"/>
 	</game>
 	<game name="SD 钢弹 III - 英雄战记（繁）恒格 - 1C928C17">
 		<rom name="SD 钢弹 III - 英雄战记（繁）恒格.nes" size="524304" crc="1C928C17" md5="7BA715B812F7A6DA98B9628444D9010A"/>
@@ -205,6 +241,9 @@
 	<game name="三侠五义：御猫传奇（简）外星 - 3D846CCD">
 		<rom name="三侠五义：御猫传奇（简）外星.nes" size="1048592" crc="3D846CCD" md5="20B4DD5EEF667720F916542051D762B5"/>
 	</game>
+	<game name="三侠五义：御猫传奇（简）外星 - B7FCB580">
+		<rom name="三侠五义：御猫传奇（简）外星.nes" size="1048592" crc="B7FCB580" md5="32860C62F033E188458144C14A055A3F"/>
+	</game>
 	<game name="三十六计（繁）外星 - DEB37CA4">
 		<rom name="三十六计（繁）外星.nes" size="524304" crc="DEB37CA4" md5="153DB72C588682CE1861053771DF55B5"/>
 	</game>
@@ -226,8 +265,8 @@
 	<game name="三国志 傲视天地（简）南晶 - E0A502ED">
 		<rom name="三国志 傲视天地（简）南晶.nes" size="2097168" crc="E0A502ED" md5="21812A92C47EAAF869C27489217DB5DF"/>
 	</game>
-	<game name="三国志 千军破（简）恒格 - 68E7DF72">
-		<rom name="三国志 千军破（简）恒格.nes" size="1048592" crc="68E7DF72" md5="46F85E623806EC83477228FFD4B7899E"/>
+	<game name="三国志 千军破（简）外星 恒格 - 68E7DF72">
+		<rom name="三国志 千军破（简）外星 恒格.nes" size="1048592" crc="68E7DF72" md5="46F85E623806EC83477228FFD4B7899E"/>
 	</game>
 	<game name="三国志 吕布传（简）南晶 - 98E95ADF">
 		<rom name="三国志 吕布传（简）南晶.nes" size="2097168" crc="98E95ADF" md5="1BE033A10066148881090454D373788A"/>
@@ -376,8 +415,8 @@
 	<game name="三国志：曹操传（简）南晶 - 7FC65695">
 		<rom name="三国志：曹操传（简）南晶.nes" size="2097168" crc="7FC65695" md5="C0F58C136D6885AF60D145D11A67204C"/>
 	</game>
-	<game name="三国志：曹操传（繁）宅男 小铭 - 30D26ED2">
-		<rom name="三国志：曹操传（繁）宅男 小铭.nes" size="2097168" crc="30D26ED2" md5="50A7903BD92B1AF90033DE3328A4B9DE"/>
+	<game name="三国志：曹操传（繁）南晶 宅男 小铭 - 30D26ED2">
+		<rom name="三国志：曹操传（繁）南晶 宅男 小铭.nes" size="2097168" crc="30D26ED2" md5="50A7903BD92B1AF90033DE3328A4B9DE"/>
 	</game>
 	<game name="三国志：群雄争霸（繁）ASDER - 2062723E">
 		<rom name="三国志：群雄争霸（繁）ASDER.nes" size="393232" crc="2062723E" md5="91B7D6E4265F81607B8F53525AF87081"/>
@@ -388,8 +427,8 @@
 	<game name="三国无双 猛将传（简）南晶 - 04A0AADB">
 		<rom name="三国无双 猛将传（简）南晶.nes" size="2097168" crc="04A0AADB" md5="0E668BCCF32D67673A3FC6A56013222C"/>
 	</game>
-	<game name="三国无双：猛将传（繁）小铭 - 8E5098F5">
-		<rom name="三国无双：猛将传（繁）小铭.nes" size="2097168" crc="8E5098F5" md5="F94561069959D153346431FC46B92902"/>
+	<game name="三国无双：猛将传（繁）南晶 小铭 - 8E5098F5">
+		<rom name="三国无双：猛将传（繁）南晶 小铭.nes" size="2097168" crc="8E5098F5" md5="F94561069959D153346431FC46B92902"/>
 	</game>
 	<game name="三国春秋 四川省（繁）卡圣 - 14AF5B3A">
 		<rom name="三国春秋 四川省（繁）卡圣.nes" size="262160" crc="14AF5B3A" md5="BF155DA83F3C67D15E48E8FEA2F127A6"/>
@@ -436,8 +475,8 @@
 	<game name="东周列国志（简）外星 - 605FED8E">
 		<rom name="东周列国志（简）外星.nes" size="524304" crc="605FED8E" md5="09B701F0051867D1B23285B9145474BA"/>
 	</game>
-	<game name="东周列国志（简）WXN - A572D23B">
-		<rom name="东周列国志（简）WXN.nes" size="524304" crc="A572D23B" md5="695779E173E013F3E75B5B7145A93A44"/>
+	<game name="东周列国志（简）外星 WXN - A572D23B">
+		<rom name="东周列国志（简）外星 WXN.nes" size="524304" crc="A572D23B" md5="695779E173E013F3E75B5B7145A93A44"/>
 	</game>
 	<game name="东方传说 封印岛（简）南晶 - 5F57410C">
 		<rom name="东方传说 封印岛（简）南晶.nes" size="524304" crc="5F57410C" md5="50FB1D1A04A55CD89B5DB948B140DB03"/>
@@ -538,8 +577,14 @@
 	<game name="仙剑奇侠（简）南晶 - 1EFF66B9">
 		<rom name="仙剑奇侠（简）南晶.nes" size="2097168" crc="1EFF66B9" md5="5B2D72F2B65BCA5C5BEA7C4FA0798900"/>
 	</game>
+	<game name="仙剑奇侠（简）南晶 - BC0B1462">
+		<rom name="仙剑奇侠（简）南晶.nes" size="2097168" crc="BC0B1462" md5="1F420A20C3FF6D87BC46ACF29E498132"/>
+	</game>
 	<game name="仙剑问情（简）南晶 - 1CF01328">
 		<rom name="仙剑问情（简）南晶.nes" size="524304" crc="1CF01328" md5="C552E6BAD4F4C6E980975CD79DF8FAB8"/>
+	</game>
+	<game name="仙剑问情（简）南晶 - EC0A46FA">
+		<rom name="仙剑问情（简）南晶.nes" size="532480" crc="EC0A46FA" md5="F096E9263A9F39054EEB9BF8E3015646"/>
 	</game>
 	<game name="仙界精灵（简）南晶 - D1650D78">
 		<rom name="仙界精灵（简）南晶.nes" size="2097168" crc="D1650D78" md5="3D00F660D7A2A354BCFC81B49C7CA9CD"/>
@@ -570,6 +615,9 @@
 	</game>
 	<game name="侠客情 荆轲刺秦王（简）外星 - ABB53F93">
 		<rom name="侠客情 荆轲刺秦王（简）外星.nes" size="524304" crc="ABB53F93" md5="59432962F483DA223B56DC2D0C2590C8"/>
+	</game>
+	<game name="侠客情：荆轲刺秦王（简）外星 - CAAB7885">
+		<rom name="侠客情：荆轲刺秦王（简）外星.nes" size="524304" crc="CAAB7885" md5="C72C12F44F5CB735659F1C10BA7B227C"/>
 	</game>
 	<game name="俄罗斯方块（简）佛易 8GUA MS - 28979956">
 		<rom name="俄罗斯方块（简）佛易 8GUA MS.nes" size="65552" crc="28979956" md5="F8B192D635289D7033A83BAC79179641"/>
@@ -823,6 +871,9 @@
 	<game name="刀锋战机（简）高伟 - 87B95370">
 		<rom name="刀锋战机（简）高伟.nes" size="393232" crc="87B95370" md5="F1D7DF878347BC2E49D4D16D4B3FE70A"/>
 	</game>
+	<game name="创世纪英雄（简）外星 魔神英雄传外传 - 70CB0725">
+		<rom name="创世纪英雄（简）外星 魔神英雄传外传.nes" size="524304" crc="70CB0725" md5="260C1D339812C03A0A61C7753C24B5B1"/>
+	</game>
 	<game name="前线大作战（简）MS - 7C0894B0">
 		<rom name="前线大作战（简）MS.nes" size="24592" crc="7C0894B0" md5="80C349322C15ADED36EB899B25F27066"/>
 	</game>
@@ -945,6 +996,9 @@
 	</game>
 	<game name="勇者斗恶龙8（简）外星 - 2F58FE9A">
 		<rom name="勇者斗恶龙8（简）外星.nes" size="524304" crc="2F58FE9A" md5="70BE217FDE9974415D5FC2188CC8C2C3"/>
+	</game>
+	<game name="勇者斗恶龙VI（简）外星 - C31C8548">
+		<rom name="勇者斗恶龙VI（简）外星.nes" size="524304" crc="C31C8548" md5="9DE900CC4821727173AB75D11FE58CDD"/>
 	</game>
 	<game name="勇者黑暗世界 混沌世界（简）晶科泰 - 14332696">
 		<rom name="勇者黑暗世界 混沌世界（简）晶科泰.nes" size="1048592" crc="14332696" md5="D83BC36879709F0D5391A4BC5E2DAFC4"/>
@@ -1534,11 +1588,14 @@
 	<game name="大力水手（简）虫儿 - 09C1A22D">
 		<rom name="大力水手（简）虫儿.nes" size="24592" crc="09C1A22D" md5="FC34B9B482914EFB1D9A0FFDBD8AFFD7"/>
 	</game>
+	<game name="大富翁II上海大亨（简）外星 - 1086B798">
+		<rom name="大富翁II上海大亨（简）外星.nes" size="524304" crc="1086B798" md5="C51FDF5791101D535CB6C7425C93DECD"/>
+	</game>
 	<game name="大战略（简） - 2AE3988A">
 		<rom name="大战略（简）.nes" size="262160" crc="2AE3988A" md5="5C07F2A2F37C37EDD24EFDF79561E843"/>
 	</game>
-	<game name="大战略（简）解密版 - 8B9C9A8D">
-		<rom name="大战略（简）解密版.nes" size="524304" crc="8B9C9A8D" md5="6BC87B18759D1C9B86AAE790A5BEAAB0"/>
+	<game name="大战略（简）外星 解密版 - 8B9C9A8D">
+		<rom name="大战略（简）外星 解密版.nes" size="524304" crc="8B9C9A8D" md5="6BC87B18759D1C9B86AAE790A5BEAAB0"/>
 	</game>
 	<game name="大盗五右卫门外传 II - 天下之财宝（简）外星 - B5F950FC">
 		<rom name="大盗五右卫门外传 II - 天下之财宝（简）外星.nes" size="786448" crc="B5F950FC" md5="A38E339D15C160B54EF1DE736B8BF21C"/>
@@ -1717,6 +1774,9 @@
 	<game name="妖怪道中记（繁）Nokoh 20241218 - 923380C3">
 		<rom name="妖怪道中记（繁）Nokoh 20241218.nes" size="524304" crc="923380C3" md5="FFC316233FCDA28A297E5EB2DFE0DDE2"/>
 	</game>
+	<game name="妖怪道中记（简）Nokoh 20250501 v2 - 328E4803">
+		<rom name="妖怪道中记（简）Nokoh 20250501 v2.nes" size="524304" crc="328E4803" md5="834C7484EE4312B542C40E3BB1E14288"/>
+	</game>
 	<game name="威洛传奇（简）金巴比伦 - 97292018">
 		<rom name="威洛传奇（简）金巴比伦.nes" size="524304" crc="97292018" md5="85E8D344932539742EA99091BFE19627"/>
 	</game>
@@ -1743,6 +1803,18 @@
 	</game>
 	<game name="学生电脑（简）小视霸 - 59C6DDB7">
 		<rom name="学生电脑（简）小视霸.nes" size="524304" crc="59C6DDB7" md5="ABCB7327FB703493C28133EBB3A00D62"/>
+	</game>
+	<game name="宇宙刑警（繁）Nokoh 20250508 v3 - 1EB9FBBF">
+		<rom name="宇宙刑警（繁）Nokoh 20250508 v3.nes" size="524304" crc="1EB9FBBF" md5="DB70BE06973A929E2BB3B49838334A1A"/>
+	</game>
+	<game name="宇宙刑警（繁）Nokoh 20250512 v7 - AB18B0F4">
+		<rom name="宇宙刑警（繁）Nokoh 20250512 v7.nes" size="524304" crc="AB18B0F4" md5="09AAB1A0704AFCD7E45FAAD1D43099B1"/>
+	</game>
+	<game name="宇宙刑警（简）Nokoh 20250519 - 8AA8FBE7">
+		<rom name="宇宙刑警（简）Nokoh 20250519.nes" size="524304" crc="8AA8FBE7" md5="6AABD8FED87252727998070FDC0D424B"/>
+	</game>
+	<game name="宇宙刑警（繁）Nokoh 20250519 - A1747E81">
+		<rom name="宇宙刑警（繁）Nokoh 20250519.nes" size="524304" crc="A1747E81" md5="EB53843D6E6C224A6560F08F5D9FCF9E"/>
 	</game>
 	<game name="宇宙巡航机（简）烈火暴龙 - A023EB04">
 		<rom name="宇宙巡航机（简）烈火暴龙.nes" size="262160" crc="A023EB04" md5="6E46B9374F046D6D12F2C5A3A016DD3D"/>
@@ -1909,6 +1981,9 @@
 	<game name="宠物高达战记（简）南晶 - BD38395C">
 		<rom name="宠物高达战记（简）南晶.nes" size="1048592" crc="BD38395C" md5="06DD69B56498381EFCBFA3CCC3244FA6"/>
 	</game>
+	<game name="宠物高达战记（简）南晶 - 02D019C4">
+		<rom name="宠物高达战记（简）南晶.nes" size="1048592" crc="02D019C4" md5="22B4C316FCDCEDF1E0D8D43F20EA9E55"/>
+	</game>
 	<game name="宾尼兔大冒险（简）MM之神 - 134BD3A2">
 		<rom name="宾尼兔大冒险（简）MM之神.nes" size="262160" crc="134BD3A2" md5="257C26D533250E0F21C50095476104CB"/>
 	</game>
@@ -2065,11 +2140,17 @@
 	<game name="少年游侠（简）外星 - 419B9424">
 		<rom name="少年游侠（简）外星.nes" size="786448" crc="419B9424" md5="1408AC7EC2A4806FCEF654905965E4C7"/>
 	</game>
+	<game name="少年游侠（简）外星 - ACA5D5CC">
+		<rom name="少年游侠（简）外星.nes" size="786448" crc="ACA5D5CC" md5="26C10892A9741A031FDB2DEDB014C54F"/>
+	</game>
 	<game name="少林武者（简）圣谦 - 76F83BAD">
 		<rom name="少林武者（简）圣谦.nes" size="262160" crc="76F83BAD" md5="88F3CD485E9025ECDB6A12485A92391C"/>
 	</game>
 	<game name="屠龙刀（繁）外星 - EB5DBB86">
 		<rom name="屠龙刀（繁）外星.nes" size="524304" crc="EB5DBB86" md5="1DC036C8F7FCF86DD2E818C92E99E51C"/>
+	</game>
+	<game name="屠龙刀（简）外星 - 7A91241D">
+		<rom name="屠龙刀（简）外星.nes" size="524304" crc="7A91241D" md5="B4762BAA22D8E069E83BDF29A0A283A0"/>
 	</game>
 	<game name="屠龙记4（简）孔雀天 - 29417AFA">
 		<rom name="屠龙记4（简）孔雀天.nes" size="196624" crc="29417AFA" md5="2C55A0B7B698CAE0050122AFA3DA112B"/>
@@ -2109,6 +2190,9 @@
 	</game>
 	<game name="帝国风暴（简）外星 - FB8EE698">
 		<rom name="帝国风暴（简）外星.nes" size="524304" crc="FB8EE698" md5="88F6C3CE05098589336F54481E6E49F7"/>
+	</game>
+	<game name="帝国风暴（简）外星 - F448216B">
+		<rom name="帝国风暴（简）外星.nes" size="524304" crc="F448216B" md5="753FABE5BF53DE84D1ABC1C0AE4167E5"/>
 	</game>
 	<game name="平成BT帝国战（简）小鬼混 - D6039DC3">
 		<rom name="平成BT帝国战（简）小鬼混.nes" size="262160" crc="D6039DC3" md5="BE96AB435A82C1F38A376CEC9DD6FE8F"/>
@@ -2650,6 +2734,9 @@
 	<game name="数码战队2（简）南晶 - 9442FEFF">
 		<rom name="数码战队2（简）南晶.nes" size="2097168" crc="9442FEFF" md5="1015A71D13B8E8C2D7498AA80453DA09"/>
 	</game>
+	<game name="数码暴龙4水晶版（简）外星 - 9E46A5B8">
+		<rom name="数码暴龙4水晶版（简）外星.nes" size="1048592" crc="9E46A5B8" md5="726CE553DA2CDB7AF749F1B61B0A659C"/>
+	</game>
 	<game name="敲冰块（简）MS - 7755B120">
 		<rom name="敲冰块（简）MS.nes" size="24592" crc="7755B120" md5="C86EC9F30B8717060537CD0C7CACA25E"/>
 	</game>
@@ -2709,6 +2796,9 @@
 	</game>
 	<game name="无名传说（简）外星 - 08652F5A">
 		<rom name="无名传说（简）外星.nes" size="262160" crc="08652F5A" md5="DD928EDA092081DDD4A9D853AA6D01F0"/>
+	</game>
+	<game name="无尽的任务（简）外星 里见八犬传 - 73577C81">
+		<rom name="无尽的任务（简）外星 里见八犬传.nes" size="524304" crc="73577C81" md5="934409ADB036C10ADF426BF0FE6DE7C4"/>
 	</game>
 	<game name="无敌学习卡（简）BITE - 876BB45B">
 		<rom name="无敌学习卡（简）BITE.nes" size="524304" crc="876BB45B" md5="CBA600FDA94B3E075F69548D4B89D1CD"/>
@@ -2890,8 +2980,8 @@
 	<game name="最终幻想2（简）LSP 20230615 - 7B7518DA">
 		<rom name="最终幻想2（简）LSP 20230615.nes" size="524304" crc="7B7518DA" md5="25D84BE984BFFDBBCCF3719769594A7B"/>
 	</game>
-	<game name="最终幻想2（简）LSP 20240121 - D0EA0BAF">
-		<rom name="最终幻想2（简）LSP 20240121.nes" size="524304" crc="D0EA0BAF" md5="BF0D2B0AF88FE850EDE25CE70902B1F9"/>
+	<game name="最终幻想2（简）LSP 20240121 片头换音乐版 - D0EA0BAF">
+		<rom name="最终幻想2（简）LSP 20240121 片头换音乐版.nes" size="524304" crc="D0EA0BAF" md5="BF0D2B0AF88FE850EDE25CE70902B1F9"/>
 	</game>
 	<game name="最终幻想2（简）LSP 20240719 修复版 - 61C18F85">
 		<rom name="最终幻想2（简）LSP 20240719 修复版.nes" size="524304" crc="61C18F85" md5="606DAC6CD69CDAF3E19F1CA5C0971040"/>
@@ -2922,6 +3012,12 @@
 	</game>
 	<game name="最终幻想2（简）外星 宇宙战将 - 5CB2C74A">
 		<rom name="最终幻想2（简）外星 宇宙战将.nes" size="524304" crc="5CB2C74A" md5="7D06030547FE2891E8A4BDFE9B9B35CE"/>
+	</game>
+	<game name="最终幻想2（简）LSP 20050316 修复版 - F36997BE">
+		<rom name="最终幻想2（简）LSP 20050316 修复版.nes" size="524304" crc="F36997BE" md5="24B06E01D13AB0A9A6BB8DD3523BC624"/>
+	</game>
+	<game name="最终幻想2（简）LSP 20050316 纯净版 - FC93BF24">
+		<rom name="最终幻想2（简）LSP 20050316 纯净版.nes" size="524304" crc="FC93BF24" md5="61E0997149F68E45E7DB67C910BA55B0"/>
 	</game>
 	<game name="最终幻想3（简）外星 SSforME 修正记忆 - CE12BF27">
 		<rom name="最终幻想3（简）外星 SSforME 修正记忆.nes" size="1048592" crc="CE12BF27" md5="870611608878DCF7EAC8EF579BBE2AEB"/>
@@ -2971,8 +3067,8 @@
 	<game name="最终幻想7（简）南晶 - E5BF8F0C">
 		<rom name="最终幻想7（简）南晶.nes" size="2097168" crc="E5BF8F0C" md5="1B07874D73756F1EC33A957F1640153C"/>
 	</game>
-	<game name="最终幻想7（繁）小铭 - 1F16888C">
-		<rom name="最终幻想7（繁）小铭.nes" size="2097168" crc="1F16888C" md5="AE43448CBC9C464AB266FA753BE6A1D3"/>
+	<game name="最终幻想7（繁）南晶 小铭 - 1F16888C">
+		<rom name="最终幻想7（繁）南晶 小铭.nes" size="2097168" crc="1F16888C" md5="AE43448CBC9C464AB266FA753BE6A1D3"/>
 	</game>
 	<game name="最终幻想7（简）南晶 庞先生 - C33E651F">
 		<rom name="最终幻想7（简）南晶 庞先生.nes" size="2097168" crc="C33E651F" md5="AA5F24A30E3B26318503283AB9FA2B87"/>
@@ -3021,6 +3117,9 @@
 	</game>
 	<game name="机器猫小叮当（简）外星 - 6233556B">
 		<rom name="机器猫小叮当（简）外星.nes" size="524304" crc="6233556B" md5="7146ACFA322258777181A294D3299CC1"/>
+	</game>
+	<game name="机器猫小叮当（简）外星 - 05424B8D">
+		<rom name="机器猫小叮当（简）外星.nes" size="524304" crc="05424B8D" md5="D179CB3D8325009EC54B78E18AC27E19"/>
 	</game>
 	<game name="机械化突袭（简）高伟 - 3E0FFCEE">
 		<rom name="机械化突袭（简）高伟.nes" size="196624" crc="3E0FFCEE" md5="FA3CA73323AF4CCB5A54FB113A7583F6"/>
@@ -3106,6 +3205,9 @@
 	<game name="梦幻之星4（繁）外星 - CD2448EC">
 		<rom name="梦幻之星4（繁）外星.nes" size="1048592" crc="CD2448EC" md5="170999ACAB963BD535808EB25A2F03E0"/>
 	</game>
+	<game name="梦幻之星IV（简）外星 外星战士2 - 4BE0DB1C">
+		<rom name="梦幻之星IV（简）外星 外星战士2.nes" size="4542279" crc="4BE0DB1C" md5="9EF9D59351F54E0B1DFD0574A8A46A94"/>
+	</game>
 	<game name="梦幻仙境（简）恒格 - 62E835C5">
 		<rom name="梦幻仙境（简）恒格.nes" size="1048592" crc="62E835C5" md5="88D0A61BF5021338D7E526EF0E676448"/>
 	</game>
@@ -3187,6 +3289,9 @@
 	<game name="水浒传（繁）奔升 - B886FB2C">
 		<rom name="水浒传（繁）奔升.nes" size="524304" crc="B886FB2C" md5="983DAB02121652D0A81BC01EA2CBAADE"/>
 	</game>
+	<game name="水浒传（简）外星 - 5956DDEB">
+		<rom name="水浒传（简）外星.nes" size="524304" crc="5956DDEB" md5="00BC10884467595065C55333B4F42FC4"/>
+	</game>
 	<game name="水浒新传（繁） - 6161C451">
 		<rom name="水浒新传（繁）.nes" size="524304" crc="6161C451" md5="FCF65A98979C789C51D31B6BBFA949C8"/>
 	</game>
@@ -3196,8 +3301,8 @@
 	<game name="水浒神兽（简）外星 - 956BE788">
 		<rom name="水浒神兽（简）外星.nes" size="1048592" crc="956BE788" md5="9E3AC725C2BF7071F068C9AFF11B905E"/>
 	</game>
-	<game name="水浒神兽（简）WXN - 3DEF080E">
-		<rom name="水浒神兽（简）WXN.nes" size="1048592" crc="3DEF080E" md5="48146434A208152E11446974F118B1C2"/>
+	<game name="水浒神兽（简）外星 WXN - 3DEF080E">
+		<rom name="水浒神兽（简）外星 WXN.nes" size="1048592" crc="3DEF080E" md5="48146434A208152E11446974F118B1C2"/>
 	</game>
 	<game name="水管大作战（简）VERKKARS - E7F8DEFF">
 		<rom name="水管大作战（简）VERKKARS.nes" size="65552" crc="E7F8DEFF" md5="1FD2FF8ACE0CCBD462D1EF2222D03FA6"/>
@@ -3727,6 +3832,9 @@
 	<game name="爆笑三国（繁）恒格 - 5E613026">
 		<rom name="爆笑三国（繁）恒格.nes" size="1048592" crc="5E613026" md5="024C989AA79530C00E43655904051437"/>
 	</game>
+	<game name="爆笑三国（简）外星 - D6774F0E">
+		<rom name="爆笑三国（简）外星.nes" size="1048592" crc="D6774F0E" md5="6C09742636D9C7ED177C6DE49A39A637"/>
+	</game>
 	<game name="爱的小屋（简）MS v3 - 51E3B723">
 		<rom name="爱的小屋（简）MS v3.nes" size="24592" crc="51E3B723" md5="5F37B979C517691E6D7CBBAB3599E9A6"/>
 	</game>
@@ -3799,6 +3907,9 @@
 	<game name="生化危机（简）外星 - C50045C4">
 		<rom name="生化危机（简）外星.nes" size="1048592" crc="C50045C4" md5="B14F55F27E948371C3DD579EA3843AE2"/>
 	</game>
+	<game name="生化危机（简）外星 - 75914CB8">
+		<rom name="生化危机（简）外星.nes" size="1048592" crc="75914CB8" md5="152B7BB37A4720521954B8A8C1F9DCEC"/>
+	</game>
 	<game name="生命的奇迹 超级宝宝（简）MS - 49BC84FE">
 		<rom name="生命的奇迹 超级宝宝（简）MS.nes" size="262160" crc="49BC84FE" md5="4099C08008DF554A476741B22C1D8522"/>
 	</game>
@@ -3829,6 +3940,9 @@
 	<game name="皮卡丘Y2K（简）天空联盟 - E513A1BC">
 		<rom name="皮卡丘Y2K（简）天空联盟.nes" size="262160" crc="E513A1BC" md5="8CEEFA7C22F7B3962B1C55D2212B5E15"/>
 	</game>
+	<game name="皮诺曹的复苏（简）外星 - D644DF87">
+		<rom name="皮诺曹的复苏（简）外星.nes" size="524304" crc="D644DF87" md5="7CC919CAE4261E5CA9D31E0855041ACC"/>
+	</game>
 	<game name="皮诺槽的复苏（简）外星 - 84E364DB">
 		<rom name="皮诺槽的复苏（简）外星.nes" size="524304" crc="84E364DB" md5="56D65327E0E112C9BF22A595B7BC3E25"/>
 	</game>
@@ -3852,6 +3966,9 @@
 	</game>
 	<game name="真假猴王（简）外星 - 0435EBB7">
 		<rom name="真假猴王（简）外星.nes" size="524304" crc="0435EBB7" md5="877BFCBEFF6B91BFE493E61D8171FBB4"/>
+	</game>
+	<game name="真假猴王（简）外星 西天取经 - 23F987E7">
+		<rom name="真假猴王（简）外星 西天取经.nes" size="524304" crc="23F987E7" md5="3573F64CDD9A6E15F0A41BB3DB4BE45E"/>
 	</game>
 	<game name="真本西游记（繁）ASDER - 301CE43A">
 		<rom name="真本西游记（繁）ASDER.nes" size="393232" crc="301CE43A" md5="094456011B7B30C8A1EEE2590D580E24"/>
@@ -4156,6 +4273,9 @@
 	<game name="葫芦金刚（简）南晶 - F8436CEF">
 		<rom name="葫芦金刚（简）南晶.nes" size="2097168" crc="F8436CEF" md5="9FA1D81AB112CE865DB34522A3881A98"/>
 	</game>
+	<game name="蓝气球小胖大冒险（改）RetroHobby 20240616 Beta6 - AC29D568">
+		<rom name="蓝气球小胖大冒险（改）RetroHobby 20240616 Beta6.nes" size="40976" crc="AC29D568" md5="63CDCCB73DFED6F34BBE92C665966F68"/>
+	</game>
 	<game name="蕾拉（简）高伟 - 41BDA03E">
 		<rom name="蕾拉（简）高伟.nes" size="131088" crc="41BDA03E" md5="2AFAD7AA8B93A0B3F6AB1BFAC7B19488"/>
 	</game>
@@ -4213,8 +4333,8 @@
 	<game name="西楚霸王（简）外星 - 75CE7592">
 		<rom name="西楚霸王（简）外星.nes" size="1048592" crc="75CE7592" md5="087728A790503C72734E6C47FD8BE6D8"/>
 	</game>
-	<game name="西楚霸王（简）WXN - D514A338">
-		<rom name="西楚霸王（简）WXN.nes" size="1048592" crc="D514A338" md5="0A7053187A3E761881B7EFFABBB83252"/>
+	<game name="西楚霸王（简）外星 WXN - D514A338">
+		<rom name="西楚霸王（简）外星 WXN.nes" size="1048592" crc="D514A338" md5="0A7053187A3E761881B7EFFABBB83252"/>
 	</game>
 	<game name="西游记世界（简）汉化你妹 v1.04 - 6E66CF6F">
 		<rom name="西游记世界（简）汉化你妹 v1.04.nes" size="262160" crc="6E66CF6F" md5="F8088CE845064F57117E0107495D3615"/>
@@ -4356,6 +4476,9 @@
 	</game>
 	<game name="超级战魂（简）外星 - 69480594">
 		<rom name="超级战魂（简）外星.nes" size="262160" crc="69480594" md5="38620C8FFC42C3458320EB040935DEBE"/>
+	</game>
+	<game name="超级战魂（简）外星 超级战魂 - F9A7A725">
+		<rom name="超级战魂（简）外星 超级战魂.nes" size="262160" crc="F9A7A725" md5="4EABFA3B883817BFB609B5EB48B0E645"/>
 	</game>
 	<game name="超级摩托车（简）天苑软件 - 965A1221">
 		<rom name="超级摩托车（简）天苑软件.nes" size="262160" crc="965A1221" md5="1872AD5B807D494056837EEEE803E474"/>
@@ -4729,6 +4852,9 @@
 	<game name="铁血战士（简）MS - A644A1CD">
 		<rom name="铁血战士（简）MS.nes" size="262160" crc="A644A1CD" md5="104908C61F643C7B3E77C1D4C80446F7"/>
 	</game>
+	<game name="银河时代（简）外星 最终幻想1 - E81FB227">
+		<rom name="银河时代（简）外星 最终幻想1.nes" size="524304" crc="E81FB227" md5="EBBBCD9400051A2A641732972373DA86"/>
+	</game>
 	<game name="银河时代 最终幻想1（简）外星 天天向上 - 8EFEDEBB">
 		<rom name="银河时代 最终幻想1（简）外星 天天向上.nes" size="524304" crc="8EFEDEBB" md5="6BAF104B37D3979B847826F4F2B4FFF0"/>
 	</game>
@@ -4816,8 +4942,8 @@
 	<game name="风云（简）外星 - 5D07E348">
 		<rom name="风云（简）外星.nes" size="786448" crc="5D07E348" md5="1A85DBA015CD43652349D19A36F735BA"/>
 	</game>
-	<game name="风云（简）WXN - 14B6B419">
-		<rom name="风云（简）WXN.nes" size="786448" crc="14B6B419" md5="B500B62A2945B1A35A5816CB80F0BB90"/>
+	<game name="风云（简）外星 WXN - 14B6B419">
+		<rom name="风云（简）外星 WXN.nes" size="786448" crc="14B6B419" md5="B500B62A2945B1A35A5816CB80F0BB90"/>
 	</game>
 	<game name="飞人战士（简）金明 - C0AEEC28">
 		<rom name="飞人战士（简）金明.nes" size="262160" crc="C0AEEC28" md5="E877DA3661D394F5B8322D8F61EB52FB"/>
@@ -4936,8 +5062,11 @@
 	<game name="鬼太郎-妖怪大魔境（简）高伟 - F98A28A1">
 		<rom name="鬼太郎-妖怪大魔境（简）高伟.nes" size="65552" crc="F98A28A1" md5="7469CD3B929FE09BA1C56FD16DD7ACCA"/>
 	</game>
-	<game name="鬼魅战记（简）外星 - 488E7CF0">
-		<rom name="鬼魅战记（简）外星.nes" size="786448" crc="488E7CF0" md5="CCD3EE4F186F4718F9E9BF4F715EC180"/>
+	<game name="鬼魅魍魉战记（简）外星 - 488E7CF0">
+		<rom name="鬼魅魍魉战记（简）外星.nes" size="786448" crc="488E7CF0" md5="CCD3EE4F186F4718F9E9BF4F715EC180"/>
+	</game>
+	<game name="鬼魅魍魉战记（简）外星 - 51D47600">
+		<rom name="鬼魅魍魉战记（简）外星.nes" size="2097168" crc="51D47600" md5="8BF5782EF5936AB93CC023F1FDA27A0E"/>
 	</game>
 	<game name="魂斗罗（简）酷酷小熊 MS - F253C58B">
 		<rom name="魂斗罗（简）酷酷小熊 MS.nes" size="262160" crc="F253C58B" md5="C5F36111D6C96EEDB2CE10D29A777A03"/>
@@ -5034,6 +5163,9 @@
 	</game>
 	<game name="魔神法师（简）外星 - 8702FC62">
 		<rom name="魔神法师（简）外星.nes" size="524304" crc="8702FC62" md5="B13D8EFD1CBEAB3247175511E8FF504B"/>
+	</game>
+	<game name="魔神法师（简）外星 - 5E2FB2E8">
+		<rom name="魔神法师（简）外星.nes" size="524304" crc="5E2FB2E8" md5="A699F80ED8F1FDA67E72E711DA96CE01"/>
 	</game>
 	<game name="魔神英雄伝 外传（繁）外星 创世纪英雄 - 4F6A43C5">
 		<rom name="魔神英雄伝 外传（繁）外星 创世纪英雄.nes" size="524304" crc="4F6A43C5" md5="0F150BA827D0F4CFF70C2FB69DD91163"/>

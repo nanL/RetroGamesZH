@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile>
+	<header><name>Bandai - WonderSwan Color (zh)</name><version>20250500</version></header>
+	<game name="SD高达扭蛋战记：第一章（简）Lance_29 v0.5 - 352464F1">
+		<rom name="SD高达扭蛋战记：第一章（简）Lance_29 v0.5.ws" size="1048576" crc="352464F1" md5="108D8329A383D1BCCE94494C0FCAF47E"/>
+	</game>
+	<game name="奥特曼：光之国的使者（简）Lance_29 v0.523 剧情汉化 - CBD3FFD1">
+		<rom name="奥特曼：光之国的使者（简）Lance_29 v0.523 剧情汉化.wsc" size="2097152" crc="CBD3FFD1" md5="05B4F779518EADBAE46347B745DA8014"/>
+	</game>
+	<game name="数码兽驯兽师：战斗之魂（英简）PECO v202305 - 6329AB57">
+		<rom name="数码兽驯兽师：战斗之魂（英简）PECO v202305.wsc" size="4194304" crc="6329AB57" md5="CD56419318E4D6D490FFF705FDE9968D"/>
+	</game>
+	<game name="数码兽驯兽师：战斗之魂v1.5（英简）PECO v202306 1.5 - FB0811F9">
+		<rom name="数码兽驯兽师：战斗之魂v1.5（英简）PECO v202306 1.5.wsc" size="8388608" crc="FB0811F9" md5="DE9636FC12EA2ADE9368B2B32AD8197E"/>
+	</game>
+	<game name="新世纪福音战士：使徒育成（简）Lance_29 v0.9.611 - 8D2FD6A8">
+		<rom name="新世纪福音战士：使徒育成（简）Lance_29 v0.9.611.ws" size="2097152" crc="8D2FD6A8" md5="B06A7399FB6514F49F9C507C27E3CDED"/>
+	</game>
+	<game name="旋涡：电视怪奇篇（简）1d v0.9 - C99B6BF0">
+		<rom name="旋涡：电视怪奇篇（简）1d v0.9.ws" size="2097152" crc="C99B6BF0" md5="861037E31DF7540BFCDD5592A860FE42"/>
+	</game>
+	<game name="旋涡：魔咒篇（简）1d v0.811 机翻 - A4B24DDB">
+		<rom name="旋涡：魔咒篇（简）1d v0.811 机翻.ws" size="2097152" crc="A4B24DDB" md5="2B767A7E07D341AA23164195034C4CAA"/>
+	</game>
+	<game name="机动战士高达SEED（简）alex2092 碧黯云逍 阿姆罗 - B338CAE2">
+		<rom name="机动战士高达SEED（简）alex2092 碧黯云逍 阿姆罗.wsc" size="4194304" crc="B338CAE2" md5="B5CF3074AE545475A8AF6E0E179AFF66"/>
+	</game>
+	<game name="返家十万里（简）1d v0.9 - 217FD281">
+		<rom name="返家十万里（简）1d v0.9.ws" size="1048576" crc="217FD281" md5="3D0C36E8F4794BAD7E68BE94182CB05D"/>
+	</game>
+	<game name="铁人28号（简）1d v1.0 - 44B81767">
+		<rom name="铁人28号（简）1d v1.0.ws" size="4194304" crc="44B81767" md5="215DFC8B2222AE7D0CEC515C057E6B9B"/>
+	</game>
+</datafile>

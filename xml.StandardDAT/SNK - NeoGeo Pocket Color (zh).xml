@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile>
+	<header><name>SNK - NeoGeo Pocket Color (zh)</name><version>20250500</version></header>
+	<game name="加油 NeoPoke 君（简）hqqqqtv v0.5 - 286B1FC2">
+		<rom name="加油 NeoPoke 君（简）hqqqqtv v0.5.ngp" size="2097152" crc="286B1FC2" md5="C8E2F9D0867C84842616C2DA922FF95E"/>
+	</game>
+	<game name="加油 NeoPoke 君（改）hqqqqtv v0.5 v004修改版 - 88FF0805">
+		<rom name="加油 NeoPoke 君（改）hqqqqtv v0.5 v004修改版.ngp" size="2097152" crc="88FF0805" md5="0923C752F46A128EA700CDBF97203196"/>
+	</game>
+	<game name="合金弹头：第一任务（简）霍乱 天空联盟 - A50390BC">
+		<rom name="合金弹头：第一任务（简）霍乱 天空联盟.ngc" size="2097152" crc="A50390BC" md5="C1BFBD6037712A9761A1DCF86D040C17"/>
+	</game>
+	<game name="合金弹头：第一任务（简）霍乱 - C2C5BCB4">
+		<rom name="合金弹头：第一任务（简）霍乱.ngc" size="2097152" crc="C2C5BCB4" md5="83C8CA84D055A63A6B8EC25E4546228E"/>
+	</game>
+	<game name="合金弹头：第一任务（简）狂细胞 - 8ADED757">
+		<rom name="合金弹头：第一任务（简）狂细胞.ngc" size="2097152" crc="8ADED757" md5="A50F9197B9D48C0F1C6578A8640E3B2D"/>
+	</game>
+	<game name="拳皇R2（简）CLARK.H - 6BC678D2">
+		<rom name="拳皇R2（简）CLARK.H.ngc" size="2097152" crc="6BC678D2" md5="03BE16FD0D94046E6290E8DD91AB09FC"/>
+	</game>
+	<game name="拳皇对街霸：千禧之战（简）YULIANGMAX 天空联盟 - 533EBB53">
+		<rom name="拳皇对街霸：千禧之战（简）YULIANGMAX 天空联盟.ngc" size="4194304" crc="533EBB53" md5="87FC6166765BE0017D7E5AA60CF0B77F"/>
+	</game>
+	<game name="拳皇对街霸：千禧之战（简）星组 v1.0 - 18B04108">
+		<rom name="拳皇对街霸：千禧之战（简）星组 v1.0.ngc" size="4194304" crc="18B04108" md5="C585AE661FF0F52F0C3C798FBC330ED1"/>
+	</game>
+	<game name="拳皇对街霸：卡片战士2扩展版（简）hqqqqtv v1.01 - 52F31426">
+		<rom name="拳皇对街霸：卡片战士2扩展版（简）hqqqqtv v1.01.ngp" size="2097152" crc="52F31426" md5="846AD617E4E4961A8F8336E2726B6D38"/>
+	</game>
+	<game name="拳皇对街霸：卡片战士Capcom支持者（简）hqqqqtv v1.90 - 4EEE4563">
+		<rom name="拳皇对街霸：卡片战士Capcom支持者（简）hqqqqtv v1.90.ngc" size="2097152" crc="4EEE4563" md5="2C64B114D93A857A09017DB970EE57BD"/>
+	</game>
+	<game name="拳皇对街霸：卡片战士SNK支持者（简）星组 v1.37 - D8AB5F5B">
+		<rom name="拳皇对街霸：卡片战士SNK支持者（简）星组 v1.37.ngc" size="2097152" crc="D8AB5F5B" md5="8F1A79540EF50F57E4968AD74EFB7C33"/>
+	</game>
+	<game name="拳皇对街霸：卡片战士SNK支持者（简）hqqqqtv v1.90 - D2091BDC">
+		<rom name="拳皇对街霸：卡片战士SNK支持者（简）hqqqqtv v1.90.ngc" size="2097152" crc="D2091BDC" md5="19B61BC648A6A538F2F957741CC17917"/>
+	</game>
+	<game name="拳皇：乐园激战（简）hqqqqtv v0.5 - 1EF52B87">
+		<rom name="拳皇：乐园激战（简）hqqqqtv v0.5.ngp" size="2097152" crc="1EF52B87" md5="0DD8065022A3620949C8AECE1D2D3440"/>
+	</game>
+	<game name="拳皇：乐园激战（改）hqqqqtv v0.5 快捷作弊 - 43B929B1">
+		<rom name="拳皇：乐园激战（改）hqqqqtv v0.5 快捷作弊.ngp" size="2097152" crc="43B929B1" md5="E48B7634A32D6E3630D89EF351183A29"/>
+	</game>
+	<game name="皇家骑士团外传：赞诺比亚的皇子（简）星组 v0.4 - 58B102F0">
+		<rom name="皇家骑士团外传：赞诺比亚的皇子（简）星组 v0.4.ngc" size="2097152" crc="58B102F0" md5="EAC9705F5427B70D6276775F1E03A1DE"/>
+	</game>
+	<game name="黑暗兵器：野兽梦魇1999（简）ITUJUNUSA - 4E3191C6">
+		<rom name="黑暗兵器：野兽梦魇1999（简）ITUJUNUSA.ngc" size="2097152" crc="4E3191C6" md5="9B09713FB637CE2B8BE59E80455106EC"/>
+	</game>
+</datafile>

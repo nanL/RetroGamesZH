@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250400</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250500</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -247,8 +247,8 @@
 	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 原版立绘 - D9E7C6E1">
 		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 原版立绘.nds" size="33554432" crc="D9E7C6E1" md5="FA958161C3F1029E0A9E8D5C365E2D43"/>
 	</game>
-	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 高清重制立绘 - 219FAD6E">
-		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 高清重制立绘.nds" size="33554432" crc="219FAD6E" md5="CCBCD239750A7C9547699EC858449931"/>
+	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 高清重制版立绘 - 219FAD6E">
+		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 高清重制版立绘.nds" size="33554432" crc="219FAD6E" md5="CCBCD239750A7C9547699EC858449931"/>
 	</game>
 	<game name="世界足球DS（简）YYJOY - 1BA9E005">
 		<rom name="世界足球DS（简）YYJOY.nds" size="37902164" crc="1BA9E005" md5="BC017238A7925273C71F99E42C4B5E9A"/>
@@ -2449,6 +2449,12 @@
 	<game name="粉色街道 闪耀音乐时间（简）ENGS 图片汉化 - 374055B2">
 		<rom name="粉色街道 闪耀音乐时间（简）ENGS 图片汉化.nds" size="67108864" crc="374055B2" md5="9B6899B5519EA6FDF95B21692A3EF9BE"/>
 	</game>
+	<game name="索尼克冲刺（简）DXer 20250504 v1.0.2 日版 - 349972D0">
+		<rom name="索尼克冲刺（简）DXer 20250504 v1.0.2 日版.nds" size="63935584" crc="349972D0" md5="1F48B26D168E8CDCA2E39A86269B0668"/>
+	</game>
+	<game name="索尼克冲刺（简）DXer 20250504 v1.0.2 美版 - A088362D">
+		<rom name="索尼克冲刺（简）DXer 20250504 v1.0.2 美版.nds" size="64046688" crc="A088362D" md5="10DFEF7DC5F0667516C798B810285FFC"/>
+	</game>
 	<game name="索尼克经典合辑 1.0（简）U2 - F8D6948C">
 		<rom name="索尼克经典合辑 1.0（简）U2.nds" size="67108864" crc="F8D6948C" md5="C8CBD18246A7E4C67A8FB3BF018171B4"/>
 	</game>
@@ -2788,14 +2794,23 @@
 	<game name="超级机器人大战L（繁）星组 20240109 v1.1 - 382198D1">
 		<rom name="超级机器人大战L（繁）星组 20240109 v1.1.nds" size="134217728" crc="382198D1" md5="CC23CD38C1D4C4FB3B255BDFBCB3611C"/>
 	</game>
-	<game name="超级机器人大战OG无限边疆（繁）巴士 AKAIRYUSEI - 397749D0">
-		<rom name="超级机器人大战OG无限边疆（繁）巴士 AKAIRYUSEI.nds" size="111948800" crc="397749D0" md5="D179CF74F00AF3301D2A25D0E1E5CA54"/>
+	<game name="超级机器人大战OG无限边境（繁）巴士 AKAIRYUSEI - 397749D0">
+		<rom name="超级机器人大战OG无限边境（繁）巴士 AKAIRYUSEI.nds" size="111948800" crc="397749D0" md5="D179CF74F00AF3301D2A25D0E1E5CA54"/>
 	</game>
-	<game name="超级机器人大战OG无限边疆（简）ACG - 55EA3899">
-		<rom name="超级机器人大战OG无限边疆（简）ACG.nds" size="111948392" crc="55EA3899" md5="B0321F77622F9CE8F89E874829B6F771"/>
+	<game name="超级机器人大战OG无限边境（简）ACG - 55EA3899">
+		<rom name="超级机器人大战OG无限边境（简）ACG.nds" size="111948392" crc="55EA3899" md5="B0321F77622F9CE8F89E874829B6F771"/>
 	</game>
-	<game name="超级机器人大战OG无限边疆超越（简）JOKER浴缸 - E858B9CD">
-		<rom name="超级机器人大战OG无限边疆超越（简）JOKER浴缸.nds" size="259766272" crc="E858B9CD" md5="4D1CDE8A6673370D1A56B5F0B9DB6069"/>
+	<game name="超级机器人大战OG无限边境（简）ACG yggdra 去片头 - BCBAF119">
+		<rom name="超级机器人大战OG无限边境（简）ACG yggdra 去片头.nds" size="111749224" crc="BCBAF119" md5="7FC1FD9F4898AA57833530213B8E338D"/>
+	</game>
+	<game name="超级机器人大战OG无限边境超越（简）JOKER浴缸 - E858B9CD">
+		<rom name="超级机器人大战OG无限边境超越（简）JOKER浴缸.nds" size="259766272" crc="E858B9CD" md5="4D1CDE8A6673370D1A56B5F0B9DB6069"/>
+	</game>
+	<game name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 字体修正中文片头 - 201ADCCE">
+		<rom name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 字体修正中文片头.nds" size="259767296" crc="201ADCCE" md5="44A9487BA857C13FF13DDE74E80C3ECD"/>
+	</game>
+	<game name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 字体修正日文片头 - 8F3C704E">
+		<rom name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 字体修正日文片头.nds" size="259778048" crc="8F3C704E" md5="3F41CC5341FDA0A1FDE911B2063C941B"/>
 	</game>
 	<game name="超级机战学园（简）SOMA 剧情汉化测试版 - 9671647F">
 		<rom name="超级机战学园（简）SOMA 剧情汉化测试版.nds" size="134217728" crc="9671647F" md5="E7BF59757885B8E858D95B6010913E8E"/>

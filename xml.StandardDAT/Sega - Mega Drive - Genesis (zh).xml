@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20250400</version></header>
+	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20250500</version></header>
 	<game name="NHK大河剧 - 太平记（简）cslrxyz - 6E781C6C">
 		<rom name="NHK大河剧 - 太平记（简）cslrxyz.gen" size="1048576" crc="6E781C6C" md5="41D6D2116F52F0988C4023BE81F2D731"/>
 	</game>
@@ -51,9 +51,6 @@
 	</game>
 	<game name="亚瑟传说（繁）川普 Ken 修正版 - 359CB75A">
 		<rom name="亚瑟传说（繁）川普 Ken 修正版.gen" size="2097152" crc="359CB75A" md5="B075CC0C808403F800F722E68BBDFCA2"/>
-	</game>
-	<game name="亚瑟传说（繁）川普 - 095B9A15">
-		<rom name="亚瑟传说（繁）川普.gen" size="2097152" crc="095B9A15" md5="959109050FE0E9B3CFC2BA30B6B60975"/>
 	</game>
 	<game name="亚瑟传说（繁）川普 Ken 20230112 最终修正 - 87AC7F92">
 		<rom name="亚瑟传说（繁）川普 Ken 20230112 最终修正.gen" size="2097152" crc="87AC7F92" md5="490340381D3E1BA5C0A49AECE9062068"/>
@@ -136,17 +133,17 @@
 	<game name="吞食天地（简）永盛 - B403F841">
 		<rom name="吞食天地（简）永盛.gen" size="2097152" crc="B403F841" md5="CBF2E8B231D68E96873AD124F95AB2AC"/>
 	</game>
-	<game name="吞食天地3（简）SKOB 熊组 - EA57B668">
-		<rom name="吞食天地3（简）SKOB 熊组.gen" size="2097152" crc="EA57B668" md5="88F19E23AF14C35152D4964F426529E1"/>
-	</game>
-	<game name="吞食天地3（繁）SKOB - B23C4166">
-		<rom name="吞食天地3（繁）SKOB.gen" size="2097152" crc="B23C4166" md5="0FD2EB3DDDCED1D42C371220AA5B0359"/>
-	</game>
 	<game name="吞食天地3（简） - 733E9120">
 		<rom name="吞食天地3（简）.smd" size="2097664" crc="733E9120" md5="B123BB1422F409B2F8C9A537D96EBBDA"/>
 	</game>
-	<game name="吞食天地3三国外传（繁）三协资讯 - 6F98247D">
-		<rom name="吞食天地3三国外传（繁）三协资讯.gen" size="2097152" crc="6F98247D" md5="14F05928D9539E6EAF31A7A0A64866D1"/>
+	<game name="吞食天地III（简）SKOB 熊组 - EA57B668">
+		<rom name="吞食天地III（简）SKOB 熊组.gen" size="2097152" crc="EA57B668" md5="88F19E23AF14C35152D4964F426529E1"/>
+	</game>
+	<game name="吞食天地III（繁）SKOB - B23C4166">
+		<rom name="吞食天地III（繁）SKOB.gen" size="2097152" crc="B23C4166" md5="0FD2EB3DDDCED1D42C371220AA5B0359"/>
+	</game>
+	<game name="吞食天地III三国外传（繁）三协资讯 - 6F98247D">
+		<rom name="吞食天地III三国外传（繁）三协资讯.gen" size="2097152" crc="6F98247D" md5="14F05928D9539E6EAF31A7A0A64866D1"/>
 	</game>
 	<game name="圣战风云（简）永盛 147201688 - A5C04710">
 		<rom name="圣战风云（简）永盛 147201688.gen" size="1048576" crc="A5C04710" md5="5ED82FB2960525F820C512955B0D9642"/>
@@ -169,8 +166,8 @@
 	<game name="大航海时代（简）TCT cslrxyz - 12CC797A">
 		<rom name="大航海时代（简）TCT cslrxyz.gen" size="1048576" crc="12CC797A" md5="0729022A3DA86452D266BBF3590E1F77"/>
 	</game>
-	<game name="大航海时代（简）TCT 南波先生 文本修正 - 23B0008D">
-		<rom name="大航海时代（简）TCT 南波先生 文本修正.gen" size="1049088" crc="23B0008D" md5="E070BBA3E2F93371D00A00CFE75EFC70"/>
+	<game name="大航海时代（简）TCT 南波先生 花屏乱码文本修正 - 23B0008D">
+		<rom name="大航海时代（简）TCT 南波先生 花屏乱码文本修正.gen" size="1049088" crc="23B0008D" md5="E070BBA3E2F93371D00A00CFE75EFC70"/>
 	</game>
 	<game name="大航海时代2（简）模拟天下 - 5171A4E4">
 		<rom name="大航海时代2（简）模拟天下.gen" size="2097152" crc="5171A4E4" md5="0016F263D59FD200B67E0E63D0ABDAD2"/>
@@ -309,6 +306,9 @@
 	</game>
 	<game name="巫术神界（简）fixCRC - 7896F354">
 		<rom name="巫术神界（简）fixCRC.smd" size="1048582" crc="7896F354" md5="466571625BA1554D2503A4BED16FEB0F"/>
+	</game>
+	<game name="帝国王朝（繁）川普 - 095B9A15">
+		<rom name="帝国王朝（繁）川普.gen" size="2097152" crc="095B9A15" md5="959109050FE0E9B3CFC2BA30B6B60975"/>
 	</game>
 	<game name="帝国王朝（简）永盛 - 4BEA0ECE">
 		<rom name="帝国王朝（简）永盛.gen" size="2097152" crc="4BEA0ECE" md5="B884D0A52BACCA41B453465BFE1E32C3"/>
@@ -484,9 +484,6 @@
 	<game name="梦幻模拟战（简）2018 dump - 195B7E1F">
 		<rom name="梦幻模拟战（简）2018 dump.gen" size="1048576" crc="195B7E1F" md5="42BAFDE6E0F69EF986E33A205804B5A4"/>
 	</game>
-	<game name="梦幻模拟战2（简）狼组 - 3F02618E">
-		<rom name="梦幻模拟战2（简）狼组.gen" size="2097152" crc="3F02618E" md5="F1F1345B1C12D96421168C6ABCE9BD4D"/>
-	</game>
 	<game name="梦幻模拟战2（繁）永盛 - C969F590">
 		<rom name="梦幻模拟战2（繁）永盛.gen" size="2097152" crc="C969F590" md5="86BCFCA13F165D99D24554668CC28521"/>
 	</game>
@@ -507,6 +504,9 @@
 	</game>
 	<game name="梦幻模拟战2（简）永盛 - 8EB7CB2B">
 		<rom name="梦幻模拟战2（简）永盛.gen" size="2097152" crc="8EB7CB2B" md5="312A8619107AC815DBE17E64FCEFE5D2"/>
+	</game>
+	<game name="梦幻模拟战II（简）狼组 - 3F02618E">
+		<rom name="梦幻模拟战II（简）狼组.gen" size="2097152" crc="3F02618E" md5="F1F1345B1C12D96421168C6ABCE9BD4D"/>
 	</game>
 	<game name="梦幻水果盘（繁）三协资讯 - 42DC03E4">
 		<rom name="梦幻水果盘（繁）三协资讯.gen" size="1048576" crc="42DC03E4" md5="8EF5880AD7DF2D37CA6B7333B240F5E3"/>
@@ -682,8 +682,8 @@
 	<game name="蓝宝石之迷（简）永盛 小鬼混 修正版 - 7597A5C2">
 		<rom name="蓝宝石之迷（简）永盛 小鬼混 修正版.gen" size="2097152" crc="7597A5C2" md5="F6E7619F454C1E4C11C1D1C038B187D4"/>
 	</game>
-	<game name="赌神 - 梦幻扑克（繁）松诠资讯 - 1D81A67C">
-		<rom name="赌神 - 梦幻扑克（繁）松诠资讯.gen" size="1048576" crc="1D81A67C" md5="2ADCA8888F29ECFF85F8924386750B20"/>
+	<game name="赌神之梦幻扑克（繁）松诠资讯 - 1D81A67C">
+		<rom name="赌神之梦幻扑克（繁）松诠资讯.gen" size="1048576" crc="1D81A67C" md5="2ADCA8888F29ECFF85F8924386750B20"/>
 	</game>
 	<game name="超级大富翁（简）三协资讯 147201688 - 37C9779E">
 		<rom name="超级大富翁（简）三协资讯 147201688.gen" size="1048576" crc="37C9779E" md5="F54191CB7C58798374E9ABA2FB010970"/>

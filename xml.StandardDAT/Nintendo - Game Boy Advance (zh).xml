@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20250400</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20250500</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -58,8 +58,8 @@
 	<game name="SGG：三国志武将争霸（简） - C7CA6D5D">
 		<rom name="SGG：三国志武将争霸（简）.gba" size="1097264" crc="C7CA6D5D" md5="31425CC8615DD80E0D12C3B9A614D009"/>
 	</game>
-	<game name="X战警（简）Unl - 652A2EBE">
-		<rom name="X战警（简）Unl.gba" size="33554432" crc="652A2EBE" md5="803352465687BA57B7CCE41FF7FACB20"/>
+	<game name="X战记（简）Unl - 652A2EBE">
+		<rom name="X战记（简）Unl.gba" size="33554432" crc="652A2EBE" md5="803352465687BA57B7CCE41FF7FACB20"/>
 	</game>
 	<game name="Z.O.E. 2173 圣约（简）施珂昱 - 01E8E145">
 		<rom name="Z.O.E. 2173 圣约（简）施珂昱.gba" size="8388608" crc="01E8E145" md5="2F444E99CE8133DBA8941180CC8EB480"/>
@@ -70,11 +70,14 @@
 	<game name="三国志（繁）AMONWANG - 3300553D">
 		<rom name="三国志（繁）AMONWANG.gba" size="8388608" crc="3300553D" md5="5B958ED4A8350E855E8E3C8B263C8AC9"/>
 	</game>
-	<game name="三国志 孔明传（繁）天空联盟 廖永新 - 69F599B5">
-		<rom name="三国志 孔明传（繁）天空联盟 廖永新.gba" size="8388608" crc="69F599B5" md5="FD4DD9AD4F62FE0C6E109B5A6D897DCE"/>
-	</game>
 	<game name="三国志 英杰传（繁）AMONWANG - 8FF667AB">
 		<rom name="三国志 英杰传（繁）AMONWANG.gba" size="4194304" crc="8FF667AB" md5="72BB9D75D50B85BE0530F83852E09C5F"/>
+	</game>
+	<game name="三国志：孔明传（繁）天空联盟 廖永新 - 69F599B5">
+		<rom name="三国志：孔明传（繁）天空联盟 廖永新.gba" size="8388608" crc="69F599B5" md5="FD4DD9AD4F62FE0C6E109B5A6D897DCE"/>
+	</game>
+	<game name="三国志：孔明传（简）Dangfer 20250513 v1.0.0 - 47701A4C">
+		<rom name="三国志：孔明传（简）Dangfer 20250513 v1.0.0.gba" size="8388608" crc="47701A4C" md5="A7BA60DD4C60D0DBBA7F69CD573856D1"/>
 	</game>
 	<game name="世界传说：召唤师的血统（简）模拟天下 - 63EC6544">
 		<rom name="世界传说：召唤师的血统（简）模拟天下.gba" size="8388608" crc="63EC6544" md5="986E5C21C1607362CBAED2CBFEC6B660"/>
@@ -235,6 +238,12 @@
 	<game name="双截龙Advance（繁）天使 - DAE40664">
 		<rom name="双截龙Advance（繁）天使.gba" size="4194304" crc="DAE40664" md5="1C07E2A8EBCA40EF230706B0F7B5D5B0"/>
 	</game>
+	<game name="反斗王子邪流丸：来月光町散步吧（简）1d CLARK.H 20250408 v1.0 - 859990BD">
+		<rom name="反斗王子邪流丸：来月光町散步吧（简）1d CLARK.H 20250408 v1.0.gba" size="4217663" crc="859990BD" md5="A47C4D642D247A6D1A3760EA25FEF5B9"/>
+	</game>
+	<game name="叛星：战术指令（简）Advance 20250418 v1.0 - 26689A03">
+		<rom name="叛星：战术指令（简）Advance 20250418 v1.0.gba" size="4194304" crc="26689A03" md5="86F823B8AB631FB7D65FE47A24923AEF"/>
+	</game>
 	<game name="口袋梦幻! 梦幻寻宝幸存挑战!（简）TGB - 1489592E">
 		<rom name="口袋梦幻! 梦幻寻宝幸存挑战!（简）TGB.gba" size="8388608" crc="1489592E" md5="219D817B820649F1EB3824C80DD08612"/>
 	</game>
@@ -355,17 +364,23 @@
 	<game name="圣诞游戏贺卡拼图（简）混沌星辰 - BAF37602">
 		<rom name="圣诞游戏贺卡拼图（简）混沌星辰.gba" size="1023864" crc="BAF37602" md5="680A6DFD31D68D70753EB4C9203489E9"/>
 	</game>
-	<game name="地球冒险12（简）hotcofe79 20240509 汉化2代 - A6A5FBA9">
-		<rom name="地球冒险12（简）hotcofe79 20240509 汉化2代.gba" size="16777216" crc="A6A5FBA9" md5="12EAE0814A4A54DA156474DB9ABB458D"/>
+	<game name="地球冒险1&amp;2（简）hotcofe 20240509 汉化2代 - A6A5FBA9">
+		<rom name="地球冒险1&amp;2（简）hotcofe 20240509 汉化2代.gba" size="16777216" crc="A6A5FBA9" md5="12EAE0814A4A54DA156474DB9ABB458D"/>
 	</game>
-	<game name="地球冒险12（简）hotcofe79 20240513 汉化2代 - 7BC3D722">
-		<rom name="地球冒险12（简）hotcofe79 20240513 汉化2代.gba" size="16777216" crc="7BC3D722" md5="01B248CCEE28ED96657E366CE86164B0"/>
+	<game name="地球冒险1&amp;2（简）hotcofe 20240513 汉化2代 - 7BC3D722">
+		<rom name="地球冒险1&amp;2（简）hotcofe 20240513 汉化2代.gba" size="16777216" crc="7BC3D722" md5="01B248CCEE28ED96657E366CE86164B0"/>
 	</game>
-	<game name="地球冒险12（简）hotcofe79 20240519 汉化2代 - A0211C3B">
-		<rom name="地球冒险12（简）hotcofe79 20240519 汉化2代.gba" size="16777216" crc="A0211C3B" md5="073054313E34A23DD656BB3B795A902F"/>
+	<game name="地球冒险1&amp;2（简）hotcofe 20240519 汉化2代 - A0211C3B">
+		<rom name="地球冒险1&amp;2（简）hotcofe 20240519 汉化2代.gba" size="16777216" crc="A0211C3B" md5="073054313E34A23DD656BB3B795A902F"/>
 	</game>
-	<game name="地球冒险12（简）hotcofe79 20240527 汉化2代 - DE8A1A98">
-		<rom name="地球冒险12（简）hotcofe79 20240527 汉化2代.gba" size="16777216" crc="DE8A1A98" md5="AE9FDE453EB4166DD7D8EC9BD0A46937"/>
+	<game name="地球冒险1&amp;2（简）hotcofe 20240527 汉化2代 - DE8A1A98">
+		<rom name="地球冒险1&amp;2（简）hotcofe 20240527 汉化2代.gba" size="16777216" crc="DE8A1A98" md5="AE9FDE453EB4166DD7D8EC9BD0A46937"/>
+	</game>
+	<game name="地球冒险1&amp;2（简）hotcofe 20250524 汉化2代 - 2A338E90">
+		<rom name="地球冒险1&amp;2（简）hotcofe 20250524 汉化2代.gba" size="16777216" crc="2A338E90" md5="4415968AC8C27D5A8E1DA2C58200850A"/>
+	</game>
+	<game name="地球冒险1&amp;2（简）hotcofe 20250524 汉化2代 跳过1代 - 0B05C50C">
+		<rom name="地球冒险1&amp;2（简）hotcofe 20250524 汉化2代 跳过1代.gba" size="16777216" crc="0B05C50C" md5="4E1802EC5F3A7608EB8BAA16B8BAA415"/>
 	</game>
 	<game name="地球冒险3（简）漫游 空气 v1.0 - 21FDF96C">
 		<rom name="地球冒险3（简）漫游 空气 v1.0.gba" size="33554432" crc="21FDF96C" md5="480C0866FF500609DB2A37897CDA7BB8"/>
@@ -441,6 +456,9 @@
 	</game>
 	<game name="失落的维京人（简）Advance 20230804 - 2F101744">
 		<rom name="失落的维京人（简）Advance 20230804.gba" size="4194304" crc="2F101744" md5="B4B8F67A6D76EC5214B79DE19685E298"/>
+	</game>
+	<game name="头文字D另一个故事（简）Advance 落月 20250417 v1.0 - 8F3047FF">
+		<rom name="头文字D另一个故事（简）Advance 落月 20250417 v1.0.gba" size="16777216" crc="8F3047FF" md5="DF874EAD296F56434372CBE21C76E10C"/>
 	</game>
 	<game name="奇奇怪界Advance（繁）天使 - 94C22BDC">
 		<rom name="奇奇怪界Advance（繁）天使.gba" size="4194304" crc="94C22BDC" md5="D841C1710D989758D3171C61BC0EAD6A"/>
