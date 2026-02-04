@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>NEC - PC Engine - TurboGrafx 16 (zh)</name><version>20250400</version></header>
+	<header><name>NEC - PC Engine - TurboGrafx-16 (zh)</name><version>20260200</version></header>
 	<game name="1943改（简）少年不知愁 20210501 - 698A65D8">
 		<rom name="1943改（简）少年不知愁 20210501.pce" size="524288" crc="698A65D8" md5="EDEB87D0EB5883B8C88F2F77F2D9594E"/>
+	</game>
+	<game name="写真问答日版（简）CLARK.H v1.0 - 93781D3D">
+		<rom name="写真问答日版（简）CLARK.H v1.0.pce" size="1048576" crc="93781D3D" md5="D5FE150D9557CCCBF31B87135C0286A0"/>
 	</game>
 	<game name="加藤茶和志村健爆笑人（简）1d 20250101 v1.0 - 5ECA8DF5">
 		<rom name="加藤茶和志村健爆笑人（简）1d 20250101 v1.0.pce" size="262144" crc="5ECA8DF5" md5="44528983BB20DA06AB1F863FFFCD8326"/>

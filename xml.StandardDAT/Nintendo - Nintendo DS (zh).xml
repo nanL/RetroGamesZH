@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20250500</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20260200</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -127,6 +127,9 @@
 	<game name="RPG工具DS（繁）章半仙 - 608D9711">
 		<rom name="RPG工具DS（繁）章半仙.nds" size="33554432" crc="608D9711" md5="E7C92C48E3C342D3512DC2CCD36C6B01"/>
 	</game>
+	<game name="SuperLite2500 女子高中生逃脱（简）aikika 20250829 - 463252FD">
+		<rom name="SuperLite2500 女子高中生逃脱（简）aikika 20250829.nds" size="13557812" crc="463252FD" md5="1416A953D7C8DD8EBE320D19B4C8ABF9"/>
+	</game>
 	<game name="TAO 魔物之塔与魔法之卵（简）NDSBBS - F2B6DBA9">
 		<rom name="TAO 魔物之塔与魔法之卵（简）NDSBBS.nds" size="67108864" crc="F2B6DBA9" md5="EDA51F65874A29CBCD264EDE5C0841C3"/>
 	</game>
@@ -244,14 +247,26 @@
 	<game name="世界树迷宫2 诸王的圣杯（简）小黑屋 - CAA9DA57">
 		<rom name="世界树迷宫2 诸王的圣杯（简）小黑屋.nds" size="22137408" crc="CAA9DA57" md5="58D2A37F73A4CEA075C0468D8BC2C784"/>
 	</game>
-	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 原版立绘 - D9E7C6E1">
-		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 原版立绘.nds" size="33554432" crc="D9E7C6E1" md5="FA958161C3F1029E0A9E8D5C365E2D43"/>
+	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 通常版 - D9E7C6E1">
+		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 通常版.nds" size="33554432" crc="D9E7C6E1" md5="FA958161C3F1029E0A9E8D5C365E2D43"/>
 	</game>
-	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 高清重制版立绘 - 219FAD6E">
-		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 高清重制版立绘.nds" size="33554432" crc="219FAD6E" md5="CCBCD239750A7C9547699EC858449931"/>
+	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 立绘修改版 - 219FAD6E">
+		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250323 v1.0.0 立绘修改版.nds" size="33554432" crc="219FAD6E" md5="CCBCD239750A7C9547699EC858449931"/>
 	</game>
-	<game name="世界足球DS（简）YYJOY - 1BA9E005">
-		<rom name="世界足球DS（简）YYJOY.nds" size="37902164" crc="1BA9E005" md5="BC017238A7925273C71F99E42C4B5E9A"/>
+	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250516 v1.1.1 通常版 - 6CCAACE2">
+		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250516 v1.1.1 通常版.nds" size="33554432" crc="6CCAACE2" md5="627477D4C565ABC4EBEC86F0BFA73FE9"/>
+	</game>
+	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250516 v1.1.1 立绘修改版 - D0E4075C">
+		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250516 v1.1.1 立绘修改版.nds" size="33554432" crc="D0E4075C" md5="9CC386B413DFC1EC59110C00F30C5024"/>
+	</game>
+	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250511 v1.1.0 立绘修改版 - 5FA81DA3">
+		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250511 v1.1.0 立绘修改版.nds" size="33554432" crc="5FA81DA3" md5="A1797E4CB47D0271B4D83F163D18CBEE"/>
+	</game>
+	<game name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250511 v1.1.0 通常版 - 699D99A8">
+		<rom name="世界树迷宫III星海的访客（简）Xzonn 王子泉 20250511 v1.1.0 通常版.nds" size="33554432" crc="699D99A8" md5="B34704C56882967E0806485D32BE0D2E"/>
+	</game>
+	<game name="世界足球DS（简）YYJoy - 1BA9E005">
+		<rom name="世界足球DS（简）YYJoy.nds" size="37902164" crc="1BA9E005" md5="BC017238A7925273C71F99E42C4B5E9A"/>
 	</game>
 	<game name="东京台场赌场（简）星组 - 163E71AC">
 		<rom name="东京台场赌场（简）星组.nds" size="5634444" crc="163E71AC" md5="6A15C8033C67A158EE8D9FF1C8099AAF"/>
@@ -277,14 +292,14 @@
 	<game name="为你而生（简）GUNNER MONOCHROM 帆 - 8D60CFE0">
 		<rom name="为你而生（简）GUNNER MONOCHROM 帆.nds" size="133646948" crc="8D60CFE0" md5="7CA8A53CE1E34CB6E15ACEEAAD27ADC8"/>
 	</game>
-	<game name="主题公园（简）YYJOY - 67326C93">
-		<rom name="主题公园（简）YYJOY.nds" size="33554432" crc="67326C93" md5="1BBEA897B398016600CF3248C7DFD019"/>
+	<game name="主题公园（简）YYJoy - 67326C93">
+		<rom name="主题公园（简）YYJoy.nds" size="33554432" crc="67326C93" md5="1BBEA897B398016600CF3248C7DFD019"/>
 	</game>
-	<game name="主题公园（简）YYJOY - EA4C0ED2">
-		<rom name="主题公园（简）YYJOY.nds" size="33554432" crc="EA4C0ED2" md5="A9ACAC8706772E29FDB4FD4A4A53ADBE"/>
+	<game name="主题公园（简）YYJoy - EA4C0ED2">
+		<rom name="主题公园（简）YYJoy.nds" size="33554432" crc="EA4C0ED2" md5="A9ACAC8706772E29FDB4FD4A4A53ADBE"/>
 	</game>
-	<game name="主题公园（简）YYJOY - 8BBBD866">
-		<rom name="主题公园（简）YYJOY.nds" size="33554432" crc="8BBBD866" md5="7EBE4E3B80D6C024B48DCA3A68C16080"/>
+	<game name="主题公园（简）YYJoy - 8BBBD866">
+		<rom name="主题公园（简）YYJoy.nds" size="33554432" crc="8BBBD866" md5="7EBE4E3B80D6C024B48DCA3A68C16080"/>
 	</game>
 	<game name="乌龙派出所（简）SOULTRIP 测试 - C23CC13D">
 		<rom name="乌龙派出所（简）SOULTRIP 测试.nds" size="41788160" crc="C23CC13D" md5="85FB71C2FD0926A9502EF8D01786E9AC"/>
@@ -304,11 +319,11 @@
 	<game name="仙境传说DS（繁）翼之梦 巴士 AKAIRYUSEI v1.3 - 3BD20BC6">
 		<rom name="仙境传说DS（繁）翼之梦 巴士 AKAIRYUSEI v1.3.nds" size="103147008" crc="3BD20BC6" md5="5DE8B1F14D89CBE0D5A28AA250ADB7F9"/>
 	</game>
-	<game name="代号基亚斯 反叛的鲁鲁修（简）DN - 40E48FE1">
-		<rom name="代号基亚斯 反叛的鲁鲁修（简）DN.nds" size="67108864" crc="40E48FE1" md5="8A7C7F7BC03EF919E7ABCD1E2D354570"/>
+	<game name="代号基亚斯：反叛的鲁鲁修（简）DN - 40E48FE1">
+		<rom name="代号基亚斯：反叛的鲁鲁修（简）DN.nds" size="67108864" crc="40E48FE1" md5="8A7C7F7BC03EF919E7ABCD1E2D354570"/>
 	</game>
-	<game name="代号基亚斯 反叛的鲁鲁修（简）DN DN - B3909851">
-		<rom name="代号基亚斯 反叛的鲁鲁修（简）DN DN.nds" size="67108864" crc="B3909851" md5="7DB89C1DFA9979117D8B6A2803A3F526"/>
+	<game name="代号基亚斯：反叛的鲁鲁修（简）DN 2008 测试 - B3909851">
+		<rom name="代号基亚斯：反叛的鲁鲁修（简）DN 2008 测试.nds" size="67108864" crc="B3909851" md5="7DB89C1DFA9979117D8B6A2803A3F526"/>
 	</game>
 	<game name="任何地方都能用的DS家计本（简）E.WINGS - FA07A336">
 		<rom name="任何地方都能用的DS家计本（简）E.WINGS.nds" size="14748167" crc="FA07A336" md5="D7DAA757AB5C6BA8A86DB0E28C4C91B3"/>
@@ -334,23 +349,23 @@
 	<game name="任天狗狗体验版（简）神游 移除iQueDS限制 - 2F3965E2">
 		<rom name="任天狗狗体验版（简）神游 移除iQueDS限制.nds" size="33554432" crc="2F3965E2" md5="A17251CC2D6D38769AA75EEB9851D310"/>
 	</game>
-	<game name="任天狗：吉娃娃和朋友们（简）YYJOY - 5E9F2C30">
-		<rom name="任天狗：吉娃娃和朋友们（简）YYJOY.nds" size="29101036" crc="5E9F2C30" md5="8139660FC73FF69EE9377E0C84515FC3"/>
+	<game name="任天狗：吉娃娃和朋友们（简）YYJoy - 5E9F2C30">
+		<rom name="任天狗：吉娃娃和朋友们（简）YYJoy.nds" size="29101036" crc="5E9F2C30" md5="8139660FC73FF69EE9377E0C84515FC3"/>
 	</game>
-	<game name="任天狗：吉娃娃和朋友们（简）YYJOY - 0ED335C3">
-		<rom name="任天狗：吉娃娃和朋友们（简）YYJOY.nds" size="29101036" crc="0ED335C3" md5="E60A7A632B12416D8299AB925BA373DF"/>
+	<game name="任天狗：吉娃娃和朋友们（简）YYJoy - 0ED335C3">
+		<rom name="任天狗：吉娃娃和朋友们（简）YYJoy.nds" size="29101036" crc="0ED335C3" md5="E60A7A632B12416D8299AB925BA373DF"/>
 	</game>
-	<game name="任天狗：拉布拉多和朋友们（简）YYJOY - FE976BB0">
-		<rom name="任天狗：拉布拉多和朋友们（简）YYJOY.nds" size="29101024" crc="FE976BB0" md5="23D948FB2DF1FD52EC5D1DA45556696E"/>
+	<game name="任天狗：拉布拉多和朋友们（简）YYJoy - FE976BB0">
+		<rom name="任天狗：拉布拉多和朋友们（简）YYJoy.nds" size="29101024" crc="FE976BB0" md5="23D948FB2DF1FD52EC5D1DA45556696E"/>
 	</game>
-	<game name="任天狗：拉布拉多和朋友们（简）YYJOY - AEDB7243">
-		<rom name="任天狗：拉布拉多和朋友们（简）YYJOY.nds" size="29101024" crc="AEDB7243" md5="A35D0E70F4DCCA67174A7090ED1EB0B6"/>
+	<game name="任天狗：拉布拉多和朋友们（简）YYJoy - AEDB7243">
+		<rom name="任天狗：拉布拉多和朋友们（简）YYJoy.nds" size="29101024" crc="AEDB7243" md5="A35D0E70F4DCCA67174A7090ED1EB0B6"/>
 	</game>
-	<game name="任天狗：腊肠犬和朋友们（简）YYJOY - BF467D54">
-		<rom name="任天狗：腊肠犬和朋友们（简）YYJOY.nds" size="29101036" crc="BF467D54" md5="1F1BACAC62B7015C9EE5B05048B9AD9A"/>
+	<game name="任天狗：腊肠犬和朋友们（简）YYJoy - BF467D54">
+		<rom name="任天狗：腊肠犬和朋友们（简）YYJoy.nds" size="29101036" crc="BF467D54" md5="1F1BACAC62B7015C9EE5B05048B9AD9A"/>
 	</game>
-	<game name="任天狗：腊肠犬和朋友们（简）YYJOY - EF0A64A7">
-		<rom name="任天狗：腊肠犬和朋友们（简）YYJOY.nds" size="29101036" crc="EF0A64A7" md5="18FDAB4126D0D7996AC01D4F1C1796AC"/>
+	<game name="任天狗：腊肠犬和朋友们（简）YYJoy - EF0A64A7">
+		<rom name="任天狗：腊肠犬和朋友们（简）YYJoy.nds" size="29101036" crc="EF0A64A7" md5="18FDAB4126D0D7996AC01D4F1C1796AC"/>
 	</game>
 	<game name="伊苏2DS（简）JOYFUL v1.1 - 18894941">
 		<rom name="伊苏2DS（简）JOYFUL v1.1.nds" size="66408184" crc="18894941" md5="2327C99DD0722CD624D328B05FF24BEA"/>
@@ -388,6 +403,12 @@
 	<game name="使命召唤4现代战争（简）MOBILE fciq v0.74 中文语音 - 45A459FA">
 		<rom name="使命召唤4现代战争（简）MOBILE fciq v0.74 中文语音.nds" size="67108864" crc="45A459FA" md5="CBA2438F9BCA0410F6A89F487A319E3C"/>
 	</game>
+	<game name="使命召唤4现代战争（简）fciq 20251001 - 194D138D">
+		<rom name="使命召唤4现代战争（简）fciq 20251001.nds" size="67108864" crc="194D138D" md5="0EE6C8A4C8B2A9166F4B375425E06DF4"/>
+	</game>
+	<game name="使命召唤4现代战争（简）fciq 20251001 国语配音 - 39107EC1">
+		<rom name="使命召唤4现代战争（简）fciq 20251001 国语配音.nds" size="67108864" crc="39107EC1" md5="C14693F7EAFCFEFDF4F1999152389EF2"/>
+	</game>
 	<game name="使命召唤：世界战争（简）COD5临时 文本汉化 - 4BA00D69">
 		<rom name="使命召唤：世界战争（简）COD5临时 文本汉化.nds" size="67108864" crc="4BA00D69" md5="8CA5F9D54F2A4712F6A31852E294D310"/>
 	</game>
@@ -424,8 +445,8 @@
 	<game name="俄罗斯方块 DS（简）APEX v1.00 - B5B49C77">
 		<rom name="俄罗斯方块 DS（简）APEX v1.00.nds" size="16777216" crc="B5B49C77" md5="1AF9A88F09DB053CAFCAEF59B3E07AB8"/>
 	</game>
-	<game name="俄罗斯方块 DS（简）APEX v2.00 Final - BB8A3316">
-		<rom name="俄罗斯方块 DS（简）APEX v2.00 Final.nds" size="16777216" crc="BB8A3316" md5="B8A6E3FA84E26CED816CCDC09FD63FDB"/>
+	<game name="俄罗斯方块 DS（简）APEX 20070731 v2.00 Final - BB8A3316">
+		<rom name="俄罗斯方块 DS（简）APEX 20070731 v2.00 Final.nds" size="16777216" crc="BB8A3316" md5="B8A6E3FA84E26CED816CCDC09FD63FDB"/>
 	</game>
 	<game name="俄罗斯方块 DS（简）APEX 20070513 v0.99 - 0D06DAFB">
 		<rom name="俄罗斯方块 DS（简）APEX 20070513 v0.99.nds" size="13630224" crc="0D06DAFB" md5="EEF891BADFA87E309B6E439053854FBC"/>
@@ -649,8 +670,8 @@
 	<game name="合金弹头7（简繁）罗伊SD 20080719 完全汉化版 - A8A463ED">
 		<rom name="合金弹头7（简繁）罗伊SD 20080719 完全汉化版.nds" size="67108864" crc="A8A463ED" md5="A161A643D2D53383CAA3321D81459E7E"/>
 	</game>
-	<game name="名侦探柯南：侦探力训练 0.99（简）E.WINGS 名侦探柯南事务所 v0.99 - 34D50EB5">
-		<rom name="名侦探柯南：侦探力训练 0.99（简）E.WINGS 名侦探柯南事务所 v0.99.nds" size="33554432" crc="34D50EB5" md5="5DBFB4097806E6568FE59C026D2EBC66"/>
+	<game name="名侦探柯南：侦探力训练（简）E.WINGS 名侦探柯南事务所 v0.99 - 34D50EB5">
+		<rom name="名侦探柯南：侦探力训练（简）E.WINGS 名侦探柯南事务所 v0.99.nds" size="33554432" crc="34D50EB5" md5="5DBFB4097806E6568FE59C026D2EBC66"/>
 	</game>
 	<game name="名侦探柯南：来自过去的前奏曲（简）ACG - 8D1EA568">
 		<rom name="名侦探柯南：来自过去的前奏曲（简）ACG.nds" size="58051968" crc="8D1EA568" md5="FF266DE7940CC087270E44C81470CA37"/>
@@ -937,32 +958,44 @@
 	<game name="宝可梦：心金（繁）ACG - 87AD5ABF">
 		<rom name="宝可梦：心金（繁）ACG.nds" size="121896960" crc="87AD5ABF" md5="BFB421E6BAE5F28D1E3448F08DAE895F"/>
 	</game>
-	<game name="宝可梦：心金（简）Xzonn 20240204 v2 - C898AB5A">
-		<rom name="宝可梦：心金（简）Xzonn 20240204 v2.nds" size="134217728" crc="C898AB5A" md5="07FC5DE0DD108469CA47734C004F3059"/>
+	<game name="宝可梦：心金（简）ACG Xzonn 20240204 v2 - C898AB5A">
+		<rom name="宝可梦：心金（简）ACG Xzonn 20240204 v2.nds" size="134217728" crc="C898AB5A" md5="07FC5DE0DD108469CA47734C004F3059"/>
 	</game>
-	<game name="宝可梦：心金（简）Xzonn 20251027 v2.1.0 - 9F53CA47">
-		<rom name="宝可梦：心金（简）Xzonn 20251027 v2.1.0.nds" size="134217728" crc="9F53CA47" md5="E05AE6D7BE450DF85D6C992B367C5161"/>
+	<game name="宝可梦：心金（简）ACG Xzonn 20251027 v2.1.0 - 9F53CA47">
+		<rom name="宝可梦：心金（简）ACG Xzonn 20251027 v2.1.0.nds" size="134217728" crc="9F53CA47" md5="E05AE6D7BE450DF85D6C992B367C5161"/>
 	</game>
-	<game name="宝可梦：珍珠（简）YYJOY v1.1.0 - 7AA0B0D1">
-		<rom name="宝可梦：珍珠（简）YYJOY v1.1.0.nds" size="134217728" crc="7AA0B0D1" md5="FF1DAD10D940FC1CC3995824717BADB9"/>
+	<game name="宝可梦：心金（简）ACG Xzonn 20250825 v2.1.1 日文宝可梦名 - 1105819B">
+		<rom name="宝可梦：心金（简）ACG Xzonn 20250825 v2.1.1 日文宝可梦名.nds" size="134217728" crc="1105819B" md5="234ABAC473C5306B3E133C0047E1953D"/>
 	</game>
-	<game name="宝可梦：珍珠（繁）YYJOY v1.1.0 - CD4393D4">
-		<rom name="宝可梦：珍珠（繁）YYJOY v1.1.0.nds" size="134217728" crc="CD4393D4" md5="D4ABD9702DEB9309A205AEEA057B2CED"/>
+	<game name="宝可梦：心金（简）ACG Xzonn 20250825 v2.1.1 官译修正 - 09828466">
+		<rom name="宝可梦：心金（简）ACG Xzonn 20250825 v2.1.1 官译修正.nds" size="134217728" crc="09828466" md5="4235F6E2A57E5D48761DD8ADF06728B3"/>
 	</game>
-	<game name="宝可梦：珍珠（简）YYJOY Xzonn 20200427 v0.9.0b - A8873C4A">
-		<rom name="宝可梦：珍珠（简）YYJOY Xzonn 20200427 v0.9.0b.nds" size="134217728" crc="A8873C4A" md5="DE6E6BD992F43B8A247C1B656E7CDB79"/>
+	<game name="宝可梦：珍珠（简）YYJoy v1.1.0 - 7AA0B0D1">
+		<rom name="宝可梦：珍珠（简）YYJoy v1.1.0.nds" size="134217728" crc="7AA0B0D1" md5="FF1DAD10D940FC1CC3995824717BADB9"/>
+	</game>
+	<game name="宝可梦：珍珠（繁）YYJoy v1.1.0 - CD4393D4">
+		<rom name="宝可梦：珍珠（繁）YYJoy v1.1.0.nds" size="134217728" crc="CD4393D4" md5="D4ABD9702DEB9309A205AEEA057B2CED"/>
+	</game>
+	<game name="宝可梦：珍珠（简）YYJoy Xzonn 20200427 v0.9.0b - A8873C4A">
+		<rom name="宝可梦：珍珠（简）YYJoy Xzonn 20200427 v0.9.0b.nds" size="134217728" crc="A8873C4A" md5="DE6E6BD992F43B8A247C1B656E7CDB79"/>
 	</game>
 	<game name="宝可梦：珍珠（简）YYJoy - 1A3F7E87">
 		<rom name="宝可梦：珍珠（简）YYJoy.nds" size="134217728" crc="1A3F7E87" md5="3C93AB29384919B0813264E617681475"/>
 	</game>
-	<game name="宝可梦：珍珠（简）Xzonn 20240204 v2a - ECCDFE2E">
-		<rom name="宝可梦：珍珠（简）Xzonn 20240204 v2a.nds" size="67108864" crc="ECCDFE2E" md5="AF267E681450DA50211E9A248880FB5D"/>
+	<game name="宝可梦：珍珠（简）YYJoy Xzonn 20240204 v2a - ECCDFE2E">
+		<rom name="宝可梦：珍珠（简）YYJoy Xzonn 20240204 v2a.nds" size="67108864" crc="ECCDFE2E" md5="AF267E681450DA50211E9A248880FB5D"/>
 	</game>
-	<game name="宝可梦：珍珠（简）Xzonn 20251027 v2.1.0 - C64EC8F4">
-		<rom name="宝可梦：珍珠（简）Xzonn 20251027 v2.1.0.nds" size="67108864" crc="C64EC8F4" md5="0123272633759ABAD2150EA614FC9DDF"/>
+	<game name="宝可梦：珍珠（简）YYJoy Xzonn 20251027 v2.1.0 - C64EC8F4">
+		<rom name="宝可梦：珍珠（简）YYJoy Xzonn 20251027 v2.1.0.nds" size="67108864" crc="C64EC8F4" md5="0123272633759ABAD2150EA614FC9DDF"/>
 	</game>
-	<game name="宝可梦：白（简繁）ACG 简繁 v2 - 40F08826">
-		<rom name="宝可梦：白（简繁）ACG 简繁 v2.nds" size="268435456" crc="40F08826" md5="B74B6B07D2AB1BCB02B57046CE043966"/>
+	<game name="宝可梦：珍珠（简）YYJoy Xzonn 20250825 v2.1.1 日文宝可梦名 - F8876522">
+		<rom name="宝可梦：珍珠（简）YYJoy Xzonn 20250825 v2.1.1 日文宝可梦名.nds" size="67108864" crc="F8876522" md5="D88174F464006948F5CF4FEF0268F79D"/>
+	</game>
+	<game name="宝可梦：珍珠（简）YYJoy Xzonn 20250825 v2.1.1 官译修正 - A129AC90">
+		<rom name="宝可梦：珍珠（简）YYJoy Xzonn 20250825 v2.1.1 官译修正.nds" size="67108864" crc="A129AC90" md5="580177A6997B003A7EB18AC43ECBAEFD"/>
+	</game>
+	<game name="宝可梦：白（简繁）ACG v2 - 40F08826">
+		<rom name="宝可梦：白（简繁）ACG v2.nds" size="268435456" crc="40F08826" md5="B74B6B07D2AB1BCB02B57046CE043966"/>
 	</game>
 	<game name="宝可梦：白（简繁）ACG YKALJSHSH v3 修正 - 3EAC5CC0">
 		<rom name="宝可梦：白（简繁）ACG YKALJSHSH v3 修正.nds" size="268435456" crc="3EAC5CC0" md5="5C0D4F5848E1CAB7EA49B32EDDF97E6C"/>
@@ -976,14 +1009,17 @@
 	<game name="宝可梦：白（简）BW 20201022 - 955C0F35">
 		<rom name="宝可梦：白（简）BW 20201022.nds" size="268435456" crc="955C0F35" md5="FE836ECCE5DD11B546C03A638B5BA5C1"/>
 	</game>
-	<game name="宝可梦：白（简）BW 20240718 v2 - 592483DB">
-		<rom name="宝可梦：白（简）BW 20240718 v2.nds" size="268435456" crc="592483DB" md5="17B06E2CDB90FD4D0C3169DCA782B168"/>
+	<game name="宝可梦：白（简）BW white8844 20240718 v2 - 592483DB">
+		<rom name="宝可梦：白（简）BW white8844 20240718 v2.nds" size="268435456" crc="592483DB" md5="17B06E2CDB90FD4D0C3169DCA782B168"/>
 	</game>
-	<game name="宝可梦：白（简）BW 20241016 v2.1 - 85FA1AA5">
-		<rom name="宝可梦：白（简）BW 20241016 v2.1.nds" size="268435456" crc="85FA1AA5" md5="EE1AE28B38B5A899CB8AAF5A339DA1B9"/>
+	<game name="宝可梦：白（简）BW white8844 20241016 v2.1 - 85FA1AA5">
+		<rom name="宝可梦：白（简）BW white8844 20241016 v2.1.nds" size="268435456" crc="85FA1AA5" md5="EE1AE28B38B5A899CB8AAF5A339DA1B9"/>
 	</game>
-	<game name="宝可梦：白（简）BW 20250204 v2.1 双译名 - FFC14E71">
-		<rom name="宝可梦：白（简）BW 20250204 v2.1 双译名.nds" size="268435456" crc="FFC14E71" md5="63D83CAAEE374209F40FB38A03919522"/>
+	<game name="宝可梦：白（简）BW white8844 20250204 v2.1 双译名 - FFC14E71">
+		<rom name="宝可梦：白（简）BW white8844 20250204 v2.1 双译名.nds" size="268435456" crc="FFC14E71" md5="63D83CAAEE374209F40FB38A03919522"/>
+	</game>
+	<game name="宝可梦：白（简）BW white8844 20250926 v2.1.5 - 59810B4A">
+		<rom name="宝可梦：白（简）BW white8844 20250926 v2.1.5.nds" size="268435456" crc="59810B4A" md5="D02BBD2F7B711957D0EEDC15C6A75684"/>
 	</game>
 	<game name="宝可梦：白2（简繁）ACG 口袋群星SP v2 - 40D51B68">
 		<rom name="宝可梦：白2（简繁）ACG 口袋群星SP v2.nds" size="319947776" crc="40D51B68" md5="47355E6481E533C591458640811BFA33"/>
@@ -1000,11 +1036,20 @@
 	<game name="宝可梦：白2（简繁）ACG 口袋群星SP 天涯 v5 汉化修复版 DSi增强AP - DFC6E02F">
 		<rom name="宝可梦：白2（简繁）ACG 口袋群星SP 天涯 v5 汉化修复版 DSi增强AP.nds" size="536870912" crc="DFC6E02F" md5="BA16E830D1C0F2EE5AB34635C40799C9"/>
 	</game>
-	<game name="宝可梦：白2（简）ACG 口袋群星SP - 6EBCD05A">
-		<rom name="宝可梦：白2（简）ACG 口袋群星SP.nds" size="536870912" crc="6EBCD05A" md5="EFE507768F40F7EFD050F029132A46EA"/>
+	<game name="宝可梦：白2（简繁）ACG 口袋群星SP - 6EBCD05A">
+		<rom name="宝可梦：白2（简繁）ACG 口袋群星SP.nds" size="536870912" crc="6EBCD05A" md5="EFE507768F40F7EFD050F029132A46EA"/>
 	</game>
-	<game name="宝可梦：白2（简）ACG 口袋群星SP - 708E1FC5">
-		<rom name="宝可梦：白2（简）ACG 口袋群星SP.nds" size="319951360" crc="708E1FC5" md5="D47FA340654904FE9DF252469603DB0E"/>
+	<game name="宝可梦：白2（简繁）ACG 口袋群星SP - 708E1FC5">
+		<rom name="宝可梦：白2（简繁）ACG 口袋群星SP.nds" size="319951360" crc="708E1FC5" md5="D47FA340654904FE9DF252469603DB0E"/>
+	</game>
+	<game name="宝可梦：白2（简繁）卧看微尘 Desaix 20250615 v3 剧情官译 - 32E70A7F">
+		<rom name="宝可梦：白2（简繁）卧看微尘 Desaix 20250615 v3 剧情官译.nds" size="536870912" crc="32E70A7F" md5="FC486A7D16FE44CF7AB478F9E565C5BA"/>
+	</game>
+	<game name="宝可梦：白2（简繁）天涯 Desaix 20250610 v4 全剧情文本官译 - 315F5EEA">
+		<rom name="宝可梦：白2（简繁）天涯 Desaix 20250610 v4 全剧情文本官译.nds" size="536870912" crc="315F5EEA" md5="B0FD40E77B067462373162AD915C986C"/>
+	</game>
+	<game name="宝可梦：白2（简繁）天涯 Desaix 20251001 v5 - D403D3C0">
+		<rom name="宝可梦：白2（简繁）天涯 Desaix 20251001 v5.nds" size="536870912" crc="D403D3C0" md5="FA7D7E4368EABAEC84C5725112D4B2A7"/>
 	</game>
 	<game name="宝可梦：白金（简）巴士 ACG v1.0 - 4BA574E6">
 		<rom name="宝可梦：白金（简）巴士 ACG v1.0.nds" size="103348304" crc="4BA574E6" md5="209C8610AED3E976842D539581EA631C"/>
@@ -1024,29 +1069,41 @@
 	<game name="宝可梦：白金（简）v1.2.0 汉化修正 - 90DB72CB">
 		<rom name="宝可梦：白金（简）v1.2.0 汉化修正.nds" size="134217728" crc="90DB72CB" md5="7DC72214F9564EB2A78305F366EDD06E"/>
 	</game>
-	<game name="宝可梦：白金（简）Xzonn 20240204 v2 - D50B0804">
-		<rom name="宝可梦：白金（简）Xzonn 20240204 v2.nds" size="134217728" crc="D50B0804" md5="4133C9053A5FE47B815184E0E725671E"/>
+	<game name="宝可梦：白金（简）ACG Xzonn 20240204 v2 - D50B0804">
+		<rom name="宝可梦：白金（简）ACG Xzonn 20240204 v2.nds" size="134217728" crc="D50B0804" md5="4133C9053A5FE47B815184E0E725671E"/>
 	</game>
-	<game name="宝可梦：白金（简）Xzonn 20251027 v2.1.0 - 797464B9">
-		<rom name="宝可梦：白金（简）Xzonn 20251027 v2.1.0.nds" size="134217728" crc="797464B9" md5="38B985D314DB90EFC9A174A63E7D6D5C"/>
+	<game name="宝可梦：白金（简）ACG Xzonn 20251027 v2.1.0 - 797464B9">
+		<rom name="宝可梦：白金（简）ACG Xzonn 20251027 v2.1.0.nds" size="134217728" crc="797464B9" md5="38B985D314DB90EFC9A174A63E7D6D5C"/>
 	</game>
-	<game name="宝可梦：钻石（简）YYJOY v1.1.0 - D9E0D10E">
-		<rom name="宝可梦：钻石（简）YYJOY v1.1.0.nds" size="134217728" crc="D9E0D10E" md5="27BDC4A6826871D5398DB3EDFD86FC3D"/>
+	<game name="宝可梦：白金（简）ACG Xzonn 20250825 v2.1.1 日文宝可梦名 - 10816C23">
+		<rom name="宝可梦：白金（简）ACG Xzonn 20250825 v2.1.1 日文宝可梦名.nds" size="134217728" crc="10816C23" md5="317D406EAF7D6E96ED3C2C7FB5ED34DC"/>
 	</game>
-	<game name="宝可梦：钻石（繁）YYJOY v1.1.0 - F271A304">
-		<rom name="宝可梦：钻石（繁）YYJOY v1.1.0.nds" size="134217728" crc="F271A304" md5="17BCD0FBD51BCAB61B245D958983FD4A"/>
+	<game name="宝可梦：白金（简）ACG Xzonn 20250825 v2.1.1 官译修正 - 64D55803">
+		<rom name="宝可梦：白金（简）ACG Xzonn 20250825 v2.1.1 官译修正.nds" size="134217728" crc="64D55803" md5="203B3FE94134406DB7681EA51AF5FD0F"/>
 	</game>
-	<game name="宝可梦：钻石（简）YYJOY Xzonn 20200427 v0.9.0b - 0BC75D95">
-		<rom name="宝可梦：钻石（简）YYJOY Xzonn 20200427 v0.9.0b.nds" size="134217728" crc="0BC75D95" md5="CE2059FC6490753C7F6D410320DE54E6"/>
+	<game name="宝可梦：钻石（简）YYJoy v1.1.0 - D9E0D10E">
+		<rom name="宝可梦：钻石（简）YYJoy v1.1.0.nds" size="134217728" crc="D9E0D10E" md5="27BDC4A6826871D5398DB3EDFD86FC3D"/>
+	</game>
+	<game name="宝可梦：钻石（繁）YYJoy v1.1.0 - F271A304">
+		<rom name="宝可梦：钻石（繁）YYJoy v1.1.0.nds" size="134217728" crc="F271A304" md5="17BCD0FBD51BCAB61B245D958983FD4A"/>
+	</game>
+	<game name="宝可梦：钻石（简）YYJoy Xzonn 20200427 v0.9.0b - 0BC75D95">
+		<rom name="宝可梦：钻石（简）YYJoy Xzonn 20200427 v0.9.0b.nds" size="134217728" crc="0BC75D95" md5="CE2059FC6490753C7F6D410320DE54E6"/>
 	</game>
 	<game name="宝可梦：钻石（简）YYJoy - 7619B1E3">
 		<rom name="宝可梦：钻石（简）YYJoy.nds" size="134217728" crc="7619B1E3" md5="D5CAD86C15971B788B2B29FA2C3C1944"/>
 	</game>
-	<game name="宝可梦：钻石（简）Xzonn 20240204 v2a - E6B03269">
-		<rom name="宝可梦：钻石（简）Xzonn 20240204 v2a.nds" size="67108864" crc="E6B03269" md5="F37CD0F5272BFA69EB2FF58E45DFAF12"/>
+	<game name="宝可梦：钻石（简）YYJoy Xzonn 20240204 v2a - E6B03269">
+		<rom name="宝可梦：钻石（简）YYJoy Xzonn 20240204 v2a.nds" size="67108864" crc="E6B03269" md5="F37CD0F5272BFA69EB2FF58E45DFAF12"/>
 	</game>
-	<game name="宝可梦：钻石（简）Xzonn 20251027 v2.1.0 - 1C21946A">
-		<rom name="宝可梦：钻石（简）Xzonn 20251027 v2.1.0.nds" size="67108864" crc="1C21946A" md5="4C7E59AE195B2CC6BC8C775494D0A368"/>
+	<game name="宝可梦：钻石（简）YYJoy Xzonn 20241027 v2.1.0 - 1C21946A">
+		<rom name="宝可梦：钻石（简）YYJoy Xzonn 20241027 v2.1.0.nds" size="67108864" crc="1C21946A" md5="4C7E59AE195B2CC6BC8C775494D0A368"/>
+	</game>
+	<game name="宝可梦：钻石（简）YYJoy Xzonn 20250825 v2.1.1 日文宝可梦名 - 5C1416C6">
+		<rom name="宝可梦：钻石（简）YYJoy Xzonn 20250825 v2.1.1 日文宝可梦名.nds" size="67108864" crc="5C1416C6" md5="4BB449BE66D93FFA6B43C692B25C95A1"/>
+	</game>
+	<game name="宝可梦：钻石（简）YYJoy Xzonn 20250825 v2.1.1 官译修正 - 05BADF74">
+		<rom name="宝可梦：钻石（简）YYJoy Xzonn 20250825 v2.1.1 官译修正.nds" size="67108864" crc="05BADF74" md5="D833434320777E80E70C93D57E058F32"/>
 	</game>
 	<game name="宝可梦：魂银（简）ACG - CA3569E1">
 		<rom name="宝可梦：魂银（简）ACG.nds" size="134217728" crc="CA3569E1" md5="27FAAF718C7A475C02A69604C5423703"/>
@@ -1063,11 +1120,17 @@
 	<game name="宝可梦：魂银（简）ACG - D66F6253">
 		<rom name="宝可梦：魂银（简）ACG.nds" size="134217728" crc="D66F6253" md5="D7D547399DCF20088CBBDDAC69C53F91"/>
 	</game>
-	<game name="宝可梦：魂银（简）Xzonn 20240204 v2 - B07A4DE4">
-		<rom name="宝可梦：魂银（简）Xzonn 20240204 v2.nds" size="134217728" crc="B07A4DE4" md5="82C48BCB3BC987B577F341E60511B93B"/>
+	<game name="宝可梦：魂银（简）ACG Xzonn 20240204 v2 - B07A4DE4">
+		<rom name="宝可梦：魂银（简）ACG Xzonn 20240204 v2.nds" size="134217728" crc="B07A4DE4" md5="82C48BCB3BC987B577F341E60511B93B"/>
 	</game>
-	<game name="宝可梦：魂银（简）Xzonn 20251027 v2.1.0 - 488DA0AD">
-		<rom name="宝可梦：魂银（简）Xzonn 20251027 v2.1.0.nds" size="134217728" crc="488DA0AD" md5="7062238E8D866BD439DD42DFDADA9F41"/>
+	<game name="宝可梦：魂银（简）ACG Xzonn 20251027 v2.1.0 - 488DA0AD">
+		<rom name="宝可梦：魂银（简）ACG Xzonn 20251027 v2.1.0.nds" size="134217728" crc="488DA0AD" md5="7062238E8D866BD439DD42DFDADA9F41"/>
+	</game>
+	<game name="宝可梦：魂银（简）ACG Xzonn 20250825 v2.1.1 日文宝可梦名 - 106D3357">
+		<rom name="宝可梦：魂银（简）ACG Xzonn 20250825 v2.1.1 日文宝可梦名.nds" size="134217728" crc="106D3357" md5="08CA1CF1D905CD31EBD3AB17108C0858"/>
+	</game>
+	<game name="宝可梦：魂银（简）ACG Xzonn 20250825 v2.1.1 官译修正 - 08EA36AA">
+		<rom name="宝可梦：魂银（简）ACG Xzonn 20250825 v2.1.1 官译修正.nds" size="134217728" crc="08EA36AA" md5="00FC0BE9C07D2790E5B937B527E205BA"/>
 	</game>
 	<game name="宝可梦：黑（简繁）ACG 简繁 v2 - 9F751F56">
 		<rom name="宝可梦：黑（简繁）ACG 简繁 v2.nds" size="268435456" crc="9F751F56" md5="A4AC2E2A72A8536B3242E2958575E734"/>
@@ -1084,11 +1147,14 @@
 	<game name="宝可梦：黑（简）BW 20201022 - 416835E0">
 		<rom name="宝可梦：黑（简）BW 20201022.nds" size="268435456" crc="416835E0" md5="64C1EB014550AD983C42CB175132723F"/>
 	</game>
-	<game name="宝可梦：黑（简）BW 20240718 v2 - 02B89F65">
-		<rom name="宝可梦：黑（简）BW 20240718 v2.nds" size="268435456" crc="02B89F65" md5="12FEBB82F34FC1513F5B53FC3C91E1B6"/>
+	<game name="宝可梦：黑（简）BW white8844 20240718 v2 - 02B89F65">
+		<rom name="宝可梦：黑（简）BW white8844 20240718 v2.nds" size="268435456" crc="02B89F65" md5="12FEBB82F34FC1513F5B53FC3C91E1B6"/>
 	</game>
-	<game name="宝可梦：黑（简）BW 20241016 v2.1 - 477E5F84">
-		<rom name="宝可梦：黑（简）BW 20241016 v2.1.nds" size="268435456" crc="477E5F84" md5="7FDADDE1DFA62FA9925122A3D1D3F308"/>
+	<game name="宝可梦：黑（简）BW white8844 20241016 v2.1 - 477E5F84">
+		<rom name="宝可梦：黑（简）BW white8844 20241016 v2.1.nds" size="268435456" crc="477E5F84" md5="7FDADDE1DFA62FA9925122A3D1D3F308"/>
+	</game>
+	<game name="宝可梦：黑（简）BW white8844 20250926 v2.1.5 - DD01BA35">
+		<rom name="宝可梦：黑（简）BW white8844 20250926 v2.1.5.nds" size="268435456" crc="DD01BA35" md5="D0C19238A5C7BB290A67A180B64CC8C4"/>
 	</game>
 	<game name="宝可梦：黑2（简繁）ACG 口袋群星SP v2 - 3F5198CF">
 		<rom name="宝可梦：黑2（简繁）ACG 口袋群星SP v2.nds" size="320468992" crc="3F5198CF" md5="02DF4A834C3341F3DF14C628585E1940"/>
@@ -1105,14 +1171,23 @@
 	<game name="宝可梦：黑2（简繁）ACG 口袋群星SP 天涯 v5 修复DSi模式 - 99617CA0">
 		<rom name="宝可梦：黑2（简繁）ACG 口袋群星SP 天涯 v5 修复DSi模式.nds" size="536870912" crc="99617CA0" md5="D8BF3E582E0A91DCB7F2B151D0FC2F37"/>
 	</game>
-	<game name="宝可梦：黑2（简）ACG 口袋群星SP - 422AA557">
-		<rom name="宝可梦：黑2（简）ACG 口袋群星SP.nds" size="536870912" crc="422AA557" md5="5F28AD09FBABB16487F7D33B8A744388"/>
+	<game name="宝可梦：黑2（简繁）ACG 口袋群星SP - 422AA557">
+		<rom name="宝可梦：黑2（简繁）ACG 口袋群星SP.nds" size="536870912" crc="422AA557" md5="5F28AD09FBABB16487F7D33B8A744388"/>
 	</game>
-	<game name="宝可梦：黑2（简）v5 汉化修复版 DSi增强AP - 7754723C">
-		<rom name="宝可梦：黑2（简）v5 汉化修复版 DSi增强AP.nds" size="503316480" crc="7754723C" md5="62DD650B85D8C1D1DD3AFA2ED8BEAC1F"/>
+	<game name="宝可梦：黑2（简繁）v5 汉化修复版 DSi增强AP - 7754723C">
+		<rom name="宝可梦：黑2（简繁）v5 汉化修复版 DSi增强AP.nds" size="503316480" crc="7754723C" md5="62DD650B85D8C1D1DD3AFA2ED8BEAC1F"/>
 	</game>
-	<game name="宝可梦：黑2（简）ACG 口袋群星SP - 2E56F6C4">
-		<rom name="宝可梦：黑2（简）ACG 口袋群星SP.nds" size="320471552" crc="2E56F6C4" md5="9E56951B6F9E2B335BB028A984DDDF6C"/>
+	<game name="宝可梦：黑2（简繁）ACG 口袋群星SP - 2E56F6C4">
+		<rom name="宝可梦：黑2（简繁）ACG 口袋群星SP.nds" size="320471552" crc="2E56F6C4" md5="9E56951B6F9E2B335BB028A984DDDF6C"/>
+	</game>
+	<game name="宝可梦：黑2（简繁）卧看微尘 Desaix 20250615 v3 剧情官译 - 137DA37A">
+		<rom name="宝可梦：黑2（简繁）卧看微尘 Desaix 20250615 v3 剧情官译.nds" size="536870912" crc="137DA37A" md5="C459F11E351112F9A0DE4CB611F026A1"/>
+	</game>
+	<game name="宝可梦：黑2（简繁）天涯 Desaix 20250610 v4 全剧情文本官译 - 64537130">
+		<rom name="宝可梦：黑2（简繁）天涯 Desaix 20250610 v4 全剧情文本官译.nds" size="536870912" crc="64537130" md5="B35475173F232C66C8F091D71A04A9B8"/>
+	</game>
+	<game name="宝可梦：黑2（简繁）天涯 Desaix 20251001 v5 - 95BAC1E2">
+		<rom name="宝可梦：黑2（简繁）天涯 Desaix 20251001 v5.nds" size="536870912" crc="95BAC1E2" md5="9A25DFC5B07D84D41E6F7F694EA05A91"/>
 	</game>
 	<game name="密特罗德究极：猎人（简）PGCG - 6027DFBF">
 		<rom name="密特罗德究极：猎人（简）PGCG.nds" size="66149420" crc="6027DFBF" md5="EBB83D590C5292D7F7C8FA91D8C72B3B"/>
@@ -1234,8 +1309,8 @@
 	<game name="弹唱DS吉他 M-06（简） - 10D6F63C">
 		<rom name="弹唱DS吉他 M-06（简）.nds" size="65761752" crc="10D6F63C" md5="8115164B6CE3A5E9AB134FDBB89635CB"/>
 	</game>
-	<game name="强尼的脱出大作战（简）YYJOY 文本汉化 - 72724849">
-		<rom name="强尼的脱出大作战（简）YYJOY 文本汉化.nds" size="7440408" crc="72724849" md5="DAFF69AB94D414881000B6DE3DB8EBE4"/>
+	<game name="强尼的脱出大作战（简）YYJoy 文本汉化 - 72724849">
+		<rom name="强尼的脱出大作战（简）YYJoy 文本汉化.nds" size="7440408" crc="72724849" md5="DAFF69AB94D414881000B6DE3DB8EBE4"/>
 	</game>
 	<game name="影之传说2（繁）巴士 - A1E6F9B2">
 		<rom name="影之传说2（繁）巴士.nds" size="25275776" crc="A1E6F9B2" md5="F642896B19DB314B2FC02995E79947FF"/>
@@ -1381,23 +1456,23 @@
 	<game name="恶魔城：被夺的封印（简）罗伊SD - 865E9E46">
 		<rom name="恶魔城：被夺的封印（简）罗伊SD.nds" size="67108864" crc="865E9E46" md5="167EB3B9F9850B2F2CF0C70291AFD1E3"/>
 	</game>
-	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY - 45BDE91E">
-		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY.nds" size="67108864" crc="45BDE91E" md5="714A5284A78F70970CAE2D373E9B0DFF"/>
+	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJoy - 45BDE91E">
+		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJoy.nds" size="67108864" crc="45BDE91E" md5="714A5284A78F70970CAE2D373E9B0DFF"/>
 	</game>
 	<game name="恶魔城：迷宫的画廊 废墟的肖像（繁）黄金眼 - C40E5A07">
 		<rom name="恶魔城：迷宫的画廊 废墟的肖像（繁）黄金眼.nds" size="47159520" crc="C40E5A07" md5="FC23AD36E82573B16FAB18155C618EC3"/>
 	</game>
-	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY - A42B6515">
-		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY.nds" size="67108864" crc="A42B6515" md5="675B1FA0C185D675076DA2967897D508"/>
+	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJoy - A42B6515">
+		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJoy.nds" size="67108864" crc="A42B6515" md5="675B1FA0C185D675076DA2967897D508"/>
 	</game>
 	<game name="恶魔城：迷宫的画廊 废墟的肖像（繁）黄金眼 - C2DC480B">
 		<rom name="恶魔城：迷宫的画廊 废墟的肖像（繁）黄金眼.nds" size="47159520" crc="C2DC480B" md5="A07BB56FAB97A8D6C1BDA7F0BB73D83F"/>
 	</game>
-	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY 罗伊SD 死机修正 - 68D3CDDB">
-		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJOY 罗伊SD 死机修正.nds" size="47159520" crc="68D3CDDB" md5="2FC44B76F375FE36110CBEC67A462A88"/>
+	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJoy 罗伊SD 死机修正 - 68D3CDDB">
+		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）罪人之塔 YYJoy 罗伊SD 死机修正.nds" size="47159520" crc="68D3CDDB" md5="2FC44B76F375FE36110CBEC67A462A88"/>
 	</game>
-	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）YYJOY GGWY 20240829 文本修正 - 9D7CD61B">
-		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）YYJOY GGWY 20240829 文本修正.nds" size="67108864" crc="9D7CD61B" md5="4C24E05A84EF004485AB5D187A81E9A1"/>
+	<game name="恶魔城：迷宫的画廊 废墟的肖像（简）YYJoy GGWY 20240829 文本修正 - 9D7CD61B">
+		<rom name="恶魔城：迷宫的画廊 废墟的肖像（简）YYJoy GGWY 20240829 文本修正.nds" size="67108864" crc="9D7CD61B" md5="4C24E05A84EF004485AB5D187A81E9A1"/>
 	</game>
 	<game name="恶魔幸存者2（简）ACG v2 - 43A728FB">
 		<rom name="恶魔幸存者2（简）ACG v2.nds" size="128180656" crc="43A728FB" md5="92F1268C7A34D6AA33610C0413DFA223"/>
@@ -1491,6 +1566,9 @@
 	</game>
 	<game name="数码宝贝物语：遗失的进化（简）Xzonn 卧看微尘 20250327 v1.0.0 - 46686188">
 		<rom name="数码宝贝物语：遗失的进化（简）Xzonn 卧看微尘 20250327 v1.0.0.nds" size="67108864" crc="46686188" md5="DA5F22F2FE9C4C108B517A8629C4C9E3"/>
+	</game>
+	<game name="数码宝贝物语：遗失的进化（简）遗失进化 v1.0.1 - C8D5E73E">
+		<rom name="数码宝贝物语：遗失的进化（简）遗失进化 v1.0.1.nds" size="67108864" crc="C8D5E73E" md5="4E6BBD540435D28B55FBD50548FD8D8B"/>
 	</game>
 	<game name="斯隆与马克海尔的谜之物语（简）琴海 - 4322687C">
 		<rom name="斯隆与马克海尔的谜之物语（简）琴海.nds" size="61002188" crc="4322687C" md5="E6C4E0A11078BB975608A65DC0541669"/>
@@ -1672,8 +1750,8 @@
 	<game name="有罪×无罪（简）有罪 无罪 补丁版 - 9C3CEA66">
 		<rom name="有罪×无罪（简）有罪 无罪 补丁版.nds" size="22256676" crc="9C3CEA66" md5="A6763465E3EF70A2357C47B339002496"/>
 	</game>
-	<game name="机动战士高达 00（简）CNGBA v1.1 - 0EB0BC40">
-		<rom name="机动战士高达 00（简）CNGBA v1.1.nds" size="63307432" crc="0EB0BC40" md5="70A5F7D6319C1794AD8EAFE87FFF272D"/>
+	<game name="机动战士高达00（简）CNGBA v1.1 - 0EB0BC40">
+		<rom name="机动战士高达00（简）CNGBA v1.1.nds" size="63307432" crc="0EB0BC40" md5="70A5F7D6319C1794AD8EAFE87FFF272D"/>
 	</game>
 	<game name="机器人欢歌（简）远离 - AFF1EDDC">
 		<rom name="机器人欢歌（简）远离.nds" size="61195456" crc="AFF1EDDC" md5="80D69EB4BE53A0A621953BF3AF9072F8"/>
@@ -1696,11 +1774,14 @@
 	<game name="来自深渊（简）HOho - 0F467DAA">
 		<rom name="来自深渊（简）HOho.nds" size="25019944" crc="0F467DAA" md5="A298580ADC997D5539E0E8AFDCDFCE8E"/>
 	</game>
-	<game name="极限逃脱 9小时 9人 9道门（简）ACG - 30AEB8A0">
-		<rom name="极限逃脱 9小时 9人 9道门（简）ACG.nds" size="131187776" crc="30AEB8A0" md5="98FE1C9A274A85062DFEED8AA9B09E0E"/>
+	<game name="极限逃脱9小时9人9道门（简）ACG - 30AEB8A0">
+		<rom name="极限逃脱9小时9人9道门（简）ACG.nds" size="131187776" crc="30AEB8A0" md5="98FE1C9A274A85062DFEED8AA9B09E0E"/>
 	</game>
-	<game name="柯南与金田一 交错的两位名侦探（简）巴士 ACG - 97C23C78">
-		<rom name="柯南与金田一 交错的两位名侦探（简）巴士 ACG.nds" size="45505236" crc="97C23C78" md5="86C31A2491505AFC6FFDDB2FDD82384B"/>
+	<game name="极限逃脱9小时9人9道门（简）ACG 天涯 修正无卡模式红屏 - 925C0F82">
+		<rom name="极限逃脱9小时9人9道门（简）ACG 天涯 修正无卡模式红屏.nds" size="131188288" crc="925C0F82" md5="F2B01D74F45CDF17E834CE4F949EEEA7"/>
+	</game>
+	<game name="柯南与金田一：交错的两位名侦探（简）巴士 ACG - 97C23C78">
+		<rom name="柯南与金田一：交错的两位名侦探（简）巴士 ACG.nds" size="45505236" crc="97C23C78" md5="86C31A2491505AFC6FFDDB2FDD82384B"/>
 	</game>
 	<game name="梦幻之星0（简）小黑屋 完整汉化版 - 86B6DFEB">
 		<rom name="梦幻之星0（简）小黑屋 完整汉化版.nds" size="127587364" crc="86B6DFEB" md5="FE4F54D1912EDF243D8DEF5EECC5E204"/>
@@ -1746,6 +1827,9 @@
 	</game>
 	<game name="汀格尔的蔷薇色卢比乐园（简）远离 - E0C3DC7D">
 		<rom name="汀格尔的蔷薇色卢比乐园（简）远离.nds" size="67108864" crc="E0C3DC7D" md5="69EC052A856C4EF6D44BA5656135D7D6"/>
+	</game>
+	<game name="汉娜蒙塔娜电影版（简）fciq 20250927 - 360775BC">
+		<rom name="汉娜蒙塔娜电影版（简）fciq 20250927.nds" size="67108864" crc="360775BC" md5="BF215DC08FB6E81630B18678EB642E11"/>
 	</game>
 	<game name="江户川乱步之怪人二十面相 DS（简）小黑屋 - 8632EE96">
 		<rom name="江户川乱步之怪人二十面相 DS（简）小黑屋.nds" size="16212460" crc="8632EE96" md5="CA40A70D4BA6C8C47E147CBA39DB318E"/>
@@ -1797,6 +1881,12 @@
 	</game>
 	<game name="洛克人ZX降临（简）李田所 20240302 v1.14 - 46DE6E7D">
 		<rom name="洛克人ZX降临（简）李田所 20240302 v1.14.nds" size="67108864" crc="46DE6E7D" md5="F49CA5B3ED85D3E58FBA590D1D382E00"/>
+	</game>
+	<game name="洛克人ZX降临（简）李田所 20251001 v1.91 Rev1 - 4E45D456">
+		<rom name="洛克人ZX降临（简）李田所 20251001 v1.91 Rev1.nds" size="134217728" crc="4E45D456" md5="89A375509AA7D8C0CC1C167EB9E36491"/>
+	</game>
+	<game name="洛克人ZX降临（简）李田所 20251001 v1.91 - F188A5BD">
+		<rom name="洛克人ZX降临（简）李田所 20251001 v1.91.nds" size="134217728" crc="F188A5BD" md5="D06AC1D45CBA2DA2E17386CBF6D53990"/>
 	</game>
 	<game name="流星洛克人：天马（简）电波人研究中心 20231111 - D3A2205F">
 		<rom name="流星洛克人：天马（简）电波人研究中心 20231111.nds" size="33593524" crc="D3A2205F" md5="59C329FAE26DE7ADA339F0FBE632A85B"/>
@@ -1984,8 +2074,8 @@
 	<game name="烈火英雄 皇家空军传奇（简）LAMER - 001CB76E">
 		<rom name="烈火英雄 皇家空军传奇（简）LAMER.nds" size="16777216" crc="001CB76E" md5="4E2FA17020CD507EA71E82093A8198C5"/>
 	</game>
-	<game name="熊姬和她的伙伴们（简）XIAOBAI YYJOY ZLJDDH 不完全汉化版 - A0906E55">
-		<rom name="熊姬和她的伙伴们（简）XIAOBAI YYJOY ZLJDDH 不完全汉化版.nds" size="67108864" crc="A0906E55" md5="92230F4594FF26C10B27D78CDF22886F"/>
+	<game name="熊姬和她的伙伴们（简）XIAOBAI YYJoy ZLJDDH 不完全汉化版 - A0906E55">
+		<rom name="熊姬和她的伙伴们（简）XIAOBAI YYJoy ZLJDDH 不完全汉化版.nds" size="67108864" crc="A0906E55" md5="92230F4594FF26C10B27D78CDF22886F"/>
 	</game>
 	<game name="熊姬和她的伙伴们（简）扑家 指尖奶茶应援会 - BBDC1A67">
 		<rom name="熊姬和她的伙伴们（简）扑家 指尖奶茶应援会.nds" size="67108864" crc="BBDC1A67" md5="EF358D5F5F3D0BABC2212D58DAD5AB9B"/>
@@ -2062,14 +2152,14 @@
 	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 日语配音 - 339597BE">
 		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 日语配音.nds" size="134217728" crc="339597BE" md5="8F5707F5784BA1D4F7FB8BAC5D64813A"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 汉语配音 - 81CB1431">
-		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 汉语配音.nds" size="134217728" crc="81CB1431" md5="F5F099D2459F2B97BE64B5CB89C3F00A"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 国语配音 - 81CB1431">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231112 v1.0 国语配音.nds" size="134217728" crc="81CB1431" md5="F5F099D2459F2B97BE64B5CB89C3F00A"/>
 	</game>
 	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 日语配音 - E5610353">
 		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 日语配音.nds" size="134217728" crc="E5610353" md5="135B60183156CB22D5B5ECB202A67CEF"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 汉语配音 - 573F80DC">
-		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 汉语配音.nds" size="134217728" crc="573F80DC" md5="26073FD1338E81C510BE2B910747115E"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 国语配音 - 573F80DC">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20231122 v1.1 国语配音.nds" size="134217728" crc="573F80DC" md5="26073FD1338E81C510BE2B910747115E"/>
 	</game>
 	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 2014 最终版 日版片头 - 5F4CDF3E">
 		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 2014 最终版 日版片头.nds" size="124613180" crc="5F4CDF3E" md5="1EF6B1A50EC309533ED1DF9B836D8182"/>
@@ -2077,8 +2167,8 @@
 	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 日语配音 - 08EEA73F">
 		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 日语配音.nds" size="134217728" crc="08EEA73F" md5="19D6AD3289ACAD9D5DF5EE55C1CEF512"/>
 	</game>
-	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 汉语配音 - BAB024B0">
-		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 汉语配音.nds" size="134217728" crc="BAB024B0" md5="5CB903B85384A8408280F02A7E9B9075"/>
+	<game name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 国语配音 - BAB024B0">
+		<rom name="牧场物语：欢迎来到风之集市（简）SOMA YOME 家在矿石镇 20240901 v1.2 国语配音.nds" size="134217728" crc="BAB024B0" md5="5CB903B85384A8408280F02A7E9B9075"/>
 	</game>
 	<game name="牧场物语：精灵驿站（简）NDSBBS MOBILE v02 测试 - 806CEF17">
 		<rom name="牧场物语：精灵驿站（简）NDSBBS MOBILE v02 测试.nds" size="33554432" crc="806CEF17" md5="617704516BB9FC354BBC053E2978D4A1"/>
@@ -2194,29 +2284,29 @@
 	<game name="生存之子：小岛的大秘密（简）ACG - 80DE7739">
 		<rom name="生存之子：小岛的大秘密（简）ACG.nds" size="62267916" crc="80DE7739" md5="3434FDAB179D2672076006008DA532FA"/>
 	</game>
-	<game name="生存之子：小岛的大秘密（简） - 941FC930">
-		<rom name="生存之子：小岛的大秘密（简）.nds" size="62267916" crc="941FC930" md5="47757CC753D559B7AD271512D2113575"/>
+	<game name="生存之子：小岛的大秘密（简）银河漫步 20211013 免吹气 - 941FC930">
+		<rom name="生存之子：小岛的大秘密（简）银河漫步 20211013 免吹气.nds" size="62267916" crc="941FC930" md5="47757CC753D559B7AD271512D2113575"/>
 	</game>
-	<game name="生存之子：迷失深蓝（简）PGCG - C2D0729B">
-		<rom name="生存之子：迷失深蓝（简）PGCG.nds" size="67108864" crc="C2D0729B" md5="B714C5011291EC6F063E4FC0499451A9"/>
+	<game name="生存之子：迷失蔚蓝（简）PGCG - C2D0729B">
+		<rom name="生存之子：迷失蔚蓝（简）PGCG.nds" size="67108864" crc="C2D0729B" md5="B714C5011291EC6F063E4FC0499451A9"/>
 	</game>
-	<game name="生存之子：迷失深蓝（繁）PGCG 黄金眼 - 83C3DA45">
-		<rom name="生存之子：迷失深蓝（繁）PGCG 黄金眼.nds" size="39399972" crc="83C3DA45" md5="883DA0313274231935C6E8C8F681EB81"/>
+	<game name="生存之子：迷失蔚蓝（繁）PGCG 黄金眼 - 83C3DA45">
+		<rom name="生存之子：迷失蔚蓝（繁）PGCG 黄金眼.nds" size="39399972" crc="83C3DA45" md5="883DA0313274231935C6E8C8F681EB81"/>
 	</game>
-	<game name="生存之子：迷失深蓝（简）PGCG - F0439DBE">
-		<rom name="生存之子：迷失深蓝（简）PGCG.nds" size="67108864" crc="F0439DBE" md5="389E40637E3AB2E2E7D3D49BDB1C64FB"/>
+	<game name="生存之子：迷失蔚蓝（简）PGCG - F0439DBE">
+		<rom name="生存之子：迷失蔚蓝（简）PGCG.nds" size="67108864" crc="F0439DBE" md5="389E40637E3AB2E2E7D3D49BDB1C64FB"/>
 	</game>
-	<game name="生存之子：迷失深蓝（简）PGCG - 315D0EDF">
-		<rom name="生存之子：迷失深蓝（简）PGCG.nds" size="67108864" crc="315D0EDF" md5="E756A94865E54E8C7B90BCA2E50DA607"/>
+	<game name="生存之子：迷失蔚蓝（简）PGCG 银河漫步 20211013 免吹气 - 315D0EDF">
+		<rom name="生存之子：迷失蔚蓝（简）PGCG 银河漫步 20211013 免吹气.nds" size="67108864" crc="315D0EDF" md5="E756A94865E54E8C7B90BCA2E50DA607"/>
 	</game>
-	<game name="生存之子：迷失深蓝2（简）巴士 PGCG - 394FB536">
-		<rom name="生存之子：迷失深蓝2（简）巴士 PGCG.nds" size="67108864" crc="394FB536" md5="6F95ABE180A05D67C7506A1072BBC966"/>
+	<game name="生存之子：迷失蔚蓝2（简）巴士 PGCG - 394FB536">
+		<rom name="生存之子：迷失蔚蓝2（简）巴士 PGCG.nds" size="67108864" crc="394FB536" md5="6F95ABE180A05D67C7506A1072BBC966"/>
 	</game>
-	<game name="生存之子：迷失深蓝2（繁）巴士 PGCG - 53175AD4">
-		<rom name="生存之子：迷失深蓝2（繁）巴士 PGCG.nds" size="67108864" crc="53175AD4" md5="5453F0A1C1082C41A699C4E29DA6CEF3"/>
+	<game name="生存之子：迷失蔚蓝2（繁）巴士 PGCG - 53175AD4">
+		<rom name="生存之子：迷失蔚蓝2（繁）巴士 PGCG.nds" size="67108864" crc="53175AD4" md5="5453F0A1C1082C41A699C4E29DA6CEF3"/>
 	</game>
-	<game name="生存之子：迷失深蓝2（简） - A32FE3E9">
-		<rom name="生存之子：迷失深蓝2（简）.nds" size="67108864" crc="A32FE3E9" md5="423EF57378302D0CCE5C6090F504DEEB"/>
+	<game name="生存之子：迷失蔚蓝2（简）巴士 PGCG 银河漫步 20211013 免吹气 - A32FE3E9">
+		<rom name="生存之子：迷失蔚蓝2（简）巴士 PGCG 银河漫步 20211013 免吹气.nds" size="67108864" crc="A32FE3E9" md5="423EF57378302D0CCE5C6090F504DEEB"/>
 	</game>
 	<game name="用人之道（简）运筹帷幄 第一二章文本汉化版 - 2C0935F9">
 		<rom name="用人之道（简）运筹帷幄 第一二章文本汉化版.nds" size="63070176" crc="2C0935F9" md5="1F977F582D93CF2E489742E43361CABD"/>
@@ -2284,8 +2374,8 @@
 	<game name="真·三国无双DS斗士之战（简）我是一只鱼 KKKK v0.7 - 813EC7A7">
 		<rom name="真·三国无双DS斗士之战（简）我是一只鱼 KKKK v0.7.nds" size="134217728" crc="813EC7A7" md5="1F9EB05219BD222E02A1B8ABB1A907A9"/>
 	</game>
-	<game name="真女神转生 奇幻之旅（简）LNC v2.0 - AA5F3EB2">
-		<rom name="真女神转生 奇幻之旅（简）LNC v2.0.nds" size="127023616" crc="AA5F3EB2" md5="B5EE1C18360BC110E9AA07D7BC348D21"/>
+	<game name="真女神转生：奇幻之旅（简）LNC v2.0 - AA5F3EB2">
+		<rom name="真女神转生：奇幻之旅（简）LNC v2.0.nds" size="127023616" crc="AA5F3EB2" md5="B5EE1C18360BC110E9AA07D7BC348D21"/>
 	</game>
 	<game name="瞬感龙珠（简）E.WINGS - 534A19F3">
 		<rom name="瞬感龙珠（简）E.WINGS.nds" size="7338560" crc="534A19F3" md5="CCA20BBF7F7DA6F191C8A9210044CC5A"/>
@@ -2323,8 +2413,8 @@
 	<game name="符文工房2（简）SOMA 游戏饭饭 新语联盟 v01 中文语音修正 - 026BC4BD">
 		<rom name="符文工房2（简）SOMA 游戏饭饭 新语联盟 v01 中文语音修正.nds" size="134217728" crc="026BC4BD" md5="5BF89337EBC9DA2526A7AEBB1AD0E12F"/>
 	</game>
-	<game name="符文工房2（简）SOMA 游戏饭饭 YYJOY v01 日文语音修正 - CA502528">
-		<rom name="符文工房2（简）SOMA 游戏饭饭 YYJOY v01 日文语音修正.nds" size="134217728" crc="CA502528" md5="4EB427B42D28FE9424B04E8788413AF8"/>
+	<game name="符文工房2（简）SOMA 游戏饭饭 YYJoy v01 日文语音修正 - CA502528">
+		<rom name="符文工房2（简）SOMA 游戏饭饭 YYJoy v01 日文语音修正.nds" size="134217728" crc="CA502528" md5="4EB427B42D28FE9424B04E8788413AF8"/>
 	</game>
 	<game name="符文工房2（简）中文语音 - 0CFED246">
 		<rom name="符文工房2（简）中文语音.nds" size="134217728" crc="0CFED246" md5="4D47F42CADC0D1137F213C5436E6B3F4"/>
@@ -2347,17 +2437,17 @@
 	<game name="符文工房3（简）家在矿石镇 20230805 v1.5.2 官中导入 - E98EDA8F">
 		<rom name="符文工房3（简）家在矿石镇 20230805 v1.5.2 官中导入.nds" size="134217728" crc="E98EDA8F" md5="805D44517F87DEA5A0A616A8949311B0"/>
 	</game>
-	<game name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230805 v1.5.2 官中导入 中文配音 - A451C7FA">
-		<rom name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230805 v1.5.2 官中导入 中文配音.nds" size="134217728" crc="A451C7FA" md5="92FEC8DF0D19CE2AF645D4C04380BF42"/>
+	<game name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230805 v1.5.2 官中导入 国语配音 - A451C7FA">
+		<rom name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230805 v1.5.2 官中导入 国语配音.nds" size="134217728" crc="A451C7FA" md5="92FEC8DF0D19CE2AF645D4C04380BF42"/>
 	</game>
 	<game name="符文工房3（简）家在矿石镇 20230831 v1.5.3 官中导入 - C4ECF772">
 		<rom name="符文工房3（简）家在矿石镇 20230831 v1.5.3 官中导入.nds" size="134217728" crc="C4ECF772" md5="9032CB93E30A5D4DC82949F92FDD1909"/>
 	</game>
-	<game name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230831 v1.5.3 官中导入 中文配音 - 8933EA07">
-		<rom name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230831 v1.5.3 官中导入 中文配音.nds" size="134217728" crc="8933EA07" md5="07689FB9C81845C3482D965D6C39EF4C"/>
+	<game name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230831 v1.5.3 官中导入 国语配音 - 8933EA07">
+		<rom name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230831 v1.5.3 官中导入 国语配音.nds" size="134217728" crc="8933EA07" md5="07689FB9C81845C3482D965D6C39EF4C"/>
 	</game>
-	<game name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230604 v1.2 官中导入 中文配音 - F3911B07">
-		<rom name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230604 v1.2 官中导入 中文配音.nds" size="134217728" crc="F3911B07" md5="43C9A354A9640032F8022E91D40B98EA"/>
+	<game name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230604 v1.2 官中导入 国语配音 - F3911B07">
+		<rom name="符文工房3（简）家在矿石镇 SOMA 新语联盟 20230604 v1.2 官中导入 国语配音.nds" size="134217728" crc="F3911B07" md5="43C9A354A9640032F8022E91D40B98EA"/>
 	</game>
 	<game name="符文工房：新牧场物语（简）APEX 完美版 - B96F492F">
 		<rom name="符文工房：新牧场物语（简）APEX 完美版.nds" size="134217728" crc="B96F492F" md5="E34F9EB6F93DC66A6C3C58458118E522"/>
@@ -2404,8 +2494,8 @@
 	<game name="简单DS系列27密室脱出 推理番外编（简）巴士 - 6EF88946">
 		<rom name="简单DS系列27密室脱出 推理番外编（简）巴士.nds" size="31949792" crc="6EF88946" md5="4E451CE0526C5EE1D99CA1C04D0AAE37"/>
 	</game>
-	<game name="简单DS系列31超弹丸！改造战车（简）APEX - 4952E36D">
-		<rom name="简单DS系列31超弹丸！改造战车（简）APEX.nds" size="16777216" crc="4952E36D" md5="74802BC1A03041BEE1033F922B78E883"/>
+	<game name="简单DS系列31超弹丸！改造战车（简）APEX 20080207 - 4952E36D">
+		<rom name="简单DS系列31超弹丸！改造战车（简）APEX 20080207.nds" size="16777216" crc="4952E36D" md5="74802BC1A03041BEE1033F922B78E883"/>
 	</game>
 	<game name="简单DS系列31超弹丸！改造战车（简）APEX 字体修正 - 7BA9F038">
 		<rom name="简单DS系列31超弹丸！改造战车（简）APEX 字体修正.nds" size="16777216" crc="7BA9F038" md5="73CD8DA5B1D767CEDEBAA69C10BA0613"/>
@@ -2449,11 +2539,17 @@
 	<game name="粉色街道 闪耀音乐时间（简）ENGS 图片汉化 - 374055B2">
 		<rom name="粉色街道 闪耀音乐时间（简）ENGS 图片汉化.nds" size="67108864" crc="374055B2" md5="9B6899B5519EA6FDF95B21692A3EF9BE"/>
 	</game>
-	<game name="索尼克冲刺（简）DXer 20250504 v1.0.2 日版 - 349972D0">
-		<rom name="索尼克冲刺（简）DXer 20250504 v1.0.2 日版.nds" size="63935584" crc="349972D0" md5="1F48B26D168E8CDCA2E39A86269B0668"/>
+	<game name="索尼克冲刺（简）DXer 20250504 v1.0.2 日配 - 349972D0">
+		<rom name="索尼克冲刺（简）DXer 20250504 v1.0.2 日配.nds" size="63935584" crc="349972D0" md5="1F48B26D168E8CDCA2E39A86269B0668"/>
 	</game>
-	<game name="索尼克冲刺（简）DXer 20250504 v1.0.2 美版 - A088362D">
-		<rom name="索尼克冲刺（简）DXer 20250504 v1.0.2 美版.nds" size="64046688" crc="A088362D" md5="10DFEF7DC5F0667516C798B810285FFC"/>
+	<game name="索尼克冲刺（简）DXer 20250504 v1.0.2 英配 - A088362D">
+		<rom name="索尼克冲刺（简）DXer 20250504 v1.0.2 英配.nds" size="64046688" crc="A088362D" md5="10DFEF7DC5F0667516C798B810285FFC"/>
+	</game>
+	<game name="索尼克冲刺大冒险（简日）DXer 20251130 v1.0.0 日配 - 53A4A7C7">
+		<rom name="索尼克冲刺大冒险（简日）DXer 20251130 v1.0.0 日配.nds" size="51640848" crc="53A4A7C7" md5="37DB110B54145F1BD2C7A9E714239A17"/>
+	</game>
+	<game name="索尼克冲刺大冒险（简英）DXer 20251130 v1.0.0 英配 - 9F3634EB">
+		<rom name="索尼克冲刺大冒险（简英）DXer 20251130 v1.0.0 英配.nds" size="51643920" crc="9F3634EB" md5="5FFE02436C86302FADAA384E12C43025"/>
 	</game>
 	<game name="索尼克经典合辑 1.0（简）U2 - F8D6948C">
 		<rom name="索尼克经典合辑 1.0（简）U2.nds" size="67108864" crc="F8D6948C" md5="C8CBD18246A7E4C67A8FB3BF018171B4"/>
@@ -2587,6 +2683,9 @@
 	<game name="节奏天国（简）远离 日文语音版 - 50F07C1A">
 		<rom name="节奏天国（简）远离 日文语音版.nds" size="119958240" crc="50F07C1A" md5="8B8CE8645B848FD7D3E7CBC6E2073AAF"/>
 	</game>
+	<game name="节拍特工（简）青文 20251225 - B522F135">
+		<rom name="节拍特工（简）青文 20251225.nds" size="125300796" crc="B522F135" md5="4D680E4108DD23E53565AE6B80425130"/>
+	</game>
 	<game name="花与太阳与雨：无尽的乐园（简）付建国 20240630 v0.91 - A09309DE">
 		<rom name="花与太阳与雨：无尽的乐园（简）付建国 20240630 v0.91.nds" size="57407184" crc="A09309DE" md5="F166EE45E74BF39420CB7BFA9F6D153E"/>
 	</game>
@@ -2689,17 +2788,20 @@
 	<game name="计算力瞬间解答 计算DS练习（繁）E.WINGS ONI999 v01 - 6300C40D">
 		<rom name="计算力瞬间解答 计算DS练习（繁）E.WINGS ONI999 v01.nds" size="6290432" crc="6300C40D" md5="B00616CEA63F52C0AC4A30CD13BD9D7E"/>
 	</game>
+	<game name="让我们一起绘图（简）fciq 20250601 国语配音 - 6FBE559C">
+		<rom name="让我们一起绘图（简）fciq 20250601 国语配音.nds" size="34986196" crc="6FBE559C" md5="38CFEC34B4DA5FCD9E21817A2D760FFE"/>
+	</game>
 	<game name="记忆之日3 预览版（简）有爱人士 歌儿 第一章预览版 - ED975FAD">
 		<rom name="记忆之日3 预览版（简）有爱人士 歌儿 第一章预览版.nds" size="23085404" crc="ED975FAD" md5="D8436FE541B27EDF51C249D6E34A39D8"/>
 	</game>
-	<game name="许愿屋 天使的记忆 黑屏補丁（简）YYJOY - 79DA8499">
-		<rom name="许愿屋 天使的记忆 黑屏補丁（简）YYJOY.nds" size="124307456" crc="79DA8499" md5="5DA0FE98CA85EF39A30BF829DEFCC092"/>
+	<game name="许愿屋 天使的记忆 黑屏補丁（简）YYJoy - 79DA8499">
+		<rom name="许愿屋 天使的记忆 黑屏補丁（简）YYJoy.nds" size="124307456" crc="79DA8499" md5="5DA0FE98CA85EF39A30BF829DEFCC092"/>
 	</game>
-	<game name="许愿屋 天使的记忆 黑屏補丁（繁）YYJOY - 30FDB496">
-		<rom name="许愿屋 天使的记忆 黑屏補丁（繁）YYJOY.nds" size="124307456" crc="30FDB496" md5="961D21AE206DEDBD7C6CD968987455B0"/>
+	<game name="许愿屋 天使的记忆 黑屏補丁（繁）YYJoy - 30FDB496">
+		<rom name="许愿屋 天使的记忆 黑屏補丁（繁）YYJoy.nds" size="124307456" crc="30FDB496" md5="961D21AE206DEDBD7C6CD968987455B0"/>
 	</game>
-	<game name="许愿屋 天使的记忆 黑屏補丁（简）YYJOY - 8AEC3A28">
-		<rom name="许愿屋 天使的记忆 黑屏補丁（简）YYJOY.nds" size="124307456" crc="8AEC3A28" md5="86F7B48593DE1E3049156C1B5F6B1C03"/>
+	<game name="许愿屋 天使的记忆 黑屏補丁（简）YYJoy - 8AEC3A28">
+		<rom name="许愿屋 天使的记忆 黑屏補丁（简）YYJoy.nds" size="124307456" crc="8AEC3A28" md5="86F7B48593DE1E3049156C1B5F6B1C03"/>
 	</game>
 	<game name="诺拉和时间工房 雾之森的魔女（简）ANT - E6F1C846">
 		<rom name="诺拉和时间工房 雾之森的魔女（简）ANT.nds" size="249310524" crc="E6F1C846" md5="AB9BCF71184FC5E60A27D720CB7F5BE9"/>
@@ -2713,11 +2815,11 @@
 	<game name="财宝报道 机械机关的遗产（简）ACG - F0FC4BC9">
 		<rom name="财宝报道 机械机关的遗产（简）ACG.nds" size="109207100" crc="F0FC4BC9" md5="E3EBBE72641703AC29329E0A65E55472"/>
 	</game>
-	<game name="起司猫小叽的幸福生活 到这里来吧（简）玛娜 星组 20081013 不死机修正版 - BFE544A9">
-		<rom name="起司猫小叽的幸福生活 到这里来吧（简）玛娜 星组 20081013 不死机修正版.nds" size="33554432" crc="BFE544A9" md5="2C294D8EE311C86E25C5921BF9C74BCE"/>
+	<game name="起司猫小叽的幸福生活：到这里来吧（简）玛娜 星组 20081013 不死机修正版 - BFE544A9">
+		<rom name="起司猫小叽的幸福生活：到这里来吧（简）玛娜 星组 20081013 不死机修正版.nds" size="33554432" crc="BFE544A9" md5="2C294D8EE311C86E25C5921BF9C74BCE"/>
 	</game>
-	<game name="起司猫小叽的幸福生活 到这里来吧（简）玛娜 ZAKU 星组 大字体 - 8B8A9638">
-		<rom name="起司猫小叽的幸福生活 到这里来吧（简）玛娜 ZAKU 星组 大字体.nds" size="33554432" crc="8B8A9638" md5="E08D8E5CA270CB01BE620E44903B3995"/>
+	<game name="起司猫小叽的幸福生活：到这里来吧（简）玛娜 ZAKU 星组 大字体 - 8B8A9638">
+		<rom name="起司猫小叽的幸福生活：到这里来吧（简）玛娜 ZAKU 星组 大字体.nds" size="33554432" crc="8B8A9638" md5="E08D8E5CA270CB01BE620E44903B3995"/>
 	</game>
 	<game name="超剧场版 库洛洛军曹3 行动！天空大冒险是也！（简）E.WINGS DCLX 剧情汉化 - 0B7DA823">
 		<rom name="超剧场版 库洛洛军曹3 行动！天空大冒险是也！（简）E.WINGS DCLX 剧情汉化.nds" size="67108864" crc="0B7DA823" md5="ECFAF0DC715583803111FEDB8C375192"/>
@@ -2806,11 +2908,11 @@
 	<game name="超级机器人大战OG无限边境超越（简）JOKER浴缸 - E858B9CD">
 		<rom name="超级机器人大战OG无限边境超越（简）JOKER浴缸.nds" size="259766272" crc="E858B9CD" md5="4D1CDE8A6673370D1A56B5F0B9DB6069"/>
 	</game>
-	<game name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 字体修正中文片头 - 201ADCCE">
-		<rom name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 字体修正中文片头.nds" size="259767296" crc="201ADCCE" md5="44A9487BA857C13FF13DDE74E80C3ECD"/>
+	<game name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 20250312 字体修正 - 201ADCCE">
+		<rom name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 20250312 字体修正.nds" size="259767296" crc="201ADCCE" md5="44A9487BA857C13FF13DDE74E80C3ECD"/>
 	</game>
-	<game name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 字体修正日文片头 - 8F3C704E">
-		<rom name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 字体修正日文片头.nds" size="259778048" crc="8F3C704E" md5="3F41CC5341FDA0A1FDE911B2063C941B"/>
+	<game name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 20250312 字体修正原版片头 - 8F3C704E">
+		<rom name="超级机器人大战OG无限边境超越（简）JOKER浴缸 yggdra 20250312 字体修正原版片头.nds" size="259778048" crc="8F3C704E" md5="3F41CC5341FDA0A1FDE911B2063C941B"/>
 	</game>
 	<game name="超级机战学园（简）SOMA 剧情汉化测试版 - 9671647F">
 		<rom name="超级机战学园（简）SOMA 剧情汉化测试版.nds" size="134217728" crc="9671647F" md5="E7BF59757885B8E858D95B6010913E8E"/>
@@ -2881,14 +2983,17 @@
 	<game name="逆转裁判4（繁）逆转ACE 完美汉化版 - FDF9222B">
 		<rom name="逆转裁判4（繁）逆转ACE 完美汉化版.nds" size="67108864" crc="FDF9222B" md5="5412D2F5FE36012C386CADFDA6F0E876"/>
 	</game>
-	<game name="逆转裁判：复苏的逆转（简）逆转ACE 全文本汉化体验版 - 709DDBA7">
-		<rom name="逆转裁判：复苏的逆转（简）逆转ACE 全文本汉化体验版.nds" size="67108864" crc="709DDBA7" md5="E9E7B201C84CB634C26E5CC4003662EC"/>
+	<game name="逆转裁判：复苏的逆转（简英）逆转ACE 全文本汉化体验版 - 709DDBA7">
+		<rom name="逆转裁判：复苏的逆转（简英）逆转ACE 全文本汉化体验版.nds" size="67108864" crc="709DDBA7" md5="E9E7B201C84CB634C26E5CC4003662EC"/>
 	</game>
 	<game name="逆转裁判：复苏的逆转（简英） - 957FA35C">
 		<rom name="逆转裁判：复苏的逆转（简英）.nds" size="67108864" crc="957FA35C" md5="781FDCF3BC59FA71DB4802EEF0718F3C"/>
 	</game>
-	<game name="逆转裁判：复苏的逆转（简）逆转ACE fciq 20230312 中文语音 - 0CC44BCE">
-		<rom name="逆转裁判：复苏的逆转（简）逆转ACE fciq 20230312 中文语音.nds" size="67108864" crc="0CC44BCE" md5="1114676C34EA221D95B905A79C63B5E8"/>
+	<game name="逆转裁判：复苏的逆转（简英）逆转ACE fciq 20230312 中文语音 - 0CC44BCE">
+		<rom name="逆转裁判：复苏的逆转（简英）逆转ACE fciq 20230312 中文语音.nds" size="67108864" crc="0CC44BCE" md5="1114676C34EA221D95B905A79C63B5E8"/>
+	</game>
+	<game name="逆转裁判：复苏的逆转（简英）逆转ACE fciq 钓鱼竿呀 20240523 日语语音 - F4673190">
+		<rom name="逆转裁判：复苏的逆转（简英）逆转ACE fciq 钓鱼竿呀 20240523 日语语音.nds" size="58387276" crc="F4673190" md5="800E799CB448325A6A916D4F33BBF771"/>
 	</game>
 	<game name="重装机兵2重制（简）RPC v0.94 - A75923C0">
 		<rom name="重装机兵2重制（简）RPC v0.94.nds" size="67108864" crc="A75923C0" md5="40B054AF6D51484FCFF353594EC76350"/>
@@ -3046,6 +3151,12 @@
 	<game name="马力欧卡丁车DS（简）廖小强 测试 - 7827B04A">
 		<rom name="马力欧卡丁车DS（简）廖小强 测试.nds" size="23007128" crc="7827B04A" md5="63964BF611415D01994935767D2ED74D"/>
 	</game>
+	<game name="马力欧卡丁车DS（简）Monado 20250816 v1.0.0 DownloadPlay - 474936D0">
+		<rom name="马力欧卡丁车DS（简）Monado 20250816 v1.0.0 DownloadPlay.nds" size="33554432" crc="474936D0" md5="B4D7A8AB50F09823C1C3CAC67BEE1909"/>
+	</game>
+	<game name="马力欧卡丁车DS（简）Monado 20250816 v1.0.0 - 92868232">
+		<rom name="马力欧卡丁车DS（简）Monado 20250816 v1.0.0.nds" size="33554432" crc="92868232" md5="0EC7194B48E86DD12E8DDCDE5D5296BD"/>
+	</game>
 	<game name="马力欧篮球3v3（简）E.WINGS - A6BCDE87">
 		<rom name="马力欧篮球3v3（简）E.WINGS.nds" size="54418432" crc="A6BCDE87" md5="3D08BE2F50E383A5581E6B2A3D435E74"/>
 	</game>
@@ -3123,6 +3234,9 @@
 	</game>
 	<game name="黄金太阳：漆黑的黎明（简）巴士 ACG v1.1 - 19CCD76E">
 		<rom name="黄金太阳：漆黑的黎明（简）巴士 ACG v1.1.nds" size="218518136" crc="19CCD76E" md5="2E4FB422199A6020B6A0DE08DC460EBF"/>
+	</game>
+	<game name="黄金太阳：漆黑的黎明（简）ACG 天涯 修正无卡模式红屏 - 560D8807">
+		<rom name="黄金太阳：漆黑的黎明（简）ACG 天涯 修正无卡模式红屏.nds" size="222637916" crc="560D8807" md5="9E6E98F95B913CBF5BC540DB0595C67B"/>
 	</game>
 	<game name="黑执事 幻影和幽灵（简）游戏饭饭 - C9121E11">
 		<rom name="黑执事 幻影和幽灵（简）游戏饭饭.nds" size="61408400" crc="C9121E11" md5="714C652F7300716209611BC04097FFFC"/>

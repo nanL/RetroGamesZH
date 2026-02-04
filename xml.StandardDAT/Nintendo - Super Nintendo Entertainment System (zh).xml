@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20250500</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20260200</version></header>
 	<game name="3x3只眼：魔兽奉还（简）小鬼混 20241212 - 0B149BC3">
 		<rom name="3x3只眼：魔兽奉还（简）小鬼混 20241212.smc" size="2097152" crc="0B149BC3" md5="776CE482203B54EF9700A7B37F9EAAB5"/>
 	</game>
@@ -61,6 +61,12 @@
 	<game name="伊苏4太阳的假面（简）ACG v1.0 - 56703AD2">
 		<rom name="伊苏4太阳的假面（简）ACG v1.0.sfc" size="2097152" crc="56703AD2" md5="7CFBAD6317ECDEF60D39ED63E5A892B5"/>
 	</game>
+	<game name="伊苏V专家（简）飞云 雷闪 飞雨影 20251031 v1.0 - 0A16C8B8">
+		<rom name="伊苏V专家（简）飞云 雷闪 飞雨影 20251031 v1.0.sfc" size="4194304" crc="0A16C8B8" md5="12D5394E66FBEF07C571BFF712CDEF4B"/>
+	</game>
+	<game name="伊苏V专家（繁）飞云 雷闪 飞雨影 20251031 v1.0 - 4B2408BD">
+		<rom name="伊苏V专家（繁）飞云 雷闪 飞雨影 20251031 v1.0.sfc" size="4194304" crc="4B2408BD" md5="A1E9172D8C951EAF140B62AB5568C602"/>
+	</game>
 	<game name="冠军桌球（简）死神DIY 少量汉化 - 9139B9F7">
 		<rom name="冠军桌球（简）死神DIY 少量汉化.sfc" size="1048576" crc="9139B9F7" md5="60CB39708138F2F6ABDBD2D292C32471"/>
 	</game>
@@ -69,6 +75,18 @@
 	</game>
 	<game name="前线任务（简）CHRONO v0.99 - 0FA6921E">
 		<rom name="前线任务（简）CHRONO v0.99.sfc" size="3145728" crc="0FA6921E" md5="29C2DEA44AEA0A6DB50C1E32E0777246"/>
+	</game>
+	<game name="前线任务：兵器危机（简）烈火暴龙 agugu2000 阿刃 20250601 - 88994AC0">
+		<rom name="前线任务：兵器危机（简）烈火暴龙 agugu2000 阿刃 20250601.sfc" size="4194304" crc="88994AC0" md5="25DBBE398CFC56A1E8C844A1E85BC969"/>
+	</game>
+	<game name="前线任务：兵器危机（繁）烈火暴龙 agugu2000 阿刃 20250601 - 80D02722">
+		<rom name="前线任务：兵器危机（繁）烈火暴龙 agugu2000 阿刃 20250601.sfc" size="4194304" crc="80D02722" md5="CA0364128898761A810EF44DCC15C239"/>
+	</game>
+	<game name="前线任务：兵器危机（简）阿刃 20250701 v1.01 - 9CC7C59B">
+		<rom name="前线任务：兵器危机（简）阿刃 20250701 v1.01.sfc" size="4194304" crc="9CC7C59B" md5="348AACD46F826E405D98B0F7D473DFCA"/>
+	</game>
+	<game name="前线任务：兵器危机（繁）阿刃 20250701 v1.01 - BE34FE7A">
+		<rom name="前线任务：兵器危机（繁）阿刃 20250701 v1.01.sfc" size="4194304" crc="BE34FE7A" md5="5EC04D29C7AA92472E9F272F89AFDA23"/>
 	</game>
 	<game name="加油吧！大力工头（简）Advance v1.1 - 58687FEB">
 		<rom name="加油吧！大力工头（简）Advance v1.1.sfc" size="1310720" crc="58687FEB" md5="CCA1D1E9385D6298BDFF675B3DFB261B"/>
@@ -87,6 +105,9 @@
 	</game>
 	<game name="勇者斗恶龙3传说的开始（简）精灵 v0.99.2 - 34977ACF">
 		<rom name="勇者斗恶龙3传说的开始（简）精灵 v0.99.2.sfc" size="4194304" crc="34977ACF" md5="6E26E5B62E26DE093029C27733076D5C"/>
+	</game>
+	<game name="勇者斗恶龙3传说的开始（简）精灵 飞雨影 20251119 v0.99.2 - F399CA5A">
+		<rom name="勇者斗恶龙3传说的开始（简）精灵 飞雨影 20251119 v0.99.2.sfc" size="4194304" crc="F399CA5A" md5="54E69E725CD12D5850A3224131CD5D4E"/>
 	</game>
 	<game name="勇者斗恶龙6幻之大地（繁）勇者 v0.92 英菜单 - AD6C9224">
 		<rom name="勇者斗恶龙6幻之大地（繁）勇者 v0.92 英菜单.sfc" size="4194304" crc="AD6C9224" md5="4AF96E15D41B81710BAB1386B64E9880"/>
@@ -178,14 +199,11 @@
 	<game name="塞尔达传说：众神的三角力量（简）hlken MSU1汉字花屏修正 - C1D16A61">
 		<rom name="塞尔达传说：众神的三角力量（简）hlken MSU1汉字花屏修正.sfc" size="2097152" crc="C1D16A61" md5="2925CD94FFF8DA4489DC698BEB87CEC3"/>
 	</game>
-	<game name="复活邪神3-体验版（简）WERTHER等 天幻 v1.01 - C9A66742">
-		<rom name="复活邪神3-体验版（简）WERTHER等 天幻 v1.01.sfc" size="4194304" crc="C9A66742" md5="E1483EBA6B9ED6DB51A0A013A98F021B"/>
-	</game>
-	<game name="复活邪神3-体验版（繁）WERTHER等 天幻 v1.01 - C8D13BDB">
-		<rom name="复活邪神3-体验版（繁）WERTHER等 天幻 v1.01.sfc" size="4194304" crc="C8D13BDB" md5="A1085B6BC053E163055DE7720210AB77"/>
-	</game>
 	<game name="夜光虫（简）1d 20250201 v1.0 - 92F9F337">
 		<rom name="夜光虫（简）1d 20250201 v1.0.smc" size="2097152" crc="92F9F337" md5="5B7E14E1C7EA5B83E00BDE5AAADB48BB"/>
+	</game>
+	<game name="夜光虫（简）1d 20250613 v1.01 - 522DFD74">
+		<rom name="夜光虫（简）1d 20250613 v1.01.smc" size="2097152" crc="522DFD74" md5="3891E3C4AA9E908342C82987DB2EFDE5"/>
 	</game>
 	<game name="大地勇士：海与风的鼓动（简）阿刃 20240403 - DC4D666E">
 		<rom name="大地勇士：海与风的鼓动（简）阿刃 20240403.smc" size="1245184" crc="DC4D666E" md5="88418E79ACDA58D3790E61458A558808"/>
@@ -241,6 +259,9 @@
 	<game name="巴巴罗萨（简）cslrxyz 剧情汉化 - 21CE1EC9">
 		<rom name="巴巴罗萨（简）cslrxyz 剧情汉化.sfc" size="1048576" crc="21CE1EC9" md5="B76A586194BA766FE2EF45ABB3A79373"/>
 	</game>
+	<game name="幽游白书FINAL魔界最强列传（简）飞雨影 20250812 v0.9 - 2464562D">
+		<rom name="幽游白书FINAL魔界最强列传（简）飞雨影 20250812 v0.9.sfc" size="4194304" crc="2464562D" md5="47820EF1109546AAD20212A227E8BD70"/>
+	</game>
 	<game name="忍者战士归来（简）zjwps 阿刃 20240926 - CE2DF763">
 		<rom name="忍者战士归来（简）zjwps 阿刃 20240926.sfc" size="1589248" crc="CE2DF763" md5="8D557ACEB813DB5E1DF768A09D86EFE2"/>
 	</game>
@@ -253,11 +274,20 @@
 	<game name="快打旋风3（简）Advance - 53352015">
 		<rom name="快打旋风3（简）Advance.sfc" size="4194304" crc="53352015" md5="28B80A25BF2F8D82590F1AE2CE88BD9C"/>
 	</game>
+	<game name="怪物制造者3光之魔术师（简）20250628 扩容 ExLoROM - BEAA354A">
+		<rom name="怪物制造者3光之魔术师（简）20250628 扩容 ExLoROM.sfc" size="4194304" crc="BEAA354A" md5="DB22848567870A03F7F5055231B890E8"/>
+	</game>
+	<game name="怪物制造者3光之魔术师（简）20250713 v2 - 7E494170">
+		<rom name="怪物制造者3光之魔术师（简）20250713 v2.sfc" size="4194304" crc="7E494170" md5="39091437EF5AEBB21017BF5AC94ABB40"/>
+	</game>
 	<game name="战区88（简）阿刃 小鬼混 飞雨影 20250122 - AB96370D">
 		<rom name="战区88（简）阿刃 小鬼混 飞雨影 20250122.sfc" size="1179648" crc="AB96370D" md5="3F78D59B9314BC07DF5E56D1F19E628C"/>
 	</game>
 	<game name="战区88（简）阿刃 小鬼混 飞雨影 20250124 - 342BBE53">
 		<rom name="战区88（简）阿刃 小鬼混 飞雨影 20250124.sfc" size="1179648" crc="342BBE53" md5="E76C96BB1B51C75218FD1D6631F3B085"/>
+	</game>
+	<game name="战斗机器人烈传（简）小鬼混 星组 20250808 - B8D8393C">
+		<rom name="战斗机器人烈传（简）小鬼混 星组 20250808.sfc" size="4194304" crc="B8D8393C" md5="30BF5893BAED956966EE84AAC712D0C0"/>
 	</game>
 	<game name="战斗潜水艇（简）cslrxyz 完全汉化 - 86923FC8">
 		<rom name="战斗潜水艇（简）cslrxyz 完全汉化.sfc" size="1048576" crc="86923FC8" md5="2886B9BB082D9691986F2BB4A5A61208"/>
@@ -337,6 +367,9 @@
 	<game name="最终幻想5（简）BOCO v2.0 - 851233CE">
 		<rom name="最终幻想5（简）BOCO v2.0.sfc" size="2621440" crc="851233CE" md5="9875060542C95C78A46FBA006D2790FE"/>
 	</game>
+	<game name="最终幻想5（简）Boco LSS 飞雨影 20251122 v2.0 花屏修正 - E7C31BB5">
+		<rom name="最终幻想5（简）Boco LSS 飞雨影 20251122 v2.0 花屏修正.sfc" size="2621440" crc="E7C31BB5" md5="CAE2E4E6161135B2936E1D74AB57DDE1"/>
+	</game>
 	<game name="最终幻想6（繁）勇者 v1.1 日菜单 - 6184AC3C">
 		<rom name="最终幻想6（繁）勇者 v1.1 日菜单.sfc" size="3670016" crc="6184AC3C" md5="0CE26A197EA93EE532485B43DE64E624"/>
 	</game>
@@ -345,6 +378,12 @@
 	</game>
 	<game name="最终幻想6（简）勇者 v1.1 日菜单 - 324FE6C5">
 		<rom name="最终幻想6（简）勇者 v1.1 日菜单.sfc" size="3670016" crc="324FE6C5" md5="B26CCEE340A5A36B49AF70BB63309579"/>
+	</game>
+	<game name="月面的阿努比斯（简）1d CLARK.H v1.0 - 779B5BC5">
+		<rom name="月面的阿努比斯（简）1d CLARK.H v1.0.sfc" size="4194304" crc="779B5BC5" md5="D058C7DCD8EB209F61696E60D15157AB"/>
+	</game>
+	<game name="机动战士高达F91（简）飞雨影 小鬼混 阿刃 20260101 - FA0BFC4B">
+		<rom name="机动战士高达F91（简）飞雨影 小鬼混 阿刃 20260101.sfc" size="1179648" crc="FA0BFC4B" md5="F81F602C25E884F76BAE5B27B28B99FA"/>
 	</game>
 	<game name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20240724 - 4352937E">
 		<rom name="机动战士高达：交错维度0079（简）小鬼混 阿刃 20240724.smc" size="2097152" crc="4352937E" md5="3385A1219FEFA2A8420C0CEB973845E5"/>
@@ -376,6 +415,12 @@
 	<game name="横山光辉三国志（简）混沌星辰 v1.2 - F73F7DB6">
 		<rom name="横山光辉三国志（简）混沌星辰 v1.2.sfc" size="1048576" crc="F73F7DB6" md5="6D6D106E16C0E297BE9EC225447971C7"/>
 	</game>
+	<game name="武四青龙传（简）小鬼混 阿刃 20250908 - E653B98E">
+		<rom name="武四青龙传（简）小鬼混 阿刃 20250908.sfc" size="4194304" crc="E653B98E" md5="07DD0574B62B1FF69849536BE04BE8E1"/>
+	</game>
+	<game name="武四青龙传（简）小鬼混 阿刃 20251016 v1.01 - F45234CF">
+		<rom name="武四青龙传（简）小鬼混 阿刃 20251016 v1.01.sfc" size="4194304" crc="F45234CF" md5="471F217F4C888D72C66710B605F718C2"/>
+	</game>
 	<game name="死亡之舞（简）1d CLARK.H 20250327 v1.0 - 8F808179">
 		<rom name="死亡之舞（简）1d CLARK.H 20250327 v1.0.sfc" size="4194304" crc="8F808179" md5="4771DFDA0199DF2804D0275C4BF03A9B"/>
 	</game>
@@ -399,6 +444,18 @@
 	</game>
 	<game name="洛克人7宿命的对决（繁）Nokoh 20250420 v4 MSU-1 音效增强 - B7492944">
 		<rom name="洛克人7宿命的对决（繁）Nokoh 20250420 v4 MSU-1 音效增强.sfc" size="3145728" crc="B7492944" md5="3FF6F5F85A82BF98C71B79B6F76A3A29"/>
+	</game>
+	<game name="浪漫沙加2（简）Meltina Jinghaoyi MagicMirror 哇哇的天空有咿呀咿呀的云 20260124 v1.1 - C61DC65E">
+		<rom name="浪漫沙加2（简）Meltina Jinghaoyi MagicMirror 哇哇的天空有咿呀咿呀的云 20260124 v1.1.smc" size="2621440" crc="C61DC65E" md5="FE1A023C0DDF26DF4C460CAEEFF5CCD3"/>
+	</game>
+	<game name="浪漫沙加2（繁）Meltina Jinghaoyi MagicMirror 哇哇的天空有咿呀咿呀的云 20260124 v1.1 - 4211BFF7">
+		<rom name="浪漫沙加2（繁）Meltina Jinghaoyi MagicMirror 哇哇的天空有咿呀咿呀的云 20260124 v1.1.smc" size="2621440" crc="4211BFF7" md5="37E3E0A637E7DF3C8529988C953AAB64"/>
+	</game>
+	<game name="浪漫沙加3（简）WERTHER等 天幻 v1.01 - C9A66742">
+		<rom name="浪漫沙加3（简）WERTHER等 天幻 v1.01.sfc" size="4194304" crc="C9A66742" md5="E1483EBA6B9ED6DB51A0A013A98F021B"/>
+	</game>
+	<game name="浪漫沙加3（繁）WERTHER等 天幻 v1.01 - C8D13BDB">
+		<rom name="浪漫沙加3（繁）WERTHER等 天幻 v1.01.sfc" size="4194304" crc="C8D13BDB" md5="A1085B6BC053E163055DE7720210AB77"/>
 	</game>
 	<game name="消防员的故事（简）阿刃 20240826 - 2619986C">
 		<rom name="消防员的故事（简）阿刃 20240826.sfc" size="1572864" crc="2619986C" md5="876F829C8D2AC7A317E3DEE47E619569"/>
@@ -471,6 +528,9 @@
 	</game>
 	<game name="火焰之纹章：纹章之谜（简）火花 狼组 v1.03 - 5962B217">
 		<rom name="火焰之纹章：纹章之谜（简）火花 狼组 v1.03.sfc" size="3145728" crc="5962B217" md5="9C9DD3352AF528CF0EE0916226FAAC9A"/>
+	</game>
+	<game name="火焰之纹章：纹章之谜（简）狼组 飞雨影 20251123 v1.03 - 6DD59B08">
+		<rom name="火焰之纹章：纹章之谜（简）狼组 飞雨影 20251123 v1.03.sfc" size="3145728" crc="6DD59B08" md5="E3E8EB08A889E3F1050EB94D5A8C6963"/>
 	</game>
 	<game name="热血食物方块（简）风干的包子 20241119 - B025121F">
 		<rom name="热血食物方块（简）风干的包子 20241119.smc" size="720896" crc="B025121F" md5="E68B8B94534E9C81989ACABC7B6D7568"/>
@@ -577,6 +637,9 @@
 	<game name="财宝猎人G（简）WERTHER等 天幻 v1.0 - 829F6663">
 		<rom name="财宝猎人G（简）WERTHER等 天幻 v1.0.sfc" size="4194304" crc="829F6663" md5="72A8E66F08468A8D32FB9C9A197F24FF"/>
 	</game>
+	<game name="财宝猎人G（简）天幻 飞雨影 20251013 v1.0 菜单花屏修正 - F07BFDC9">
+		<rom name="财宝猎人G（简）天幻 飞雨影 20251013 v1.0 菜单花屏修正.sfc" size="4194304" crc="F07BFDC9" md5="6ECBE7CA4788134256CE5C4524F99266"/>
+	</game>
 	<game name="超时空之轮（繁）GOLDEGG EMUKIM 测试 - 9E66E33F">
 		<rom name="超时空之轮（繁）GOLDEGG EMUKIM 测试.sfc" size="4194304" crc="9E66E33F" md5="42DF6628386FCF9B5A2CA70865D1BFF0"/>
 	</game>
@@ -588,6 +651,12 @@
 	</game>
 	<game name="超级密特罗德（简）CHRONO v0.8 - AFF6E8FE">
 		<rom name="超级密特罗德（简）CHRONO v0.8.sfc" size="3145728" crc="AFF6E8FE" md5="0A4754529F2273484FAE45859EC9D6EB"/>
+	</game>
+	<game name="超级密特罗德（简）aGuGU 20250730 v1.0 - 84D1428A">
+		<rom name="超级密特罗德（简）aGuGU 20250730 v1.0.sfc" size="4194304" crc="84D1428A" md5="2B397C3CF3EEDB56FCD19D258272EF46"/>
+	</game>
+	<game name="超级密特罗德（繁）aGuGU 20250730 v1.0 - 283ECED5">
+		<rom name="超级密特罗德（繁）aGuGU 20250730 v1.0.sfc" size="4194304" crc="283ECED5" md5="84BC7C7532C45AA713EFDDFCF718E817"/>
 	</game>
 	<game name="超级机器人大战EX（简）WGF - 58E2F753">
 		<rom name="超级机器人大战EX（简）WGF.sfc" size="2097152" crc="58E2F753" md5="D44507BCFBBC906A72B3B4BB85E79501"/>
@@ -613,8 +682,29 @@
 	<game name="超级马力欧兄弟4（繁）Nokoh 20190816 - AB55C6FC">
 		<rom name="超级马力欧兄弟4（繁）Nokoh 20190816.sfc" size="786432" crc="AB55C6FC" md5="E77207BEB9494FF5F6A9305E3F970ECA"/>
 	</game>
+	<game name="超级马力欧兄弟4（繁）Nokoh 20250726 - DC68B8CB">
+		<rom name="超级马力欧兄弟4（繁）Nokoh 20250726.sfc" size="786432" crc="DC68B8CB" md5="23EB4CD51224EFA3EFC6149753BC58EF"/>
+	</game>
+	<game name="超级马力欧兄弟4（繁）Nokoh 20250729 - 53941B31">
+		<rom name="超级马力欧兄弟4（繁）Nokoh 20250729.sfc" size="786432" crc="53941B31" md5="934354B42C30957D69F8D56466A6BF11"/>
+	</game>
+	<game name="超级马力欧全明星和超级马力欧世界（繁）Nokoh 20250726 - 438960AE">
+		<rom name="超级马力欧全明星和超级马力欧世界（繁）Nokoh 20250726.sfc" size="4194304" crc="438960AE" md5="2FEC2F18E727EB8A5E8330F7F68AF22B"/>
+	</game>
+	<game name="超级马力欧全明星和超级马力欧世界（繁）Nokoh 20250730 - 6DF9C4A9">
+		<rom name="超级马力欧全明星和超级马力欧世界（繁）Nokoh 20250730.sfc" size="4194304" crc="6DF9C4A9" md5="5F22ED85805C633C0A71042DF9F68E27"/>
+	</game>
 	<game name="超级马力欧合集（简）王潇亮 少量汉化 - 66F72305">
 		<rom name="超级马力欧合集（简）王潇亮 少量汉化.sfc" size="3145728" crc="66F72305" md5="903809983479DC75297EA38253ED78C5"/>
+	</game>
+	<game name="超级马力欧合集（繁）Nokoh 20250726 v1.1 - 761F5B75">
+		<rom name="超级马力欧合集（繁）Nokoh 20250726 v1.1.sfc" size="4194304" crc="761F5B75" md5="E2AABECEE737644B7EA6341225B0F179"/>
+	</game>
+	<game name="超级马力欧合集（繁）Nokoh 20250730 v1.1 - A5968C31">
+		<rom name="超级马力欧合集（繁）Nokoh 20250730 v1.1.sfc" size="4194304" crc="A5968C31" md5="C2AF995F0354CC7550D18C2F1AE5374F"/>
+	</game>
+	<game name="超级马力欧合集（繁）Nokoh 20250804 - 78F64D7F">
+		<rom name="超级马力欧合集（繁）Nokoh 20250804.sfc" size="4194304" crc="78F64D7F" md5="0F1386D3C5657C10AB4F389A554F2EF2"/>
 	</game>
 	<game name="迦楼逻王（简）阿刃 20240519 - 10D9AA57">
 		<rom name="迦楼逻王（简）阿刃 20240519.smc" size="1048576" crc="10D9AA57" md5="6D0FB92D7C54FDEB264374721DC0D2FA"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20250500</version></header>
+	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20260200</version></header>
 	<game name="NHK大河剧 - 太平记（简）cslrxyz - 6E781C6C">
 		<rom name="NHK大河剧 - 太平记（简）cslrxyz.gen" size="1048576" crc="6E781C6C" md5="41D6D2116F52F0988C4023BE81F2D731"/>
 	</game>
@@ -133,14 +133,14 @@
 	<game name="吞食天地（简）永盛 - B403F841">
 		<rom name="吞食天地（简）永盛.gen" size="2097152" crc="B403F841" md5="CBF2E8B231D68E96873AD124F95AB2AC"/>
 	</game>
-	<game name="吞食天地3（简） - 733E9120">
-		<rom name="吞食天地3（简）.smd" size="2097664" crc="733E9120" md5="B123BB1422F409B2F8C9A537D96EBBDA"/>
-	</game>
 	<game name="吞食天地III（简）SKOB 熊组 - EA57B668">
 		<rom name="吞食天地III（简）SKOB 熊组.gen" size="2097152" crc="EA57B668" md5="88F19E23AF14C35152D4964F426529E1"/>
 	</game>
 	<game name="吞食天地III（繁）SKOB - B23C4166">
 		<rom name="吞食天地III（繁）SKOB.gen" size="2097152" crc="B23C4166" md5="0FD2EB3DDDCED1D42C371220AA5B0359"/>
+	</game>
+	<game name="吞食天地III（简） - 733E9120">
+		<rom name="吞食天地III（简）.gen" size="2097664" crc="733E9120" md5="B123BB1422F409B2F8C9A537D96EBBDA"/>
 	</game>
 	<game name="吞食天地III三国外传（繁）三协资讯 - 6F98247D">
 		<rom name="吞食天地III三国外传（繁）三协资讯.gen" size="2097152" crc="6F98247D" md5="14F05928D9539E6EAF31A7A0A64866D1"/>
@@ -150,6 +150,9 @@
 	</game>
 	<game name="圣战风云（繁）永盛 - 98C368CE">
 		<rom name="圣战风云（繁）永盛.gen" size="1048576" crc="98C368CE" md5="3A8030536619F77EE6685BDA8EFF974A"/>
+	</game>
+	<game name="地球使命（简）小鬼混 - 4AD9B364">
+		<rom name="地球使命（简）小鬼混.gen" size="7864320" crc="4AD9B364" md5="181C2CA8191D49450E9B886873D6AB7E"/>
 	</game>
 	<game name="大富翁（简）永盛 - 830416CB">
 		<rom name="大富翁（简）永盛.gen" size="1048576" crc="830416CB" md5="43014B13D00F4DE1A6E140D8BE872D8C"/>
@@ -286,6 +289,9 @@
 	<game name="封神英杰传（繁）川普 Ken 20231008 v2 - 807C66FB">
 		<rom name="封神英杰传（繁）川普 Ken 20231008 v2.gen" size="2097152" crc="807C66FB" md5="F02B2249AD5DE877BE4BFDB885229982"/>
 	</game>
+	<game name="封神英杰传（繁）Ken 20250508 v4 最终修正 - A0C9D6C6">
+		<rom name="封神英杰传（繁）Ken 20250508 v4 最终修正.gen" size="2097152" crc="A0C9D6C6" md5="E22851F9637107A8655798B08927AD65"/>
+	</game>
 	<game name="小魔女（繁）三协资讯 - 8E49A92E">
 		<rom name="小魔女（繁）三协资讯.gen" size="524288" crc="8E49A92E" md5="86DEAFCC9B0369FB970F47657859768B"/>
 	</game>
@@ -302,16 +308,22 @@
 		<rom name="巫术神界（简）永盛.gen" size="1048576" crc="568B2646" md5="AD699518F2A8252E118562307EE473C9"/>
 	</game>
 	<game name="巫术神界（简） - 58C54E9A">
-		<rom name="巫术神界（简）.smd" size="1048581" crc="58C54E9A" md5="87EF36A3F0BF291562F684BE819F1AC2"/>
+		<rom name="巫术神界（简）.gen" size="1048581" crc="58C54E9A" md5="87EF36A3F0BF291562F684BE819F1AC2"/>
 	</game>
 	<game name="巫术神界（简）fixCRC - 7896F354">
-		<rom name="巫术神界（简）fixCRC.smd" size="1048582" crc="7896F354" md5="466571625BA1554D2503A4BED16FEB0F"/>
+		<rom name="巫术神界（简）fixCRC.gen" size="1048582" crc="7896F354" md5="466571625BA1554D2503A4BED16FEB0F"/>
 	</game>
 	<game name="帝国王朝（繁）川普 - 095B9A15">
 		<rom name="帝国王朝（繁）川普.gen" size="2097152" crc="095B9A15" md5="959109050FE0E9B3CFC2BA30B6B60975"/>
 	</game>
 	<game name="帝国王朝（简）永盛 - 4BEA0ECE">
 		<rom name="帝国王朝（简）永盛.gen" size="2097152" crc="4BEA0ECE" md5="B884D0A52BACCA41B453465BFE1E32C3"/>
+	</game>
+	<game name="幽游白书外传（简）AXI 幽灵骑士の游魂歌 - 0EF6D1B1">
+		<rom name="幽游白书外传（简）AXI 幽灵骑士の游魂歌.gen" size="4194304" crc="0EF6D1B1" md5="D03311ABFA6E803AF80865798F9D27F5"/>
+	</game>
+	<game name="幽游白书外传（简）小鬼混 SchreckgSoldat 阿刃 20251211 - 113B13E3">
+		<rom name="幽游白书外传（简）小鬼混 SchreckgSoldat 阿刃 20251211.gen" size="2097152" crc="113B13E3" md5="A50E3D86E7D0F73CCFE3D24313AF961B"/>
 	</game>
 	<game name="幽游白书：魔强统一战（简）模拟天下 - 3AFFA6CC">
 		<rom name="幽游白书：魔强统一战（简）模拟天下.gen" size="3145728" crc="3AFFA6CC" md5="5D533789FF80A077748119A552E50B8D"/>
@@ -451,6 +463,9 @@
 	<game name="梦幻之星2不归的终点（繁）永盛 小鬼混 修正版 - 23AC576D">
 		<rom name="梦幻之星2不归的终点（繁）永盛 小鬼混 修正版.gen" size="1048576" crc="23AC576D" md5="87F5A6570367D60B49B298F1C758DF98"/>
 	</game>
+	<game name="梦幻之星2不归的终点（简）永盛 am 20260103 - 40F7E1F4">
+		<rom name="梦幻之星2不归的终点（简）永盛 am 20260103.gen" size="1048576" crc="40F7E1F4" md5="889790B433BFC07F50765BBF403168F3"/>
+	</game>
 	<game name="梦幻之星3时之继承者（简）永盛 - 0DE4590C">
 		<rom name="梦幻之星3时之继承者（简）永盛.gen" size="2097152" crc="0DE4590C" md5="661C5728FCA976324870FBB6514B8033"/>
 	</game>
@@ -471,6 +486,12 @@
 	</game>
 	<game name="梦幻之星：千年纪的终结（简）意志之路 v1.6 不花屏最终版 fixCRC - CE335A2F">
 		<rom name="梦幻之星：千年纪的终结（简）意志之路 v1.6 不花屏最终版 fixCRC.gen" size="3276800" crc="CE335A2F" md5="C419D6B968C7E11E4460A7CCE61C826A"/>
+	</game>
+	<game name="梦幻之星：千年纪的终结（简繁）意志之路 v2.0 - A8B299E1">
+		<rom name="梦幻之星：千年纪的终结（简繁）意志之路 v2.0.gen" size="3801088" crc="A8B299E1" md5="EE988DAAEC74980F597CFAEB166E884A"/>
+	</game>
+	<game name="梦幻之星：千年纪的终结（简繁）意志之路 v2.1 重编译加强 - 563A9988">
+		<rom name="梦幻之星：千年纪的终结（简繁）意志之路 v2.1 重编译加强.gen" size="4038656" crc="563A9988" md5="05486EE2CC7D59984954C62C68CA5360"/>
 	</game>
 	<game name="梦幻模拟战（简）永盛 AXI 修正版 - FE6B5BF5">
 		<rom name="梦幻模拟战（简）永盛 AXI 修正版.gen" size="1048576" crc="FE6B5BF5" md5="6031B356EF054D9A0B65BE730778688B"/>
@@ -504,6 +525,15 @@
 	</game>
 	<game name="梦幻模拟战2（简）永盛 - 8EB7CB2B">
 		<rom name="梦幻模拟战2（简）永盛.gen" size="2097152" crc="8EB7CB2B" md5="312A8619107AC815DBE17E64FCEFE5D2"/>
+	</game>
+	<game name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.4 - 76C37A98">
+		<rom name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.4.gen" size="2097152" crc="76C37A98" md5="06E94A5EEBED8769A7B13034562924ED"/>
+	</game>
+	<game name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.5 - F1F66BA4">
+		<rom name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.5.gen" size="2097152" crc="F1F66BA4" md5="7E2F751B94495E80ADEC61192095F1FB"/>
+	</game>
+	<game name="梦幻模拟战2（简繁）狼组 星空 v1.1 - 16CF5DD0">
+		<rom name="梦幻模拟战2（简繁）狼组 星空 v1.1.gen" size="2097664" crc="16CF5DD0" md5="5DF0C8E2AB02227475481AEFF4008D17"/>
 	</game>
 	<game name="梦幻模拟战II（简）狼组 - 3F02618E">
 		<rom name="梦幻模拟战II（简）狼组.gen" size="2097152" crc="3F02618E" md5="F1F1345B1C12D96421168C6ABCE9BD4D"/>
@@ -546,6 +576,9 @@
 	</game>
 	<game name="洞窟物语（简）Andrew DeRosier v0.8.0 - BBFDDD6F">
 		<rom name="洞窟物语（简）Andrew DeRosier v0.8.0.gen" size="4194304" crc="BBFDDD6F" md5="F04BBA3940D65541DBF1EDDBB00FCF89"/>
+	</game>
+	<game name="洞窟物语（简）Andrew DeRosier v0.8.1 - B974CFD1">
+		<rom name="洞窟物语（简）Andrew DeRosier v0.8.1.gen" size="4194304" crc="B974CFD1" md5="2224034F512BCB4FDB15D87705C72A3E"/>
 	</game>
 	<game name="洞窟物语  - 0C1517FC（简）v0.8.0 - 0C1517FC">
 		<rom name="洞窟物语  - 0C1517FC（简）v0.8.0.gen" size="4194304" crc="0C1517FC" md5="0150FEE357E628FFED3033DD6BE7C814"/>
@@ -738,6 +771,9 @@
 	</game>
 	<game name="阿斯特堡兄弟（简）官中 - 0833390C">
 		<rom name="阿斯特堡兄弟（简）官中.gen" size="15466496" crc="0833390C" md5="985D5E1255F5E65799A36A6A9063C9F8"/>
+	</game>
+	<game name="阿斯特堡兄弟（多）Neofid Studios Evercade - DBBCA6A4">
+		<rom name="阿斯特堡兄弟（多）Neofid Studios Evercade.gen" size="15466496" crc="DBBCA6A4" md5="EE8F0E665CD09494EB40DE4853BCA357"/>
 	</game>
 	<game name="阿斯特堡的恶魔（简）官中 20240205 v3 - 9A6BD0B6">
 		<rom name="阿斯特堡的恶魔（简）官中 20240205 v3.gen" size="15466496" crc="9A6BD0B6" md5="C77559919FB556009D637A53C563F930"/>
