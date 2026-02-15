@@ -4,17 +4,17 @@
 	<game name="SD高达扭蛋战记：第一章（简）Lance_29 v0.5 - 352464F1">
 		<rom name="SD高达扭蛋战记：第一章（简）Lance_29 v0.5.ws" size="1048576" crc="352464F1" md5="108D8329A383D1BCCE94494C0FCAF47E"/>
 	</game>
-	<game name="SD高达英雄传：武者传说（简）CLARK.H - 38C8CE82">
-		<rom name="SD高达英雄传：武者传说（简）CLARK.H.wsc" size="8388608" crc="38C8CE82" md5="6ED1BF806CD95EA9E4C00997733B1831"/>
+	<game name="SD高达英雄传：武者传说（简）CLARK.H 20260111 v1.0 - 38C8CE82">
+		<rom name="SD高达英雄传：武者传说（简）CLARK.H 20260111 v1.0.wsc" size="8388608" crc="38C8CE82" md5="6ED1BF806CD95EA9E4C00997733B1831"/>
 	</game>
-	<game name="SD高达英雄传：骑士传说（简）CLARK.H v1.2 - AE039686">
-		<rom name="SD高达英雄传：骑士传说（简）CLARK.H v1.2.wsc" size="8388608" crc="AE039686" md5="49AD692EF9D912731D325388AFC9D7EF"/>
+	<game name="SD高达英雄传：骑士传说（简）CLARK.H 20260114 v1.2 - AE039686">
+		<rom name="SD高达英雄传：骑士传说（简）CLARK.H 20260114 v1.2.wsc" size="8388608" crc="AE039686" md5="49AD692EF9D912731D325388AFC9D7EF"/>
 	</game>
-	<game name="X战记：命运卡牌（简）CLARK.H - 22A6D4A8">
-		<rom name="X战记：命运卡牌（简）CLARK.H.wsc" size="8388608" crc="22A6D4A8" md5="57030193A4E7DEB8C178A15E2EB3BB12"/>
+	<game name="X战记：命运卡牌（简）CLARK.H 20251205 v1.0 - 22A6D4A8">
+		<rom name="X战记：命运卡牌（简）CLARK.H 20251205 v1.0.wsc" size="8388608" crc="22A6D4A8" md5="57030193A4E7DEB8C178A15E2EB3BB12"/>
 	</game>
-	<game name="三色猫福尔摩斯：幽灵恐慌（简）CLARK.H - 22DE5123">
-		<rom name="三色猫福尔摩斯：幽灵恐慌（简）CLARK.H.wsc" size="4194304" crc="22DE5123" md5="486418112D420A3B2564B670B45A725A"/>
+	<game name="三色猫福尔摩斯：幽灵恐慌（简）CLARK.H 20260120 v1.0 - 22DE5123">
+		<rom name="三色猫福尔摩斯：幽灵恐慌（简）CLARK.H 20260120 v1.0.wsc" size="4194304" crc="22DE5123" md5="486418112D420A3B2564B670B45A725A"/>
 	</game>
 	<game name="亚克传承：机神复活（简）CLARK.H 20251030 v1.0 - 5BBDAF8A">
 		<rom name="亚克传承：机神复活（简）CLARK.H 20251030 v1.0.wsc" size="8388608" crc="5BBDAF8A" md5="DAD8C2D3CDF7E7DCCA86BD3590446491"/>
@@ -22,11 +22,11 @@
 	<game name="俄罗斯方块（简）CLARK.H 20251104 v1.0 - EBCE9B1C">
 		<rom name="俄罗斯方块（简）CLARK.H 20251104 v1.0.wsc" size="1048576" crc="EBCE9B1C" md5="2651BB57ABC1EF39FBF1DDAACF6B0CAB"/>
 	</game>
-	<game name="全职猎人：贪婪岛（简）CLARK.H 0008 - 全职猎人 - 贪婪之岛 (v1.1) (简) [CLARK.H] - 046C0A89">
-		<rom name="全职猎人：贪婪岛（简）CLARK.H 0008 - 全职猎人 - 贪婪之岛 (v1.1) (简) [CLARK.H].wsc" size="8388608" crc="046C0A89" md5="8029FDF406F8E4E2B7AA9C898359395B"/>
+	<game name="全职猎人：贪婪岛（简）CLARK.H v1.1 - 046C0A89">
+		<rom name="全职猎人：贪婪岛（简）CLARK.H v1.1.wsc" size="8388608" crc="046C0A89" md5="8029FDF406F8E4E2B7AA9C898359395B"/>
 	</game>
-	<game name="全职猎人：贪婪岛（简）CLARK.H v1.3 - E3B4BED7">
-		<rom name="全职猎人：贪婪岛（简）CLARK.H v1.3.wsc" size="8388608" crc="E3B4BED7" md5="810A79B8A9BECCDF302B7669AA0E16E7"/>
+	<game name="全职猎人：贪婪岛（简）CLARK.H 20251221 v1.3 - E3B4BED7">
+		<rom name="全职猎人：贪婪岛（简）CLARK.H 20251221 v1.3.wsc" size="8388608" crc="E3B4BED7" md5="810A79B8A9BECCDF302B7669AA0E16E7"/>
 	</game>
 	<game name="军平连线方块（简）CLARK.H 20251106 v1.0 - C40539A3">
 		<rom name="军平连线方块（简）CLARK.H 20251106 v1.0.wsc" size="1048576" crc="C40539A3" md5="DDAA6404695FE9F0F3F37B0A3B79B3E5"/>
@@ -37,14 +37,17 @@
 	<game name="奥特曼：光之国的使者（简）Lance_29 v0.523 剧情汉化 - CBD3FFD1">
 		<rom name="奥特曼：光之国的使者（简）Lance_29 v0.523 剧情汉化.wsc" size="2097152" crc="CBD3FFD1" md5="05B4F779518EADBAE46347B745DA8014"/>
 	</game>
-	<game name="封神演义：仙界传2（简）CLARK.H - 94186DEA">
-		<rom name="封神演义：仙界传2（简）CLARK.H.wsc" size="4194304" crc="94186DEA" md5="65D9597A974ED81365FD501B117A17BC"/>
+	<game name="封神演义：仙界传2（简）CLARK.H 20251221 v1.0 - 94186DEA">
+		<rom name="封神演义：仙界传2（简）CLARK.H 20251221 v1.0.wsc" size="4194304" crc="94186DEA" md5="65D9597A974ED81365FD501B117A17BC"/>
 	</game>
-	<game name="幻想魔传最游记：阳炎之所（简）CLARK.H - C6EAB4BE">
-		<rom name="幻想魔传最游记：阳炎之所（简）CLARK.H.wsc" size="2097152" crc="C6EAB4BE" md5="1428A291A3FC1DD6FB9FF4365868EB14"/>
+	<game name="幻想魔传最游记：阳炎之所（简）CLARK.H 20260113 v1.0 - C6EAB4BE">
+		<rom name="幻想魔传最游记：阳炎之所（简）CLARK.H 20260113 v1.0.wsc" size="2097152" crc="C6EAB4BE" md5="1428A291A3FC1DD6FB9FF4365868EB14"/>
 	</game>
-	<game name="恐惧2（简）CLARK.H v1.1 - E4772BAC">
-		<rom name="恐惧2（简）CLARK.H v1.1.wsc" size="8388608" crc="E4772BAC" md5="A80A403D4DBE822B7CC30757F553EACE"/>
+	<game name="恐惧2（简）CLARK.H 20260206 v1.1 - E4772BAC">
+		<rom name="恐惧2（简）CLARK.H 20260206 v1.1.wsc" size="8388608" crc="E4772BAC" md5="A80A403D4DBE822B7CC30757F553EACE"/>
+	</game>
+	<game name="恐惧2（简）CLARK.H 20260118 v1.0 - AC07E297">
+		<rom name="恐惧2（简）CLARK.H 20260118 v1.0.wsc" size="8388608" crc="AC07E297" md5="9B6DCF55778ECEE3C4D45C872A1B729F"/>
 	</game>
 	<game name="数码兽驯兽师：战斗之魂（英简）PECO v202305 - 6329AB57">
 		<rom name="数码兽驯兽师：战斗之魂（英简）PECO v202305.wsc" size="4194304" crc="6329AB57" md5="CD56419318E4D6D490FFF705FDE9968D"/>
@@ -61,11 +64,14 @@
 	<game name="旋涡：魔咒篇（简）1d v0.811 机翻 - A4B24DDB">
 		<rom name="旋涡：魔咒篇（简）1d v0.811 机翻.ws" size="2097152" crc="A4B24DDB" md5="2B767A7E07D341AA23164195034C4CAA"/>
 	</game>
+	<game name="最后幸存者（简）CLARK.H 20260208 v1.0 - 179F0D44">
+		<rom name="最后幸存者（简）CLARK.H 20260208 v1.0.wsc" size="8388608" crc="179F0D44" md5="DCCC3037AB739D6D4B348FCEE336FF64"/>
+	</game>
 	<game name="机动战士高达SEED（简）alex2092 碧黯云逍 阿姆罗 - B338CAE2">
 		<rom name="机动战士高达SEED（简）alex2092 碧黯云逍 阿姆罗.wsc" size="4194304" crc="B338CAE2" md5="B5CF3074AE545475A8AF6E0E179AFF66"/>
 	</game>
-	<game name="机动战士高达Vol.1（简）CLARK.H - 00C4C06D">
-		<rom name="机动战士高达Vol.1（简）CLARK.H.wsc" size="8388608" crc="00C4C06D" md5="6014AA92642AAA8E84B30734DB46D48E"/>
+	<game name="机动战士高达Vol.1（简）CLARK.H 20251230 v1.0 - 00C4C06D">
+		<rom name="机动战士高达Vol.1（简）CLARK.H 20251230 v1.0.wsc" size="8388608" crc="00C4C06D" md5="6014AA92642AAA8E84B30734DB46D48E"/>
 	</game>
 	<game name="浪漫沙加（简）CLARK.H 20251214 v1.0 - C2045A27">
 		<rom name="浪漫沙加（简）CLARK.H 20251214 v1.0.wsc" size="4194304" crc="C2045A27" md5="858D772EE8C562E42281FB34D33F0EBE"/>
@@ -73,17 +79,20 @@
 	<game name="犬夜叉：风云绘卷（简）CLARK.H 20251102 v1.0 - 1B697A13">
 		<rom name="犬夜叉：风云绘卷（简）CLARK.H 20251102 v1.0.wsc" size="4194304" crc="1B697A13" md5="9390354F728212D2B2AF6004A6847124"/>
 	</game>
-	<game name="秋之回忆：庆典（简）CLARK.H - EC06090E">
-		<rom name="秋之回忆：庆典（简）CLARK.H.wsc" size="2097152" crc="EC06090E" md5="CDA3CB9C49C8A4F0F31A33206A66C005"/>
+	<game name="秋之回忆：庆典（简）CLARK.H 20260129 v1.0 - EC06090E">
+		<rom name="秋之回忆：庆典（简）CLARK.H 20260129 v1.0.wsc" size="2097152" crc="EC06090E" md5="CDA3CB9C49C8A4F0F31A33206A66C005"/>
 	</game>
-	<game name="落雀（简）CLARK.H 0009 - 落雀 (简) [CLARK.H] - 3B71536D">
-		<rom name="落雀（简）CLARK.H 0009 - 落雀 (简) [CLARK.H].wsc" size="1048576" crc="3B71536D" md5="D64481BE82172D2024BD29E4036811F8"/>
+	<game name="落雀（简）CLARK.H 20251027 v1.0 - 3B71536D">
+		<rom name="落雀（简）CLARK.H 20251027 v1.0.wsc" size="1048576" crc="3B71536D" md5="D64481BE82172D2024BD29E4036811F8"/>
 	</game>
 	<game name="蓝翼闪电战（简）1d CLARK.H 20250530 v1.1 - A345769B">
 		<rom name="蓝翼闪电战（简）1d CLARK.H 20250530 v1.1.wsc" size="2097152" crc="A345769B" md5="15E86657B1D447AB2C48F81744170EB9"/>
 	</game>
 	<game name="返家十万里（简）1d v0.9 - 217FD281">
 		<rom name="返家十万里（简）1d v0.9.ws" size="1048576" crc="217FD281" md5="3D0C36E8F4794BAD7E68BE94182CB05D"/>
+	</game>
+	<game name="钻子先生（简）CLARK.H 20260213 v1.0 - 340C4A3C">
+		<rom name="钻子先生（简）CLARK.H 20260213 v1.0.wsc" size="2097152" crc="340C4A3C" md5="18E3B553AAD9E41AA7367EBA21CF1A6A"/>
 	</game>
 	<game name="铁人28号（简）1d v1.0 - 44B81767">
 		<rom name="铁人28号（简）1d v1.0.ws" size="4194304" crc="44B81767" md5="215DFC8B2222AE7D0CEC515C057E6B9B"/>

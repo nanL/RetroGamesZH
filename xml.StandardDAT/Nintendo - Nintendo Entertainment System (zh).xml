@@ -2485,6 +2485,9 @@
 	<game name="快打旋风（简）FlameCyclone winisterZ 20260101 大字体杰西卡 - 5600669D">
 		<rom name="快打旋风（简）FlameCyclone winisterZ 20260101 大字体杰西卡.nes" size="524304" crc="5600669D" md5="C970AD841C8498A6AD4E3A6EC43F9FA7"/>
 	</game>
+	<game name="快打旋风（简）FlameCyclone 20260209 大字体 - A8BDB66D">
+		<rom name="快打旋风（简）FlameCyclone 20260209 大字体.nes" size="524304" crc="A8BDB66D" md5="3DAF213CDDFA9F2104933706454739E4"/>
+	</game>
 	<game name="快打旋风3（简）DFQSHY - 47D27FCC">
 		<rom name="快打旋风3（简）DFQSHY.nes" size="786448" crc="47D27FCC" md5="86654389AB5000AA53246979ACA2AD4A"/>
 	</game>

@@ -79,6 +79,12 @@
 	<game name="三国志：孔明传（简）Dangfer 20250513 v1.0.0 - 47701A4C">
 		<rom name="三国志：孔明传（简）Dangfer 20250513 v1.0.0.gba" size="8388608" crc="47701A4C" md5="A7BA60DD4C60D0DBBA7F69CD573856D1"/>
 	</game>
+	<game name="三国志：孔明传（简）Dangfer v1.0.1 - 4F738E72">
+		<rom name="三国志：孔明传（简）Dangfer v1.0.1.gba" size="8388608" crc="4F738E72" md5="A5F250E883F4E1926E9E133C8ABBB696"/>
+	</game>
+	<game name="三国志：孔明传（简）壮缪忠武 v1.0.0 - 49C9E85C">
+		<rom name="三国志：孔明传（简）壮缪忠武 v1.0.0.gba" size="8388608" crc="49C9E85C" md5="271D9A40D73039954656E1D53331D170"/>
+	</game>
 	<game name="世界传说：召唤师的血统（简）模拟天下 - 63EC6544">
 		<rom name="世界传说：召唤师的血统（简）模拟天下.gba" size="8388608" crc="63EC6544" md5="986E5C21C1607362CBAED2CBFEC6B660"/>
 	</game>
@@ -169,8 +175,11 @@
 	<game name="信长异闻录（简）JAYCHOU001 唐甜李 - 6338A42C">
 		<rom name="信长异闻录（简）JAYCHOU001 唐甜李.gba" size="8388608" crc="6338A42C" md5="5924CF160A490952523743DCB9483A24"/>
 	</game>
-	<game name="信长异闻录（简）Advance - 1CE08795">
-		<rom name="信长异闻录（简）Advance.gba" size="11611424" crc="1CE08795" md5="C4EB97B9AF65FB3311A1E36E0A2FCF81"/>
+	<game name="信长异闻录（简）Advance 落月 20260123 v1.0 - 1CE08795">
+		<rom name="信长异闻录（简）Advance 落月 20260123 v1.0.gba" size="11611424" crc="1CE08795" md5="C4EB97B9AF65FB3311A1E36E0A2FCF81"/>
+	</game>
+	<game name="信长异闻录（简）Advance 落月 20260212 v1.1 - 17774312">
+		<rom name="信长异闻录（简）Advance 落月 20260212 v1.1.gba" size="10925436" crc="17774312" md5="37D68D5D2F5ED54AAE0F0B7E31800A02"/>
 	</game>
 	<game name="光明之魂（简）CGP - 250AD578">
 		<rom name="光明之魂（简）CGP.gba" size="8388608" crc="250AD578" md5="B07858C63176922E33E5A441EF13701D"/>
@@ -469,8 +478,8 @@
 	<game name="大盗伍佑卫门 新世代出动（简繁）星组 - 14F6B391">
 		<rom name="大盗伍佑卫门 新世代出动（简繁）星组.gba" size="4203256" crc="14F6B391" md5="FCC7D54EEBC89523D970EDCDF0DC887D"/>
 	</game>
-	<game name="天使之翼：荣光的轨迹（简）Advance - BF5AC603">
-		<rom name="天使之翼：荣光的轨迹（简）Advance.gba" size="14757152" crc="BF5AC603" md5="8D661BA3BD96FD4A8BA44F1041B6ECCB"/>
+	<game name="天使之翼：荣光的轨迹（简）Advance 20251231 - BF5AC603">
+		<rom name="天使之翼：荣光的轨迹（简）Advance 20251231.gba" size="14757152" crc="BF5AC603" md5="8D661BA3BD96FD4A8BA44F1041B6ECCB"/>
 	</game>
 	<game name="天外魔境：青之天外（简）CHYT 测试 - 16DEC983">
 		<rom name="天外魔境：青之天外（简）CHYT 测试.gba" size="16777216" crc="16DEC983" md5="C15157A06F380288D44EFF7B89BF94E9"/>
@@ -1153,8 +1162,8 @@
 	<game name="植木的法则：神器炸裂！能力者格斗（繁）PGCG - F2ECA2A8">
 		<rom name="植木的法则：神器炸裂！能力者格斗（繁）PGCG.gba" size="16777216" crc="F2ECA2A8" md5="D13D480DEB3EAA35AAF8C5F907C8C706"/>
 	</game>
-	<game name="植木的法则：神器炸裂！能力者格斗（简）PGCG 落月 文本修正 - 2A94E8E3">
-		<rom name="植木的法则：神器炸裂！能力者格斗（简）PGCG 落月 文本修正.gba" size="16777216" crc="2A94E8E3" md5="7EAEC29595C4C395048EBCD297001AF8"/>
+	<game name="植木的法则：神器炸裂！能力者格斗（简）PGCG 落月 20260201 文本修正 - 2A94E8E3">
+		<rom name="植木的法则：神器炸裂！能力者格斗（简）PGCG 落月 20260201 文本修正.gba" size="16777216" crc="2A94E8E3" md5="7EAEC29595C4C395048EBCD297001AF8"/>
 	</game>
 	<game name="模拟人生 纯属意外（简）Advance v0.1.6 - 9736B06B">
 		<rom name="模拟人生 纯属意外（简）Advance v0.1.6.gba" size="16777216" crc="9736B06B" md5="3C9E03973AB209BDF557A68AF310494C"/>
@@ -1570,14 +1579,14 @@
 	<game name="班卓卡祖伊 格兰蒂的复仇（简）Advance v1.01 - 5F37B275">
 		<rom name="班卓卡祖伊 格兰蒂的复仇（简）Advance v1.01.gba" size="9073440" crc="5F37B275" md5="A6FFBA3B3B115AEFD6D9453E435E8415"/>
 	</game>
-	<game name="瓦力欧世界Advance（简）CHRONO - 8CEB9F15">
-		<rom name="瓦力欧世界Advance（简）CHRONO.gba" size="8388608" crc="8CEB9F15" md5="F3F194B193D0A725C06B438B92EC4F59"/>
-	</game>
 	<game name="瓦力欧制造（简）BAICJ - BB7C325A">
 		<rom name="瓦力欧制造（简）BAICJ.gba" size="8585216" crc="BB7C325A" md5="084D7B47053A4FCCA98B7E19FEA1B53B"/>
 	</game>
 	<game name="瓦力欧制造（简）神游 - 78A4D2D4">
 		<rom name="瓦力欧制造（简）神游.gba" size="8388608" crc="78A4D2D4" md5="5A2E10190CA3F9CB1D3A954185A031ED"/>
+	</game>
+	<game name="瓦力欧大陆4A（简）CHRONO - 8CEB9F15">
+		<rom name="瓦力欧大陆4A（简）CHRONO.gba" size="8388608" crc="8CEB9F15" md5="F3F194B193D0A725C06B438B92EC4F59"/>
 	</game>
 	<game name="瓦力欧寻宝记（简）神游 - CF7585F1">
 		<rom name="瓦力欧寻宝记（简）神游.gba" size="8388608" crc="CF7585F1" md5="3D8FCFA27F2A659AB5F3AB0D70B9C99D"/>
@@ -1642,8 +1651,8 @@
 	<game name="真女神转生：恶魔之子：冰之书（简）Advance 落月 20250831 v1.0 - 099569DF">
 		<rom name="真女神转生：恶魔之子：冰之书（简）Advance 落月 20250831 v1.0.gba" size="16777216" crc="099569DF" md5="1BF73CB07E35E29AA8148C6441A21FC2"/>
 	</game>
-	<game name="真女神转生：恶魔之子：炎之书（简）Advance - A2997159">
-		<rom name="真女神转生：恶魔之子：炎之书（简）Advance.gba" size="10706788" crc="A2997159" md5="C013F52CDEFCE03AE192E82EF3E10049"/>
+	<game name="真女神转生：恶魔之子：炎之书（简）Advance 20251229 - A2997159">
+		<rom name="真女神转生：恶魔之子：炎之书（简）Advance 20251229.gba" size="10706788" crc="A2997159" md5="C013F52CDEFCE03AE192E82EF3E10049"/>
 	</game>
 	<game name="砖块世界（简繁）混沌星辰 - 477740B1">
 		<rom name="砖块世界（简繁）混沌星辰.gba" size="2811720" crc="477740B1" md5="0D52DF694D94DD1248F2B6C652C5F499"/>

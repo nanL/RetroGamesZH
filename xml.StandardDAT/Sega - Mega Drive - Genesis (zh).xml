@@ -151,8 +151,8 @@
 	<game name="圣战风云（繁）永盛 - 98C368CE">
 		<rom name="圣战风云（繁）永盛.gen" size="1048576" crc="98C368CE" md5="3A8030536619F77EE6685BDA8EFF974A"/>
 	</game>
-	<game name="地球使命（简）小鬼混 - 4AD9B364">
-		<rom name="地球使命（简）小鬼混.gen" size="7864320" crc="4AD9B364" md5="181C2CA8191D49450E9B886873D6AB7E"/>
+	<game name="地球使命（简）小鬼混 20250911 - 4AD9B364">
+		<rom name="地球使命（简）小鬼混 20250911.gen" size="7864320" crc="4AD9B364" md5="181C2CA8191D49450E9B886873D6AB7E"/>
 	</game>
 	<game name="大富翁（简）永盛 - 830416CB">
 		<rom name="大富翁（简）永盛.gen" size="1048576" crc="830416CB" md5="43014B13D00F4DE1A6E140D8BE872D8C"/>
@@ -319,8 +319,8 @@
 	<game name="帝国王朝（简）永盛 - 4BEA0ECE">
 		<rom name="帝国王朝（简）永盛.gen" size="2097152" crc="4BEA0ECE" md5="B884D0A52BACCA41B453465BFE1E32C3"/>
 	</game>
-	<game name="幽游白书外传（简）AXI 幽灵骑士の游魂歌 - 0EF6D1B1">
-		<rom name="幽游白书外传（简）AXI 幽灵骑士の游魂歌.gen" size="4194304" crc="0EF6D1B1" md5="D03311ABFA6E803AF80865798F9D27F5"/>
+	<game name="幽游白书外传（简）AXI 幽灵骑士の游魂歌 20251111 - 0EF6D1B1">
+		<rom name="幽游白书外传（简）AXI 幽灵骑士の游魂歌 20251111.gen" size="4194304" crc="0EF6D1B1" md5="D03311ABFA6E803AF80865798F9D27F5"/>
 	</game>
 	<game name="幽游白书外传（简）小鬼混 SchreckgSoldat 阿刃 20251211 - 113B13E3">
 		<rom name="幽游白书外传（简）小鬼混 SchreckgSoldat 阿刃 20251211.gen" size="2097152" crc="113B13E3" md5="A50E3D86E7D0F73CCFE3D24313AF961B"/>
@@ -472,26 +472,29 @@
 	<game name="梦幻之星：千年纪的终结（简）梦组 v1.0b - EF9F9C50">
 		<rom name="梦幻之星：千年纪的终结（简）梦组 v1.0b.gen" size="4194304" crc="EF9F9C50" md5="1F62D19A50F2AF31AD57B63955DD6DF3"/>
 	</game>
-	<game name="梦幻之星：千年纪的终结（简）意志之路 v1.1 收费版 - 78BA95D6">
-		<rom name="梦幻之星：千年纪的终结（简）意志之路 v1.1 收费版.gen" size="3670016" crc="78BA95D6" md5="93CC018906F57A08A83AD24CF59E4A41"/>
+	<game name="梦幻之星：千年纪的终结（改）意志之路 v1.1 收费版 - 78BA95D6">
+		<rom name="梦幻之星：千年纪的终结（改）意志之路 v1.1 收费版.gen" size="3670016" crc="78BA95D6" md5="93CC018906F57A08A83AD24CF59E4A41"/>
 	</game>
-	<game name="梦幻之星：千年纪的终结（简）意志之路 v1.6 不花屏最终版 - 0DB82DD1">
-		<rom name="梦幻之星：千年纪的终结（简）意志之路 v1.6 不花屏最终版.gen" size="3276800" crc="0DB82DD1" md5="AF9F0C2D3883EEABF7956B31DB15188C"/>
+	<game name="梦幻之星：千年纪的终结（改）意志之路 v1.6 不花屏最终版 - 0DB82DD1">
+		<rom name="梦幻之星：千年纪的终结（改）意志之路 v1.6 不花屏最终版.gen" size="3276800" crc="0DB82DD1" md5="AF9F0C2D3883EEABF7956B31DB15188C"/>
 	</game>
-	<game name="梦幻之星：千年纪的终结（繁）意志之路 小铭 v1.1 - 11AC03D3">
-		<rom name="梦幻之星：千年纪的终结（繁）意志之路 小铭 v1.1.gen" size="3670016" crc="11AC03D3" md5="02BD94C917E7ECA2629B5C1D4A7F4770"/>
+	<game name="梦幻之星：千年纪的终结（改）意志之路 小铭 v1.1 - 11AC03D3">
+		<rom name="梦幻之星：千年纪的终结（改）意志之路 小铭 v1.1.gen" size="3670016" crc="11AC03D3" md5="02BD94C917E7ECA2629B5C1D4A7F4770"/>
 	</game>
 	<game name="梦幻之星：千年纪的终结（简）永盛 - C01646D8">
 		<rom name="梦幻之星：千年纪的终结（简）永盛.gen" size="4194304" crc="C01646D8" md5="5DC16CE6B25C572FA5AC62367245CE33"/>
 	</game>
-	<game name="梦幻之星：千年纪的终结（简）意志之路 v1.6 不花屏最终版 fixCRC - CE335A2F">
-		<rom name="梦幻之星：千年纪的终结（简）意志之路 v1.6 不花屏最终版 fixCRC.gen" size="3276800" crc="CE335A2F" md5="C419D6B968C7E11E4460A7CCE61C826A"/>
+	<game name="梦幻之星：千年纪的终结（改）意志之路 v1.6 不花屏最终版 fixCRC - CE335A2F">
+		<rom name="梦幻之星：千年纪的终结（改）意志之路 v1.6 不花屏最终版 fixCRC.gen" size="3276800" crc="CE335A2F" md5="C419D6B968C7E11E4460A7CCE61C826A"/>
 	</game>
-	<game name="梦幻之星：千年纪的终结（简繁）意志之路 v2.0 - A8B299E1">
-		<rom name="梦幻之星：千年纪的终结（简繁）意志之路 v2.0.gen" size="3801088" crc="A8B299E1" md5="EE988DAAEC74980F597CFAEB166E884A"/>
+	<game name="梦幻之星：千年纪的终结（简繁）意志之路 v2.0 加强 - A8B299E1">
+		<rom name="梦幻之星：千年纪的终结（简繁）意志之路 v2.0 加强.gen" size="3801088" crc="A8B299E1" md5="EE988DAAEC74980F597CFAEB166E884A"/>
 	</game>
-	<game name="梦幻之星：千年纪的终结（简繁）意志之路 v2.1 重编译加强 - 563A9988">
-		<rom name="梦幻之星：千年纪的终结（简繁）意志之路 v2.1 重编译加强.gen" size="4038656" crc="563A9988" md5="05486EE2CC7D59984954C62C68CA5360"/>
+	<game name="梦幻之星：千年纪的终结（简繁）意志之路 v2.1 加强 - 563A9988">
+		<rom name="梦幻之星：千年纪的终结（简繁）意志之路 v2.1 加强.gen" size="4038656" crc="563A9988" md5="05486EE2CC7D59984954C62C68CA5360"/>
+	</game>
+	<game name="梦幻之星：千年纪的终结（改）意志之路 20260209 v2.2b 加强 - 17AB853D">
+		<rom name="梦幻之星：千年纪的终结（改）意志之路 20260209 v2.2b 加强.gen" size="4194304" crc="17AB853D" md5="8D63E5F1A42CD1C4121E254A8409EA75"/>
 	</game>
 	<game name="梦幻模拟战（简）永盛 AXI 修正版 - FE6B5BF5">
 		<rom name="梦幻模拟战（简）永盛 AXI 修正版.gen" size="1048576" crc="FE6B5BF5" md5="6031B356EF054D9A0B65BE730778688B"/>
@@ -532,8 +535,8 @@
 	<game name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.5 - F1F66BA4">
 		<rom name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.5.gen" size="2097152" crc="F1F66BA4" md5="7E2F751B94495E80ADEC61192095F1FB"/>
 	</game>
-	<game name="梦幻模拟战2（简繁）狼组 星空 v1.1 - 16CF5DD0">
-		<rom name="梦幻模拟战2（简繁）狼组 星空 v1.1.gen" size="2097664" crc="16CF5DD0" md5="5DF0C8E2AB02227475481AEFF4008D17"/>
+	<game name="梦幻模拟战2（简繁）狼组 星空 20251001 v1.1 - 16CF5DD0">
+		<rom name="梦幻模拟战2（简繁）狼组 星空 20251001 v1.1.gen" size="2097664" crc="16CF5DD0" md5="5DF0C8E2AB02227475481AEFF4008D17"/>
 	</game>
 	<game name="梦幻模拟战II（简）狼组 - 3F02618E">
 		<rom name="梦幻模拟战II（简）狼组.gen" size="2097152" crc="3F02618E" md5="F1F1345B1C12D96421168C6ABCE9BD4D"/>

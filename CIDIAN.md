@@ -9637,7 +9637,7 @@ Lasalle Ishii no Child's Quest|孩子的冒险
 Laser Invasion|救难任务
 LaserActive|
 Last Action Hero|最后魔鬼英雄
-Last Alive|
+Last Alive|最后幸存者
 Last Armageddon|末日战记
 Last Battle|北斗神拳
 Last Battle, The|最后决战
@@ -17541,7 +17541,7 @@ Super Mario Land|超级马力欧大陆
 Super Mario Land 2 - 6 Golden Coins|超级马力欧大陆2
 Super Mario Land 2 - 6-tsu no Kinka|超级马力欧大陆2
 Super Mario Land 2- 6 Golden Coins|超级马力欧大陆2
-Super Mario Land 3 - Wario Land|超级马力欧大陆3
+Super Mario Land 3 - Wario Land|瓦力欧大陆3
 Super Mario Maker for 3DS|
 Super Mario Maker for Nintendo 3DS|马里奥制造
 Super Mario RPG|超级马力欧RPG
@@ -19470,14 +19470,15 @@ Warhammer 40,000 - Squad Command|战锤40K-小队指令
 Wari to Honkakuteki - Egokoro Kyoushitsu - Kouki|
 Wari to Honkakuteki - Egokoro Kyoushitsu - Zenki|
 Wario - Master of Disguise|瓦力欧-伪装大师
-Wario Land - Super Mario Land 3|超级马力欧大陆3
-Wario Land 2|瓦力欧乐园2
-Wario Land 2 - Nusumareta Zaihou|
-Wario Land 3|瓦力欧乐园3
-Wario Land 3 - Fushigi na Orgel|
-Wario Land 4|瓦力欧世界4
-Wario Land Advance - Youki no Otakara|瓦力欧世界Advance
-Wario Land II|瓦里奥大陆2
+Wario Land - Super Mario Land 3|瓦力欧大陆3
+Wario Land - Super Mario Land 3 DX|瓦力欧大陆3
+Wario Land 2|瓦力欧大陆2
+Wario Land 2 - Nusumareta Zaihou|瓦力欧大陆2
+Wario Land 3|瓦力欧大陆3
+Wario Land 3 - Fushigi na Orgel|瓦力欧大陆3
+Wario Land 4|瓦力欧大陆4
+Wario Land Advance - Youki no Otakara|瓦力欧大陆4A
+Wario Land II|瓦力欧大陆2
 Wario No Mori|
 Wario no Mori|坏璃欧森林
 Wario's Woods|瓦力欧的木头方块

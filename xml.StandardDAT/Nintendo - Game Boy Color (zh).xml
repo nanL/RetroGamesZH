@@ -922,11 +922,14 @@
 	<game name="王族天堂（简）新特奇 - ED67ADAC">
 		<rom name="王族天堂（简）新特奇.gbc" size="2097152" crc="ED67ADAC" md5="4CB39DDF364AFA2B5808F337BE6E90E3"/>
 	</game>
-	<game name="瓦力欧乐园2（简）DMG - 397E00AD">
-		<rom name="瓦力欧乐园2（简）DMG.gbc" size="2097152" crc="397E00AD" md5="AC5DF94F5C528BCF5089326B66A19E3A"/>
+	<game name="瓦力欧大陆2（简）DMG - 397E00AD">
+		<rom name="瓦力欧大陆2（简）DMG.gbc" size="2097152" crc="397E00AD" md5="AC5DF94F5C528BCF5089326B66A19E3A"/>
 	</game>
-	<game name="瓦力欧乐园3（简）DMG v1.1 - 547D1B92">
-		<rom name="瓦力欧乐园3（简）DMG v1.1.gbc" size="2097152" crc="547D1B92" md5="4F7EB174E85F1970835DD7378977D2F3"/>
+	<game name="瓦力欧大陆3（简）DMG v1.1 - 547D1B92">
+		<rom name="瓦力欧大陆3（简）DMG v1.1.gbc" size="2097152" crc="547D1B92" md5="4F7EB174E85F1970835DD7378977D2F3"/>
+	</game>
+	<game name="瓦力欧大陆3（简）狸克 20260206 - 558E66ED">
+		<rom name="瓦力欧大陆3（简）狸克 20260206.gbc" size="1048576" crc="558E66ED" md5="C0A8E3B9FA51EFB83D5945F03EC2EE8E"/>
 	</game>
 	<game name="生化危机外传（简） - 8E257530">
 		<rom name="生化危机外传（简）.gbc" size="2097152" crc="8E257530" md5="775AE791AAF50C1DCCD1224C6E373D20"/>
@@ -1174,8 +1177,8 @@
 	<game name="钢弹物语2（繁）星星 fixHeader - 62D84BAB">
 		<rom name="钢弹物语2（繁）星星 fixHeader.gbc" size="2097152" crc="62D84BAB" md5="8449934FEF4CC9959B019F348C49BFC7"/>
 	</game>
-	<game name="钢魄核心：无瑕（简）黑蛇独游 - FCD154D0">
-		<rom name="钢魄核心：无瑕（简）黑蛇独游.gbc" size="524288" crc="FCD154D0" md5="2A3596D9A6C6281BC4C31470177451A4"/>
+	<game name="钢魄核心：无瑕（简）黑蛇独游 20251211 - FCD154D0">
+		<rom name="钢魄核心：无瑕（简）黑蛇独游 20251211.gbc" size="524288" crc="FCD154D0" md5="2A3596D9A6C6281BC4C31470177451A4"/>
 	</game>
 	<game name="钻子先生（简）幻想 - DC60F0C7">
 		<rom name="钻子先生（简）幻想.gbc" size="1048576" crc="DC60F0C7" md5="2D63A8C94129C46D4232CD9429C5FF17"/>
