@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20260200</version></header>
+	<header><name>Nintendo - Game Boy Advance (zh)</name><version>20260300</version></header>
 	<game name="007：末日危机（繁）新特奇 - CEE1E46A">
 		<rom name="007：末日危机（繁）新特奇.gba" size="33554432" crc="CEE1E46A" md5="BCA87B831B89256C43BF746A1D1DAD02"/>
 	</game>
@@ -82,8 +82,8 @@
 	<game name="三国志：孔明传（简）Dangfer v1.0.1 - 4F738E72">
 		<rom name="三国志：孔明传（简）Dangfer v1.0.1.gba" size="8388608" crc="4F738E72" md5="A5F250E883F4E1926E9E133C8ABBB696"/>
 	</game>
-	<game name="三国志：孔明传（简）壮缪忠武 v1.0.0 - 49C9E85C">
-		<rom name="三国志：孔明传（简）壮缪忠武 v1.0.0.gba" size="8388608" crc="49C9E85C" md5="271D9A40D73039954656E1D53331D170"/>
+	<game name="三国志：孔明传（简）Dangfer 壮缪忠武 v1.0.0 PC头像 - 49C9E85C">
+		<rom name="三国志：孔明传（简）Dangfer 壮缪忠武 v1.0.0 PC头像.gba" size="8388608" crc="49C9E85C" md5="271D9A40D73039954656E1D53331D170"/>
 	</game>
 	<game name="世界传说：召唤师的血统（简）模拟天下 - 63EC6544">
 		<rom name="世界传说：召唤师的血统（简）模拟天下.gba" size="8388608" crc="63EC6544" md5="986E5C21C1607362CBAED2CBFEC6B660"/>
@@ -142,11 +142,14 @@
 	<game name="任天堂FC迷你合集（简）神游 未发售 - B9283B7C">
 		<rom name="任天堂FC迷你合集（简）神游 未发售.gba" size="4194304" crc="B9283B7C" md5="79250EF146CEFC22695AEA4C80244649"/>
 	</game>
-	<game name="侏罗纪公园3失落的遗传基因（简）AmonWang - E0E812D2">
-		<rom name="侏罗纪公园3失落的遗传基因（简）AmonWang.gba" size="8388608" crc="E0E812D2" md5="1D3979598E8F6FE23F895624921F8E9B"/>
+	<game name="侏罗纪公园III基因因子（简）AmonWang - E0E812D2">
+		<rom name="侏罗纪公园III基因因子（简）AmonWang.gba" size="8388608" crc="E0E812D2" md5="1D3979598E8F6FE23F895624921F8E9B"/>
 	</game>
-	<game name="侏罗纪公园3失落的遗传基因（繁）AmonWang - D1C76C21">
-		<rom name="侏罗纪公园3失落的遗传基因（繁）AmonWang.gba" size="8388608" crc="D1C76C21" md5="462B99466C6162019B69B42F5491EA29"/>
+	<game name="侏罗纪公园III基因因子（繁）AmonWang - D1C76C21">
+		<rom name="侏罗纪公园III基因因子（繁）AmonWang.gba" size="8388608" crc="D1C76C21" md5="462B99466C6162019B69B42F5491EA29"/>
+	</game>
+	<game name="侏罗纪公园研究所之旅：恐龙救援（简）Advance 落月 20260308 v1.0 - 06235A3C">
+		<rom name="侏罗纪公园研究所之旅：恐龙救援（简）Advance 落月 20260308 v1.0.gba" size="5319968" crc="06235A3C" md5="0DAF07C8D484C941EAB12321DF9281F3"/>
 	</game>
 	<game name="侠盗猎车手Advance（简）BEQ 预览 - A5E6730A">
 		<rom name="侠盗猎车手Advance（简）BEQ 预览.gba" size="33554432" crc="A5E6730A" md5="E35D4A0D8333D59CA6C77A168ABA06F8"/>
@@ -366,6 +369,9 @@
 	</game>
 	<game name="哈姆太郎4 七彩虹大行进（简） - C4E3898A">
 		<rom name="哈姆太郎4 七彩虹大行进（简）.gba" size="8486912" crc="C4E3898A" md5="D0254058A96AD771F0C97DE454343850"/>
+	</game>
+	<game name="哥斯拉怪兽大乱斗（简）Advance 20260222 v1.0 - 477DDAEF">
+		<rom name="哥斯拉怪兽大乱斗（简）Advance 20260222 v1.0.gba" size="5319968" crc="477DDAEF" md5="B521358D6B6B724B2428BDC47E3E228C"/>
 	</game>
 	<game name="四狂神战记：沉默的遗迹（繁）Unl 唐晓东 - DA006E58">
 		<rom name="四狂神战记：沉默的遗迹（繁）Unl 唐晓东.gba" size="8388608" crc="DA006E58" md5="622D808414599EE95C3D84517AA2A7CA"/>
@@ -1129,8 +1135,8 @@
 	<game name="机器人大战：终极版（繁）南晶 - E1F7D93D">
 		<rom name="机器人大战：终极版（繁）南晶.gba" size="33554432" crc="E1F7D93D" md5="BE42DA58C7CC4CE05FCA65C7F31D055A"/>
 	</game>
-	<game name="机械人大战 - 终极版 (兼容修正) (繁)（繁）广誉 maxzhou88 Dangfer 兼容修正 - 2DB33357">
-		<rom name="机械人大战 - 终极版 (兼容修正) (繁)（繁）广誉 maxzhou88 Dangfer 兼容修正.gba" size="33554432" crc="2DB33357" md5="D227B3F0CB30DCED999C1BBCF1C40B83"/>
+	<game name="机械人大战 - 终极版 (兼容修正) (繁)（繁）广誉 Dangfer 兼容修正 - 2DB33357">
+		<rom name="机械人大战 - 终极版 (兼容修正) (繁)（繁）广誉 Dangfer 兼容修正.gba" size="33554432" crc="2DB33357" md5="D227B3F0CB30DCED999C1BBCF1C40B83"/>
 	</game>
 	<game name="机械化军队 Mech Platoon（简）JAYCHOU001 唐甜李 - 569D0CF7">
 		<rom name="机械化军队 Mech Platoon（简）JAYCHOU001 唐甜李.gba" size="8388608" crc="569D0CF7" md5="1FC5CCA5A1ABA6DF6AC60009E94FDA1B"/>
@@ -1167,6 +1173,9 @@
 	</game>
 	<game name="模拟人生 纯属意外（简）Advance v0.1.6 - 9736B06B">
 		<rom name="模拟人生 纯属意外（简）Advance v0.1.6.gba" size="16777216" crc="9736B06B" md5="3C9E03973AB209BDF557A68AF310494C"/>
+	</game>
+	<game name="模拟人生2（简）Advance 20260221 v1.0 - 330E4701">
+		<rom name="模拟人生2（简）Advance 20260221 v1.0.gba" size="33554432" crc="330E4701" md5="97C9E4315E7366E13EAB2867905138D1"/>
 	</game>
 	<game name="模拟人生：上流社会（简）BEQ TGB - A6B96C1C">
 		<rom name="模拟人生：上流社会（简）BEQ TGB.gba" size="33554432" crc="A6B96C1C" md5="0E5DE32D1725D8A680547E9AD4B90850"/>
@@ -1365,6 +1374,12 @@
 	</game>
 	<game name="火影忍者 木叶战记（简）熊组 v1.3 - 7D2201D1">
 		<rom name="火影忍者 木叶战记（简）熊组 v1.3.gba" size="6291456" crc="7D2201D1" md5="CD7FB9A4B60D01CF63E2406FFE18B07C"/>
+	</game>
+	<game name="火影忍者RPG被继承的火之意志（简）树熊类 - 21814A36">
+		<rom name="火影忍者RPG被继承的火之意志（简）树熊类.gba" size="8388608" crc="21814A36" md5="74BFFCA886A9EDF45301D0508D5358FB"/>
+	</game>
+	<game name="火影忍者RPG被继承的火之意志（简）树熊类 20260219 v0.1.16 - 55878908">
+		<rom name="火影忍者RPG被继承的火之意志（简）树熊类 20260219 v0.1.16.gba" size="8388608" crc="55878908" md5="D39232BD71A5D97A9D0512391E6D149F"/>
 	</game>
 	<game name="火焰之纹章（改）画画的邶邶 20241201 v1.0.1 Reforged - 2E4F049F">
 		<rom name="火焰之纹章（改）画画的邶邶 20241201 v1.0.1 Reforged.gba" size="33391476" crc="2E4F049F" md5="1D9959D224F383D6F146B78FE244AA43"/>
@@ -2065,6 +2080,9 @@
 	<game name="阴阳大战记：零式（简）Advance 20240512 v0.6 - 44A7D1CF">
 		<rom name="阴阳大战记：零式（简）Advance 20240512 v0.6.gba" size="16777216" crc="44A7D1CF" md5="0B816F1BA4B29F32A85E71C5839861A2"/>
 	</game>
+	<game name="阿拉丁（简）Advance 落月 20260321 v1.0 - 500450B1">
+		<rom name="阿拉丁（简）Advance 落月 20260321 v1.0.gba" size="5319968" crc="500450B1" md5="2534420B41B748B6DEB04E942C6A36CE"/>
+	</game>
 	<game name="阿滋漫画大王Advance（简）PGCG - 2E0F89C9">
 		<rom name="阿滋漫画大王Advance（简）PGCG.gba" size="8388608" crc="2E0F89C9" md5="8E0F076E9229C52EBACFDA93D97D6C3B"/>
 	</game>
@@ -2112,6 +2130,9 @@
 	</game>
 	<game name="饲养物语2我的锹形虫（简）落月 20240210 v1 - 750448A3">
 		<rom name="饲养物语2我的锹形虫（简）落月 20240210 v1.gba" size="8388608" crc="750448A3" md5="D928389F38250F9A3A014C1ADB188494"/>
+	</game>
+	<game name="饲养物语3兜虫与锹虫（简）落月 20260218 v1.0 - AB25DD55">
+		<rom name="饲养物语3兜虫与锹虫（简）落月 20260218 v1.0.gba" size="11611424" crc="AB25DD55" md5="3E07FC30AB3402DF875DA1C64509F862"/>
 	</game>
 	<game name="马力欧DX（简）Unl yy小龙虾 - 2C7AF7E8">
 		<rom name="马力欧DX（简）Unl yy小龙虾.gba" size="33554432" crc="2C7AF7E8" md5="A6E8AA4C79AD8C68922C749AB7DE7829"/>

@@ -154,7 +154,7 @@
 2 Games in 1 - Disneys Prinzessinnen + Baerenbrueder|游戏2合1-熊兄弟+迪斯尼公主
 2 Games in 1 - Disneys Prinzessinnen + Der Koenig der Loewen|游戏2合1-迪斯尼游戏集
 2 Games in 1 - Dr. Mario + Puzzle League|新游戏2合1-马力欧医生与花仙子方块
-2 Games in 1 - Dragon Ball Z - The Legacy of Goku I & II|龙珠Z悟空的遗产1和2
+2 Games in 1 - Dragon Ball Z - The Legacy of Goku I & II|龙珠Z悟空的遗产I和II
 2 Games in 1 - Findet Nemo + Die Unglaublichen|2合1-海底总动员+超人特攻队
 2 Games in 1 - Findet Nemo + Findet Nemo - Das Abenteuer Geht Weiter|海底总动员2合1
 2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures|游戏2合1-海底总动员+海底总动员-冒险再续
@@ -430,7 +430,7 @@
 6x1 Unlimited|
 7 Card Games|
 7 Wonders - Treasures of Seven|
-7 Wonders II|七大奇迹2
+7 Wonders II|七大奇迹II
 7 Wonders of the Ancient World|七大奇迹
 7-gatsu 18-nichi Do Zenkoku Roadshow Eiga - Inside Head Youkoku|
 700 Mannin no Atama o Yoku Suru - Chou Keisan DS - 13000 Mon + Image Keisan|700万人的头脑变得灵活-超计算DS 13,000问+Image 计算
@@ -488,7 +488,7 @@ AFL Mascot Manor|美国橄榄球联盟-吉祥物玛诺
 AGB Aging Cartridge|
 AGB-Parallel Interface Cartridge|
 AGS Aging Cartridge|
-AIII S.V. - A Ressha de Ikou 3 - Super Version|A列车3-超级版
+AIII S.V. - A Ressha de Ikou 3 - Super Version|A列车3超级版
 AKB48+Me|秋叶原48 +我SIM
 ALC no 10-punkan Eigo Master - Chuukyuu|ALC的10分钟英语大师-中级
 ALC no 10-punkan Eigo Master - Joukyuu|十分钟英语大师-上级
@@ -511,7 +511,7 @@ ATV Racing & Karate Joe|空手道Joe
 ATV Wild Ride|ATV狂野摩托车
 AV Bishoujo Senshi Girl Fighting|
 AV Hanafuda Club|AV 花札俱乐部
-AV Kyuukyoku Mahjong 2|AV 究极麻将 II
+AV Kyuukyoku Mahjong 2|AV究极麻将II
 AV Mahjong Club|AV麻雀
 AV Mei Shao Nv Zhan Shi|A.V.美少女战士
 AV Mei Shaonu Zhanshi|
@@ -635,9 +635,9 @@ Adventure Island 2|冒险岛2
 Adventure Island 3|冒险岛3
 Adventure Island 4|冒险岛4
 Adventure Island Classic|冒险岛经典版
-Adventure Island II|冒险岛2
-Adventure Island III|冒险岛3
-Adventure Island Part II, The|冒险岛2
+Adventure Island II|冒险岛II
+Adventure Island III|冒险岛III
+Adventure Island Part II, The|冒险岛II
 Adventure Labyrinth Story|
 Adventure Quiz - Poru no Bouken|
 Adventure Quiz 2 - Poru no Daibouken|
@@ -664,7 +664,7 @@ Adventures of Kid Kleets, The|足球小子的冒险
 Adventures of Lolo|蛋王子大冒险
 Adventures of Lolo 2|蛋王子大冒险2
 Adventures of Lolo 3|蛋王子大冒险3
-Adventures of Lolo II|蛋王子大冒险2
+Adventures of Lolo II|蛋王子大冒险II
 Adventures of Mighty Max, The|万能麦斯
 Adventures of Mr. Bean|
 Adventures of Pinocchio|木偶奇遇记
@@ -691,7 +691,7 @@ Aeternoblade|
 Aeternoblade Addon|
 Affari Tuoi|一掷千金
 After Burner|冲破火网
-After Burner II|冲破火网２日版
+After Burner II|冲破火网II
 Afterzoom|
 Again - FBI Chou Shinri Sousakan|又一次-FBI超能力探员
 Again - Interactive Crime Novel|又一次-FBI超能力探员
@@ -744,7 +744,7 @@ Air Diver|空中驾驭者日
 Air Fortress|空中要塞
 Air Hockey|
 Air Management - Oozora ni Kakeru|航空霸业-天空之赌
-Air Management II - Koukuu Ou o Mezase|航空霸业2-目标航空王
+Air Management II - Koukuu Ou o Mezase|航空霸业II目标航空王
 Air Management II - Koukuuou o Mezase|航空霸业2-目标航空王
 Air Traffic Chaos|空中交通大混乱-我是航空管制官
 Air Zonk|空中射击美版
@@ -1014,7 +1014,7 @@ Anonymous Notes Daisanshou - From the Abyss|
 Anonymous Notes Daiyonshou - From the Abyss|
 Another Code - Futatsu no Kioku|异色代码：双重记忆
 Another Code - Two Memories|异色代码：双重记忆
-Another Heaven - Memory of those Days|
+Another Heaven - Memory of those Days|另一个天堂：昨日记忆
 Another Time, Another Leaf - Kagami no Naka no Tantei|镜中侦探
 Another World|另一个世界
 Another World - 20th Anniversary Edition|
@@ -1419,7 +1419,7 @@ Back to Earth 3D|返回地球3D
 Back to Stone|重返石头城
 Back to the Future|回到未来
 Back to the Future IV|
-Back to the Future Part II & III|回到未来2.3
+Back to the Future Part II & III|回到未来 II III
 Back to the Future Part III|回到未来3
 Backgammon|西洋双陆棋
 Backup LIB Sample|
@@ -1568,7 +1568,7 @@ Barbie in the 12 Dancing Princesses|芭比-12-舞蹈公主
 Barca Total 2000|巴罗卡足球2000
 Barcode Taisen Bardigun|条形码战争
 Barcode World|条码世界
-Bard's Tale II, The - The Destiny Knight|冰城传奇 II - 命运骑士团
+Bard's Tale II, The - The Destiny Knight|冰城传奇II命运骑士团
 Bard's Tale, The|冰城传奇
 Bard's Tale, The - Tales of the Unknown|冰城传奇-未知传说
 Bare Knuckle II|怒之铁拳2
@@ -1584,6 +1584,7 @@ Barnyard - Verrueckte Bauernhof-Spiele|疯狂农场-疯狂的农场使用者
 Barnyard Blast - Swine of the Night|恶魔猎猪
 Bartender DS|调酒师DS
 Barunba|宝伦大作战日版
+Barver Battle Saga - Mo Fa Zhan Shi|太空战士 魔法战士
 Barver Battle Saga - Tai Kong Zhan Shi|太空战士 魔法战士
 Base 10 - Art Style Series|
 Baseball|棒球世界
@@ -1593,11 +1594,11 @@ Baseball Simulator 1.000|模拟棒球
 Baseball Star - Mezase Sankanou!!|棒球之星 - 迈向三冠王！
 Baseball Stars|棒球之星
 Baseball Stars Color - Pocket Sports Series|
-Baseball Stars II|棒球之星 II
+Baseball Stars II|棒球之星II
 Bases Loaded|满垒王
-Bases Loaded 3|满垒王 III
+Bases Loaded 3|满垒王III
 Bases Loaded 4|满垒王 IV
-Bases Loaded II - Second Season|满垒王 II
+Bases Loaded II - Second Season|满垒王II
 Bashi Bazook - Morphoid Masher|生化战士 DAN
 Bass Masters Classic|鲈钓高手
 Bass Masters Classic - Pro Edition|巴斯大师教室-专业
@@ -1642,7 +1643,7 @@ Battle Clash|战斗冲击
 Battle Commander - Hachibushuu, Shura no Heihou|SD指挥官
 Battle Cross|火柴摩托车赛
 Battle Dodge Ball|战斗躲避球
-Battle Dodge Ball II|SD躲避球2
+Battle Dodge Ball II|躲避球II
 Battle Fishers|威龙周记
 Battle Fleet|海战舰队
 Battle Formula|战斗方程式赛车
@@ -1754,7 +1755,7 @@ Beethoven's 2nd - The Quest for Pups|
 Beetle Junior DS|甲虫历险记DS
 Beetle King|甲虫国王
 Beetlejuice|阴间大法师
-Beggar Prince|
+Beggar Prince|新乞丐王子
 Bejeweled 3|宝石迷阵3
 Bejeweled Twist|宝石迷阵
 Bella Sara|贝拉萨拉
@@ -1794,7 +1795,7 @@ Best Friends Tonight|今夜最好的朋友
 Best Keiba - Derby Stallion|德贝赛马
 Best Play Pro Yakyuu|最佳职业棒球
 Best Play Pro Yakyuu '90|最佳职业棒球 '90
-Best Play Pro Yakyuu II|最佳职业棒球 II
+Best Play Pro Yakyuu II|最佳职业棒球II
 Best Play Pro Yakyuu Special|最佳职业棒球特别篇
 Best Shot Pro Golf|专业一杆高尔夫球
 Best of Arcade Games|最佳街机游戏ETC
@@ -1878,8 +1879,8 @@ Big Ichigeki! Pachi-Slot Daikouryaku|柏青哥嫂大攻略
 Big Ichigeki! Pachi-Slot Daikouryaku 2 - Universal Collection|柏青哥嫂大攻略2
 Big League Sports - Summer|夏日运动大联盟
 Big Mutha Truckers|重金属集车
-Big Nose Freaks Out|大鼻子原始人 II
-Big Nose and the Witchdoctor|大鼻子原始人 II
+Big Nose Freaks Out|大鼻子原始人II
+Big Nose and the Witchdoctor|大鼻子原始人II
 Big Nose the Caveman|大鼻子原始人
 Big Sky Trooper|天空骑兵
 Big Time Rush - Backstage Pass|
@@ -2605,7 +2606,7 @@ Captain Morgane and the Golden Turtle|
 Captain Novolin|健康管理上尉
 Captain Planet and the Planeteers|星球拯救队
 Captain Sabertooth and the Trials by Fire|
-Captain Saver|刀锋斗士 II
+Captain Saver|刀锋斗士II
 Captain Silver|锡鲁巴船长
 Captain Skyhawk|天鹰计划
 Captain Sub - Go Series|
@@ -2853,7 +2854,7 @@ Cheese Cat-Astrophe Starring Speedy Gonzales|
 Cheetah Girls, The|花豹女郎
 Cheetah Girls, The - Passport to Stardom|花豹少女队3-演员通行证
 Cheetah Girls, The - Pop Star Sensations|花豹美眉-流行明星轰动
-Cheetahmen II|豹人 II
+Cheetahmen II|豹人II
 Chelnov|
 Chengjisihan II - Yuanchao Mishi Zhi Canglang Yu Bailu|
 Chess|国际象棋
@@ -3126,18 +3127,18 @@ Classic Collection|MD合卡系列经典合集
 Classic Concentration|集中力竞赛秀
 Classic Games - The Premium Selection|经典游戏
 Classic Games Overload - Card & Puzzle Edition|
-Classic NES Series - Bomberman|经典FC系列：炸弹人
-Classic NES Series - Castlevania|经典FC系列：恶魔城
-Classic NES Series - Donkey Kong|经典FC系列：咚奇刚
-Classic NES Series - Dr. Mario|经典FC系列：马力欧医生
-Classic NES Series - Excitebike|经典FC系列：越野机车
-Classic NES Series - Ice Climber|经典FC系列：雪人兄弟
-Classic NES Series - Metroid|经典FC系列：密特罗德
-Classic NES Series - Pac-Man|经典FC系列：吃豆人
-Classic NES Series - Super Mario Bros.|经典FC系列：超级马力欧兄弟
-Classic NES Series - The Legend of Zelda|经典FC系列：塞尔达传说
-Classic NES Series - Xevious|经典FC系列：铁板阵
-Classic NES Series - Zelda II - The Adventure of Link|经典FC系列：塞尔达II林克的冒险
+Classic NES Series - Bomberman|经典NES炸弹人
+Classic NES Series - Castlevania|经典NES恶魔城
+Classic NES Series - Donkey Kong|经典NES咚奇刚
+Classic NES Series - Dr. Mario|经典NES马力欧医生
+Classic NES Series - Excitebike|经典NES越野机车
+Classic NES Series - Ice Climber|经典NES雪人兄弟
+Classic NES Series - Metroid|经典NES密特罗德
+Classic NES Series - Pac-Man|经典NES吃豆人
+Classic NES Series - Super Mario Bros.|经典NES超级马力欧兄弟
+Classic NES Series - The Legend of Zelda|经典NES塞尔达传说
+Classic NES Series - Xevious|经典NES铁板阵
+Classic NES Series - Zelda II - The Adventure of Link|经典NES塞尔达II林克的冒险
 Classic Road|文明帝国
 Classic Road II|文明帝国2
 Classic Word Games|经典词语游戏
@@ -4613,7 +4614,7 @@ Double Dragon|双截龙
 Double Dragon - Sou Setsu Ryuu|双截龙
 Double Dragon 3 - The Arcade Game|双截龙3
 Double Dragon Advance|双截龙Advance
-Double Dragon II - The Revenge|双截龙2
+Double Dragon II - The Revenge|双截龙II复仇
 Double Dragon III - The Rosetta Stone|
 Double Dragon III - The Sacred Stones|双截龙3
 Double Dragon IV|
@@ -8619,17 +8620,17 @@ Jurassic Boy|侏罗纪男孩
 Jurassic Boy 2|侏罗纪男孩2
 Jurassic Boy 2 + Thunder Blast Man|
 Jurassic Park|侏罗纪公园
-Jurassic Park - Rampage Edition|侏罗纪公园-狂暴版
-Jurassic Park II - The Chaos Continues|侏罗纪公园2
-Jurassic Park III - Advanced Action|侏罗纪公园3高级行动
-Jurassic Park III - Dino Attack|侏罗纪公园3恐龙的攻击
-Jurassic Park III - Island Attack|侏罗纪公园3岛屿的进攻
-Jurassic Park III - Kyouryuu ni Ainiikou!|侏罗纪公园3公园建设者
-Jurassic Park III - Park Builder|侏罗纪公园3公园建设者
-Jurassic Park III - The DNA Factor|侏罗纪公园3DNA基因
-Jurassic Park III - Ushinawareta Idenshi|侏罗纪公园3失落的遗传基因
-Jurassic Park Institute Tour - Dinosaur Rescue|侏罗纪公园创立旅行
-Jurassic Park Part 2 - The Chaos Continues|侏罗纪公园2欧版
+Jurassic Park - Rampage Edition|侏罗纪公园：狂暴版
+Jurassic Park II - The Chaos Continues|侏罗纪公园II
+Jurassic Park III - Advanced Action|侏罗纪公园III高级的行动
+Jurassic Park III - Dino Attack|侏罗纪公园III恐龙的攻击
+Jurassic Park III - Island Attack|侏罗纪公园III岛屿的进攻
+Jurassic Park III - Kyouryuu ni Ainiikou!|侏罗纪公园III公园建设者
+Jurassic Park III - Park Builder|侏罗纪公园III公园建设者
+Jurassic Park III - The DNA Factor|侏罗纪公园III基因因子
+Jurassic Park III - Ushinawareta Idenshi|侏罗纪公园III基因因子
+Jurassic Park Institute Tour - Dinosaur Rescue|侏罗纪公园研究所之旅：恐龙救援
+Jurassic Park Part 2 - The Chaos Continues|侏罗纪公园II混沌继续
 Just Breed|光荣圣战
 Just Sing|
 Just Sing!|想唱就唱
@@ -9618,7 +9619,7 @@ Langenscheidt Basic-Woerterbuch Englisch|德英词典
 Langenscheidt VokabelStar Englisch fuer Einsteiger|VocabStar 英语-对于初学者
 Langrisser|梦幻模拟战
 Langrisser - Re - Incarnation Tensei|
-Langrisser II|梦幻模拟战2
+Langrisser II|梦幻模拟战II
 Langrisser Re - Incarnation -TENSEI-|
 Langrisser Re-Incarnation - Tensei|
 Langrisser, Der|梦幻模拟战
@@ -10043,7 +10044,7 @@ Lost Vikings 2|太空维京人2美版
 Lost Vikings II, The - Norse by Norsewest|太空维京人2欧版
 Lost Vikings, The|失落的维京人
 Lost Word of Jenny - Ushinawareta Message|珍妮 - 失去的消息
-Lost World, The - Jurassic Park|失落的世界侏罗纪公园
+Lost World, The - Jurassic Park|侏罗纪公园：失落的世界
 Lost in Blue|生存之子：迷失蔚蓝
 Lost in Blue 2|迷失蔚蓝2
 Lost in Blue 3|迷失蔚蓝3
@@ -10983,14 +10984,14 @@ Meitantei Conan - Kako Kara no Zensou Kyoku|名侦探柯南：来自过去的前
 Meitantei Conan - Karakuri Jiin Satsujin Jiken|名侦探柯南：寺院杀人事件
 Meitantei Conan - Kieta Hakase to Machigai Sagashi no Tou|名侦探柯南：消失的博士与找错之塔
 Meitantei Conan - Kigantou Hihou Densetsu|名侦探柯南：奇岩岛秘宝传说
-Meitantei Conan - Marionette Koukyoukyoku|
-Meitantei Conan - Marionette Symphony|
+Meitantei Conan - Marionette Koukyoukyoku|名侦探柯南：木偶交响曲
+Meitantei Conan - Marionette Symphony|名侦探柯南：木偶交响曲
 Meitantei Conan - Nerawareta Tantei|名侦探柯南：被狙击的侦探
 Meitantei Conan - Norowareta Kouro|名侦探柯南：被诅咒的航路
-Meitantei Conan - Phantom Kyoushikyoku|
-Meitantei Conan - Phantom Rhapsody|
+Meitantei Conan - Phantom Kyoushikyoku|名侦探柯南：幻影狂想曲
+Meitantei Conan - Phantom Rhapsody|名侦探柯南：幻影狂想曲
 Meitantei Conan - Tantei Ryoku Trainer|名侦探柯南：侦探力训练
-Meitantei Conan - Yuugure no Oujo|
+Meitantei Conan - Yuugure no Oujo|名侦探柯南：黄昏的皇女
 Meitantei Holmes - Kiri no London Satsujin Jiken|名侦探霍姆斯 - 雾之伦敦杀人事件
 Meitantei Holmes - M kara no Chousenjou|名侦探福尔摩斯 - 谜之挑战状
 Meitantei Pikachu|名侦探皮卡丘 日版
@@ -11303,7 +11304,7 @@ Minna no Oekakiya-san|大家的小画家
 Minna no Oshaberi Chat|
 Minna no Ouji-sama|网球王子-方块篇
 Minna no Pokemon Scramble|大家的口袋妖怪 乱战
-Minna no Shiiku Series - Boku no Kabuto, Kuwagata|大家的养育系列3我的盔甲.刀饰
+Minna no Shiiku Series - Boku no Kabuto, Kuwagata|饲养物语3兜虫与锹虫
 Minna no Shiiku Series 1 - Boku no Kabutomushi|饲养物语2我的独角仙
 Minna no Shiiku Series 2 - Boku no Kuwagata|饲养物语2我的锹形虫
 Minna no Shougi - Shokyuu Hen|全民将棋–初级篇
@@ -11801,6 +11802,7 @@ My Little Flufties|毛绒乐园
 My Little Pony - Crystal Princess - The Runaway Rainbow|小精灵马-水晶公主
 My Little Pony - Pinkie Pie's Party|我的小马-粉色派聚会
 My Little Restaurant|
+My Little Shark|我的小鲨鱼
 My Make-Up|我的妆扮
 My Melody - Negai ga Kanau Fushigi na Hako|
 My Melody Angel Book - Denshi Techou & Enjoy Game|我的悦耳天使书
@@ -12129,7 +12131,7 @@ Naruto Jilpungjeon - Choegangninja Daegyeoljip 2 - Gyeokttol!! Naruto vs Sasuke|
 Naruto Jilpungjeon - Daenantu! Geurimja Bunsinsul|火影忍者疾风传-大混战!影分身画卷
 Naruto Jilpungjeon - Insuljeongae! Cha-Crash!!|
 Naruto Powerful Shippuden|火影忍者SD疾风传ACT
-Naruto RPG - Uketsugareshi Hi no Ishi|火影忍者RPG
+Naruto RPG - Uketsugareshi Hi no Ishi|火影忍者RPG被继承的火之意志
 Naruto RPG 2 - Chidori vs Rasengan|火影忍者RPG2 千鸟对螺旋丸
 Naruto RPG 3 - Reijuu vs Konoha Shoutai|火影忍者RPG3 灵兽VS木叶小队
 Naruto SD|
@@ -15492,7 +15494,7 @@ Sanrio World Smash Ball!|三利欧世界-爆裂斗球
 Sansan|
 Sanshiliu Ji - The Thirty-Six Tricks|
 Sanspo Fishing - Keiryuu Ou|溪流王
-Sansuu 1 Nen - Keisan Game|算术一年级 - 计算游戏
+Sansuu 1 Nen - Keisan Game|算术一年级：计算游戏
 Sansuu 2 Nen - Keisan Game|算术二年级 - 计算游戏
 Sansuu 3 Nen - Keisan Game|算术三年级 - 计算游戏
 Sansuu 4 Nen - Keisan Game|算术四年级 - 计算游戏
@@ -17210,7 +17212,7 @@ Super 8500-85MG|
 Super 98 - 51-in-1|
 Super 9999999-in-1|
 Super Adventure Island|超级冒险岛
-Super Adventure Island II|超级冒险岛2
+Super Adventure Island II|超级冒险岛II
 Super Adventure Quests|超级冒险任务
 Super Air Diver|超级空中战斗员
 Super Air Diver 2|超级空中战斗员2
@@ -17559,6 +17561,7 @@ Super Maruo|
 Super Me-Mail GB - Me-Mail Bear no Happy Mail Town|宝贝熊快乐村日
 Super Metal Crusher|超级金属杀手日版
 Super Metroid|超级密特罗德
+Super Metroid - X-Fusion|超级密特罗德：X融合
 Super Moero!! Pro Yakyuu|超燃烧野球
 Super Mogura Tataki!! - Pokkun Mogurar|超级鼹鼠敲打 - 打地鼠游戏
 Super Momotarou Dentetsu|超级桃太郎电铁
@@ -18343,7 +18346,7 @@ Theme Pack 7|
 Theme Park|主题公园
 Theme Park DS|主题公园
 Theresia..|特蕾莎-亲爱的埃米尔
-Theresia.. - Dear Emile|地牢迷踪-亲爱的爱蜜儿
+Theresia.. - Dear Emile|地牢迷踪：亲爱的爱蜜儿
 Thexder|飞天战神
 Think - Kids - Speel Je Slim!|思考小子
 Think - Train Je Brein - Logica Trainer|逻辑训练

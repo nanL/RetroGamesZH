@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20260200</version></header>
+	<header><name>Nintendo - Super Nintendo Entertainment System (zh)</name><version>20260300</version></header>
 	<game name="3x3只眼：魔兽奉还（简）小鬼混 20241212 - 0B149BC3">
 		<rom name="3x3只眼：魔兽奉还（简）小鬼混 20241212.smc" size="2097152" crc="0B149BC3" md5="776CE482203B54EF9700A7B37F9EAAB5"/>
 	</game>
@@ -279,6 +279,9 @@
 	</game>
 	<game name="怪物制造者3光之魔术师（简）20250713 v2 - 7E494170">
 		<rom name="怪物制造者3光之魔术师（简）20250713 v2.sfc" size="4194304" crc="7E494170" md5="39091437EF5AEBB21017BF5AC94ABB40"/>
+	</game>
+	<game name="怪物圣地（简）小鬼混 阿刃 20260223 - D3D3D67E">
+		<rom name="怪物圣地（简）小鬼混 阿刃 20260223.smc" size="2621440" crc="D3D3D67E" md5="46BA5621681AE02891AF8865C062C1B4"/>
 	</game>
 	<game name="战区88（简）阿刃 小鬼混 飞雨影 20250122 - AB96370D">
 		<rom name="战区88（简）阿刃 小鬼混 飞雨影 20250122.sfc" size="1179648" crc="AB96370D" md5="3F78D59B9314BC07DF5E56D1F19E628C"/>
@@ -658,6 +661,9 @@
 	<game name="超级密特罗德（繁）aGuGU 20250730 v1.0 - 283ECED5">
 		<rom name="超级密特罗德（繁）aGuGU 20250730 v1.0.sfc" size="4194304" crc="283ECED5" md5="84BC7C7532C45AA713EFDDFCF718E817"/>
 	</game>
+	<game name="超级密特罗德：X融合（改）Metaquarius Sutri Hambaka 20260227 v1.3 - CB4A6685">
+		<rom name="超级密特罗德：X融合（改）Metaquarius Sutri Hambaka 20260227 v1.3.smc" size="4194304" crc="CB4A6685" md5="9868727818A1717D034BEFDCD14F8CD7"/>
+	</game>
 	<game name="超级机器人大战EX（简）WGF - 58E2F753">
 		<rom name="超级机器人大战EX（简）WGF.sfc" size="2097152" crc="58E2F753" md5="D44507BCFBBC906A72B3B4BB85E79501"/>
 	</game>
@@ -825,6 +831,9 @@
 	</game>
 	<game name="银河战国群雄传（简）天空 完全汉化 - 81A66822">
 		<rom name="银河战国群雄传（简）天空 完全汉化.sfc" size="2097152" crc="81A66822" md5="1265B2764B5C509DDCFE8F2D2C772C30"/>
+	</game>
+	<game name="银河骑兵机器人（简）laoding 20260308 v0.5 剧情汉化 - 4D6E0959">
+		<rom name="银河骑兵机器人（简）laoding 20260308 v0.5 剧情汉化.sfc" size="1572864" crc="4D6E0959" md5="26B87FA24CE1FB16195524C64D500D31"/>
 	</game>
 	<game name="隐逝的黑暗（简）HP1980 第一章汉化 - 133D823E">
 		<rom name="隐逝的黑暗（简）HP1980 第一章汉化.sfc" size="3145728" crc="133D823E" md5="BE0CFAC578D39BB37C658949F521CDEE"/>

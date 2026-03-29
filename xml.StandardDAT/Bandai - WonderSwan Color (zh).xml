@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Bandai - WonderSwan Color (zh)</name><version>20260200</version></header>
+	<header><name>Bandai - WonderSwan Color (zh)</name><version>20260300</version></header>
 	<game name="SD高达扭蛋战记：第一章（简）Lance_29 v0.5 - 352464F1">
 		<rom name="SD高达扭蛋战记：第一章（简）Lance_29 v0.5.ws" size="1048576" crc="352464F1" md5="108D8329A383D1BCCE94494C0FCAF47E"/>
 	</game>
@@ -30,6 +30,15 @@
 	</game>
 	<game name="军平连线方块（简）CLARK.H 20251106 v1.0 - C40539A3">
 		<rom name="军平连线方块（简）CLARK.H 20251106 v1.0.wsc" size="1048576" crc="C40539A3" md5="DDAA6404695FE9F0F3F37B0A3B79B3E5"/>
+	</game>
+	<game name="另一个天堂：昨日记忆（简）CLARK.H 20260217 v1.1 - 0243FE54">
+		<rom name="另一个天堂：昨日记忆（简）CLARK.H 20260217 v1.1.wsc" size="4194304" crc="0243FE54" md5="0AE5FD958F40E07F957FA9B238945DF5"/>
+	</game>
+	<game name="另一个天堂：昨日记忆（简）CLARK.H 20260221 v1.2 - 38BF4ACF">
+		<rom name="另一个天堂：昨日记忆（简）CLARK.H 20260221 v1.2.wsc" size="4194304" crc="38BF4ACF" md5="78ABD47BF9DA3EFD265C633DACC5994B"/>
+	</game>
+	<game name="名侦探柯南：黄昏的皇女（简）CLARK.H 20260309 v1.1 - 517F7C9F">
+		<rom name="名侦探柯南：黄昏的皇女（简）CLARK.H 20260309 v1.1.wsc" size="4194304" crc="517F7C9F" md5="E72F9E4AE407A0FCC68CD53AFA703BEA"/>
 	</game>
 	<game name="圣斗士星矢：黄金传说：完美版（简）CLARK.H 20250802 v1.1 - 7EC26B5E">
 		<rom name="圣斗士星矢：黄金传说：完美版（简）CLARK.H 20250802 v1.1.wsc" size="2097152" crc="7EC26B5E" md5="91B66127C5854C55A541D5BF7D473A2C"/>

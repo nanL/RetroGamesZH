@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Nintendo - Nintendo DS (zh)</name><version>20260200</version></header>
+	<header><name>Nintendo - Nintendo DS (zh)</name><version>20260300</version></header>
 	<game name="007：血石（简）fciq 20220622 中文语音 - 2A6533ED">
 		<rom name="007：血石（简）fciq 20220622 中文语音.nds" size="67108864" crc="2A6533ED" md5="5A268741220AC7441ADE4B1011C314C7"/>
 	</game>
@@ -747,6 +747,9 @@
 	</game>
 	<game name="圣洁传说（简）巴士 ACG 20080808 v2 - 274EBF4F">
 		<rom name="圣洁传说（简）巴士 ACG 20080808 v2.nds" size="130109052" crc="274EBF4F" md5="1C634A48D001340FDA974B0CE87DF8FB"/>
+	</game>
+	<game name="地牢迷踪：亲爱的爱蜜儿（简）oidoid Xiao9 小方 20260302 - 48AD4595">
+		<rom name="地牢迷踪：亲爱的爱蜜儿（简）oidoid Xiao9 小方 20260302.nds" size="67108864" crc="48AD4595" md5="7B212E2FAE9FDCC57D5CF6557AEA36F9"/>
 	</game>
 	<game name="地狱少女：朱蔓（简）APEX 最终完结版 - 956C54DB">
 		<rom name="地狱少女：朱蔓（简）APEX 最终完结版.nds" size="31813328" crc="956C54DB" md5="C46DE81EDCD751BAE393F368C9E73AB4"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datafile>
-	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20260200</version></header>
+	<header><name>Sega - Mega Drive - Genesis (zh)</name><version>20260300</version></header>
 	<game name="NHK大河剧 - 太平记（简）cslrxyz - 6E781C6C">
 		<rom name="NHK大河剧 - 太平记（简）cslrxyz.gen" size="1048576" crc="6E781C6C" md5="41D6D2116F52F0988C4023BE81F2D731"/>
 	</game>
@@ -244,6 +244,9 @@
 	<game name="太空战士 魔法战士（繁）川普 Ken 20231008 - 5C70016A">
 		<rom name="太空战士 魔法战士（繁）川普 Ken 20231008.gen" size="2097152" crc="5C70016A" md5="4BB06C43E2424C75A7BBACB2E6C81D45"/>
 	</game>
+	<game name="太空战士 魔法战士（繁）川普 Ken 南波 20260222 - 03CEE1B3">
+		<rom name="太空战士 魔法战士（繁）川普 Ken 南波 20260222.gen" size="2097152" crc="03CEE1B3" md5="1E99E608FA3D725DB3EE0E129AB75C8D"/>
+	</game>
 	<game name="太阁立志传（简）永盛 147201688 - C69FCA55">
 		<rom name="太阁立志传（简）永盛 147201688.gen" size="1310720" crc="C69FCA55" md5="FE4E4218209301DCEBB5FE9C19299C3A"/>
 	</game>
@@ -421,6 +424,9 @@
 	<game name="新乞丐王子（简）永盛 - D41D7CB0">
 		<rom name="新乞丐王子（简）永盛.gen" size="4194304" crc="D41D7CB0" md5="A91863BF0089B1B01B425BBBE2F08004"/>
 	</game>
+	<game name="新乞丐王子（简）全崴 小鬼混 飞雨影 20260228 - 0F5DB86A">
+		<rom name="新乞丐王子（简）全崴 小鬼混 飞雨影 20260228.gen" size="4194304" crc="0F5DB86A" md5="5E19E1AADB060F02519915C8E892C97C"/>
+	</game>
 	<game name="新创世纪（简）永盛 147201688 - A2C0A73C">
 		<rom name="新创世纪（简）永盛 147201688.gen" size="2097152" crc="A2C0A73C" md5="4F666815E3B267F48AB9293F3B6AFE5F"/>
 	</game>
@@ -508,38 +514,44 @@
 	<game name="梦幻模拟战（简）2018 dump - 195B7E1F">
 		<rom name="梦幻模拟战（简）2018 dump.gen" size="1048576" crc="195B7E1F" md5="42BAFDE6E0F69EF986E33A205804B5A4"/>
 	</game>
-	<game name="梦幻模拟战2（繁）永盛 - C969F590">
-		<rom name="梦幻模拟战2（繁）永盛.gen" size="2097152" crc="C969F590" md5="86BCFCA13F165D99D24554668CC28521"/>
-	</game>
-	<game name="梦幻模拟战2（简）狼组 皇家禁卫军利昂 v2.0 - 45BAC6CD">
-		<rom name="梦幻模拟战2（简）狼组 皇家禁卫军利昂 v2.0.gen" size="2097152" crc="45BAC6CD" md5="84DF0F92513AADD974C2B87D1A824B0F"/>
-	</game>
-	<game name="梦幻模拟战2（简）狼组 星空 v1.0 - 260BF672">
-		<rom name="梦幻模拟战2（简）狼组 星空 v1.0.gen" size="2097152" crc="260BF672" md5="D80E6510966130A91065BF063249F900"/>
-	</game>
-	<game name="梦幻模拟战2（简）狼组 grape0915 修正版 - 0692B02E">
-		<rom name="梦幻模拟战2（简）狼组 grape0915 修正版.gen" size="2097152" crc="0692B02E" md5="39357D53853AC1E436769396DC63789F"/>
-	</game>
-	<game name="梦幻模拟战2（简）狼组 星空 v1.0 - B8FDCE6E">
-		<rom name="梦幻模拟战2（简）狼组 星空 v1.0.gen" size="2097152" crc="B8FDCE6E" md5="56158E08BAA338F24C0B550B079E1250"/>
-	</game>
-	<game name="梦幻模拟战2（简）狼组 星空 20131212 v1.0 - 26233AEE">
-		<rom name="梦幻模拟战2（简）狼组 星空 20131212 v1.0.gen" size="2097152" crc="26233AEE" md5="BE9906EDB42D08337A55FCC1DD64E366"/>
-	</game>
-	<game name="梦幻模拟战2（简）永盛 - 8EB7CB2B">
-		<rom name="梦幻模拟战2（简）永盛.gen" size="2097152" crc="8EB7CB2B" md5="312A8619107AC815DBE17E64FCEFE5D2"/>
-	</game>
-	<game name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.4 - 76C37A98">
-		<rom name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.4.gen" size="2097152" crc="76C37A98" md5="06E94A5EEBED8769A7B13034562924ED"/>
-	</game>
-	<game name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.5 - F1F66BA4">
-		<rom name="梦幻模拟战2（繁）狼组 星空 Doi_Doi v1.5.gen" size="2097152" crc="F1F66BA4" md5="7E2F751B94495E80ADEC61192095F1FB"/>
-	</game>
-	<game name="梦幻模拟战2（简繁）狼组 星空 20251001 v1.1 - 16CF5DD0">
-		<rom name="梦幻模拟战2（简繁）狼组 星空 20251001 v1.1.gen" size="2097664" crc="16CF5DD0" md5="5DF0C8E2AB02227475481AEFF4008D17"/>
-	</game>
 	<game name="梦幻模拟战II（简）狼组 - 3F02618E">
 		<rom name="梦幻模拟战II（简）狼组.gen" size="2097152" crc="3F02618E" md5="F1F1345B1C12D96421168C6ABCE9BD4D"/>
+	</game>
+	<game name="梦幻模拟战II（繁）永盛 - C969F590">
+		<rom name="梦幻模拟战II（繁）永盛.gen" size="2097152" crc="C969F590" md5="86BCFCA13F165D99D24554668CC28521"/>
+	</game>
+	<game name="梦幻模拟战II（简）狼组 皇家禁卫军利昂 v2.0 - 45BAC6CD">
+		<rom name="梦幻模拟战II（简）狼组 皇家禁卫军利昂 v2.0.gen" size="2097152" crc="45BAC6CD" md5="84DF0F92513AADD974C2B87D1A824B0F"/>
+	</game>
+	<game name="梦幻模拟战II（简）狼组 星空 v1.0 - 260BF672">
+		<rom name="梦幻模拟战II（简）狼组 星空 v1.0.gen" size="2097152" crc="260BF672" md5="D80E6510966130A91065BF063249F900"/>
+	</game>
+	<game name="梦幻模拟战II（简）狼组 grape0915 修正版 - 0692B02E">
+		<rom name="梦幻模拟战II（简）狼组 grape0915 修正版.gen" size="2097152" crc="0692B02E" md5="39357D53853AC1E436769396DC63789F"/>
+	</game>
+	<game name="梦幻模拟战II（简）狼组 星空 v1.0 - B8FDCE6E">
+		<rom name="梦幻模拟战II（简）狼组 星空 v1.0.gen" size="2097152" crc="B8FDCE6E" md5="56158E08BAA338F24C0B550B079E1250"/>
+	</game>
+	<game name="梦幻模拟战II（简）狼组 星空 20131212 v1.0 - 26233AEE">
+		<rom name="梦幻模拟战II（简）狼组 星空 20131212 v1.0.gen" size="2097152" crc="26233AEE" md5="BE9906EDB42D08337A55FCC1DD64E366"/>
+	</game>
+	<game name="梦幻模拟战II（简）永盛 - 8EB7CB2B">
+		<rom name="梦幻模拟战II（简）永盛.gen" size="2097152" crc="8EB7CB2B" md5="312A8619107AC815DBE17E64FCEFE5D2"/>
+	</game>
+	<game name="梦幻模拟战II（繁）狼组 星空 Doi_Doi v1.4 - 76C37A98">
+		<rom name="梦幻模拟战II（繁）狼组 星空 Doi_Doi v1.4.gen" size="2097152" crc="76C37A98" md5="06E94A5EEBED8769A7B13034562924ED"/>
+	</game>
+	<game name="梦幻模拟战II（繁）狼组 星空 Doi_Doi v1.5 - F1F66BA4">
+		<rom name="梦幻模拟战II（繁）狼组 星空 Doi_Doi v1.5.gen" size="2097152" crc="F1F66BA4" md5="7E2F751B94495E80ADEC61192095F1FB"/>
+	</game>
+	<game name="梦幻模拟战II（简繁）狼组 星空 20251001 v1.1 - 16CF5DD0">
+		<rom name="梦幻模拟战II（简繁）狼组 星空 20251001 v1.1.gen" size="2097664" crc="16CF5DD0" md5="5DF0C8E2AB02227475481AEFF4008D17"/>
+	</game>
+	<game name="梦幻模拟战II（简）狼组 皇家禁卫军利昂 v3.0 - E10AAA9E">
+		<rom name="梦幻模拟战II（简）狼组 皇家禁卫军利昂 v3.0.gen" size="2097152" crc="E10AAA9E" md5="2292D26E17AED41FA362A04034F58673"/>
+	</game>
+	<game name="梦幻模拟战II（简繁）狼组 星空 20251006 v1.1 - E8C9A995">
+		<rom name="梦幻模拟战II（简繁）狼组 星空 20251006 v1.1.gen" size="2097664" crc="E8C9A995" md5="4B93AC8340490C4A61C80ABFCAAC84AF"/>
 	</game>
 	<game name="梦幻水果盘（繁）三协资讯 - 42DC03E4">
 		<rom name="梦幻水果盘（繁）三协资讯.gen" size="1048576" crc="42DC03E4" md5="8EF5880AD7DF2D37CA6B7333B240F5E3"/>
